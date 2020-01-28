@@ -1,0 +1,541 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2015 Fall Symposium Descriptions</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2015 Fall Symposia Descriptions</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="http://www.aaai.org/Symposia/Fall/fall-symposia.php"><img src="http://www.aaai.org/Symposia/Fall/Photos/dc.jpg" alt="White House" width="639" height="143" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2015 Fall Symposium Descriptions</span></h2>
+<div class="content">
+
+<p>
+The Association for the Advancement of Artificial Intelligence is pleased to present the 2015 Fall Symposium Series, to be held Thursday through Saturday, November 12-14, at the Westin Arlington Gateway in Arlington, Virginia. The titles of the six symposia are as follows:
+</p>
+
+<ul>
+	<li><a href="fss15symposia.php_fs01">AI for Human-Robot Interaction</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss15symposia.php#fs02">Cognitive Assistance in Government and Public Sector Applications</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss15symposia.php#fs03">Deceptive and Counter-Deceptive Machines</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss15symposia.php#fs04">Embedded Machine Learning</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss15symposia.php#fs05">Self-Confidence in Autonomous Systems</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss15symposia.php#fs06">Sequential Decision Making for Intelligent Agents </a></li>
+</ul>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="fs01">AI for Human-Robot Interaction</a></h3>
+
+<p>
+This symposium will strengthen and bring together the community of researchers working on the AI challenges inherent to human-robot interaction (HRI) to share the most exciting research in this area while cultivating a vibrant, interconnected research community.
+</p>
+
+<p>
+Humans and human environments bring with them inherent uncertainty in dynam
+ics, structure, and interaction. Human-robot interaction (HRI) aims to develop robots that are intelligent, autonomous, and capable of interacting with, modeling, and learning from humans. These goals are at the core of AI. 
+</p>
+
+<p>
+The field of HRI is a broad community encompassing robotics, AI, HCI, psychology and social science. In this meeting, we seek to bring together and strengthen the subset of the HRI community that is focused on the AI challenges inherent to HRI. While HRI work is seen across a variety of venues (for example, HRI, RSS, ICRA, IROS, Ro-Man, RoboCup, and more), AI-HRI seeks to serve as the gathering point for the AI-focused community within HRI.
+</p>
+
+
+<p>
+We will build on last year's success with a heavier emphasis both on sharing research results and the presentation and discussion of current work in the field. 
+</p>
+
+<p>
+Planned activities include the following:</p>
+<p><i>Keynote talks: </i>Different perspectives on AI-HRI and showcasing recent advances bringing us closer to the reality of humans interacting with robots on everyday tasks.</p>
+<p><i>Breakout groups:</i> These discussions will focus on (1) defining potential grand challenges, application domains, and metrics for community adoption, and (2) how to communicate AI-HRI work both to AI and HRI communities (and beyond)</p>
+<p><i>Student talks/Poster sessions: </i>These sessions will highlight state-of-the-art research in AI-HRI.</p>
+<p><i>Team building:</i> A large part of this effort is to bring together a community of researchers, strengthen old connections, and build new ones. Ample time will be provided for networking and informal discussions.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Bradley Hayes (Yale University), Matthew C. Gombolay (Massachusetts Institute of Technology), Brenna D. Argall (Northwestern University), Bilge Mutlu (University of Wisconsin-Madison), Julie A. Shah (Massachusetts Institute of Technology), Sonia Chernova (Worcester Polytechnic Institute), Andrea L. Thomaz (Georgia Institute of Technology), Kris Hauser (Duke University), Brian Scassellati (Yale University)
+</p>
+
+<h4>For More Information</h4>
+<p>For more information, please see the <a href="http://ai-hri.github.io/" rel="nofollow">supplemental symposium website.</a>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="fs02">Cognitive Assistance in Government and Public Sector Applications</a></h3> 
+
+<p>
+This symposium will present innovative contributions to the research, development and application of cognitive assistance technology for use in Government (executive agencies, legislative and judicial branches), military, police, education, healthcare, and social services.  Topics include the following:
+</p>
+
+<ul>
+	<li>Use case and usage scenarios</li>
+	<li> Human/cognitive assistants (Cogs) interfaces, interaction, and human factors</li>
+	<li> Best tasks to automate/employ Cogs, how to automate, how much to automate</li>
+	<li>Techniques for allocating tasks between human and Cog team members</li>
+	<li>User adoption issues, how to build trust in Cogs results/decisions, overcoming fears  </li>
+	<li>How to train/instruct Cogs</li>
+	<li>Technology developments</li>
+	<li>Results from early Cog R&amp;D</li>
+	<li>Metrics for cogs, test data, benchmarking performance, methodology for iterative improvement</li>
+	<li>Mitigation of detrimental impacts of cogs (loss of situational awareness, human skill atrophy) </li>
+	<li>Economics of cognitive assistance systems</li>
+	<li>Policy issues with using Cogs</li>
+</ul>
+
+<blockquote>
+Cognitive assistance is "a systematic approach to increasing human intellectual effectiveness" that assumes "computational assists to human decision making are best when the human is thought of as a partner in solving problems and executing decision processes, where the strengths and benefits of machine and humans are treated as complementary co-systems."
+</blockquote>
+<p>
+The first quotation is from <i>Augmenting Human Intellect: A Conceptual Framework,</i> by Douglas C. Engelbart, October 1962. The second is from <i>Complex Operational Decision Making in Networked Systems of Humans and Machines</i> by the Committee on Integrating Humans, Machines and Networks; National Research Council, 2014.
+</p>
+
+
+<p>
+The organizing committee for this symposium starts with the following shared assumptions:
+</p>
+
+
+<ul>
+	<li>We are in the early phase of a true Second Industrial Revolution, with at least as significant an impact, and an accelerated pace of adoption.</li>
+
+
+
+	<li>Cognitive assistance presents opportunities and challenges to the work of governments â¬ some in common with knowledge work in other domains, some distinct to the government domain.</li>
+
+
+
+	<li>The opportunities and challenges for adoption of cognitive assistance technology in government are not widely appreciated among government decision makers, nor is there clear consensus on a research agenda specific to this domain to address the opportunities and challenges.</li>
+
+
+
+	<li>Progress in adopting cognitive assistance will require expertise in multiple disciplines, including software engineering, artificial intelligence, cognitive science, and human factors, among others.</li>
+</ul>
+
+
+<p>
+This symposium will bring together academe, industry, and government to discuss the opportunities and challenges of creating cognitive assistance (Cog) systems.  We plan to have talks that present the state-of-the-art in Cogs, and panel discussions on open challenges and opportunities. An emphasis will be on soliciting the participation of people currently engaged in the application of cognitive assistance systems in the public sector, to facilitate an exchange of lessons learned as well as to help scope a research agenda based on current gaps.
+</p>
+ 
+
+<h4>Organizing Committee</h4>
+<p>
+Chuck Howell (MITRE), Scott Kordella (MITRE), Frank Stein (IBM), Edward B. Rockower (Naval Postgraduate School), Hamid R. Motahari Nezhad (IBM), Murray Campbell (IBM), Jim Spohrer (IBM), Gary Klein (MITRE), Lashon Booker (MITRE)
+</p>
+
+
+<h4>For More Information</h4>
+<p>For more information, please see the <a href="https://www.linkedin.com/grp/home?gid=8267244" rel="nofollow">supplemental symposium website.</a> 
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="fs03">Deceptive and Counter-Deceptive Machines</a></h3>
+
+<p>
+This symposium examines the potential roles and means for deceptive and counter-deceptive machines, and the ethical and social implications thereof.
+</p>
+
+<p>
+From the Turing Test to HAL 9000 to <i>Blade Runner</i> to today's Ex Machina, both rigorous and popular analysis of deception and counter-deception has been part of AI, and part of the larger world fascinated by AI. Moreover, deceptive and counter-deceptive machines are a foreseeable byproduct of our technologized society wherein intelligent systems are rapidly becoming more active and interactive in human physical, economic, and social spheres.
+</p>
+
+<p>
+Currently, socialized AI systems are being advanced in areas such as affective and persuasive computing, social and cognitive robotics, human-robot interaction, multi-agent and decision-support systems, and e-commerce. The general belief is that socialization enables or significantly improves system efficiency and efficacy. But then, what is role of deception, even altruistic deception, and counter-deception in these systems? For example: Does robo-therapy or affective computing engender false beliefs that AI artifacts are fully sentient and, specifically, genuinely empathetic? Should AI produce machines that deceive for the greater good (for example, espionage) or should that role be the exclusive province of humans?
+</p>
+
+<p>
+The symposium will focus on the emerging science and engineering of machine deception and counter-deception. It will explore questions such as: How and when can machines deceive us and each other? Can we effectively use machines to counter deception perpetrated by machines, and by humans? Can there be both a science and engineering of machine deception and counter-deception? If so, what would it look like? What ethical or policy principles might guide the science of machine deception and counter-deception?
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Micah H. Clark (Office of Naval Research, &#109;&#105;&#99;&#97;&#104;&#46;&#99;&#108;&#97;&#114;&#107;&#64;&#110;&#97;&#118;&#121;&#46;&#109;&#105;&#108;), Selmer Bringsjord (Rensselaer Polytechnic Institute, &#115;&#101;&#108;&#109;&#101;&#114;&#64;&#114;&#112;&#105;&#46;&#101;&#100;&#117;), Paul Bello (Naval Research Laboratory, &#112;&#97;&#117;&#108;&#46;&#98;&#101;&#108;&#108;&#111;&#64;&#110;&#114;&#108;&#46;&#110;&#97;&#118;&#121;&#46;&#109;&#105;&#108;)
+</p>
+
+<h4>For More Information</h4>
+<p>For more information, please see the <a href="http://rair.cogsci.rpi.edu/dcdcm_symposium/" rel="nofollow">supplemental symposium website</a>. 
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="fs04">Embedded Machine Learning</a></h3>
+
+<p>
+The Embedded Machine Learning symposium will study the challenges that arise when machine learning is embedded as a component in large complex systems. We seek quality contributions describing recent or ongoing work in the scope of the symposium as described below. Both theoretical and applied work are solicited; demonstrations of experimental and/or deployed systems are especially encouraged. Potential issues are listed in the following paragraphs.
+</p>
+
+<p>
+<b>Methods for optimizing learning, decisions and actions to maximize the total system performance</b> instead of for traditional losses/metrics such as accuracy, AUC, or log-loss.
+</p>
+ 
+
+
+<ul>
+	<li>The operating point for an ML system that optimizes it's accuracy as a stand-alone model can be very different from the operating point that yields the best system-level accuracy. In healthcare the critical region often is at one end of the precision-recall tradeoff, while in credit card fraud the critical region may be at the other extreme of the tradeoff. The model that is best overall may be very different from the models that are best at either of these extremes, and the methods for training, regularizing, and model selection may differ dramatically depending on where the critical operating region is. </li>
+
+
+
+	<li>The metrics used to assess system-level performance can be very different from the ones traditionally used in machine learning, and it may be difficult to train to these metrics so that models learn the right thing. </li>
+</ul>
+
+
+<p>
+<b>Beyond prediction to action:</b> ML models often predict class probabilities or scores for ranking. However the decision the system must make is an action such as "Should we send a coupon to this customer?", "Should we use this treatment on this patient?" "How much should we invest in this stock? and so on. What is the best way to couple machine learning to utility models so that the most effective decision/action can be made? 
+</p>
+
+
+<p>
+<b>Approaches for making the system and its decisions robust to machine learning.</b> 
+</p>
+
+
+
+<ul>
+	<li>Methods for making the system robust to changes in the ML component that occur when the ML component is updated or retrained. </li>
+
+
+
+	<li>Techniques that permit the system to detect when the ML component appears to be broken and is no longer providing accurate/useful predictions. </li>
+
+
+
+	<li>Algorithms that allow the ML components to be robust to the changes in input distribution that are likely to occur when embedded in a real, living breathing system that changes over time. </li>
+
+
+
+	<li>Methods by which the ML component can detect when it is being applied to cases for which it was not trained and thus is unlikely to make accurate predictions. For example, a model trained on data from "regular" hospitals should automatically detect and raise red-flags if it is deployed at a children's hospital where it sees a very different distribution of patients than the distribution(s) on which it was trained and has competency. </li>
+
+
+
+	<li>Approaches that estimate the embedded risk of machine learning components. </li>
+
+
+
+	<li>What to do when features that were available at training time break, or are no longer available? More generally, what to do when the feature space changes over time? Can transfer be employed? Systems are upgraded, new sensors become available, old sensors can be removed or may malfunction. Does the whole system stop and wait for retraining, or is there a fall-back "limp-home" mode that allows the system to continue executing, possibly with reduced accuracy or perhaps just reduced speed? </li>
+
+
+
+	<li>Sequential decision making. How should current reinforcement learning methods be adapted to evolving systems? </li>
+</ul>
+
+
+
+
+<p>
+<b>Techniques for avoiding "Tower of Babel" issues</b> that occur in large systems so that components can talk to each other.
+</p>
+ 
+
+<ul>
+	<li>If an ML model predicts scores, and if the scale/range of these scores changes when the model is retrained, this can break the rest of the system because it no longer understands the "language" being spoken the model. How do we handle these kinds of issues when probabilities are not the best answer (for example, when predicting rankings), or when the predictions from the model are structured (for example, parse trees)? </li>
+
+
+
+	<li>Can the ML system provide confidences in its predictions so that other parts of the system can intelligently decide when to accept or reject the predictions. </li>
+</ul>
+
+
+<p>
+<b>Methods for dealing with feedback loops</b> that naturally arise when deployed systems affect future training sets that will be used to update learned models. 
+</p>
+
+
+
+<p>
+<b>Debugging embedded machine learning</b>. Debugging is critical in all large complex systems: how to detect, isolate, and repair problems in complex systems where the failures result from imperfect interaction between multiple system components. 
+</p>
+
+
+<ul>
+	<li>Modularity and edit-ability. Is it possible to build components with well-defined functions so that programmers know where to look when a specific behavior breaks? Is it possible to build components so that they may be updated, replaced, or re-trained individually without needing to update or re-train the entire system? </li>
+
+
+
+	<li>Complex systems are often built and then maintained by complex organizations that change over time. Can we build components (including the machine learning components) so that it is easier for individuals in the organization to develop, debug, and refine them? </li>
+
+
+
+	<li>Intelligibility. Often there is a tradeoff between accuracy and intelligibility in machine learning -- models such as logistic regression are intelligible, but not always as accurate as less intelligible models such as boosted tress, random forests, neural nets, and SVMs. Intelligibility, both of the model and of the individual predictions it makes, can be critical in some applications to insure that the model is good, to help engineering improve/refine the model over time, and to aid understanding where fault lies in a complex system. </li>
+
+
+
+<li>
+Hierarchy. How to decompose a complex learning problem into a hierarchy of simpler learning problems (for example, layered learning as in soccer robots)? 
+</li></ul>
+
+
+<p>
+<b>Analyses of how to employ representations learned by other models and then freeze them for reuse by components that will be built on top (downstream) of them:</b> 
+</p>
+
+
+<ul>
+	<li>Representations learned by deep learning for object recognition on similar objects sometimes can be re-used for object recognition on new objects on which they were never trained. This can make components more general and robust because the representation learned may be more general than what would have been learned from the specific classes and data available in the app-specific training set. </li>
+
+
+
+	<li>How and when to retrain learned representation. Do all components downstream from the representations need to be retrained? After re-training, does the new system start making mistakes on cases that were easy before, or is there a way to "blend" new models with previous models so that the strengths of the previous models are retained while the improved accuracy of the new model is incorporated? </li>
+</ul>
+
+
+
+<p>
+<b>Speed and performance issues that arise when learning is embedded in a complex system that has real-time or near-real-time performance requirements.</b> 
+</p>
+
+
+<ul>
+	<li>What does the learning accuracy ersus system accuracy vs. speed tradeoff curve look like? </li>
+</ul>
+
+
+
+<p>
+<b>Interactive Human-in-the-Loop Systems:</b> Some applications require complex, possibly fine-grained, interaction between humans and the system or parts of the system. 
+</p>
+
+
+<ul>
+	<li>What are the appropriate interfaces and information presentations for human consumption and human control? </li>
+
+
+
+	<li>How does the need for human interaction influence the design of the system into components? </li>
+</ul>
+
+
+
+
+<h4>Symposium Organizers </h4>
+<p>
+Rich Caruana (&#114;&#99;&#97;&#114;&#117;&#97;&#110;&#97;&#64;&#109;&#105;&#99;&#114;&#111;&#115;&#111;&#102;&#116;&#46;&#99;&#111;&#109;) Senior Scientist, Microsoft Research, 18517 201st Ave NE, Woodinville WA 98077; Tom Dietterich (#116;&#103;&#100;&#64;&#99;&#115;&#46;&#111;&#114;&#115;&#116;&#46;&#101;&#100;&#117;) Distinguished Professor and Director of Intelligent Systems, School of Electrical Engineering and Computer Science, 1148 Kelley Engineering Center, Oregon State University, Corvallis OR 97331-5501; Dragos Margineantu (&#100;&#114;&#97;&#103;&#111;&#115;&#46;&#100;&#46;&#109;&#97;&#114;&#103;&#105;&#110;&#101;&#97;&#110;&#116;&#117;&#64;&#98;&#111;&#101;&#105;&#110;&#103;&#46;&#99;&#111;&#109;) Technical Fellow, Boeing Research and Technology, M/C 4C-77, P.O. Box 3707, Seattle, WA 98124
+</p>
+
+
+<h4>For More Information</h4>
+<p>For More information, please see the <a href="https://cmt.research.microsoft.com/EML2015" rel="nofollow">supplemental symposium website.</a></p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="fs05">Self-Confidence in Autonomous Systems</a></h3>
+
+<p>
+Modern civilian and military systems have created a demand for sophisticated intelligent machine autonomy with human supervision and coordination in uncertain dynamic environments. These "on-the-loop" human roles in autonomy shifted emphasis away from the traditional human "in-the-loop" capabilities, and raise questions about when/how mutual communication of operational intent and the perceived capabilities of autonomous agents can impact human-autonomy coordination. 
+</p>
+
+<p>
+This symposium will explore the possibilities for augmenting human-machine dialog through communication of an autonomous agent's "sense of confidence," that is, the agent's perceived ability to effectively execute assigned tasks. Such reporting goes above and beyond mere assessment of probabilities for modeled outcomes or successful task completion. Rather, "self-confidence" summarizes an agent's holistic assessment of robustness regarding its ability to achieve assigned goals (within a defined region of autonomous behavior) in spite of: (1) uncertainties in its knowledge of the world, (2) uncertainties of its own state/self, and (3) uncertainties about its reasoning processes and execution capabilities. 
+</p>
+
+<p>
+This symposium aims for a holistic interdisciplinary discussion of the factors that contribute to the perception, quantification and understanding of various types of uncertainty in modern (and soon-to-be-realized) autonomous systems. We invite contributions from researchers in AI/expert systems, human factors, autonomous robotics and control/complex systems engineering, and other related disciplines that explore several key questions for this newly emerging topic, including the following:
+</p>
+ 
+<ul>
+	<li>What does "self-confidence" mean in the context of autonomous systems?</li>
+	<li>What factors influence self-confidence?</li>
+	<li>How can self-confidence actually be computed?</li>
+	<li>How can/should self-confidence actually be communicated?</li>
+</ul>
+      
+<p>
+This symposium will feature invited talks and contributed paper presentations, as well as panel discussions and group breakout session focusing on the implementation of self-confidence in real autonomous systems. Presentations will address any of the following themes:
+</p>
+
+
+<p>
+<i>Competence:</i> How can an autonomous agent determine whether a "task situation" actually falls within (or is about to reach) its designed competency boundary?
+</p>
+
+<p>
+<i>Information adequacy:</i> Are the data/knowledge available to an autonomous agent sufficient to effectively assess the situation and develop an appropriate course of action?
+</p>
+
+<p>
+<i>Quantification and expression:</i> How can self-confidence be consistently calculated and communicated?
+</p>
+
+
+
+<p>
+Questions should be directed to Nisar Ahmed (&#78;&#105;&#115;&#97;&#114;&#46;&#65;&#104;&#109;&#101;&#100;&#64;&#99;&#111;&#108;&#111;&#114;&#97;&#100;&#111;&#46;&#101;&#100;&#117;), Nicholas Sweet (&#78;&#105;&#99;&#104;&#111;&#108;&#97;&#115;&#46;&#83;&#119;&#101;&#101;&#116;&#64;&#99;&#111;&#108;&#111;&#114;&#97;&#100;&#111;&#46;&#101;&#100;&#117;), or Andrew Hutchins (&#78;&#105;&#99;&#104;&#111;&#108;&#97;&#115;&#46;&#83;&#119;&#101;&#101;&#116;&#64;&#99;&#111;&#108;&#111;&#114;&#97;&#100;&#111;&#46;&#101;&#100;&#117;).
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Nisar Ahmed (University of Colorado Boulder), Nicholas Sweet (University of Colorado Boulder), Ugur Kuter (Smart Information Flow Technologies), Christopher Miller (Smart Information Flow Technologies), Andrew Hutchins (Duke University), and Mary Cummings (Duke University)
+</p>
+
+<h4>For More Information</h4>
+<p>For more information, please see the <a href="http://scas2015.recuv.org" rel="nofollow">supplemental symposium website.</a> </p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="fs06">Sequential Decision Making for Intelligent Agents</a></h3>
+
+<p>
+Sequential decision making under uncertainty (SDM) is a powerful paradigm for probabilistic planning. The emergence of various models that analyze it under different sets of assumptions, for example, as single and multiagent MDPs and POMDPs, has gone hand in hand with the split of this field into many subareas, each with a quite distinct research community. The SDMIA Fall Symposium aims to bring the researchers of computational sequential decision making under uncertainty together, in order to facilitate the cross-pollination of ideas across these communities and thus accelerate the development of the larger field. The symposium will have ample room for discussions and interaction. Furthermore, we intend to reflect on the current state of the field, both in terms of theory and applications, and, more importantly, ways to shape its future.
+</p>
+
+<h4>Topics</h4>
+
+<ul>
+	<li>Novel insights in modeling sequential decision making (SDM)</li>
+	<li>Recent advances in solution methods</li>
+	<li>Benchmark problems and benchmarking</li>
+	<li>Realworld applications and application domains</li>
+	<li>Model specification and induction</li>
+	<li>Methods for transferring solutions from one model to another</li>
+</ul>
+
+<p>
+All accepted papers will be scheduled for oral presentation and papers will be made available online. Selected original (not previously published) papers can be published in the AAAI Press Technical Reports series. At least one author of each accepted paper is required to register and attend the symposium to present the work. 
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Matthijs Spaan, Chair (Delft University of Technology,&#32;&#109;&#46;&#116;&#46;&#106;&#46;&#115;&#112;&#97;&#97;&#110;&#64;&#116;&#117;&#100;&#101;&#108;&#102;&#116;&#46;&#110;&#108;, Mekelweg 4, 2628 CD, Delft, The Netherlands. Tel. +31152781102); Frans Oliehoek (University of Amsterdam / University of Liverpool, &#102;&#97;&#111;&#64;&#108;&#105;&#118;&#101;&#114;&#112;&#111;&#111;&#108;&#46;&#97;&#99;&#46;&#117;&#107;); Christopher Amato (University of New Hampshire, &#99;&#97;&#109;&#97;&#116;&#111;&#64;&#99;&#115;&#46;&#117;&#110;&#104;&#46;&#101;&#100;&#117;); Andrey Kolobov (Microsoft Research, &#97;&#107;&#111;&#108;&#111;&#98;&#111;&#118;&#64;&#109;&#105;&#99;&#114;&#111;&#115;&#111;&#102;&#116;&#46;&#99;&#111;&#109;); Pascal Poupart (University of Waterloo, &#112;&#112;&#111;&#117;&#112;&#97;&#114;&#116;&#64;&#117;&#119;&#97;&#116;&#101;&#114;&#108;&#111;&#111;&#46;&#99;&#97;)
+</p>
+
+<h4>For More Information</h4>
+<p>
+For more information</h4>, please see the <a href="http://masplan.org/sdmia" rel="nofollow">supplemental symposium website.</a>
+</p>
+
+
+
+
+
+
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+
+</div>
+</div>
+</div>
+
+<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1">AAAI Symposia</span></h2>
+<div class="content">
+<h3 class="text2"><a href="https://aaai.org/Symposia/Fall/fall-symposia.php" title="AAAI fall symposia pages">AAAI Fall Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/Spring/spring-symposia.php" title="AAAI spring symposia pages">AAAI Spring Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/EAAI/eaai-symposia.php" title="AAAI Educational Advances in AI Symposia">AAAI Educational Advances in AI Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Press/Reports/reports.php" title="aaai technical reports">Technical Reports</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Publications/Author/author.php" title="forms and instructions for accepted authors">For Accepted Authors</a></h3> 
+</div>
+
+<h4 class="backgrnd5"><span class="text1">Other Links</span></h4>
+<div class="content">
+<h3 class="text2"><a href="../../../.aaai.org/home.php" title="AAAI Home Page">AAAI Home Page</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">AAAI Press</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops">AAAI Workshops</a></h3>
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</div>
+
+
+
+
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

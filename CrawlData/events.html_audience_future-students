@@ -1,0 +1,1625 @@
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+    
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="keywords" content="events, dates, calendar, school dates, important dates">
+    <meta http-equiv="description" content="Concordia University offers a variety of events around the university for students, staff, faculty, and even the public.">
+    <title>Events</title>
+
+	<link rel="shortcut icon" href="http://www.concordia.ca/etc/designs/concordia/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/android-chrome-192x192.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/apple-touch-icon.png">
+    <link rel="manifest" crossorigin="use-credentials" href="http://www.concordia.ca/content/concordia/manifest.json">
+    <link rel="mask-icon" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/safari-pinned-tab.svg" color="#932439">
+    <meta name="msapplication-TileColor" content="#932439">
+    <meta name="theme-color" content="#932439">
+
+	
+<meta property="og:title" content="Events" />
+<meta property="og:description" content="Concordia University offers a variety of events around the university for students, staff, faculty, and even the public." />
+<meta property="og:url" content="http://www.concordia.ca/content/concordia/en/events.html?audience=future-students" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/news-default.jpg" />
+<meta property="og:image:alt" content="" />
+<meta property="twitter:image:src" content="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/news-default.jpg" />
+	
+
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index,follow">
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/clientlibs/foundation/main.min.css" type="text/css">
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/clientlibs/foundation/main.min.js"></script>
+
+
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/bootstrap.min.css" type="text/css">
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/bootstrap.min.js"></script>
+
+    
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/concordia-master-components.min.css" type="text/css">
+
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/concordia-master-templates.min.css" type="text/css">
+
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/main.min.js"></script>
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/quick-links.min.js"></script>
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/rolebased-nav.min.js"></script>
+
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+    <!--[if lt IE 9]>
+    <script src="/etc/designs/concordia/js/html5shiv.js"></script>
+    <script src="/etc/designs/concordia/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+    
+
+
+<body class="events news-events concordia page ">
+    
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-57BSZT"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-57BSZT');</script>
+		<!-- End Google Tag Manager -->
+    
+    <div id="boot">
+        
+    <div class="visible-print">
+        <h1 class="top-title">Concordia University</h1>
+        <p>http://www.concordia.ca/content/concordia/en/events.html</p>
+    </div>
+
+    <div class="parbase emergency-alert">
+        <div class="emergency-alert alert parbase"></div>
+
+    </div>
+
+    
+        
+
+
+<div class="quick-links link-list">
+
+
+
+
+<div class="c-quicklinks collapse" >
+    <div class="quicklinks-top">
+        
+        <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/next_gen_now.png" alt="Next-Gen. Now." width="242" height="25" />
+        
+    </div>
+
+    <div class="container">
+        <!-- Group of links -->
+        <div class="quicklinks-list">
+<ul><li><strong>Study resources</strong></li>
+                    	<li><a href="academics/graduate/calendar/current.html></li>
+                    	<li><a href="academics/undergraduate/academics/undergraduate/calendar.html        	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEEhttps://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL<li><a href="events/cancelled-classes.html">Class cancellatioevents/cancelled-classes.htmls/registration.html">Course registration</a></li>
+               students/registration.htmlortant academic dates</a></li>
+                    	<li><a href="events/academic-dates.htmlsources</a></li></ul><ul><li><strong>Campus services</strong></li>
+   students/academic-resources.htmlca/">Concordia Stores</a></li>
+                    	<li><a href="it.html">IT services</a></li>
+                    	<lihttps://stores.concordia.ca/tml">Job opportunities</a></li>
+                    	<li><a hrit.htmlpus-life/security.html">Security</a></li>
+               hr/jobs/openings.htmlttle bus</a></li>
+                    	<li><a href="students/bicampus-life/security.html
+                    	<li><a href="students/campus-sermaps/shuttle-bus.html<ul><li><strong>What's new</strong></li>
+                students/birks.htmlevents</a></li>
+                    	<li><a href="news/stories.html">Latest students/campus-services.htmlmedia-relations.html">Media Relations</a></li></ul><ul><li><strong>Faculties, Schools & Colleges</strong></li>events.html          	<li><a href="artsci.html">Arts and Science</a></li>
+ news/stories.html.html">Gina Cody School of<br>Engineering and Computer Scnews/media-relations.htmlfinearts.html">Fine Arts</a></li>
+                    	<li><a href="jmsb.html">John Molson School of Business</a></li>
+      artsci.html   	<li><a href="sgs.html">School of Graduate Studies</a></li>ginacody.html        	<li><a href="academics/units.html">All Schools, Colleges & Departments</a></li></ul>		
+     finearts.html </div>
+</div>
+
+
+
+<div class="mobile-quicklinks" >
+	<!-jmsb.htmlf links -->
+	<div class="container">
+        <a class="open-mobile-quick-linsgs.html-toggle="collapse" data-target=".mobile-quicklinks-list">Quick links &nbacademics/units.htmlia-arrow-black-down-icon small"></span></a>
+        <div class="mobile-quicklinks-list collapse">
+            <div class="mobile-main-buttons">
+                <a href="https://owa.concordia.ca/" class="main-nav-btn">Webmail</a>
+                <a href="../aaalibrary.concordia.ca/" class="main-nav-btn">Library</a>
+                <a href="https://cspace.concordia.ca/" class="main-nav-btn">Cspace</a>
+            </div>
+
+        	<ul>
+<li class='dropdown'><a data-toggle='collapse' data-target='.ul1'><shttps://owa.concordia.ca/rong> &nbsp;<span class='concordia-icon concordia-arrow-blac../aaalibrary.concordia.ca/a><div class='ul1 collapse'><ul>
+		            	<li><a href=https://cspace.concordia.ca//current.html">Calendar - Graduate</a></li>
+		            	<li><a href="academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+		            	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+		            	<li><a href="evacademics/graduate/calendar/current.html        	<li><a href="students/registration.html">Course reacademics/undergraduate/calendar.htmlic-dates.html">Important academic dates</a></li>
+		            	https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL/ul><li class='dropdown'><a data-toggle='collapse' dataevents/cancelled-classes.html;<span class='concordia-icon concordia-arrow-black-down-icostudents/registration.html
+		            	<li><a href="https://stores.concordia.ca/">events/academic-dates.htmlef="it.html">IT services</a></li>
+		            	<li><a href="hrstudents/academic-resources.html      	<li><a href="campus-life/security.html">Security</a></li>
+		            	<li><a href="maps/shuttle-bus.html">Shuttle bus</a></li>
+		            	<li><a href="students/birks.html">Student Service Centre (Birks)</a></li>
+		            	<li><a href="students/campus-services.hthttps://stores.concordia.ca//li></ul><li class='dropdown'><a data-toggle='collapse' it.htmlrget='.ul3'><strong>What's new</strong> &nbsp;<spanhr/jobs/openings.htmldown-icon small'></span></a><div class='ul3 collapse'><ulcampus-life/security.htmlar of events</a></li>
+		            	<li><a hrefmaps/shuttle-bus.html           	<li><a href="news/media-relations.html"students/birks.htmlopdown'><a data-toggle='collapse' data-target='.ul4'><strong>Facultiesstudents/campus-services.htmlordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul4 collapse'><ul>
+		            	<li><a href="artsci.html">Arts and Science</a></li>
+		            	<li><a href="ginacody.html">Gina Cody School of<br>Engineering and Computer Science</a></li>
+		   events.htmlli><a href="finearts.html">Fine Arts</a></li>
+		          news/stories.htmlhool of Business</a></li>
+		            	<li><a hrenews/media-relations.html		            	<li><a href="academics/units.html">All Schools, Colleges & Departments</a></li></ul></div></li>	
+    		</ul>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="c-topnav top-links">
+    <div class="container">
+        <a class="open-quick-links" data-toggle="collapse" daartsci.html.c-quicklinks">Quick links <span class="arrow concordia-ginacody.htmla-arrow-white-down-icon small"></span></a>
+        <a class="campaign-link" href="campaign.htmlfinearts.htmln for Concordia</a>
+
+        <ul class="paranav "jmsb.html 	
+            	<li id="link-myconcordia"><a href="https://my.concordisgs.htmlyConcordia</a></li>
+                <li id="link-cspace"><a href="academics/units.html>
+                <li id="link-webmail"><a href="https://owa.concordia.ca/">Webmail</a></li>
+                <li id="link-libraries"><a href="../aaalibrary.concordia.ca/">Library</a></li>
+            	<li id="link-directories"><a href="directories.html">Directories</a></li>
+                <li id="link-az"><a href="web/a-z.html">A-Z</a></li>
+                <li id="link-maps"><a href="maps.html">Macampaign.html       	
+    	</ul>
+	</div>
+</div>
+        
+
+
+
+<div class='c-topnav role-links subsite '>
+    <div class="container">
+    https://my.concordia.ca/
+            <li><a href="admissions.html">Future students</a></li>
+ https://cspace.concordia.ca/ents.html">Student hub</a></li>
+            <li><a href="alumni-fhttps://owa.concordia.ca/ friends</a></li>
+            <li><a href="parents.html">Parents</a>../aaalibrary.concordia.ca/f="faculty-staff.html">Faculty &amp; staff</a></li>
+            <lidirectories.htmledia-relations.html">Media</a></li>
+        </ul>
+    </div>
+</diweb/a-z.htmler subsite ">
+        <div class="" style="z-index:10;">
+
+ maps.html  <div class="container" id="top-row">
+                
+
+<div id="concordia-logo" class="visible-phone">
+    <a href="" class="logo-concordia" title="Back to home">Concordia University</admissions.html
+                <div class="row">
+                 students.htmlheader-btn visible-phone search concordia-icon calumni-friends.htmln" data-toggle="collapse" data-target="#site-search" dataparents.htmlin"></a>
+                    <span class="difaculty-staff.html  
+                    
+                                news/media-relations.html" href="javascript:void(0)"></a>
+                    <span class="divition"></span>
+                    <a class="header-btn visible-phone menu concordia-icon concordia-hamburger-icon" data-toggle="collapse" data-target=".nav-collapse" data-parent=".main"></a>
+                </div>
+
+                <div class="hidden-phone">
+                    
+
+
+<div id="concordia-logo" class='hidden-phone  '>
+    <a href="" class="sprites-logo-concordia" title="Back to home">Concordia University</a>
+</div>
+                </div>
+            </div>
+        </div>
+            <div class="hidden-phone">
+                
+
+<div class="container row-fluid">
+        <div class="span12" style="z-index:10;">
+            <h2 class="category-title   ">
+                <a href="events.html" alt="Events">Events</a>
+            </h2>
+        </div>
+</div>
+            </div>
+
+        
+
+
+
+
+
+    
+
+    
+
+
+<div id="navigation-wrapper">
+    <div class="navigation">
+        <div id="main-navbar" class="navbar navbar-static container">
+
+            <div class="nav-collapse collapse">
+                    <ul class='nav subnav landing' role="navigation">
+                            <li class="dropdown active">
+                                <a href="events.html" role="button">Calendar</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="events/academic-daevents.htmlole="button">Academic dates</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="events/university-holidays.html" role="button">University holidays</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="events/hospitality.htmevents.htmltton">Planning &amp; hosting</a>
+                            </li>
+                    </ul>
+
+                    <a class="search hidden-phone concordia-icon concordia-search-icon" data-toggle="collapevents/academic-dates.html></a>
+                    
+
+
+                <div class="campaign-link-div">
+                    <a class="campaign-link" href="campaign.html">The Campaign for Concordia</a>
+                </div>
+       events/university-holidays.htmliv class="c-quicklinks collapse" >
+    <div class="quicklinks-top">
+        
+        <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/next_gen_now.png" alt="Next-Gen. Now." width="242" height="2events/hospitality.htmlainer">
+        <!-- Group of links -->
+        <div class="quicklinks-list">
+<ul><li><strong>Study resources</strong></li>
+                    	<li><a href="academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+                    	<li><a href="academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+                    	<li><a href="https://campus.concordia.ca/campaign.htmlMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+                    	<li><a href="events/cancelled-classes.html">Class cancellations</a></li>
+                    	<li><a href="students/registrationhttp://www.concordia.ca/etc/designs/concordia/clientlibs/img/next_gen_now.pngacademic-dates.html">Important academic dates</a></li>
+                    	<li><a href="students/academic-resources.html">More academic resources</a></li></ul><ul><li><strong>Campus services</strong></li>
+                    	<li><a href="https://sacademics/graduate/calendar/current.html   	<li><a href="it.html">IT services</a></li>
+                  academics/undergraduate/calendar.html/li>
+                    	<li><a href="campus-life/security.html">Secuhttps://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBLus</a></li>
+                    	<li><a href="students/birks.events/cancelled-classes.html             	<li><a href="students/campus-services.html">All camstudents/registration.htmlew</strong></li>
+                    	<li><a href="events.html">Cevents/academic-dates.htmli><a href="news/stories.html">Latest news</a></li>
+                   students/academic-resources.htmls</a></li></ul><ul><li><strong>Faculties, Schools & Colleges</strong></li>
+                    	<li><a href="artsci.htmhttps://stores.concordia.ca/
+                    	<li><a href="ginacody.html">Gina Cody Scit.html<br>Engineering and Computer Science</a></li>
+           hr/jobs/openings.htmlts</a></li>
+                    	<li><a href="jmsb.html">John Mcampus-life/security.html     	<li><a href="sgs.html">School of Graduate Studiemaps/shuttle-bus.htmlacademics/units.html">All Schools, Colleges & Departmentsstudents/birks.html</div>
+
+
+
+<div class="mobile-quicklinks" >
+	<!-- Group of links -->
+	<div clstudents/campus-services.htmllinks" data-toggle="collapse" data-target=".mobile-quicklinks-list">Quick links &nbsp;<span class="arrow concoevents.htmloncordia-arrow-black-down-icon small"></span></a>
+        <div cnews/stories.html           <div class="mobile-main-buttons">
+            news/media-relations.htmlin-nav-btn">Webmail</a>
+                <a href="../aaalibrary.concordia.ca/" class="main-nav-btn">Library</a>
+              artsci.htmlhttps://cspace.concordia.ca/" class="main-nav-btn">Cspace</a>
+ginacody.html/div>
+
+        	<ul>
+<li class='dropdown'><a data-toggle='collapse' data-target='.ul1'><strong>Study finearts.htmlrong> &nbsp;<span class='concordia-icon concordia-arrowjmsb.htmlwn-icon small'></span></a><div class='ul1 collapse'><ul>
+		            	<li>sgs.html"academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+academics/units.htmlraduate/calendar.html">Calendar - Undergraduate</a></li>
+		            	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+		            	<li><a href="events/cancelled-classes.html">Class cancellations</a></li>
+		            	<li><a href="students/registration.html">Course registration</a></li>
+		            	<li><a href="events/academic-dates.html">Important academic dates</a></li>
+		            	<li><a href="students/academic-resohttps://owa.concordia.ca/ resources</a></li></ul><li class='dropdown'><a data-toggle=../aaalibrary.concordia.ca/'><strong>Campus services</strong> &nbsp;<span class='concorhttps://cspace.concordia.ca/ck-down-icon small'></span></a><div class='ul2 collapse'><ul>
+		            	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+		            	<li><a href="it.html">IT services</a></li>
+		            	<li><a href="hr/jobs/openings.html">Job opportunities</a></li>
+		            	<li><a href="academics/graduate/calendar/current.html<a href="maps/shuttle-bus.html">Shuttle bus</a></li>
+		    academics/undergraduate/calendar.htmlntre (Birks)</a></li>
+		            	<li><a href="students/campuhttps://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBLoggle='collapse' data-target='.ul3'><strong>What's new<events/cancelled-classes.htmlarrow-black-down-icon small'></span></a><div class='ul3 colstudents/registration.htmll">Calendar of events</a></li>
+		            	<li><a href="events/academic-dates.html    	<li><a href="news/media-relations.html">Media Relations</a>students/academic-resources.html data-target='.ul4'><strong>Faculties, Schools & Colleges</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul4 collapse'><ul>
+		            	<li><a href="artsci.html">Arts and Science</a></li>
+		            	<li><a href="ginahttps://stores.concordia.ca/of<br>Engineering and Computer Science</a></li>
+		      it.html<li><a href="finearts.html">Fine Arts</a></li>
+		  hr/jobs/openings.htmln School of Business</a></li>
+		            	<li><a href=campus-life/security.html            	<li><a href="academics/units.html">maps/shuttle-bus.html/ul></div></li>	
+    		</ul>
+        </div>
+    </dstudents/birks.html class="role-links-mobile">
+                        <a class="open-listudents/campus-services.htmllist">Information for... <span class="arrow concordia-icon concordia-arrow-black-down-icon small"></span></a>
+                        <ul class="role-links-list collapse">
+                            <li><a href="admissions.html">Future students</a></li>
+              events.html   <li><a href="students.html">Student hub</a></li>
+     news/stories.htmli-friends.html">Alumni &amp; friends</a></li>
+    news/media-relations.html">Parents</a></li>
+                            <li><a href="faculty-staff.html">Faculty &amp; staff</a></li>
+                            <li><a href="news/media-relations.html">Media</a></li>
+                        </ul>
+                    </div>
+        
+                    <scartsci.html                    $(".role-links-mobile .open-links").ginacody.htmlunction() {
+                            $this = $(this);
+                            $this.fifinearts.htmltoggleClass('concordia-arrow-black-down-icon');
+jmsb.html                   $this.find('.arrow').toggleClass('concordia-arrow-bsgs.htmlicon');
+                        });
+                    </scriptacademics/units.html
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        var $dropdowns = $('.nav li.dropdown');
+        var delay = 300;
+    
+        $dropdowns
+            .on('mouseover', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+
+                    // Make sure the autocomplete is not showing
+                    $(".ui-autocomplete").css("display",admissions.html
+                    var $this = $(this);
+                    $this.students.htmlen').removeClass('open');
+    
+                    if ($this.pralumni-friends.html {
+                        $this.prop('hoverTimeout', clearTimeout($this.parents.htmlimeout')));
+                    }
+        
+               faculty-staff.htmloverIntent', setTimeout(function() {
+                        $this.addClnews/media-relations.html          }
+            })
+            .on('mouseleave', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+                    var $this = $(this);
+                    $this.siblings('.open').removeClass('open');
+        
+                    if ($this.prop('hoverIntent')) {
+                        $this.prop('hoverIntent', clearTimeout($this.prop('hoverIntent')));
+                    }
+        
+                    // If the dropdown doesn't have any children, set delay to 0
+                    delay = ($this.find('.dropdown-toggle').length != 0) ? 300 : 0;
+        
+                    $this.prop('hoverTimeout', setTimeout(function() {
+                        $this.removeClass('open');
+                    }, delay));
+                }
+            })
+            .on('click', '.open-btn', function() {
+                $this = $(this);
+                $dropdown = $this.closest('.dropdown');
+                $icon = $this.find('span');
+    
+                $(this).closest('.dropdown').find('.dropdown-menu').slideToggle();
+                $dropdown.toggleClass('open');
+    
+                $icon.toggleClass('concordia-arrow-white-down-icon');
+                $icon.toggleClass('concordia-arrow-white-up-icon');
+            });
+
+
+        // On mobile, make sure search is not showing when menu is opened
+        $(".concordia-hamburger-icon").on("click", function() {
+            if ($("#site-search").hasClass("in")) {
+                $("#site-search").collapse("hide");
+            }
+        });
+    
+        // On mobile, make sure navigation is not showing when search is opened
+        $(".concordia-search-icon.visible-phone").on("click", function() {
+            if ($(".nav-collapse").hasClass("in")) {
+                $(".nav-collapse").collapse("hide");
+            }
+        });
+    });
+</script>
+
+        <div class="site-search parbase">
+
+
+
+
+    		
+
+
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.css" type="text/css">
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.js"></script>
+
+
+<div class="container">
+    <form id="site-search" class="concordia form-horizontal form-collapse collapse" action="http://www.concordia.ca/search.html" method="get"> 
+        <input type="hidden" id="concordia_url" value="/content/concordia/en/search.html" />
+        <input type="hidden" id="directory_url" value="/content/concordia/en/directories.html" />
+        <input type="hidden" id="site_search_first_name" value="" />
+        <input type="hidden" id="site_search_last_name" value="" />
+        <input type="hidden" id="is_subsite" value="true" />
+
+        <div class="control-group" id="select-search-mode">
+            <div class="controls">
+                <label class="radio inline" for="concordia-search">
+                    <input type="radio" id="concordia-search" value="concordia-search" name="search-mode" checked />
+                    <div class="radio-input">
+                        <div class="checked"></div>
+                    </div>
+                    Concordia
+                </label>
+                <label class="radio inline" for="directory-search">
+                    <input type="radio" id="directory-search" value="dirhttp://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.cssinput">
+                        <div class="checked"></http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.js       </label>
+            </div>
+        </divhttp://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.js <div class="controls">
+                <input class="input-large" type="text" placeholder="Search Concordia" id="input-search" name=http://www.concordia.ca/search.html="submit" style='' class="btn"><span class="concordia-icon concordia-search-icon"></span><span class="icon-search icon-white hidden-phone"></span></button>
+            </div>
+            <label id="label-search" class="control-label hidden" for="input-search">Search</label>
+        </div>
+    </form>
+</div></div>
+
+    
+        <div class="visible-phone">
+            
+
+
+<div id="concordia-logo" class='hidden-phone  '>
+    <a href="" class="sprites-logo-concordia" title="Back to home">Concordia University</a>
+</div>
+                
+
+<div class="container row-fluid">
+        <div class="span12" style="z-index:10;">
+            <h2 class="category-title   ">
+                <a href="events.html" alt="Events">Events</a>
+            </h2>
+        </div>
+</div>
+        </div>
+            <div class="container" style="z-index:2;">
+                
+
+
+<div class="breadcrumbs breadcrumb">
+<ul class="c-breadcrumb breadcrumb">
+	        <li>
+                
+                <a href="" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/concordia/en' },collect: false,options: { obj: this },componentPath: 'concordia/components/breadcrumb'})">
+                    
+                    Concordia.ca
+                    
+                </a>
+                
+	        </li>
+	        Â /Â 
+	        <li>
+                
+                    Events
+                    
+                </a>
+                
+	        </li>
+	        
+</ul></div>
+
+            </div>
+	</header>
+        
+ 
+
+<section class="container page-event">
+    <div class="row with_socialbar">
+
+        <div class="share-this">
+
+
+
+
+
+
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/share-this.min.css" type="text/css">
+
+
+
+
+        <div class="c-socialbar-cta">
+            <ul>
+                <li>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.concordia.ca/content/concordia/en/events.html" target="_blank" title="Facebook" class="st_facebook_custom">
+                    	<span class="sprites-icon-social-1d" displayText="Facebook" st_image='http://www.concordia.ca/content/concordia/en/events.img.png/1426events.htmlng'>Facebook</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/intent/tweet?url=http://www.concordia.ca/content/concordia/en/events.html" target="_blank" title="Twitter" class="st_twitter_custom">
+                    	<span class="sprites-icon-social-2" displayText="Twitter" st_image='http://www.concordia.ca/content/concordia/en/events.img.png/1426705036012.png'>Twitter</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.concordia.ca/content/concordia/en/events.html" target="_blank" title="LinkedIn" class="st_linkedin_custom">
+                        <span class="sprites-icon-social-3d" displayText="LinkedIn" st_image='http://www.concordia.ca/content/concordia/en/events.img.png/1426705036012.png'>LinkedIn</span>
+                    </a>
+                </li>
+            </ul>   
+        </div>
+
+
+       http://www.concordia.ca/etc/designs/concordia/clientlibs/share-this.min.cssn() {
+                "use strict";
+                $ =  jQuery;
+
+                var decal = $('.c-socialbar-cta:not(.horizontahttps://www.facebook.com/sharer/sharer.php?u=http://www.concordia.ca/content/concordia/en/events.htmll+5});
+                $('.c-socialbar-cta:not(.horizontal)').fadeIn();
+
+
+                $(window).scroll(function() {
+                    socialbar.scroll();
+                });
+            });
+
+            var socialbar = (function(jQuery) {
+                var timeOutId = 0;
+                var jitterBuffer = 20;
+
+                return {
+ https://twitter.com/intent/tweet?url=http://www.concordia.ca/content/concordia/en/events.htmlta:not(.horizontal)').parent().offset();
+                        var top = offset.top -150;
+
+                        if ($(window).scrollTop() > top) {
+                            $('.c-socialbar-cta:not(.horizontal)').addClass('fixed');
+                        }
+                        else {
+                            $('.c-socialbar-cthttps://www.linkedin.com/shareArticle?mini=true&url=http://www.concordia.ca/content/concordia/en/events.html;
+            })();
+        </script></div>
+
+
+        <div class="span8">
+			
+			<div class="content-main parsys">
+
+<div class="button parbase section">
+
+<a style="display:none; margin-bottom:24px;" class="btn btn-ghost-dark btn-block concordia-in-your-town" href="admissions/recruitment/recruitmentevents.html" target="_self"><span>Learn more about our recruitment events</span></a></div>
+
+
+<div class="button parbase section">
+
+<a style="display:none; margin-bottom:24px;" class="btn btn-ghost-dark btn-block tours" href="admissions/welcometours.html" target="_self"><span>Learn more about our campus tours</span></a></div>
+
+
+<div class="anchor-link parbase section">
+<a id='today'></a></div>
+
+
+<div class="cssinclude parbase section"><style>#boot .page-event .c-accordion .content > .group {
+    display: block !important;
+}</style></div>
+</div>
+          
+            <div class="todays-events list-events list parbase">
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/accordion.min.js"></script>
+
+
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/accordion.min.css" type="text/css">
+
+
+
+    <h4>Today's events</h4>
+    
+    <div class="c-accordion">
+    
+
+    <br /><p>No events for the day</p>
+</div></div>
+
+            <div class="ongoing-events list-events list parbase">
+
+
+    
+
+
+    <h4>Ongoing events</h4>
+    
+    <div class="c-accordion">
+    
+
+    
+
+<div class="item">
+	<div class="group panel">
+	    <div class="lbl">Until Nov. 30</div>
+	    <div class="title">
+            <a name="Workshops on Social Science Research (WSSR)Deliberating a Public Agenda for Federal Election 2019" href="http://www.concordia.ca/events.html?audience=future-students#" title="Open Workshops on admissions/recruitment/recruitmentevents.htmll Election 2019">Workshops on Social Science Research (WSSR)<br><h6><span style="font-size: 20px;">Deliberating a Public Agenda for Federal Election 2019</span>
+            </a>
+        </div> 
+	    <div class="arradmissions/welcometours.htmllay: none;">
+	    <div class="group">
+	        <div class="lbl">When</div>
+	        <div class="rte">
+	            September 1, 2018 &ndash; November 30, 2019, 9 a.m. &ndash; 4:30 p.m.
+	        </div>
+	    </div>
+	    <div class="group">
+	        <div class="lbl">Where</div>
+	        <div class="rte">
+				Sir George Williams Campus <a href="maps/sgw-campus.html_building_H">H - Henry F. Hall Building</a>  (14http://www.concordia.ca/etc/designs/concordia/clientlibs/accordion.min.jss="group">
+          
+	    </div>
+
+
+	    <div clahttp://www.concordia.ca/etc/designs/concordia/clientlibs/accordion.min.css           <a title="Workshops on Social Science Research (WSSR)Deliberating a Public Agenda for Federal Election 2019" href="cuevents/artsci/polisci/wssr/2018/wssr2018.html_c_events">More info</a>
+	        </div>
+	    </div>	
+	</div>
+    <div class="filterMetadata hidden">
+        <span class="campus">
+            SGW
+        </span>
+        <span class="filterCategories">
+                concordia-events-categories:workshops-seminars, concordia-events-categories:conferences-lectures
+            
+        </span>
+        <span class="filterAudiencehttp://www.concordia.ca/events.html?audience=future-students#oncordia-communityevent-audiences:future-studentsevent-audiences:parents           
+        </span>
+	</div>
+</div>
+
+</div></div>
+
+            <div class="upcoming-events list-events list parbase">
+
+
+    
+
+
+    <h4>Upcoming events</h4>
+    
+    <div class="c-accordion">
+    
+
+    
+
+<div class="item">
+	<div class="group panel">
+	    <div class="lbl">Nov. 25</div>
+	    <div class="title">
+            <a name="Free GMAT Strategy Webinar - The Princeton Review & JMSB Graduate Programs" href="http://www.concordia.ca/events.html?audience=future-students#" title="Open Free GMAT Strategy Webinar - The Princeton Review & JMSB Graduate Programs">Free GMAT Strategy Webinar - The Princeton Reviewmaps/sgw-campus.html_building_Hv> 
+	    <div class="arrow"></div>
+	</div>
+	<div class="content" style="display: none;">
+	    <div class="group">
+	        <div class="lbl">When</div>
+	        <div class="rte">
+	            November 25, 2019, 5:30 p.m. &ndash; 6:30 p.m.
+	        </div>
+	    </div>
+	    <div class="group">
+	        <div class="lbl">Where</div>
+	        <div class="rte">
+			cuevents/artsci/polisci/wssr/2018/wssr2018.html_c_events
+
+
+      <div class="group">
+          
+                <div class="lbl">Speaker(s)</div>
+                <div class="rte">
+                    The Princeton Review (Speaker TBD) + Anna Brochet
+	        </div>  
+	    </div>
+
+
+	    <div class="group">
+	        <div class="lbl"></div>
+	        <div class="rte">
+	            <a title="Free GMAT Strategy Webinar - The Princeton Review & JMSB Graduate Programs" href="cuevents/jmsb/2019/11/25/Free-GMAT-Webinar-Princeton-Review.html_c_events">More info</a>
+	        </div>
+	    </div>	
+	</div>
+    <div class="filterMetadata hidden">
+        <span class="campus">
+            OFF
+        </span>
+        <span class="filterCategories">
+                topics:skill_domains/study_tips, concordia-events-categories:information-orientation/concordia-in-your-town, topics:general_interest/training, topics:skill_domains/gpll-0, topics:general_interest/admissions
+            
+        </span>
+  http://www.concordia.ca/events.html?audience=future-students#udents/graduateevent-audiences:future-students           
+        </span>
+	</div>
+</div>
+
+
+<div class="item">
+	<div class="group panel">
+	    <div class="lbl">Nov. 26</div>
+	    <div class="title">
+            <a name="Master of Business Administration (MBA) Information Session" href="http://www.concordia.ca/events.html?audience=future-students#" title="Open Master of Business Administration (MBA) Information Session">Master of Business Administration (MBA) Information Session
+            </a>
+        </div> 
+	    <div class="arrow"></div>
+	</div>
+	<div class="content" style="display: none;">
+	    <div class="group">
+	        <div class="lbl">When</div>
+	        <div class="rte">
+	            November 26, 2019, 12 p.m. &ndash; 1 p.m.
+	        </div>
+	    </div>
+	    <div class="group">
+	        <div class="lbl">Where</div>
+	        <div class="rte">
+				Online - Zoom Webinars 
+	        </div>
+	    </div>	    
+
+
+      <div class="group">
+          
+                <div class="lbl">Speaker(s)</div>
+                <div class="rte">
+   cuevents/jmsb/2019/11/25/Free-GMAT-Webinar-Princeton-Review.html_c_eventsdiv class="lbl"></div>
+	        <div class="rte">
+	            <a title="Master of Business Administration (MBA) Information Session" href="cuevents/jmsb/2019/11/26/meet-a-recruiter-from-jmsb-graduate-programs1.html_c_events">More info</a>
+	        </div>
+	    </div>	
+	</div>
+    <div class="filterMetadata hidden">
+        <span class="campus">
+            OFF
+        </span>
+        <span class="filterCategories">
+                concordia-events-categories:information-orientation
+            
+        </span>
+        <span class="filterAudiences">event-audiences:allevent-audiences:future-studentsevent-audiences:future-students/graduate           
+        </span>
+	</div>
+</div>
+
+
+<div class="item">
+	<div class="group panel">
+	    <div class="lbl">Nov. 28</div>
+	    <div class="title">
+http://www.concordia.ca/events.html?audience=future-students#Webinar - Tips and Tricks for your Graduate Programs Application" href="http://www.concordia.ca/events.html?audience=future-students#" title="Open JMSB Graduate Programs - Admission Tips Webinar - Tips and Tricks for your Graduate Programs Application">JMSB Graduate Programs - Admission Tips Webinar - Tips and Tricks for your Graduate Programs Application
+            </a>
+        </div> 
+	    <div class="arrow"></div>
+	</div>
+	<div class="content" style="display: none;">
+	    <div class="group">
+	        <div class="lbl">When</div>
+	        <div class="rte">
+	            November 28, 2019, 12 p.m. &ndash; 1 p.m.
+	        </div>
+	    </div>
+	    <div class="group">
+	        <div class="lbl">Where</div>
+	        <div class="rte">
+				Online only - Zoom Webinar 
+	        </div>
+	    </div>	    
+
+
+      <div class="group">
+          
+	    </div>
+
+
+	    <div class="group">
+	        <div class="lbl"></div>
+	        <div class="rte"cuevents/jmsb/2019/11/26/meet-a-recruiter-from-jmsb-graduate-programs1.html_c_events Programs Application" href="cuevents/jmsb/2019/11/28/JMSB-grad-programs-admissions-tips1.html_c_events">More info</a>
+	        </div>
+	    </div>	
+	</div>
+    <div class="filterMetadata hidden">
+        <span class="campus">
+            OFF
+        </span>
+        <span class="filterCategories">
+                topics:academic_disciplines/finance, topics:academic_disciplines/management, topics:academic_disciplines/business, concordia-events-categories:information-orientation, topics:general_interest/admissions
+            
+        </span>
+        <span class="filterAudiences">event-audiences:future-students/graduateevent-audiences:allevent-audiences:future-students           
+        </span>
+	</http://www.concordia.ca/events.html?audience=future-students#    <div class="lbl">Nov. 28</div>
+	    <div class="title">
+            <a name="MBA in Investment Management - Information Session" href="http://www.concordia.ca/events.html?audience=future-students#" title="Open MBA in Investment Management - Information Session">MBA in Investment Management - Information Session
+            </a>
+        </div> 
+	    <div class="arrow"></div>
+	</div>
+	<div class="content" style="display: none;">
+	    <div class="group">
+	        <div class="lbl">When</div>
+	        <div class="rte">
+	            November 28, 2019, 6 p.m. &ndash; 7 p.m.
+	        </div>
+	    </div>
+	    <div class="group">
+	        <div class="lbl">Where</div>
+	        <div class="rte">
+				Sir George Williams Campus <a href="maps/sgw-campus.html_building_MB">MB - John Molson Building</a> MB 10.121 (1450 Guy) 
+	        </div>
+	    </div>	    
+
+
+      <div class="group">
+          
+	    </div>
+
+
+	    <div class="group">
+	        <cuevents/jmsb/2019/11/28/JMSB-grad-programs-admissions-tips1.html_c_eventsent - Information Session" href="cuevents/jmsb/2019/11/28/mba-with-complete-cfa-reg-integration-information-session.html_c_events">More info</a>
+	        </div>
+	    </div>	
+	</div>
+    <div class="filterMetadata hidden">
+        <span class="campus">
+            SGW
+        </span>
+        <span class="filterCategories">
+                concordia-events-categories:information-orientation
+            
+        </span>
+        <span class="filterAudiences">event-audiences:allevent-audiences:future-studentsevent-audiences:future-students/graduate           
+        </span>
+	</div>
+</div>
+
+</div></div>
+
+        </div>
+
+        <div class="c-sidebar span4">            
+            <div class="calendar">
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clienthttp://www.concordia.ca/events.html?audience=future-students#istcurrent = [];
+var filterUrl = "/content/concordia/en/events/jcr:content/calendar.json";
+</script>
+
+
+
+<div class="c-sidebar-calendar bloc">
+    <div id="calendar"></div>
+    <form class="form" method="get" action="events.html_audience_future-students" id="events-calendar-search-form">
+        
+        <fieldset>            
+            <div class="input-append control-group">
+                <div class="controls">
+                    <input class="input-large" name="searchTerm" type="text" placeholder="Search eventsmaps/sgw-campus.html_building_MBlass="btn"><i class="icon-search icon-white"></i></button>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div></div>
+
+            <br/>
+            <div class="campus-filter events-campus-filter">
+
+
+
+<div class="c-sidebar-menu bloc campus-filter">
+
+    <ul id="camcuevents/jmsb/2019/11/28/mba-with-complete-cfa-reg-integration-information-session.html_c_eventsevel0" style="display:block;">
+                <li>
+                    <a href="events.html_campus_all" class="active" id="all">
+                        All campuses
+                    </a>
+                </li>
+                <li>
+                    <a href="events.html_campus_sgw" class="" id="sgw">
+                        Sir George Williams
+                    </a>
+                </li>
+                <li>
+                    <a href="events.html_campus_loy" class="" id="loy">
+                        Loyola
+                    </a>
+                </li>
+                <li>
+              http://www.concordia.ca/etc/designs/concordia/clientlibs/event-calendar.min.js     Off Campus
+                    </a>
+                </li>
+            </ul>
+		</li>
+	</ul>
+
+</div></div>
+
+            <br/>
+            <div class="categories-filter events-category-filter">
+
+
+<script type="text/javascript" src="http://www.coevents.html_audience_future-studentsentlibs/jquery-treeview.min.js"></script>
+
+
+
+    <div class="c-sidebar-menu bloc category-filter">
+        <script>
+            jQuery(function($) {
+                if ($("ul#concordia-events-categories ul.level0 li").hasClass("open")) {
+					$("#concordia-events-categories ul.level0 li.open").children("ul:first").slideToggle("fast");
+                    $("#concordia-events-categories ul.level0 li.open .arrow").addClass("open");
+                }
+
+				else if ($("ul#concordia-events-categories ul.level1 li a").hasClass("active")) {
+					$("#concordia-events-categories ul.level1 li a.active").parent().parent().slideToggle("fast");
+                    $("#concordia-events-categories ul.level1 li a.active").parent().parent().parent().addClass("open");
+                    $("#concordia-events-categories ul.level1 li a.events.html_campus_allnt().parent().children(".arrow").addClass("open");
+                }
+
+                $("ul#concordia-events-categories .arrow").bind('click touch', function(e) {events.html_campus_sgwar $this = $(this);
+
+                    // Put a little timer so the closing level doesn't change background color
+                    if ($this.parent().hasClass(events.html_campus_loy              setTimeout(function(){$this.parent().toggleClass('open');}, 200);
+                    } else {
+                        $this.parent().toggevents.html_campus_off                }
+                });
+            });
+
+            function getURLParameter(name) {
+                return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
+            }
+    http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-treeview.min.jss="level-1">
+                <li>
+                    <div class="header bg-dark-grey">Events by category</div>
+
+                	<ul class="level0" style="display:block;">
+                        <li>
+                            <a href="events.html_category_all" class="active category-item-concordia-events-categories" id="all">
+                                All categories
+                            </a>
+                        </li>
+
+                        
+
+                            <li class="">
+                                <a href="events.html_category_arts-culture" class=" category-item-concordia-events-categories" id="arts-culture">
+                                    Arts & culture
+                                </a>
+                                    <div class="arrow"><i></i></div>
+
+                                	<ul class="level1" style="display:none;">
+
+                                            <li>
+                                                <a href="events.html_category_arts-culture_concerts" class=" category-item-concordia-events-categories" id="arts-culture/concerts">
+                                                    Concerts
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_arts-culture_dance" class=" category-item-concordia-events-categories" id="arts-culture/dance">
+                                                    Dance
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_arts-culture_exhibitions" class=" category-item-concordia-events-categories" id="arts-culture/exhibitions">
+                                                    Exhibevents.html_category_all                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_arts-culture_films" class=" category-item-concordia-events-categories" id="artevents.html_category_arts-culture                                      Films
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_arts-culture_theatre" class=" category-item-concordia-events-categories" id="arts-culture/theatre">
+                                       events.html_category_arts-culture_concerts                            </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_arts-culture_digital-arts" class=" category-item-concordia-events-categories" id="arts-culture/digital-arts">
+                                events.html_category_arts-culture_dance                                           </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_arts-culture_studio-arts" class=" category-item-concordia-events-categories" id="arts-culture/studio-arts">
+             events.html_category_arts-culture_exhibitions arts
+                                                </a>
+                                            </li>
+                                    </ul>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_coop-careers-fairs" class=" category-item-concordia-events-categorievents.html_category_arts-culture_films                           Co-op & career fairs
+                                </a>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_conferences-lectures" class=" category-item-concordia-events-categories" id="conferences-lectures">
+                      events.html_category_arts-culture_theatre                             </a>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_examinations" class=" category-item-concordia-events-categories" id="examinations">
+                                    Examinations
+                                </a>
+      events.html_category_arts-culture_digital-artsw"><i></i></div>
+
+                                	<ul class="level1" style="display:none;">
+
+                                            <li>
+                                                <a href="events.html_category_examinations_auditions" class=" category-item-concordia-events-categories" id="examinations/auditions">
+                                   events.html_category_arts-culture_studio-arts                               </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_examinations_thesis-defenses" class=" category-item-concordia-events-categories" id="examinations/thesis-defenses">
+                                                    Thesis defences
+               events.html_category_coop-careers-fairs                                            </li>
+                                    </ul>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_fundraisers" class=" category-item-concordia-events-categorievents.html_category_conferences-lectures                  Fundraisers
+                                </a>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_information-orientation" class=" category-item-concordia-events-categories" id="informatievents.html_category_examinations                     Information & orientation
+                                </a>
+                                    <div class="arrow"><i></i></div>
+
+                                	<ul class="level1" style="display:none;">
+
+                                            <li>
+                                                <a href="events.html_category_information-orientation_concordia-in-your-town" class=events.html_category_examinations_auditions" id="information-orientation/concordia-in-your-town">
+                                                    Concordia in your town
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_caevents.html_category_examinations_thesis-defensess=" category-item-concordia-events-categories" id="information-orientation/study-abroad">
+                                                    Study abroad
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_information-orientation_tours" clasevents.html_category_fundraisersts-categories" id="information-orientation/tours">
+                                                    Tours
+                                                </a>
+                                            </li>
+                                    </ul>
+                     events.html_category_information-orientation<li class="">
+                                <a href="events.html_category_religious-spiritual" class=" category-item-concordia-events-categories" id="religious-spiritual">
+                                    Religious & spiritual
+                                </a>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_social-events" class=" cateevents.html_category_information-orientation_concordia-in-your-town                             Social events
+                                </a>
+                                    <div class="arrow"><i></i></div>
+
+                                	<ul class="level1" style="display:none;">
+
+                                            <li>
+                                                <a href="events.html_category_social-events_fairs-festivals" class=events.html_category_information-orientation_study-abroadvents/fairs-festivals">
+                                                    Fairs & festivals
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_social-events_meetings" class=" category-item-events.html_category_information-orientation_tourstings">
+                                                    Meetings
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_social-events_volunteering-opportunities" class=" category-item-concordia-events-categories" id="social-events/vevents.html_category_religious-spiritual                                         Volunteering opportunities
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_catevents.html_category_social-eventss=" category-item-concordia-events-categories" id="social-events/reunions">
+                                                    Reunions
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_social-events_ceremonies" class=" category-iteevents.html_category_social-events_fairs-festivalseremonies">
+                                                    Ceremonies
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_social-events_expositions" class=" category-item-concordia-evenevents.html_category_social-events_meetingss">
+                                                    Expositions
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="events.html_category_social-events_book-launches" class=" category-item-conevents.html_category_social-events_volunteering-opportunities                                                    Book launches
+                                                </a>
+                                            </li>
+                                    </ul>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_sports-wellness" class=" category-itemevents.html_category_social-events_reunionsllness">
+                                    Sports & wellness
+                                </a>
+                                    <div class="arrow"><i></i></div>
+
+                                	<ul class="level1" style="display:none;">
+
+                                            <li>
+                                                <a href=events.html_category_social-events_ceremoniesral-leagues" class=" category-item-concordia-events-categories" id="sports-wellness/intramural-leagues">
+                                                    Intramural leagues
+                                                </a>
+                                            </li>
+
+                                            <li>
+                            events.html_category_social-events_expositionsory_sports-wellness_stingers" class=" category-item-concordia-events-categories" id="sports-wellness/stingers">
+                                                    Stingers
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                 events.html_category_social-events_book-launchesrts-wellness_bites" class=" category-item-concordia-events-categories" id="sports-wellness/bites">
+                                                    Wellness Bites
+                                                </a>
+                                            </li>
+                                    </ul>
+                            </li>
+
+                            <li class="">
+                            events.html_category_sports-wellnessrkshops-seminars" class=" category-item-concordia-events-categories" id="workshops-seminars">
+                                    Workshops & seminars
+                                </a>
+                            </li>
+
+                            <li class="">
+                                <a href="events.html_category_other-events" class=" category-item-concordia-events-categories" id="other-events">
+        events.html_category_sports-wellness_intramural-leagues                   </a>
+                            </li>
+
+                    </ul>
+                </li>
+            </ul>
+    </div></div>
+
+            <br/>
+            <div class="audience-filter audiences">
+                
+
+
+
+
+	<div class="c-sidebar-menu bloc category-filter">
+        <script>
+            jQuery(function($) {
+                if ($("ul#eveevents.html_category_sports-wellness_stingers {
+					$("#event-audiences ul.level0 li.open").children("ul:first").slideToggle("fast");
+                    $("#event-audiences ul.level0 li.open .arrow").addClass("open");
+                }
+
+				else if ($("ul#event-audiences ul.level1 li a").hasClass("active")) {
+					$("#event-audiences ul.level1 li a.active").parent().parent().slideToggle("fast");events.html_category_sports-wellness_bitesul.level1 li a.active").parent().parent().parent().addClass("open");
+                    $("#event-audiences ul.level1 li a.active").parent().parent().parent().children(".arrow").addClass("open");
+                }
+
+                $("ul#event-audiences .arrow").bind('click touch', function(e) {
+                    var $this = $(this);
+
+                    // Put a little timer so the closing level doesn't chevents.html_category_workshops-seminars    if ($this.parent().hasClass('open')) {
+                        setTimeout(function(){$this.parent().toggleClass('open');}, 200);
+                    } else {
+                        $this.parent().toggleClass('open');
+                    }
+                });
+            });
+
+       events.html_category_other-eventse) {
+                return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
+            }
+        </script>
+
+		
+
+            <ul id="event-audiences" class="level-1">
+                <li>
+                    <div class="header bg-dark-grey">Events by audience</div>
+
+                    <ul class="level0" style="display:block;">
+
+                        
+
+                        	<li class="">
+                                <a href="events.html_audience_all" class=" category-item-event-audiences" id="all">
+                                    All audiences
+                                </a> 
+                            </li>
+
+                        	<li class="">
+                                <a href="events.html_audience_concordia-community" class=" category-item-event-audiences" id="concordia-community">
+                                    Concordia community
+                                </a> 
+                                    <div class="arrow"><i></i></div>
+
+                                    <ul class="level1" style="display:none;">
+                                            <li>
+                                                <a href="events.html_audience_concordia-community_faculty" class=" category-item-event-audiences" id="concordia-community/faculty">
+                                                    Faculty
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="events.html_audience_concordia-community_staff" class=" category-item-event-audiences" id="concordia-community/staff">
+                                                    Staff
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="events.html_audience_concordia-community_managers" class=" category-item-event-audiences" id="concordia-community/managers">
+                                                    Managers
+                              events.html_audience_all                                            </li>
+                                            <li>
+                                                <a href="events.html_audience_concordia-community_students" class=" category-item-event-audiences" id="concordievents.html_audience_concordia-community                                    Students
+                                                </a>
+                                            </li>
+                                    </ul>
+                            </li>
+
+                        	<li class="">
+                                <a href="events.html_audience_parents" class=" category-item-event-audiences" id="parents">
+                          events.html_audience_concordia-community_faculty   </a> 
+                            </li>
+
+                        	<li class="">
+                                <a href="events.html_audience_alumni" class=" category-item-event-audiences" id="alumni">
+                                    Alumni
+                                </a> 
+                            </li>
+
+                   events.html_audience_concordia-community_staff       <a href="events.html_audience_invitation-only" class=" category-item-event-audiences" id="invitation-only">
+                                    By invitation only 
+                                </a> 
+                            </li>
+
+                        	<li class="open">
+                                <a href="events.htmlevents.html_audience_concordia-community_managers-item-event-audiences" id="future-students">
+                                    Future students
+                                </a> 
+                                    <div class="arrow"><i></i></div>
+
+                                    <ul class="level1" style="display:none;">
+                                            <li>
+            events.html_audience_concordia-community_studentsts.html_audience_future-students_undergraduate" class=" category-item-event-audiences" id="future-students/undergraduate">
+                                                    Undergraduate
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="evevents.html_audience_parents category-item-event-audiences" id="future-students/graduate">
+                                                    Graduate
+                                                </a>
+                                            </li>
+                           events.html_audience_alumni        			</ul>
+                </li>
+            </ul>
+    </div></div>
+
+            <hr />
+            <div class="sidebar parsys">
+
+<div class="box parbase section">
+
+
+
+<div class="c-sidebar-calltoaction bloc  link-color-dark " style="   ">
+events.html_audience_invitation-only <div class="parsys">
+
+<div class="button parbase section">
+
+<a style="background-color: #038983;" class="btn btn-large " href="events/submit-an-event.html" target="_blank"><span>Go to the event form</span></a></div>
+
+
+<div class="text parbase section">
+
+<link rel="stylesheet" hrevents.html_audience_future-studentsntlibs/wcm/foundation/accessibility.min.css" type="text/css">
+
+
+    <p>Please submit an event <b>at least five business days in advance.</b> Please take a look at o<b>ther </b><a href="http://www.concordia.ca/events/submit-an-event.html#guidelines">guidelines for submitting events</a>.</p>
+
+</div>
+
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p><br>
+</p>
+
+</div></div>
+</div>
+
+
+
+</div>
+</div>
+
+
+events.html_audience_future-students_undergraduatediv>
+
+
+<div class="box parbase section">
+
+
+
+<div class="c-sidebar-calltoaction bloc  link-color-dark " style="   ">
+
+
+    <h2 class="section-header" >Plan events on campus</h2>
+    <div class="parsys">
+
+<div class="button parbase section">
+
+<a style="background-color: #684fa1;" class="btn btn-large " href="http://www.concordia.ca/hospitality/eventevents.html_audience_future-students_graduate></a></div>
+
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Whether you are a student, staff or a member of the public, if youâ¬"re organizing a student group activity, an association conference or even a film festival, Concordia has a space thatâ¬"s just right.</p>
+
+</div></div>
+</div>
+
+
+
+</div>
+</div>
+
+
+<div class="cssinclude parbase section"><style>@media(max-width: 480px) {
+    #boot .c-accordion .group .lbl {
+        width: 100% !important;
+        float: none;
+    }
+
+    #boot .page-event .c-accordion .group .title {
+        padding-left: 0;
+    }
+
+    #boot .page-event .c-accordion .group .rte {
+        width: auto;
+    }
+}</style></div>
+
+
+<div class="script parbase section"><script>
+// Have Button component instances with apevents/submit-an-event.html).ready(function() {
+  var category = getParameterByName("category");
+
+  if (category == "information-orientation/concordia-in-yourhttp://www.concordia.ca/etc/clientlibs/wcm/foundation/accessibility.min.cssategory == "information-orientation/tours") {
+    $(".tours").fadeIn("slow");
+  }
+});
+
+function getParameterByName(name, url) {
+    if (!url) urhttp://www.concordia.ca/events/submit-an-event.html#guidelines\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+</script></div>
+</div>
+
+        </div> 
+    </div>
+</section>
+
+<script type="text/javascript">
+jQuery(function() {  
+    $ = jQuery;
+    sidebar_menu.init();
+});
+</script>
+        
+
+<!--[if lte IE 8]>
+    <style>#boot .c-back-to-top span { display: none !important; } </style>
+<![endif]-->
+
+
+        <div class="c-hospitality/event-planning.html        <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/sprites/icon-back-to-top.jpg">
+        </div>
+
+
+<p class="visible-print pull-right">&copy; Concordia University</p>
+
+
+<footer class="c-footer ">
+    <div class="main">
+        <div class="wrap">
+            <h5><span class='text-uppercase'>Concordia University</span> - Call us at 514-848-2424</h5>
+            <div class="row-fluid">
+                    <div class="span6">        
+                        <div class="row-fluid">
+                            <div class="span6 col">
+                                    <div class="generic iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="generic iparsys parsys"><div class="link-list section">
+
+
+    <div class="c-bloc-links ">
+
+        <ul class="">
+                            <li class=""><a href="about.html">About</a></li>
+                            <li class=""><a href="academics.html">Academics</a></li>
+                            <li class=""><a href="admissions.html">Admissions</a></li>
+                            <li class=""><a href="campus-life.html">Campus life</a></li>
+                            <li class=""><a href="research.html">Research</a></li>
+                            <li class=""><a href="international.html">International</a></li></ul> 
+</div></div>
+</div>
+</div>
+</div>
+
+                            </div>
+    
+                            <div class="span6 col">
+                                    <div class="specific iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="specific iparsys parsys"><div class="link-list section">
+
+
+    <div class="c-bloc-links ">
+
+        <ul class="unstyled">
+                            <li class=""><a href="admissions.html">Future students</a></li>
+                           http://www.concordia.ca/etc/designs/concordia/clientlibs/img/sprites/icon-back-to-top.jpg    <li class=""><a href="alumni-friends.html">Alumni & friends</a></li>
+                            <li class=""><a href="parents.html">Parents </a></li>
+                            <li class=""><a href="faculty-staff.html">Faculty & staff</a></li>
+                            <li class=""><a href="news/media-relations.html">Media</a></li></ul> 
+</div></div>
+</div>
+</div>
+</div>
+
+                            </div>
+                        </div>
+                    </div>	
+                    <div class="span6 col contact">
+                            <div class="footer-maps iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-maps iparsys parsys"><div class="wysiwyg parbase section">
+<div class="rte">
+<div claabout.htmluid"><div class="span6"><div class="adr"><div class="org">Sir Georgeacademics.htmlus</div>
+<div class="street-address">1455 De Maisonneuve Blvd. W.</div>
+admissions.htmls="locality">Montreal</span>, <span class="region">Quebec</span>, <span ccampus-life.htmlme">Canada</span></div>
+<div class="postal-code">H3G 1M8</div>
+</div>
+<divresearch.html><a href="maps/sgw-campus.html" adhocenable="false">See SGW Campus map international.htmlicon-map"></i></a></div>
+</div>
+<div class="span6"><div class="adr"><div class="org">Loyola Campus</div>
+<div class="street-address">7141 Sherbrooke Street W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H4B 1R6</div>
+</div>
+<div class="link"><a href="maps/loyola-campus.html" adhocenable="false">See Loyola Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+</div>
+</div></div>
+admissions.html</div>
+
+                    </div>
+            </div>
+        </div>
+    </divstudents.htmlass="footer">       
+        <div class="wrap">    
+            <div class="rowalumni-friends.html      <div class="social">
+                    <div class="social-media-icons sparents.htmllist">
+
+
+<div class="social">
+    
+            <ul>
+            faculty-staff.html           <li class=""><a class="facebook-white" href="https://facebook.com/Cnews/media-relations.html/li>
+                            
+                            <li class=""><a class="twitter-white" href="https://twitter.com/Concordia" target="_blank">twitter</a></li>
+                            
+                            <li class=""><a class="youtube-white" href="http://youtube.com/user/ConcordiaUni" target="_blank">youtube</a></li>
+                            
+                            <li class=""><a class="linkedin-white" href="http://linkedin.com/company/concordia-university" target="_blank">linkedin</a></li>
+                            
+                            <li class=""><a class="instagram-white" href="http://instagram.com/concordiauniversity" target="_blank">instagram</a></li>
+                            
+                            <li class=""><a class="flickr-white" href="http://wmaps/sgw-campus.htmlarget="_blank">flickr</a></li>
+                            
+            </ul> 
+
+    <div class="lbl">
+        
+            <a href="social.html">Concordia social</a>
+        
+    </div>
+</div></div>
+ 
+                </div>
+
+                <div class="c-bloc-links">
+                    <ul class="nav">
+                        <li>&copy; Concordia University</li> 
+                        <li class=""><a href="webmaps/loyola-campus.html     <li class=""><a href="web/privacy.html">Privacy</a></li>
+                        <li class=""><a href="web/accessibility.html">Accessibility</a></li>
+                            <li class=" feedback"><a href="web/feedback-forms.html">Website feedback</a></li>
+                    </ul>
+                </div>
+           </div>
+        </div>
+    </div>
+
+    
+        <div class="crazy-egg parbase">
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+ahttps://facebook.com/ConcordiaUniversityt.crazyegg.com/pages/scripts/0011/6192.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.ihttps://twitter.com/Concordiaipt>
+
+</div>
+
+</footer>
+
+
+<footer class="mobile-footer">
+        <div class="main-buttons-div">
+            <a href="" class="main-link http://youtube.com/user/ConcordiaUnicon-white icon-home"></div>
+                <div>Concordia.ca</div>
+            </a>
+            <a href="tel://514-848-2424" class="main-lhttp://linkedin.com/company/concordia-universityiv>
+                <div>514-848-2424</div>
+            </a>
+            <div style="clear: both;"></div>
+        </div>
+    
+        <div clhttp://instagram.com/concordiauniversity>
+<div class="row-fluid"><div class="span6"><div class="adr"><div class="org">Sir George Williams Campus</div>
+<div class="street-address"http://www.flickr.com/photos/concordiauniversity/ass="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">Hsocial.html>
+</div>
+<div class="link"><a href="maps/sgw-campus.html" adhocenable="false">See SGW Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+<div class="span6"><div class="adr"><div class="org">Loyola Campus</div>
+<div class="street-address">7141 Sherbrooke Street W.web/terms.htmltreal</span>, <span class="region">Quebec</span>, <span class="web/privacy.htmllass="postal-code">H4B 1R6</div>
+</div>
+<div class="link"><a hrefweb/accessibility.html>See Loyola Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+</div>
+</dweb/feedback-forms.html <div class="title">Share this page</div>
+        <div class="social">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.concordia.ca/content/concordia/en/events.html" target="_blank">
+                <div class="facebook-white"></div>
+            </a>
+        </div>
+        <div class="social">
+            <a href="https://twitter.com/intent/tweet?url=http://www.concordia.ca/content/concordia/en/events.html" target="_blank">
+                <div class="twitter-white"></div>
+            </a>
+        </div>
+        <div class="social">
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.concordia.ca/content/concordia/en/events.html" target="_blank">
+                <div class="linkedin-white"></div>
+            </a>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+
+    <div class="feedback-div">
+			<a href="web/feedback-forms.html">Website feedback</a>
+
+        <div class="web-links">
+            <div class="web-link"><a href="web/terms.html">Terms</a></div>
+            <div class="web-link"><a href="web/privacy.html">Privacy</a></div>
+            <div class="web-link"><a href="web/accessibility.html">Accessibility</a></div>
+            <div style="clear: both                                                                                                                                                                                              maps/sgw-campus.html                                                                                                                                                                                                                                                                                                                                                                                                                                         maps/loyola-campus.html                                                                                                                                                                                                                                                    https://www.facebook.com/sharer/sharer.php?u=http://www.concordia.ca/content/concordia/en/events.html                                                                                                                                                        https://twitter.com/intent/tweet?url=http://www.concordia.ca/content/concordia/en/events.html                                                                                                                                                       https://www.linkedin.com/shareArticle?mini=true&url=http://www.concordia.ca/content/concordia/en/events.html                                                                                                                                                                                                      web/feedback-forms.html                                                                                                   web/terms.html                                                             web/privacy.html                                                               web/accessibility.html                                                                                                                                                                                        

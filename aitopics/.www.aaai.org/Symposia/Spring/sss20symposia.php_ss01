@@ -1,0 +1,749 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2020 Spring Symposia</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2020 Symposia</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="spring-symposia.php"><img src="http://www.aaai.org/Symposia/Spring/Photos/symposium.jpg" alt="Spring Symposium" width="638" height="343" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2020 Spring Symposium Series</span></h2>
+<div class="content">
+<p><b>March 23&ndash;25, 2020</b></p>
+<p><i>Sponsored by the Association for the Advancement of Artificial Intelligence<br />
+In cooperation with the Stanford University Computer Science Department</i></p>
+<h3>Call for Participation</h3>
+<div class="hr1">
+<hr />
+</div>
+<p><b>Important Deadlines</b></p>
+<ul>
+<li>November 1, 2019: Submissions due to organizers (unless otherwise noted in individual descriptions)</li>
+<li>December 6, 2019: Notifications of acceptance sent by organizers</li>
+</ul>
+<div class="hr1">
+<hr />
+</div>
+
+
+<p>
+The Association for the Advancement of Artificial Intelligence, in cooperation with Stanford University's Department of Computer Science, is pleased to present the 2020 Spring Symposium Series, to be held Monday through Wednesday, March 23&ndash;25, 2020 at Stanford University. The titles of the eight symposia are as follows:
+</p>
+
+<ul>
+<li><a href="sss20symposia.php_ss01"><b>Applied AI in Healthcare: Safety, Community, and the Environment</b></a><br /></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss20symposia.php#ss02"><b>Artificial Intelligence in Manufacturing</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss20symposia.php#ss03"><b>AI Welcomes Systems Engineering: Towards the Science of Interdependence for Autonomous Human-Machine Teams</a></b></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss20symposia.php#ss04"><b>Challenges and Opportunities for Multi-Agent Reinforcement Learning</b></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss20symposia.php#ss05"><b>Combining Artificial Intelligence and Machine Learning with Physical Sciences</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss20symposia.php#ss06"><b>Combining Machine Learning and Knowledge Engineering in Practice</b></a></li>
+<!--
+<li><a href="sss20symposia.php#ss07"><b>Commonsense Redux: Integrating Formal Commonsense Knowledge Acquisition and Reasoning with Deep Learning, Crowdsourcing, and More</b></a></li>
+-->
+<li><a href="http://www.aaai.org/Symposia/Spring/sss20symposia.php#ss08"><b>Deep Models and Artificial Intelligence for Defense Applications: Potentials, Theories, Practices, Tools, and Risks</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss20symposia.php#ss09"><b>Towards Responsible AI in Surveillance, Media, and Security through Licensing </b></a></li>
+</ul>
+
+<div class="hr1">
+<hr />
+</div>
+<h4>AAAI Spring Symposium Submission Site</h4>
+
+<p>
+Most organizers have elected to use the AAAI Spring Symposium EasyChair site for receipt of submissions. If specified in the individual symposium description, please submit your work via the<a href="https://easychair.org/conferences/?conf=sss20" rel="nofollow"> AAAI Spring Symposium EasyChair site.</a>  Please be sure to select the appropriate symposium when submitting your work.
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss01">Applied AI in Healthcare: Safety, Community, and the Environment</a></h3>
+
+<p>
+This symposium will discuss ways to solve health-related, real-world issues in various emerging, ongoing, and underrepresented areas. Our international team is primarily focused on AI-assisted healthcare, with specific focus on areas of improving safety, the community, and the environment through the latest technological advances in our respective fields. We also want to improve the design and deployment of new technologies by considering the broader contexts in which they will be used. Our groupâ¬"s mission is to bring engineers, computer and data scientists, physician specialists, epidemiologists, public health researchers, ergonomists, ethicists, social scientists, designers, safety personnel, and other scholars and healthcare professionals together to share and foster ideas. 
+</p>
+
+
+<h4>Topics</h4> 
+<p>
+This symposium focuses on the following three themes related to potentially challenging issues in healthcare AI: (1) Workplace safety and the environment; (2) Caregiving in the community; and (3) Specialized applications of AI in healthcare.
+</p>
+
+
+<p>
+<i>Workplace Safety and the Environment: </i>
+There is a significant knowledge gap in the workplace AI arena. Our current focus areas of interest (but not restricted to) revolve around the role of machine learning in optimizing workplace ergonomics, business travel, hospital ergonomics, and monitoring environmental hazards, including automating wildfire smoke or air quality predictions via proprietary Google database sets and other global satellite systems. 
+</p>
+
+
+<i>Caregiving in the Community: </i>
+<p>
+The introduction of digital technology and AI in care work, along with the broad adoption of network infrastructures and the increasing attention to community-based care, creates opportunities to provide healthcare in novel ways. We consider how emerging AI technologies may bring different forms of care back into homes and communities through health monitoring applications, assistive robotics, telehealth platforms, automated transportation, and other innovations. We will also discuss existing technical, social, design, and practice-oriented aspects of care work and technology, and new conceptual frameworks of care work and design paradigms for assistive technologies that can enable distributed, scalable, sustainable, and maintainable healthcare in 21st-century communities. 
+</p>
+
+
+<p>
+<i>Specialized Applications of AI in healthcare: </i>
+This theme aims to share the latest progress, current challenges and potential applications related to the use of AI in healthcare. Submissions may focus on specific and technical details or bring a more general point of view on the use of AI in healthcare and improvement of public and population health.
+</p>
+
+
+<h4>Format</h4>
+<p>
+The symposium will include invited talks, presentations of accepted papers, group work sessions and panels. Use cases, current and potential application scenarios, and requirements from industry would be encouraged. Invited speakers and presentations will be announced after the submissions. More information will appear on the supplementary symposium website. 
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Interested participants should submit either full papers (6&ndash;8 pages), short papers (2&ndash;4 pages) or extended abstracts (2 pages maximum). Submissions are invited from all perspectives of interest (see  the Topics section) Submissions can include recent or ongoing research, position papers, and surveys or reviews. 
+</p>
+
+<p>
+Submissions will be handled through the AAAI Spring Symposium EasyChair site.
+</p>
+
+
+<h4>Organizing Committee</h4> 
+<p>
+Rajan Puri (Stanford University, &#112;&#117;&#114;&#105;&#114;&#64;&#115;&#116;&#97;&#110;&#102;&#111;&#114;&#100;&#46;&#101;&#100;&#117;), Samira Rahimi (McGill University, &#83;&#97;&#109;&#105;&#114;&#97;&#46;&#114;&#97;&#104;&#105;&#109;&#105;&#64;&#109;&#99;&#103;&#105;&#108;&#108;&#46;&#99;&#97;), Selma Å abanoviÄ! (Indiana University, Bloomington, &#101;&#108;&#109;&#97;&#115;&#64;&#105;&#110;&#100;&#105;&#97;&#110;&#97;&#46;&#101;&#100;&#117;)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information about the Applied AI in Healthcare: Safety, Community, and the Environment symposium, please see the <a href="https://whil.stanford.edu/aaai" rel="nofollow">supplementary symposium site.</a>
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss02">Artificial Intelligence in Manufacturing</a></h3>
+
+<p>
+Nearly one half million unfilled manufacturing positions (Deloitt), low productivity and strong competition for new products are driving significant need for increasingly intelligent, agile, and collaborative manufacturing. Significant advanced manufacturing activities are underway across the world from global manufactures in a multiplicity of verticals including pharmaceuticals, medical products, automotive, aerospace, consumer goods, construction, power and hand tools, materials, and industrials. Intelligent machines are addressing an increasingly complex range of manufacturing tasks including product design, material handling, machine tending, assembly, packaging, and distribution. Intelligent systems can provide a range of potential benefits to include speed, flexibility, accuracy.
+</p>
+
+
+<h4>Topics</h4> 
+<p>
+Intelligent manufacturing is necessarily a cross AI discipline, drawing from (supervised and unsupervised) machine learning, image understanding, spoken language dialogue, media extraction, search, and knowledge representation, among other areas. This symposium will focus on new directions in burgeoning area of advanced manufacturing. These will include, but will not be limited to the following:
+</p>
+
+
+<ul>
+	<li> Generative design for products and processes </li>
+	<li> Predictive analytics (for example, avoiding down time, reducing costly failures)</li>
+	<li> Collaborative robots (for example, for picking, machine tending, kitting)</li>
+	<li> Human machine teaming on the manufacturing floor</li>
+	<li> Intelligent industrial internet of things (IIOT) </li>
+	<li> Smart planning algorithms for automated factories</li>
+	<li> Mobile material planning and autonomous vehicles</li>
+	<li> Spoken dialogue interfaces to machines, factories, and supply chains</li>
+	<li> Automated defect detection</li>
+	<li> Knowledge based modeling and simulation of manufacturing</li>
+	<li> Smart warehouses</li>
+	<li> Evaluation of advanced manufacturing</li>
+</ul>
+
+<h4>Submissions</h4>
+<p>
+Potential participants are invited to submit a paper of 1,500  &ndash;  6000 words, proposing questions, reporting work in progress, discussing applications and/or uses cases, or theoretical contributions. Submissions should be made in PDF format via the <a href="https://easychair.org/conferences/?conf=sss20" rel="nofollow">SSS-20 EasyChair Site. </a>Submissions are due no later than 1 November 2019.  </p><p>
+
+Demonstrations will be considered as well. Please submit a demonstration description no less than one page but no longer than the full paper specifications. The symposium form will be a series of short presentations, demonstrations, and joint working sessions aimed to understand key impediments to progress, formulate new research areas, and identify opportunities for cross site collaboration (for example, data or insight sharing, open algorithms, use cases). We will target around 40 participants who are active in the field.
+ 
+</p>
+
+
+
+<h4>Organizing Committee</h4>
+<p>
+Peter Friedland (USAF), Benjamin Gibbs (Ready Robotics), Jim Hender (RPI), John Manferdelli (Northeastern University), Mark Maybury, chair (Stanley Black and Decker, &#109;&#97;&#114;&#107;&#46;&#109;&#97;&#121;&#98;&#117;&#114;&#121;&#64;&#115;&#98;&#100;&#105;&#110;&#99;&#46;&#99;&#111;&#109;, Manish Mehta (Stanley Black and Decker Silicon)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please contact Mark Maybury at &#109;&#97;&#114;&#107;&#46;&#109;&#97;&#121;&#98;&#117;&#114;&#121;&#64;&#115;&#98;&#100;&#105;&#110;&#99;&#46;&#99;&#111;&#109;
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss03">AI Welcomes Systems Engineering: Towards the Science of Interdependence for Autonomous Human-Machine Teams</a></h3>
+
+<p>
+Compared to a collection of the same but independent individuals, the members of a team when interdependent are significantly more productive. Yet, interdependence is insufficiently studied to provide an efficient operational architecture for human-machine or machine-machine teams. Interdependence in a team creates bi-stable effects among humans characterized by tradeoffs that affect the design, performance, networks and other aspects of operating autonomous human-machine teams. 
+</p>
+
+<p>
+To solve these next-generation problems, the AI and systems engineering (SE) of human-machine teams require multidisciplinary approaches. Namely, the science of interdependence for autonomous human-machine teams requires contributions not only from AI, including machine learning (ML); and from SE, including the verification and validation of systems using AI or ML; but also other disciplines to establish an approach that allows a human and machine to operate as teammates, including simulation and training environments where humans and machines can co-adapt their operational outcomes yet with stable outcomes assured by evidence based frameworks. As a general rule, users interfacing with machine learning algorithms require the information fusion (IF) of data to achieve limited autonomous operations, but as autonomy increases, a wider spectrum of features become necessary, like transfer learning. </p>
+
+<p>Fundamentally, for human-machine teams to become autonomous, the science of how humans and machines operate interdependently in a team requires contributions from, among others, the social sciences to study how context is interdependently constructed among teammates; how trust is affected when humans and machines depend upon each other; how human-machine teams are to train with each other; how human-machine teams need a bidirectional language of explanation, the law to determine legal responsibilities from misbehavior and accidents, ethics to know the limits of morality, and sociology to guide the appropriate team behaviors across society and different cultures, the workplace, healthcare, and combat. We need to know the psychological impact on humans when teaming with machines that can think faster than humans even in relatively mundane situations like with self-driving cars, or the more complex but still traditional decision situations like in combat (that is, in-the-loop; for example, with the Navyâ¬"s Ghost fleet; the Armyâ¬"s self-driving combat convoy teams; the Marine Corpsâ¬" ordinance disposal teams), or the more daunting scenarios with humans as observers of decisions (that is, on-the-loop; for example, with the Air Force's aggressive, dispensable, attritable drones flying wing for an F-35).
+</p>
+
+
+<h4>Topics</h4>
+<p>
+Topics will include AI and machine learning, autonomy; systems engineering; human-machine teams (hmt); machine explanations of decisions; and context.
+</p>
+
+
+<h4>Format</h4>
+<p>
+The format of the symposium will include invited talks (60 minutes) and regular speakers (30 minutes).
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+From November 1, 2019 until January 15, 2020, contributors should submit to organizers an abstract, outline or paper of 2-8 pages; use APA references. A call for book chapters will follow after the symposium.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+W.F. Lawless (Paine College, &#119;&#46;&#108;&#97;&#119;&#108;&#101;&#115;&#115;&#64;&#105;&#99;&#108;&#111;&#117;&#100;&#46;&#99;&#111;&#109;), Ranjeev Mittu and Don Sofge (Naval Research Laboratory, DC), Thomas Shortell (Lockheed Martin and INCOSE), and Tom McDermott (Stevens Institute of Technology)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="https://sites.google.com/view/scienceofinterdependence" rel="nofollow">supplementary symposium site.</a>
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss04">Challenges and Opportunities for Multi-Agent Reinforcement Learning</a></h3>
+
+<p>
+We live in a multiagent world and to be successful in that world intelligent agents will need to learn to take into account the agency of others. They will need to compete in marketplaces, cooperate in teams, communicate with others, coordinate their plans, and negotiate outcomes. Examples include self-driving cars interacting in traffic, personal assistants acting on behalf of humans and negotiating with other agents, swarms of unmanned aerial vehicles, financial trading systems, robotic teams, and household robots.
+</p>
+
+
+<h4>Topics</h4> 
+<p>
+There has been a lot of great work on multiagent reinforcement learning (MARL) in the past decade, but significant challenges remain, including the following:
+</p>
+
+<ul>
+	<li> The difficulty of learning an optimal model or policy from a partial signal,</li>
+	<li> Learning to cooperate or compete in nonstationary environments with distributed, simultaneously learning agents,</li>
+	<li> The interplay between abstraction and influence of other agents,</li>
+	<li> The exploration versus exploitation dilemma,</li>
+	<li> The scalability and effectiveness of learning algorithms,</li>
+	<li> Avoiding social dilemmas</li>
+	<li> Learning emergent communication.</li>
+</ul>
+
+<p>
+The purpose of this symposium is to bring together researchers in multiagent reinforcement learning, but also more widely machine learning and multiagent systems, to explore some of these and other challenges in more detail. The main goal is to broaden the scope of MARL research and to address the fundamental issues that hinder the applicability of MARL for solving complex real-world problems.
+</p>
+
+<p>
+We aim to organize an active symposium, with many interactive (brainstorm/breakout) sessions. We are hopeful that this will form the basis for ongoing collaborations on these challenges between the attendants and we aim for several position papers as concrete outcomes.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Authors can submit papers of 1&ndash;4 pages that will be reviewed by the organizing committee. We are looking for position papers that present a challenge or opportunity for MARL research, which should be on a topic the authors not only wish to interact on but also work on with other participants during the symposium. We also welcome (preliminary) research papers that describe new perspectives to dealing with MARL challenges, but we are not looking for summaries of current research &mdash; papers should clearly state some limitation(s) of current methods and potential ways these could be overcome. Submissions will be handled through the AAAI Spring Symposium EasyChair site.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Christopher Amato (Northeastern University), Frans Oliehoek (Delft University of Technology), Shayegan Omidshafiei (Google DeepMind), Karl Tuyls (Google DeepMind)
+</p>
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="https://sites.google.com/view/comarl-aaai-2020/" rel="nofollow">supplementary symposium site.</a>
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss05">Combining Artificial Intelligence and Machine Learning with Physical Sciences</a></h3>
+
+<p>
+With recent advances in scientific data acquisition and high-performance computing, artificial intelligence (AI) and machine learning (ML) have received significant attention from the applied mathematics and physics science community. From successes reported by industry, academia, and the research communities at large, we observe that AI and ML hold great potential for leveraging scientific domain knowledge to support new scientific discoveries and enhance the development of physical models for complex natural and engineering systems. 
+</p>
+
+<p>
+For example, deep learning supports discovery of new materials and high-energy physics from numerous computer simulations and experiments to allow us learn low-dimensional manifolds underlying the acquired data in order to represent the system of interest parsimoniously and effectively. ML has offered new insights on adaptive numerical discretization schemes and numerical solvers, which are clearly distinct from traditional mathematical theories. AI also provides a new way of generalizing constitutive physics laws based on big scientific data sets.
+</p>
+
+<p>
+Despite the progress, there are still many open questions. Our current understanding is limited regarding how and why AI/ML work and why they can be predictive. AI has been shown to outperform traditional methods in many cases especially with high-dimensional, inhomogeneous data sets. However, a rigorous understanding of when AI/ML is the right approach is largely lacking. That is, for what class of problems, underlying assumptions, available data sets, and constraints are these new methods best suited? The lack of interpretability in AI-based modeling and related scientific theories makes them insufficient for high-impact, safety-critical applications such as medical diagnoses, national security, and environmental contamination and remediation. With transparency and a clear understanding of the data-driven mechanism, the desirable properties of AI should be best utilized to extend current methods in modeling for physics and engineering problems. At the same time, handling expensive training costs and large memory requirements for ever-increasing scientific data sets is becoming more and more important to guarantee scalable science machine learning.
+</p>
+
+
+<p>
+This symposium will aim to present the current state of the art and identify opportunities and gaps in AI/ML-based physics science. The symposium will focus on challenges and opportunities for increasing the scale, rigor, robustness, and reliability of physics-informed AI necessary for routine use in science and engineering applications and discuss potential researcher-AI collaborations to significantly advance diverse scientific areas and transform the way science is done.
+</p>
+
+
+<h4>Topics</h4> 
+<p>
+Authors are strongly encouraged to present papers that combine and blend physical knowledge and artificial intelligence/machine learning algorithms. Topics of interest include but are not limited to the following:
+</p>
+
+
+<ul>
+	<li> Artificial intelligence/machine learning framework that can seamlessly synthesize models, governing equations and data.</li>
+	<li> Algorithms for scalable physics-informed learning</li>
+	<li> Stability and error analysis for physics-informed learning</li>
+	<li> Software development facilitating the inclusion of physics domain knowledge in learning</li>
+	<li> Applications incorporating domain knowledge into machine learning</li>
+</ul>
+
+<h4>Format</h4> 
+<p>
+The symposium is organized by the invited talks, presentations, and posters.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Interested participants should submit either extended abstracts (2-4 pages) or full papers (6 pages maximum) for position and work-in-progress pieces. Submissions should be formatted according to the AAAI template and submitted via the AAAI Spring Symposium EasyChair site.
+</p>
+<h4>
+Main Contact</h4>
+<p>
+Jonghyun Harry Lee (University of HawaiÊ»i at MÄýnoa, &#32;&#106;&#111;&#110;&#103;&#104;&#121;&#117;&#110;&#46;&#104;&#97;&#114;&#114;&#121;&#46;&#108;&#101;&#101;&#64;&#104;&#97;&#119;&#97;&#105;&#105;&#46;&#101;&#100;&#117;)
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Jonghyun Harry Lee (University of HawaiÊ»i at MÄýnoa), Eric Darve (Stanford University), Peter Kitanidis (Stanford University), Matthew Farthing (U.S. Army Engineer Research and Development Center), Tyler Hesser (U.S. Army Engineer Research and Development Center). For a full list of organizers and program committee members, please refer to the supplementary symposium site.
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the<a href="https://sites.google.com/view/aaai-mlps" rel="nofollow"> supplementary symposium site.</a>
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss06">Combining Machine Learning and Knowledge Engineering in Practice</a></h3>
+
+<p>
+Machine learning helps to solve complex tasks based on real-world data instead of pure intuition. It is most suitable for building AI systems when knowledge is not known, or knowledge is tacit. While machine learning is now able to master data-intensive learning tasks, there are still some challenges. Various tasks require large amounts of training data, especially tasks where events to be predicted are rare. 
+</p>
+
+<p>
+Many business cases and real-life scenarios demand background knowledge and explanations of results and behavior. In medicine, for instance, physicians will likely overrule suggestions if there is no adequate explanation for them. In the self-driving car domain, where safety and control are fundamental, demand for symbolic approaches that can complement machine learning adequately. Moreover, conversational agents require domain knowledge and contextual information to provide satisfactory responses. Furthermore, application areas such as banking, insurance, and life science, are highly regulated and, thus, require compliance with law and regulations. This specific application knowledge needs to be represented, which is the area of knowledge engineering. 
+</p>
+
+<p>
+Knowledge engineering and knowledge-based systems, which make expert knowledge explicit and accessible, are often based on logic and thus can explain their conclusions. These systems typically require a higher initial effort during development than systems that use machine learning approaches. However, symbolic machine learning and ontology learning approaches are promising for reducing the effort of knowledge engineering. 
+</p>
+
+<p>
+Because of their complementary strengths and weaknesses, there is an increasing demand in business to integrate knowledge engineering and machine learning for complex business scenarios. Focusing on only one aspect will not exploit the full potential of AI. Explicitly represented application knowledge could assist data-driven machine-learning approaches to converge faster on sparse data and to be more robust against noise, which results in cost efficiency and effectivity for business. 
+</p>
+
+<p>
+This symposium aims at bringing together practitioners and researchers from various companies, research centers and academia of machine learning and knowledge engineering working together on joint AI that is solving real business problems by being explainable and grounded in domain knowledge.
+</p>
+
+<h4>Topics</h4>
+<p>
+Among relevant topics are the following: 
+</p>
+<ul>
+	<li> Enterprise AI</li>
+	<li> Machine Learning</li>
+	<li> Knowledge Engineering, Representation, and Reasoning</li>
+	<li> Hybrid AI</li>
+	<li> Explainable AI</li>
+	<li> Conversational AI</li>
+	<li> Deep Learning and Neural Networks</li>
+	<li> Rule-based Systems</li>
+	<li> Recommender Systems</li>
+	<li> Scene Interpretation Systems</li>
+	<li> Ontologies and Semantic Web</li>
+</ul>
+
+<p>
+Use cases, application scenarios, and requirements from the industry would be highly beneficial and most welcome. 
+</p>
+
+
+<h4>Format</h4>
+<p>
+The symposium involves presentations of accepted position, full and short papers, side-tutorial events from industry, (panel) discussions, demonstrations and plenary sessions. 
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+We solicit papers that can include recent or ongoing research, business cases, application scenarios, and surveys. 
+Position and full papers (5 to 12 pages), short papers (2 to 4 pages) and poster abstracts (1 to 2 pages) will be peer-reviewed by the program committee to ensure academic integrity. 
+</p>
+
+<p>
+Industrial side-tutorial event or demonstration proposals (1 to 2 pages) should have a focus on business or research related to the symposium topics excluding undesired extensive product advertising. 
+</p>
+
+<p>
+Discussion proposals (1 to 2 pages) should contain a description of the specific topic. 
+</p>
+
+<p>
+All submissions must reflect the formatting instructions provided in the Author Kit and be submitted through the AAAI Spring Symposium EasyChair site. Accepted and camera-ready papers shall be published on the established open-access proceedings site CEUR-WS. 
+</p>
+
+<h4>Symposium Cochairs</h4>
+<p>
+Andreas Martin (main contact, &#109;&#97;&#105;&#108;&#64;&#97;&#97;&#97;&#105;&#45;&#109;&#97;&#107;&#101;&#46;&#105;&#110;&#102;&#111;) and Knut Hinkelmann, FHNW University of Applied Sciences and Arts Northwestern Switzerland, School of Business, Riggenbachstrasse 16, 4600 Olten, Switzerland
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Hans-Georg Fill (University of Fribourg, Switzerland), Aurona Gerber (University of Pretoria, South Africa), Knut Hinkelmann (FHNW University of Applied Sciences and Arts Northwestern Switzerland), Doug Lenat, Cycorp, Inc. (Austin, TX, USA), Andreas Martin (FHNW University of Applied Sciences and Arts Northwestern Switzerland), Reinhard Stolle (Autonomous Intelligent Driving GmbH, MuÌÆnchen, Germany), Frank van Harmelen (VU University, Amsterdam, Netherlands)
+</p>
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="https://www.aaai-make.info" rel="nofollow">supplementary symposium site.</a>
+</p>
+
+
+<!--
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss07">Commonsense Redux: Integrating Formal Commonsense Knowledge Acquisition and Reasoning with Deep Learning, Crowdsourcing, and More</a></h3>
+
+<p>
+The importance of commonsense knowledge and reasoning in artificial intelligence has been recognized for over sixty years. Although one approach to imbuing artificially intelligent agents with common sense is through creating formal specifications in logic, it has become increasingly evident that this direction of research is unlikely to be sufficient in itself. This symposium will explore how to integrate formal methods of commonsense reasoning with powerful AI techniques such as deep learning and crowdsourcing.
+</p>
+
+<p>
+This symposium is an outgrowth of the commonsense symposium series begun by John McCarthy in 1991. This series helped focus a community of formal AI researchers on problems in commonsense reasoning. The study of formal commonsense reasoning has led to the development of rigorous and flexible techniques for formal default reasoning and solutions to foundational problems in temporal and causal reasoning.
+</p>
+
+<p>
+But formal commonsense reasoning itself is unlikely to achieve the vision of an AI with commonsense. Even toy problems remain unsolved after two decades of effort. Researchers are invariably stymied by the knowledge acquisition bottleneck: commonsense inference requires a large set of background knowledge and acquiring this knowledge is slow, errorprone, and hard to validate.
+</p>
+
+<p>
+At the same time, there has been rapid progress in other areas of AI, (vision, speech recognition, NLP). much of it made possible by deep learning techniques. Yet current system still are incapable of commonsense reasoning, as Gary Marcus and Ernest Davis have pointed out recently. Question-answering systems and self-driving cars are two examples of systems that despite relying on advanced technologies do not yet have common sense.
+</p>
+
+<p>
+This symposium will aim to develop a community dedicated to integrating techniques of formal logic, knowledge representation, deep learning, and other techniques in order to develop powerful real-word commonsense-enabled systems. We sim to bring together both established researchers with a wealth of experience and young students and recent graduates who are enthusiastic about developing working systems that go far beyond todayâ¬"s technology.  The symposium will spur in-depth sharing of expertise, and brainstorming about fusing techniques for developing commonsense-enabled systems. We focus on three domains in which there is much AI activity today, little commonsense reasoning ability: text comprehension, dialogue systems, and automated vehicles/robots.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+While we will solicit research papers, we plan to dedicate much time to talks/tutorials from experts who can help these different research groups learn about the techniques that they are not yet expert in and to in-depth discussions about fusing different techniques. We also encourage reporting on previous work that has been done using a single approach but which is now being integrated with the other approach.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Leora Morgenstern (Systems and Technology Research), Yejin Choi (University of  Washington, AI2), Gary Marcus (Robust AI), Vered Shwartz (AI2)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please contact the Leora Morgenstern at &#108;&#101;&#111;&#114;&#97;&#64;&#99;&#115;&#46;&#110;&#121;&#117;&#46;&#101;&#100;&#117;.
+</p>
+
+-->
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss08">Deep Models and Artificial Intelligence for Defense Applications: Potentials, Theories, Practices, Tools, and Risks</a></h3>
+
+<p>
+Increasing global threats and competition have underscored the importance of artificial intelligence (AI) research and applications to confront adversaries. Warfighters in all domains (land, sea, air, undersea and cyber) utilize AI to support smart sensors, robotics, cyber honey pots, virtual swarms, and war games. Furthermore, multidomain decision makers from central command centers to the distributed tactical edge also seek trusted AI as assistants and automation tools to overcome cognitive overload. These domains underscore the warfighters need for both perceptive and reasoning AI to help in modern combat. This need has motivated the US Department of Defense Strategy (2018) to state that AI and resultant defense applications are the â¬Svery technologies that ensure we will be able to fight and win the wars of the future.â¬ý 
+</p>
+
+<p>
+Ubiquitous sensors such as smart cities, smart seas, smart homes, and the Internet of Things (IoT) introduce a wide range of industrial and societal challenges with an overwhelming large volume, high speed data, and type variety of data (for example, databases, image, text, audio, and video). Concurrently with the explosion of the data volume, the excitement of handling increasingly larger big data has generated significant breakthroughs of data models, cloud computing, parallel and distributed computing, and more importantly, advanced deep analytics including machine learning (ML) and artificial intelligence (AI) algorithms.
+</p>
+
+<p>
+Deep analytics algorithms have transformed AI capabilities to near human or super human intelligence and capabilities. AI capabilities are categorized by different types of learning, such as: supervised learning, which requires labeled big data for backpropagation; unsupervised learning for data mining, data discovery, statistical pattern recognition, and anomaly detection; semi-supervised learning for accelerated training, transfer learning, and changing scenarios; and reinforcement learning which requires big data with trials and rewards. The reinforcement learning algorithms are used broadly, including Markov decision process (MDP), genetic algorithms, game-theory, control theory, temporal difference, and sequential learning. Due to these breakthroughs, Deep analytics and AI support an abundant set of applications in the commercial world which demonstrate enormous potential but there are still many intractable challenges. For example, academic and industrial AI applications focus on machine vision, speech recognition, chat understanding, and autonomous driving that achieve amazing automation and accuracy that surpass human experts. However, these existing industrial applications may not adequately address or transfer to specific defense problems with intelligent adversaries, sparse data, and unique sensors.
+</p>
+
+<p>
+This symposium will explore the potentials, theories, practices, tools and risks related to deep models, AI and networks in defense specific applications. For example, the DoDâ¬"s challenges include not only the volume/velocity of big data but also veracity or variation from bad or corrupted or no data. Adequate labeled samples for classification tasks may be lacking and therefore alternatives include synthetic and simulation data. Furthermore, tactical environments often involve shorter time scales and fewer resources for learning. Also, unlike many commercial applications, defense applications access data sources stored in a distributed environment that are fused and analyzed together to form a coherent and holistic battlespace picture. Defense data analytics from multisource data include requirements of real-time, high rates, and limited channels; but also subject to strict security across all domains.
+</p>
+
+<p>
+In summary, the four of the main challenges in using defense AI include (1) lack of adequate samples for classification learning, (2) short time scales for adaptive learning, (3) less computational resources for multisource edge learning, and (4) adversarial behavior for robust learning. A representative scenario task is to identify a rarely observed object for novel mission planning and therefore there is little training data; relatively little time to integrate recent observations into the training, contains only a network of high-powered desktops for training, and adversaries are trying to jam or corrupt the sensors. For these reasons, fast optimization methods, generative modeling, and transfer learning methods are of particular interest. Since resources are always limited, the research community needs to discuss how data sciences, ML, AI, and multidomain fusion can be applied to different levels of defense operations such as strategic, operational, and tactical operations. 
+</p>
+
+<p>
+While the potential is great, the risks may not be trivial either, which require policy positions and discussions. What are the risks that challenge or potentially compromise fundamental human capabilities in the long-run by applying AI technologies? How will AI shape the manpower requirements and costs for the future defense organizations and systems? What level is necessary for explainable learning/decision-making, as well as human-in-the-loop AI. What are the ethical and legal consequences of using this technology? Where are the boundaries if any? What quality assurance approaches are relevant for defense applications?
+</p>
+<p>The goal of the symposium or working group is to foster collaborations and form communities for the theories and practices of deep models to defense applications. We solicit unclassified research, papers, and innovative ideas in the following areas (not limited to) for defense applications. 
+</p>
+
+<h4>Topics</h4> 
+<p>
+What are the potentials, theories, practices, tools and risks using the following deep models that is, models with large number of parameters that can be trained by big data)?
+</p>
+
+<ul>
+	<li> Deep data fusion models</li>
+	<li> Various types of machine learning models (for example, supervised learning reinforcement learning, and unsupervised learning).</li>
+	<li> Deep learning models such as deep machine vision and image processing models</li>
+	<li> Pattern recognition and anomaly detection algorithms</li>
+	<li> Generative adversarial networks (GANs) </li>
+	<li> Network models</li>
+	<li> Graph models</li>
+	<li> Game theory models</li>
+	<li> Link analysis models</li>
+	<li> Parallel and distributed computing models</li>
+	<li> Smart data outputs from deep analytics</li>
+	<li> Visualizations and depictions of smart data outputs</li>
+	<li> Decision making models </li>
+	<li> Cognitive models </li>
+	<li> Using AI and human capabilities fused and optimized together, or is there optimized human-in-the-loop AI?</li>
+	<li> Advanced optimization algorithms and online learning</li>
+	<li> Cyber security, </li>
+	<li> Open AI</li>
+	<li> Legal and ethical considerations</li>
+	<li> Evaluation and assessment considerations</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+The symposium will consist of keynote talks, invited talks, tutorials, oral presentations, poster/demo presentation, and panel discussions. We will also invite a panel of experts from defense organizations, funding agencies and contractors to discuss these topics as a part of the symposium activities. 
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Regular papers should be 6&ndash;8 pages. Position papers should be 27ndash;4 pages; submitted to <a href="https://easychair.org/conferences/?conf=sss20dmai4da" rel="nofollow">EasyChair.</a>
+</p>
+
+
+<p><b>
+Chair</b>
+</p>
+
+<p>
+Ying Zhao, Information Sciences Department, Naval Postgraduate School, Monterey, CA 93943, &#121;&#122;&#104;&#97;&#111;&#64;&#110;&#112;&#115;&#46;&#101;&#100;&#117;
+</p>
+
+
+<h4>Organizing Committee</h4>
+
+<p>
+Doug Lange (Naval Information Warfare Center, Pacific), Tony Kendall (Naval Postgraduate School), Erik Blasch (Air Force Office of Scientific Research), Arjuna Flenner (GE Aviation Systems), Bruce Nagy (NAVAIR China Lake), Richard Arthur (US Navy, NAVAIR China Lake)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="http://faculty.nps.edu/yzhao/sss20-dmai4da/" rel="nofollow">supplementary symposium site</a>. 
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss09">Towards Responsible AI in Surveillance, Media, and Security through Licensing </a></h3>
+
+<p>
+This symposium will focus on the creation of end-user and source code licenses that developers may include with AI software to restrict its use in surveillance, media, and security. Developing technology licenses that restrict use requires consensus around how responsible use should be defined for different domains or applications, what types of clauses should be included in such a license, and how such licenses could be enforced from a legal standpoint. Thus, the symposium seeks participation from a diverse interdisciplinary group who can help formulate the challenges, risks, and specific conditions the licenses should seek to address in future iterations. The symposium will provide an invaluable opportunity to bring together experts in AI, in the legal community, and in a variety of applied domains to discuss what types of clauses would be appropriate and enforceable and then develop them.
+</p>
+
+<h4>Topics</h4>
+<p>
+<i>Surveillance:</i> This includes both overt and covert deployment of AI models for collecting and analyzing personal data by individuals, groups, companies or government.
+</p>
+
+<p>
+<i>Media: </i>This includes the use of AI models in the creation of synthetic text, image, video or audio data for the purposes of entertainment, advertising, propaganda or education and the algorithmic targeting of people with this content, or other non-synthetic content. 
+</p>
+
+<p>
+<i>Security:</i> This includes the use of AI models in systems used in military and humanitarian applications.
+</p>
+
+<h4>
+Domains of Expertise
+</h4>
+
+<ul>
+	<li> Transportation (for example,  autonomous vehicles, drones)</li>
+	<li> Employment (for example,  hiring, workplace decision making)</li>
+	<li> Healthcare (for example,  service providing and delivery, disease risk prediction, biomedical research, deanonymization)</li>
+	<li> Education (for example,  content recommendation, education delivery etc)</li>
+	<li> Law enforcement and Judiciary (for example,  surveillance, criminal risk prediction, AI applications in law)</li>
+	<li> News and social media (for example,  machine generated news, images, propaganda, content recommendation, fake news)</li>
+	<li> Satellite reconnaissance and surveying (for example,  applications for agriculture, deforestation, mining)</li>
+	<li> Military applications (for example,  autonomous or semiautonomous weapons)</li>
+	<li> Essential service delivery and tracking (for example,  delivery of healthcare, housing, food or medicine aid)</li>
+	<li>Others not mentioned (please describe</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+Over its two and a half days, the symposium will feature invited talks and paper presentations, followed by breakout group sessions to explore future directions for AI licensing in these domains.
+</p>
+
+<p>
+Each topic area will have participants focused on developing high-priority use cases. Participants will have access to crowd sourced ideas and they will also be free to define their own applications that need to be restricted via clauses. Legal experts will be part of the symposium, providing advice and guidance.
+</p>
+
+<p>
+The primary tangible outcome would be the development of use cases to inform a set of licenses. The dissemination of the results would be through the development of domain- and application-specific licenses for use by software providers and researchers/developers grounded for protection based on contract laws.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+We will consider two types of submissions: case studies of areas of misuse (or potential misuse) (6&ndash;8 pages), or position papers (2&ndash4 pages) addressing one of the following areas: surveillance, media, or security, or some combination. Please clearly indicate the type and area in the submission. Please also include whether your expertise is in AI, law, or one of the domains of expertise previously listed. Submit via the AAAI Spring Symposium EasyChair site.
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Danish Contractor (IBM Research, &#100;&#99;&#111;&#110;&#116;&#114;&#97;&#99;&#64;&#105;&#110;&#46;&#105;&#98;&#109;&#46;&#99;&#111;&#109;), Julia Haines (Google), Daniel McDuff (Microsoft Research), Brent Hecht (Northwestern University), Christopher Hines (KL Gates)
+</p>
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="https://www.licenses.ai/aaai-sss-2020" rel="nofollow">supplementary symposium site.</a>
+</p>
+
+</div>
+</div>
+</div>
+
+<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1">AAAI Symposia</span></h2>
+<div class="content">
+<h3 class="text2"><a href="https://aaai.org/Symposia/Fall/fall-symposia.php" title="AAAI fall symposia pages">AAAI Fall Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/Spring/spring-symposia.php" title="AAAI spring symposia pages">AAAI Spring Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/EAAI/eaai-symposia.php" title="AAAI Educational Advances in AI Symposia">AAAI Educational Advances in AI Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Press/Reports/reports.php" title="aaai technical reports">Technical Reports</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Publications/Author/author.php" title="forms and instructions for accepted authors">For Accepted Authors</a></h3> 
+</div>
+
+<h4 class="backgrnd5"><span class="text1">Other Links</span></h4>
+<div class="content">
+<h3 class="text2"><a href="../../../.aaai.org/home.php" title="AAAI Home Page">AAAI Home Page</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">AAAI Press</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops">AAAI Workshops</a></h3>
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</div>
+
+
+
+
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

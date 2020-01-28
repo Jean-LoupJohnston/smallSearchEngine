@@ -1,0 +1,665 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2014 Fall Symposium Descriptions</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2014 Fall Symposia Descriptions</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="fall-symposia.php"><img src="http://www.aaai.org/Symposia/Fall/Photos/dc.jpg" alt="White House" width="639" height="143" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2014 Fall Symposium Descriptions</span></h2>
+<div class="content">
+
+<p>The Association for the Advancement of Artificial Intelligence is pleased to present the 2014 Fall Symposium Series, to be held Friday through Sunday, November 13&ndash;15, at the Westin Arlington Gateway in Arlington, Virginia adjacent to Washington, DC. The titles of the seven symposia are as follows:
+</p>
+
+<ul>
+<li><a href="fss14symposia.php_fs01">Artificial Intelligence for Human-Robot Interaction</a></li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs02">Energy Market Prediction </li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs03">Expanding the Boundaries of Health Informatics Using AI (HIAI'14): Making Personalized and Participatory Medicine A Reality </li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs04">Knowledge, Skill, and Behavior Transfer in Autonomous Robots</li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs05">Modeling Changing Perspectives: Reconceptualizing Sensorimotor Experiences</li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs06">Natural Language Access to Big Data (NLA2BD 2014)</li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs07">The Nature of Humans and Machines: A Multidisciplinary Discourse</li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs08">Plan Activity and Intent Recognition (PAIR)</li>
+</ul>
+
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="fs01">AI for Human-Robot Interaction </a></h3>
+<p>
+This symposium will bring together and strengthen the community of researchers working on the AI challenges inherent to human-robot interaction (HRI).
+</p>
+
+
+<p>
+Humans and human environments bring with them inherent uncertainty in dynamics, structure, and interaction. HRI aims to develop robots that are intelligent, autonomous, and capable of interacting with, modeling, and learning from humans. These goals are at the core of AI.
+</p>
+
+ 
+<p>
+The field of HRI is a broad community encompassing robotics, AI, HCI, psychology and social science. In this meeting we aim to specifically bring together the subset of this community that are focused on the AI problems of HRI. Currently this type of HRI work is seen across such a variety of venues (HRI, RSS, ICRA, IROS, Ro-Man, RoboCup, and more), that we lack a cohesive core community. Building this community is the central purpose of this symposium.
+</p>
+
+ 
+<p>
+Details on the event will be posted on our <a href="http://ai-hri.github.io/" rel="nofollow">website.</a> The planned schedule includes the following:
+</p>
+
+ 
+<p>
+<i>Keynote talks "How is HRI an AI problem?":</i> We will have keynotes giving eight different perspectives about how AI research is going to bring us closer to the reality of humans interacting with robots on everyday tasks.
+</p>
+
+<p>
+<i>Breakout groups plus panel discussions:</i> these discussions will be focused on (1) defining a road map of grand challenges for this research area, and (2) what is the core venue for this community.
+</p>
+
+<p>
+<i> Poster session:</i> This session will highlight state-of-the-art work and approaches to AI-HRI.
+</p>
+
+<p>
+<i>Team building:</i> Given the diverse set of venues that this type of research is presented, it is very rare that members of the AI-HRI community get together in the same room. As such, a large part of this effort is to bring together a community of researchers, strengthen old connections and build new ones. Ample time will be provided for networking and informal discussions.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Kris Hauser (Indiana University), Chad Jenkins (Brown University), Maja J. Mataric (University of Southern California), Andrea L. Thomaz (Georgia Institute of Technology), Manuela Veloso (Carnegie Mellon University)
+</p>
+
+<h4>For More Information</h4>
+<p>
+For more information, please consult the <a href="http://ai-hri.github.io/" rel="nofollow">supplemental symposium website.</a>
+
+<div class="hr1">
+<hr />
+</div>
+<h3 class="left"><a name="fs02">Energy Market Prediction</a></h3>
+
+<p>
+Renewable energy and energy efficiency technologies are rapidly entering the global marketplace with the potential to disrupt and leapfrog a century of electricity generation, distribution, and consumption infrastructure. Insights into future energy patterns underpin the selection of technical and nontechnical policies, from electric grid planning to tax incentive structuring. The advent of granular spatiotemporal energy data streams, the availability of large administrative datasets, and an expanding knowledge base of decision-making models beyond the rational choice framework present a compelling opportunity for computational scientists to push the state of the art in innovation diffusion research.
+</p>
+
+
+<p>
+This symposium focuses on challenges related to the wide-scale consumer adoption of clean energy technologies. Consumer-focused clean tech covers a broad scope of products and services including distributed energy generation and management (for example, solar panels, battery storage, and load shifting), usage analysis (for example, smart-grid enabled metering), and energy-saving technologies (for example, hybrid and electric cars, CFL and LED bulbs, and Energy Star appliances). There are economic, social, cognitive and technical challenges and issues that underlie adoption of this diverse set of technologies. 
+</p>
+
+
+<h4>Topics</h4>
+
+
+<p>
+1. Computational approaches to the marketing of clean energy/sustainable technologies 
+</p>
+
+<p>
+2. Factors that influence consumer adoption
+</p>
+<ul>
+	<li>Data analysis of consumer adoption data, surveys, etc. </li>
+	<li>Laboratory experiments on framing, attitudes, incentives, etc.</li>
+</ul>
+<p>
+3. Model building to predict consumer adoption
+</p>
+<ul>
+	<li>Social networks: Information diffusion, influence maximization, etc. </li>
+	<li>Economic aspects: Game theory, network economics, and information economics addressing the problem of clean energy technology evolution and diffusion</li>
+	<li>Validation/verification and uncertainty quantification of adoption models</li>
+	<li>Techniques to enhance adoption (for example, policy optimization, economic incentives, and information dissemination campaigns)</li>
+</ul>
+<p>
+4. Models to estimate cost changes in clean energy technology (for example, price reduction in solar panel technology)
+</p>
+
+<p>
+5. Evaluating the impact of clean energy adoption on power system infrastructure
+</p>
+
+<ul>
+	<li>Resilient deployment of clean energy technologies on the electricity grid</li>
+	<li>Resource forecasting models</li>
+</ul>
+
+
+
+<h4>Primary Contact</h4>
+
+<p>Kiran Lakkaraju<br /> 
+P.O. Box 5800, MS 1327<br />
+Albuquerque, NM 87185<br />
+Phone: 505-844-4032<br />
+Fax: 505-844-4728</p>
+
+<h4>Organizing Committee</h4>
+
+
+<p>
+Kiran Lakkaraju (Sandia National Labs, &#107;&#108;&#97;&#107;&#107;&#97;&#114;&#64;&#115;&#97;&#110;&#100;&#105;&#97;&#46;&#103;&#111;&#118;), Eugene Vorobeychik (Vanderbilt University, &#101;&#117;&#103;&#46;&#118;&#111;&#114;&#111;&#98;&#101;&#121;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;), Adam Cohen (Department of Energy, &#97;&#98;&#99;&#111;&#104;&#101;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)(to reach the entire committee please email &#101;&#109;&#97;&#112;&#46;&#115;&#121;&#109;&#112;&#111;&#115;&#105;&#117;&#109;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="https://sites.google.com/site/aaaiemap2014/" rel="nofollow">supplemental symposium website. </a>
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs03">Expanding the Boundaries of Health Informatics Using AI: Making Personalized and Participatory Medicine A Reality</a></h3>
+
+<p>
+The 20th century laid a foundation of evidence-based medicine that relied on populations and large groups of patients to derive generalized results and observations that were applied to (mostly passive) patients. Yet, the 21st century is shaping up as a time where the patient and personalized health data is the driver of health care innovation and delivery. This is a significant shift from the paradigm where physicians made patient treatment decisions based on their clinical experience and by evidence-based results derived from general population studies. The rise of novel methods and tools for collecting and storing large amounts of personalized health data (for example from various types of electronic health records and from new sensors) has made vast amounts of data available. Several projects have shown that sharing this data offers multiple advantages to both physicians and patients, enabling them to globally identify similar patient cases and discover successful therapies from other patients and physicians. Access to this information, from a multitude of data channels, allows for shared decision making that enables physicians to personalize care decisions and, at the same time, supports patients' engagement in their own care. This paradigm shift, termed participatory medicine, will eventually lead to improved patient outcomes and reduced healthcare costs but significant challenges must be addressed before its full promise is realized.
+</p>
+
+
+<p>
+In addition to providing physicians with the necessary tools to effectively take advantage of available medical data, patients will need guidance so they can embrace their new roles as active participants in their care. The physician-patient relationship will transition from one- to two-way communication where patient treatment becomes a feedback rather then feed-forward process. Similarly, information technology will need to evolve to improve communication, collaboration, and teamwork between patients, their families, and care teams involving practitioners from different fields and specialties. All of these changes require novel solutions and the AI community is well positioned to provide both theoretical- and application-based methods and frameworks.
+</p>
+
+<p>
+The goal of this symposium is to focus on creating and refining AI-based approaches that (1) help patients (and families) participate in the care process, (2) improve patient participation and (3) help physicians utilize this participation in order to provide high quality and efficient personalized care. The extraction, representation, and sharing of health data, patient preference solicitation, personalization of generic therapy plans, adaptation to care environments and available health expertise, care team coordination, and making medical information accessible to patients are some of the relevant problems in need of AI-based solutions.
+</p>
+
+
+<h4>Topics</h4>
+<p>
+This symposium focuses on AI-based methodological and application contributions in health informatics and its aim is to foster opportunities for collaborative research within a multidiscipline research community that offers expertise in medicine, bioinformatics, computer and information science. Topics of interest include but are not limited to the following:
+</p>
+
+<ol>
+	<li>Methods for knowledge extraction (leveraging social, population, clinical data) and personalization via intelligent predictive analytics</li>
+	<li>Design of integrated health information systems to accelerate the discovery of health knowledge, and the design of personalized care systems (including telehealth and ambient assisted living) to disseminate the discovered knowledge and enable patients to provide feedback to physicians about their ongoing care</li>
+	<li>Innovative use of social media for patients' education, empowerment and engagement</li>
+	<li>Supporting personalized care delivery by interdisciplinary health care teams by modeling patient-focused workflows and supporting their adaptation (setting, experience) and execution</li>
+	<li>Methods to improve randomized clinical trails or new paradigms for more effective organization and execution of bench-to-bedside processes</li>
+	<li>Decision support systems for eliciting patient preferences and for shared decision making by health care providers and patients</li>
+</ol>
+
+<h4>Program</h4>
+<p>
+The symposium format will include one or two invited speakers along with technical talks, breakout sessions to share ideas, a poster session, and one or two panel discussions. One of the panel discussions will present the current funding landscape for health informatics research. Along with the poster session, the funding discussion will help foster collaboration amongst peers to help push existing and emerging ideas forward. Finally, we will hold a discussion to help define the theme for a proposed <i>Journal of Artificial Intelligence Research (JAIR)</i> special track on AI and health.
+</p>
+
+
+
+<h4>Organizing Committtee</h4>
+<p>
+Martin Michalowski, Chair (Adventium Labs, &#109;&#97;&#114;&#116;&#105;&#110;&#46;&#109;&#105;&#99;&#104;&#97;&#108;&#111;&#119;&#115;&#107;&#105;&#64;&#97;&#100;&#118;&#101;&#110;&#116;&#105;&#117;&#109;&#108;&#97;&#98;&#115;&#46;&#99;&#111;&#109;), Dympna O'Sullivan, cochair (City University London), Jay M. Tenenbaum, cochair (Cancer Commons), Szymon Wilk, cochair (Poznan University of Technology)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For additional information, including information about previous meetings, please visit the <a href="http://www.adventiumlabs.com/HIAI14" rel="nofollow">supplemental symposium site.</a> General questions concerning the symposium should be addressed to Martin Michalowski (&#109;&#97;&#114;&#116;&#105;&#110;&#46;&#109;&#105;&#99;&#104;&#97;&#108;&#111;&#119;&#115;&#107;&#105;&#64;&#97;&#100;&#118;&#101;&#110;&#116;&#105;&#117;&#109;&#108;&#97;&#98;&#115;&#46;&#99;&#111;&#109;).
+</p>
+
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs04">Knowledge, Skill, and Behavior Transfer in Autonomous Robots</a></h3>
+
+<p>
+Autonomous robots have achieved high levels of performance and reliability at specific tasks. However, for them to be practical and effective at everyday tasks in our homes and offices, they must be able to learn to perform different tasks over time, demonstrating versatility.
+</p>
+
+<p>
+Learning each task in isolation is an expensive process, requiring large amounts of both time and data. In robotics, this expensive learning process also has secondary costs, such as energy usage and joint fatigue. Furthermore, as robotic hardware evolves or new robots are acquired, these robots must be trained, which is extremely inefficient if performed tabula rasa.
+</p>
+
+
+<p>
+Recent developments in transfer and multitask learning provide a potential solution to this problem, enabling robots to minimize the time and cost of learning new tasks by building upon knowledge learned from other tasks or by other robots. This ability is essential to enable the development of versatile autonomous robots that are expected to perform a wide variety of tasks and rapidly learn new abilities.
+</p>
+
+
+<p>
+Various aspects of this problem have been addressed by research across several different communities, including machine learning, knowledge representation, optimal control, and robotics. This symposium will seek to draw together researchers from these different communities toward the goal of enabling autonomous robots to support a wide variety of tasks, rapidly and robustly learn new abilities, adapt quickly to changing contexts, and collaborate effectively with other robots and humans.
+</p>
+
+
+<h4>Topics and Format</h4>
+
+<p>
+The symposium will consist of paper and poster presentations, invited talks, and breakout sessions. Topics of interest include the following:
+</p>
+
+
+<p>
+<i>Transfer in autonomous robots:</i> Intertask transfer learning, transfer over long sequences of tasks, cross-domain transfer learning, long-term autonomy, autonomy in dynamic and noisy environments, lifelong learning, knowledge representation; transfer from simulated to real robots, and vice versa. 
+</p>
+
+<p>
+<i>Multirobot systems:</i> Multirobot knowledge transfer, task switching in multirobot learning, distributed transfer learningknowledge/skill transfer across heterogeneous robots.
+</p>
+
+<p>
+<i>Human-robot interaction:</i> Human-robot knowledge/skill transfer, knowledge/skill transfer in mixed human-robot teams;, learning by demonstration, imitation learning.
+</p>
+
+<p>
+<i>Cloud networked robotics:</i> Access to shared knowledge, reasoning, and skills in the cloud; cloud-based knowledge/skill transfer; cloud-based distributed transfer learning.
+</p>
+
+<p>
+<i>Applications:</i> Testbeds and environments, data sets, evaluation methodology.
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Matteo Leonetti (University of Texas at Austin), Eric Eaton (University of Pennsylvania), Pooyan Fazli (Carnegie Mellon University).
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="http://www.cs.utexas.edu/~matteo/AAAI14FSS-TRob" rel="nofollow">supplemental symposium website.</a> 
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs05">Modeling Changing Perspectives: Reconceptualizing Sensorimotor Experiences</a></h3>
+
+<p>
+There is no property <i>absolutely</i> essential to one thing. The same property which figures as the essence of a thing on one occasion becomes a very inessential feature upon another. Now that I am writing, it is essential that I conceive my paper as a surface for inscription. [...] But if I wished to light a fire, and no other materials were by, the essential way of conceiving the paper would be as a combustible material. [...] The essence of a thing is that one of its properties which is so important for my interests that in comparison with it I may neglect the rest. [...] The properties which are important vary from man to man and from hour to hour. [...] Many objects of daily use &mdash; as paper, ink, butter, overcoat &mdash; have properties of such constant unwavering importance, and have such stereotyped names, that we end by believing that to conceive them in those ways is to conceive them in the only true way. Those are no truer ways of conceiving them than any others; there are only more frequently serviceable ways to us.
+<br />
+&ndash; William James
+</p>
+
+
+<p>
+Human perception is highly contextual: a perceptual stimulus can be viewed by a human in radically divergent ways depending on the context. In contrast, most AI approaches employ processes that creativity theorists would consider convergent, insofar as they search for a single best or optimal answer. This ability to fluidly change perspectives and dynamically reframe a stimulus is a key aspect of human perception and reasoning that we seek to understand in AI terms
+</p>
+.
+
+<p>
+Divergent choices can be made at the boundaries of different representations and computational levels, so this symposium will focus on the representational basis of divergent thinking that allows humans to change perspectives and reconceptualize stimuli with ease. For cognitive systems need to interpret low-level experiences (for example, neuronal, physiological, sensorimotor) using high-level concepts (for example, belief, intention, identity). Recent advances in bottom-up machine learning allow computational systems to go from low-level sensor data up to useful higher-level features. However, humanlike cognition also requires a top-down process to meaningfully frame our perceptual experiences. Crucially, such top-down processes allow an agent to interpret an object or an experience in divergent ways. This divergence is closely related to imaginative play and may also be integral to modeling social phenomena like empathy, since empathy demands we adopt another's viewpoint and see things via a different lens. 
+</p>
+
+
+<p>
+This symposium will explore the following questions from the crossdisciplinary perspective of artificial intelligence, cognitive psychology and cognitive robotics:
+</p>
+
+
+<p>
+1. How might we model divergently unconventional perspectives in a top-down fashion in robotics, AI or machine-vision systems? Though top-down approaches have been used in machine-vision from the get-go in model-driven approaches, the emphasis has been on establishing a convergent ground truth. This symposium will instead focus on how divergent departures from the convergent norm yield creative and playful reinterpretations. In play, an agent deliberately projects a conceptual organization onto an object for which it is not conventionally suited, so that overlooked properties become newly salient and thus suggest novel creative insights.
+</p>
+
+<p>
+2. How are social attributes such as empathy, fairness, identity, cooperation and the self/other distinction anchored in the mechanisms of playful reframing and reconceptualization? How might a theory of mind emerge from these mechanisms?
+</p>
+
+
+<p>
+Papers were also welcomed on these topics:
+</p>
+
+
+<ul>
+	<li>Modeling mental fluidity/agility</li>
+	<li>Shifting perspectives via Analogy</li>
+	<li>Creative tool use in, and by, robots</li>
+	<li>Generating playful interpretations of images</li>
+	<li>Considering another's perspective in social interaction</li>
+	<li>Cognitive development of the ability to reframe and shift perspectives</li>
+	<li>Pretense play (including jokes and ironic language) and creative problem solving</li>
+	<li>Computational models of creative leaps via bisociation, blending, metaphor</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+The symposium will consist of paper presentations, posters, and a panel-led discussion.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Georgi Stojanov (The American University of Paris, France), Bipin Indurkhya (AGH University of Science and Technology, Cracow, Poland), Frank Guerin (University of Aberdeen, Scotland), Tony Veale (University College Dublin (UCD), Ireland)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="https://sites.google.com/site/mcpaaaifall14/" rel="nofollow">supplemental symposium website.</a>
+</p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs06">Natural Language Access to Big Data</a></h3>
+
+<p>
+Today's enterprises need to make decisions based on analyzing massive and heterogeneous data sources. More and more aspects of business are driven by data, and as a result more and more business users need access to data. Offering easy access to the right data to diverse business users is of growing importance. There are several challenges that must be overcome to meet this goal. One is the sheer volume: enterprise data is predicted to grow by 800 percent in the next five years. The biggest part (80 percent) is stored in unstructured documents, most of them missing informative meta data or semantic tags (beyond date, size and author) that might help in accessing them. A third challenge comes from the need to offer access to this data to different types of users, most of whom are not familiar with the underlying syntax or semantics of the data. 
+</p>
+
+
+<p>
+Natural language interfaces and question answering systems, such as Watson, Siri, Start, or Evi, have been successfully implemented in various domains such as within the context of encyclopedic knowledge (for example, IBM`s Jeopardy Challenge), in the field of energy (for example, DGRC) or in the domain of mathematics (for example, Wolfram Alpha). Following prior work in natural language access to databases (NLIDB) and question answering (QA) systems, the symposium plans to bring together people from both academia and industry to present their most recent work related to problems that leverage natural language in the context of big data, share information on their latest investigations, and exchange ideas and thoughts in order to push the research frontier towards new technologies that tackles the aspect of natural language access to large scale and heterogeneous data.
+</p>
+
+
+<h4>Topics</h4>
+<p>
+Research papers on all aspects of interaction with natural language access and question answering to large scale structured and unstructured data. The following topics are of special interest:
+</p>
+
+
+<ul>
+	<li>Natural language Interaction technologies (for example, knowledge navigation; personal assistant)</li>
+	<li>Speech interfaces and interactive question answering</li>
+	<li>Automatic question answering from structured data sources (SQL or NoSQL DBs)</li>
+	<li>Natural language access to the semantic web </li>
+	<li>Question answering and natural language interfaces to linked data</li>
+	<li>Formalization of structured information / queries (RDF, OWL, SPARQL)</li>
+	<li>Machine learning techniques for translating the users' information needs (for example, large-scale hierarchical classification) into formal queries </li>
+	<li>Information extraction at web scale that supports natural language access </li>
+	<li>Web mining, Social network analysis</li>
+	<li>Social media analysis and opinion mining</li>
+	<li>Text summarization (for example, question-focused summarization)</li>
+	<li>Natural language processing for document analysis including information extraction, semantic role labeling and coreference resolution</li>
+	<li>Architectures for natural language access to big data</li>
+	<li>UIMA modules</li>
+	<li>Applications of QA and NLP to big data</li>
+</ul>
+
+
+<h4>Format</h4>
+<p>
+The symposium will include invited talks, presentations of accepted papers, a demo/poster section with showcases for new advances in natural language access and interfaces, and an open panel discussion focusing on key issues at the end. Each accepted paper is allowed to be accompanied by a poster or demo in order to encourage a more interactive presentation of the content.
+</p>
+ 
+
+<h4>Organizing Committee</h4>
+<p>Dan G. Tecuci<br />
+Siemens Corporation, 
+Corporate Technologies<br />
+755 College Road East<br />
+Princeton, NJ 08540, USA<br />
+Email: &#100;&#97;&#110;&#46;&#116;&#101;&#99;&#117;&#99;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;<br />
+<a href="http://www.dantecuci.com" rel="nofollow">www.dantecuci.com</a>
+
+<p>Ulli Waltinger<br />
+Siemens AG Corporate Technology <br />
+Research & Technology Center<br />
+Business Analytics and Monitoring <br />
+Knowledge Modeling & Retrieval (CT RTC BAM KMR)<br />
+Otto-Hahn-Ring 6<br />
+81739 M&uuml;nchen, Deutschland<br />
+Email: &#117;&#108;&#108;&#105;&#46;&#119;&#97;&#108;&#116;&#105;&#110;&#103;&#101;&#114;&#64;&#115;&#105;&#101;&#109;&#101;&#110;&#115;&#46;&#99;&#111;&#109;</p>
+
+<p>Daniel Sonntag<br />
+German Research Center for Artificial Intelligence<br />
+Intelligent User Interfaces<br />
+Stuhlsatzenhausweg 3<br />
+66123 Saarbruecken<br />
+Germany<br />
+Email: &#68;&#97;&#110;&#105;&#101;&#108;&#46;&#83;&#111;&#110;&#110;&#116;&#97;&#103;&#64;&#100;&#102;&#107;&#105;&#46;&#100;&#101;
+<a href="http://www.dfki.de/~sonntag/" rel="nofollow">/www.dfki.de/~sonntag</a></p>
+
+<h4>For More Information</h4>
+<p>
+For further information and other inquiries, please contact the symposium organizers Dan Tecuci (&#100;&#97;&#110;&#46;&#116;&#101;&#99;&#117;&#99;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;) and Ulli Waltinger (&#117;&#108;&#108;&#105;&#46;&#119;&#97;&#108;&#116;&#105;&#110;&#103;&#101;&#114;&#64;&#115;&#105;&#101;&#109;&#101;&#110;&#115;&#46;&#99;&#111;&#109;).</p>
+<p><a href="https://sites.google.com/site/nlabd2014/" rel="nofollow">Supplemental symposium site.</a></p>
+
+
+</p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs07">The Nature of Humans and Machines: A Multidisciplinary Discourse</a></h3>
+
+<p>Recent advances in artificial intelligence &mdash; such as enhancing human capabilities, introducing technological products that replace the need for some human activities, and enabling machines to exhibit characteristics of human intelligent behavior &mdash; are challenging traditional definitions of what it means to be human. This symposium will comprise in-depth research-based treatments of the relevant areas of AI and will also address speculative aspects and have the input from neuroscience, AI-related sciences, and technology areas. The symposium will include strong philosophical, ethical, and policy perspectives from professionals in those areas. The symposium will address big questions about the role and impact of AI on individuals and society including the following:</p>
+<ul>
+	<li>What are the inherent limitations, if any, on AI technologies?</li>
+	<li>Will AI developments evoke a new evolutionary trend that coinvolves AI-enhanced humans and artificially intelligent machines?</li>
+	<li>Can brain-mapping data be used to reverse-engineer neural networks &mdash; or a "brain system" &mdash;<i> in silico</i> that acquires consciousness?</li>
+	<li>What social, legal and/or moral status might be conferred upon such a system (or entity)? </li>
+	<li>What effect would radical longevity have on the conduct of human social, economic, political, and spiritual life? </li>
+</ul>
+
+<h4>Topics</h4>
+<p>
+The overarching goal of the symposium is to foster dialogue and understanding among scientists, humanities scholars, and policy makers about the role of AI research on humans and society. Specific topics include, but are not limited to the following:
+</p>
+
+
+<p>
+(1) Identification of big questions related to growth of AI-related technology with focus on impacts on individuals and society.
+</p>
+
+<p>
+(2) Discourse among speakers, panelists, and participants from two perspectives:
+</p>
+<ul>
+	<li>The latest technical knowledge about AI &mdash; with focus on AI research and development most relevant to the big questions and realistic forecasts for the AI-related technologies</li>
+	<li>Philosophical, ethical and theological perspectives on human nature and the potential impacts that AI-related sciences and technologies incur in current and future society.</li>
+</ul>
+
+<p>
+(3) Analysis of opportunities to improve meaningful communication
+</p>
+<ul>
+	<li>Undergraduate and graduate courses and pedagogical approaches</li>
+	<li>Forums for scientists, scholars in the humanities and social sciences, the public, and policy makers.</li>
+	<li>Planning for ways to sustain dialectical momentum beyond the symposium </li>
+</ul>
+
+<h4>Format</h4>
+<p>
+Experts will present the AI technical foundation for emerging research and applications, philosophical and social science perspectives, and the ethical and policy issues that will impact society. Activities will feature interactive small group discussions as well as panel discussions and invited speakers, including congressional and federal agency representatives.
+</p>
+
+
+<h4>Main Contact</h4>
+<p>
+Larry Medsker, Siena College Institute for Artificial Intelligence. Send questions, comments to &#108;&#109;&#101;&#100;&#115;&#107;&#101;&#114;&#64;&#115;&#105;&#101;&#110;&#97;&#46;&#101;&#100;&#117;, telephone: +1 (802) 488-4708.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Ilia Delio (Georgetown University, &#105;&#100;&#55;&#50;&#64;&#103;&#101;&#111;&#114;&#103;&#101;&#116;&#111;&#119;&#110;&#46;&#101;&#100;&#117;); David Gelernter (Yale University, &#100;&#97;&#118;&#105;&#100;&#46;&#103;&#101;&#108;&#101;&#114;&#110;&#116;&#101;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;); James Giordano (Georgetown University Center for Clinical Bioethics, &#106;&#103;&#51;&#53;&#51;&#64;&#103;&#101;&#111;&#114;&#103;&#101;&#116;&#111;&#119;&#110;&#46;&#101;&#100;&#117;); Cindy Mason (MIT Media Lab, &#99;&#105;&#110;&#100;&#121;&#109;&#97;&#115;&#111;&#110;&#64;&#109;&#101;&#100;&#105;&#97;&#46;&#109;&#105;&#116;&#46;&#101;&#100;&#117;); Paul Werbos (NSF, &#112;&#119;&#101;&#114;&#98;&#111;&#115;&#64;&#110;&#115;&#102;&#46;&#103;&#111;&#118;).
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+For more information, please see the <a href="http://humac.siena.edu/fall-symposium-series-2014/" rel="nofollow">supplemental symposium website.</a>
+</p>
+
+<!--
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs08">Plan Activity and Intent Recognition</a></h3>
+
+<p>
+Plan recognition, activity recognition, and intent recognition all involve making inferences about other actors from observations of their behavior, that is, their interaction with the environment and with each other. The observed actors may be software agents, robots, or humans. This synergistic area of research combines and unifies techniques from user modeling, machine vision, intelligent user interfaces, human/computer interaction, autonomous and multiagent systems, natural language understanding, and machine learning. It plays a crucial role in a wide variety of applications including: personal intelligent assistants, assistive technology in health and smart environments, intelligent human-computer interface, natural language and speech dialogue management, computer and network security, coordination in robots and software agents, and ecommerce and collaborative filtering.
+</p>
+ 
+
+<p>
+This symposium seeks to bring together researchers and practitioners from these diverse backgrounds, to share in ideas and recent results. In addition to traditional topics in plan, activity and intent recognition and the modeling of other agents, this year's symposium will emphasize the discussion of algorithmic challenges and trends in activity and intent recognition and its role in proactive assistive technology ranging from smart environments, mobile personal assistance to automated surveillance. 
+</p>
+
+
+<h4>Topics</h4>
+
+<p>
+Contributions are sought in the following areas of research:
+</p>
+
+
+<ul>
+	<li>Algorithms for plan, activity, intent, or behavior recognition </li>
+	<li>Machine learning and uncertain reasoning for plan recognition and user modeling </li>
+	<li>Hybrid probabilistic and logical approach to plan and intent recognition </li>
+	<li>Modeling users and intents on the web and in intelligent user interface </li>
+	<li>Modeling users and intents in speech and natural language dialogue </li>
+	<li>High-level activity and event recognition in video </li>
+	<li>Algorithms for intelligent proactive assistance </li>
+	<li>Modeling multiple agents, modeling teams and collaboration teamwork</li>
+	<li>Modeling social interactions and social network analysis </li>
+	<li>Adversarial planning, opponent modeling</li>
+	<li>Intelligent tutoring systems (ITS) </li>
+	<li>Programming by demonstration </li>
+	<li>Cognitive models of intent recognition </li>
+	<li>Inferring emotional states </li>
+</ul>
+
+
+<p>
+Related contributions in other fields, are also welcome. 
+</p>
+
+
+
+
+<h4>Organizing Committee</h4>
+<p>
+Christopher Geib, cochair (primary contact) (Drexel University, &#99;&#103;&#101;&#105;&#98;&#64;&#100;&#114;&#101;&#120;&#101;&#108;&#46;&#101;&#100;&#117;), David Pynadath, cochair (USC ICT, &#112;&#121;&#110;&#97;&#100;&#97;&#116;&#104;&#64;&#117;&#115;&#99;&#46;&#101;&#100;&#117;), Hung Bui (Nuance, &#98;&#117;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
+</p>
+
+<h4>For More Information</h4>
+<p>
+For more information, please contact Christopher Geib at the email above. 
+</p>
+
+
+-->
+<div class="hr1">
+<hr />
+</div>
+
+
+</div>
+</div>
+</div>
+
+<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1">AAAI Symposia</span></h2>
+<div class="content">
+<h3 class="text2"><a href="https://aaai.org/Symposia/Fall/fall-symposia.php" title="AAAI fall symposia pages">AAAI Fall Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/Spring/spring-symposia.php" title="AAAI spring symposia pages">AAAI Spring Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/EAAI/eaai-symposia.php" title="AAAI Educational Advances in AI Symposia">AAAI Educational Advances in AI Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Press/Reports/reports.php" title="aaai technical reports">Technical Reports</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Publications/Author/author.php" title="forms and instructions for accepted authors">For Accepted Authors</a></h3> 
+</div>
+
+<h4 class="backgrnd5"><span class="text1">Other Links</span></h4>
+<div class="content">
+<h3 class="text2"><a href="../../../.aaai.org/home.php" title="AAAI Home Page">AAAI Home Page</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">AAAI Press</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops">AAAI Workshops</a></h3>
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</div>
+
+
+
+
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

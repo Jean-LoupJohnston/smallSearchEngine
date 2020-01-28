@@ -1,0 +1,253 @@
+﻿
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI-08 / IAAI-08: Invited Speakers</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI-08 / IAAI-08: Invited Speakers</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+
+<div id="content" class="backgrnd4">
+	<div id="right">
+		<div id="box6">
+			<h2 class="backgrnd12"><span class="text1">AAAI-08 / IAAI-08 Invited Speakers</span></h2>
+
+<!-- <h2 class="backgrnd12"><span class="text1"><a name="tuesday">Tuesday</a>, July 24</span></h2>
+
+<p><b>9:00&ndash;10:00 AM</b></p> -->
+
+<h3 class="text2"><i><a name="Horvitz">AAAI Presidential Address</a></i><br />
+<a href="http://research.microsoft.com/~horvitz/AAAI_Presidential_Lecture_Eric_Horvitz.htm">Artificial Intelligence in the Open World</a></h3>
+<p><b>Eric Horvitz (Microsoft Research)</b></p>
+
+<p><a href="http://research.microsoft.com/~horvitz" rel="nofollow">Eric Horvitz</a> is a principal researcher and research area manager at Microsoft Research. He has had a lifelong interest in perception, reasoning, and action under uncertainty. He has pursued insights about intelligence via studies of inference and decision making under limited and varying computational resources, including investigations of bounded optimality, value of computation, utility-theoretic metareasoning, and flexible procedures and representations. His current interests span theoretical and practical challenges in machine reasoning and learning, principles of human-computer collaboration, and search and information retrieval. Before his service as AAAI president, he was elected a Fellow and is a past councilor of the organization. He has been chair of the Association for Uncertainty and Artificial Intelligence (AUAI), on has served on the DARPA Information Science and Technology Study Group (ISAT), and the Naval Research Advisory Committee (NRAC). He has been active on numerous editorial boards and program committees and with the organization of multiple conferences and workshops. He received his Ph.D. and M.D. degrees at Stanford University.</p>
+
+<h3 class="text2"><i><a name="Ford">Robert S. Engelmore Memorial Award Lecture</a></i><br />
+Toward Cognitive Prostheses</h3>
+<p><b>Kenneth M. Ford (Florida Institute for Human &amp; Machine Cognition [IHMC])</b></p>
+
+<p>The emerging concept of human-centered (HCC) computing represents a significant shift in thinking about intelligent machines and, indeed, about information technology in general. Human-centered computing embodies a &ldquo;systems view,&rdquo; in which human thought and action and technological systems are seen as inextricably linked and equally important aspects of analysis, design, and evaluation. From an AI perspective, the HCC framework is focused less on stand-alone exemplars of mechanical cognitive talent, and is concerned more with computational systems designed to amplify human cognitive and perceptual abilities. This approach results in systems that can be regarded as cognitive or perceptual prostheses, much as eyeglasses are a sort of ocular prosthesis. These systems fit the human and machine components together in ways that exploit their respective strengths and mitigate their respective weaknesses. Building cognitive prostheses is fundamentally different from AI's traditional Turing Test ambition &mdash; it doesn&rsquo;t set out to imitate human abilities, but to extend them. This shift in perspective places human/machine interaction issues at the center of the subject. The &ldquo;system&rdquo; in question isn&rsquo;t &ldquo;the computer,&rdquo; but instead includes cognitive and social systems, computational tools, and the physical facilities and environment. Thus, human-centered computing provides a new research outlook for AI applications, with new research agendas and goals.</p>
+
+<p><a href="http://www.ihmc.us/users/user.php?UserID=kford" rel="nofollow">Kenneth Ford </a>is the founder and director of the Florida Institute for Human &amp; Machine Cognition (IHMC), an independent not-for-profit research institute.</p>
+
+<p>Ford is the author or coauthor of hundreds of scientific papers and six books. Ford&rsquo;s research interests include artificial intelligence, cognitive science, human-centered computing, and entrepreneurship in government and academia. He received a Ph.D. in computer science from Tulane University. He is emeritus editor-in-chief of AAAI/MIT Press, involved in the editing of several journals. Ford is a Fellow of the AAAI.</p>
+
+<p>In January 1997, Kenneth Ford was asked by NASA to develop and direct its new Center of Excellence in Information Technology and to serve as the associate center director at Ames Research Center. In July 1999, Ford was awarded the NASA Outstanding Leadership Medal. That same year, Ford returned to private life and to the IHMC.</p>
+
+<p>In October of 2002, President Bush nominated Kenneth Ford to serve on the National Science Board. In September 2005, Ford received the Doctor Honoris Causas from the University of Bordeaux. Also in 2005, Ford was appointed a member of the Air Force Science Advisory Board. In June 2007, hewas appointed to the NASA Advisory Council.</p>
+
+<h3 class="text2"><i><a name="Efros">AAAI-08 Invited Talk</a></i><br />
+From Images to Scenes: Using Lots of Data to Infer Geometric, Photometric and Semantic Scene Properties from a Single Image</h3>
+<p><b>Alexei A. Efros (Carnegie Mellon University)</b></p>
+
+
+<p>Reasoning about a scene from a photograph is an inherently ambiguous task. This is because a single image in itself does not carry enough information to disambiguate the world that it&rsquo;s depicting. Of course, humans have no problems understanding photographs because of all the prior visual experience they can bring to bear on the task. How can we help computers do the same? We propose to &ldquo;brute force&rdquo; the problem by using massive amounts of visual data, both labeled and unlabeled, as a way of capturing the statistics of the natural world.</p>
+
+<p>In this talk, I will present some of our recent results on inferring geometric, photometric, and semantic scene properties from a single image. I will first briefly describe our system for estimating the rough geometric surface layout of a scene as well as the camera viewpoint. I will show how this information, in turn, can be useful for modeling objects in the scene. Next, I will describe a very simple way of using the surface layout information as a way of estimating a rough illumination map for the scene. Finally, I will describe a new system that uses millions of unlabeled photographs from Flickr to capture some implicit semantic scene structure of an image.</p>
+
+<p>Alexei (Alyosha) Efros is an assistant professor at the Robotics Institute and the Computer Science Department at Carnegie Mellon University. His research is in the area of computer vision and computer graphics, especially at the intersection of the two. He is particularly interested in using data-driven techniques to tackle problems which are very hard to model parametrically but where large quantities of data are readily available. Alyosha received his Ph.D. in 2003 from the University of California, Berkeley and spent the following year as a fine fellow at Oxford, England. Alyosha is a recipient of the NSF CAREER award (2006), the Sloan Fellowship (2008), and the Guggenheim Fellowship (2008).</p>
+
+<h3 class="text2"><i><a name="Haussler">AAAI-08 Invited Talk</a></i><br />
+100 Million Years of Evolutionary History of the Human Genome</h3>
+<p><b>David Haussler (University of California, Santa Cruz)</b></p>
+
+
+<p>With our ability to sequence entire genomes, we have for the first time the opportunity to compare the genomes of present day species, and deduce the trajectories by which they diversified from a common ancestral genome. Starting with a small shrewlike ancestor in the Cretaceous period approximately 100 million years ago, the different species of placental mammals radiated outward, creating a stunning diversity of forms from whales to armadillos to humans. From the genomes of present-day species, it is possible to computationally reconstruct what most of the DNA bases in the genome of the common ancestor of placental mammals must have looked like. We can then deduce most of the changes that lead to humans. In so doing, we discover how Darwinian evolution has shaped us at the molecular level. </p>
+
+<p>Because most random mutations to functionally important regions of DNA reduce fitness, these changes usually disappear over time in a process known as negative selection. From its unusually high conservation between species, it is immediately evident that at least 5 percent of the human genome has been under negative selection during most of mammalian evolution, and is hence likely to be functionally important. Protein-coding genes and structural RNA genes stand out among the negatively selected regions because of their distinctive pattern of restricted DNA base substitutions, insertions and deletions. However, most of the DNA under negative selection in mammalian genomes, and indeed vertebrate genomes in general, does not appear to be part of protein-coding genes, and shares no sequence similarity with any DNA in the genomes of invertebrates. Experimental evidence suggests that many of these unclassified functional elements serve to regulate genes involved in embryonic development. </p>
+
+<p>Overlaid on the background of negative selection, we occasionally see a short segment of widely conserved DNA that has rapidly changed in a particular lineage, suggesting possible positive selection for a modified function in that lineage. The most dramatic example of this in the last 5 million years of human evolution occurs in a previously unstudied RNA gene expressed in the developing cerebral cortex, known as Human Accelerated Region 1 (HAR1). This gene is turned on only in a select set of neurons, during the time in fetal development when these neurons orchestrate the formation of the substantially larger cortex of the human brain. It will be many years before the biology of such examples is fully understood, but right now we relish the opportunity to get a first peek at the molecular tinkering that transformed our animal ancestors into humans. </p>
+
+<p>David Haussler is an investigator with the Howard Hughes Medical Institute and professor of biomolecular engineering at the University of California, Santa Cruz, where he directs the Center for Biomolecular Science and Engineering. He is also affiliated with the Departments of Computer Science and Molecular, Cell, and Developmental Biology. He serves as scientific codirector for the California Institute for Quantitative Biomedical Research and is a consulting professor at both Stanford Medical School and the University of California, San Francisco Biopharmaceutical Sciences Department. Haussler�"s research lies at the interface of mathematics, computer science, and molecular biology. He develops new statistical and algorithmic methods to explore the molecular evolution of the human genome, integrating cross-species comparative and high-throughput genomics data to study gene structure, function, and regulation. He has focused on computational analysis and classification of DNA, RNA, and protein sequences. As a collaborator on the international Human Genome Project, his team posted the first publicly available computational assembly of the human genome sequence on the internet. His group now maintains a <a href="http://genome.ucsc.edu" rel="nofollow">web browser for the genome sequence</a> that is used extensively in biomedical research. Most recently, Haussler has focused on broadly exploring the functional elements of the human genome, primarily through interspecies comparisons; he tests the resulting findings in his wet laboratory. His findings have shed light on the possible functionality of what was once considered to be &ldquo;junk&rdquo; DNA. He has also begun to computationally reconstruct the genome of the ancestor common to placental mammals. Haussler received his BA in mathematics from Connecticut College in 1975, an MS in applied mathematics from California Polytechnic State University at San Luis Obispo in 1979, and his Ph.D. in computer science from the University of Colorado at Boulder in 1982. He was recently elected to both the National Academy of Sciences and the American Academy of Arts and Sciences. He is also a fellow of both AAAS and AAAI. He has won a number of prestigious awards, most recently the 2006 Dickson Prize for Science from Carnegie Mellon University.</p>
+
+<h3 class="text2"><i><a name="Lee">AAAI-08 Invited Talk</a></i><br />Sense and Sensibility: Sentiment Analysis, Opinion Mining, and the Computational Treatment of Subjective Language</h3>
+<p><b>Lillian Lee (Cornell University)</b></p>
+
+
+<p>&ldquo;What do other people think?&rdquo; has always been an important consideration to most of us when making decisions. Long before the world wide web, we asked our friends who they were planning to vote for and consulted <i>Consumer Reports</i> to decide which dishwasher to buy. But the Internet has (among other things) made it possible to learn about the opinions and experiences of those in the vast pool of people that are neither our personal acquaintances nor well-known professional critics &mdash; that is, people we have never heard of. Enter sentiment analysis, a flourishing research area devoted to the computational treatment of subjective and opinion-oriented language. Sample phenomena to contend with range from sarcasm in blog postings to the interpretation of political speeches. This talk will cover some of the motivations, challenges, and approaches in this broad and exciting field.</p>
+
+<p>Lillian Lee is an associate professor of computer science at Cornell University. Her research interests include natural language processing, information retrieval, and machine learning. She is the recipient of the inaugural Best Paper Award at HLT-NAACL 2004 (joint with Regina Barzilay), a citation in &ldquo;Top Picks: Technology Research Advances of 2004&rdquo; by Technology Research News (also joint with Regina Barzilay), and an Alfred P. Sloan Research Fellowship, and her group&rsquo;s work has been featured in the New York Times.</p>
+
+<h3 class="text2"><i><a name="Newman">AAAI-08 Invited Talk</a></i><br />
+Making Sense of Complex Networks</h3>
+<p><b>Mark Newman (University of Michigan)</b></p>
+
+<p>There are networks in almost every part of our lives. Some of them are familiar and obvious: the Internet, the power grid, the road network. Others are less obvious but just as important. The patterns of friendships or acquaintances between people form a social network. Boards of directors join together in networks of corporations. Communities of scientists and other academics join together in networks of collaboration. Recent years have seen an explosion of interest in networks among mathematicians, sociologists, computer scientists, physicists, biologists, and others. This talk will describe some of the successes and challenges of the study of networks and discuss a promising new line of research in the application of methods from machine learning to the analysis and understanding of networked systems.</p>
+
+<p>Mark Newman received his Ph.D. in theoretical physics from the University of Oxford in 1991 and conducted postdoctoral research at Cornell University before moving to the Santa Fe Institute, where he was a resident scientist until 2002, and then to his present position at the University of Michigan. He is currently a professor of physics and complex systems at the University of Michigan as well as being a member of the external faculty of the Santa Fe Institute.</p>
+
+<h3 class="text2"><i><a name="Russell">AAAI-08 Invited Talk</a></i><br />What Is To Be Done?</h3>
+<p><b>Stuart Russell (University of California, Berkeley)</b></p>
+
+
+<p>Much has achieved in the field of AI, yet much remains to be done if we are to reach the goals imagined by the early pioneers. This talk will examine some of what we have recently understood, as a means of identifying what might be understood next. </p>
+
+<p>Stuart Russell received his B.A. with first-class honours in physics at Oxford University in 1982 and his Ph.D. in computer science at Stanford University in 1986. He then joined the faculty of the University of California at Berkeley, where he is is a professor and chair of computer science and holds the Smith-Zadeh chair in engineering. He is a Fellow and former executive council member of AAAI, a Fellow of ACM, and winner of the NSF Presidential Young Investigator Award, the Computers and Thought Award, and the ACM Karl Karlstrom Outstanding Educator Award. He is the author of over 150 papers and three books:<i>The Use of Knowledge in Analogy and Induction; Do the Right Thing: Studies in Limited Rationality</i> (with Eric Wefald); and <i>Artificial Intelligence: A Modern Approach</i> (with Peter Norvig).</p>
+
+<h3 class="text2"><i><a name="Goldstein">IAAI-08 Invited Talk</a></i><br />Realizing Claytronics: A Challenge for AI</h3>
+<p><b>Seth Copen Goldstein (Carnegie Mellon University)</b></p>
+
+
+<p>In this talk, Seth Goldstein will describe the hardware and software challenges involved in realizing Claytronics, a form of programmable matter. The goal of the claytronics project is to create ensembles of cooperating submillimeter robots, which work together to form dynamic 3D physical objects. For example, claytronics might be used to in telepresense to mimic, with high-fidelity and in 3-dimensional solid form, the look, feel, and motion of the person at the other end of the &ldquo;telephone&rdquo; call. To achieve this long-range vision we are investigating hardware mechanisms for constructing sub-millimeter robots, which can be manufactured en masse using photolithography. In parallel with our hardware effort, we are developing novel distributed programming languages and algorithms to control the ensembles. </p>
+
+<p>Dr. Seth Copen Goldstein&rsquo;s research focuses on computing systems and nanotechnology. Broadly speaking, Seth&rsquo;s research is aimed at understanding systems nanotechnology. Among his research efforts are three projects: the Phoenix project, the Claytronics project, and Brain in a bottle. The common theme among these projects is to understand how to design, manufacture, program, and use robust reconfigurable systems built with massive numbers of similar, and often unreliable, programmable units. Dr. Goldstein joined the faculty at Carnegie Mellon University in 1997. He received his Masters and Ph.D. in Computer Science at the University of California at Berkeley. Before attending UC Berkeley, Seth was CEO and founder of Complete Computer Corporation. His undergraduate work was undertaken at Princeton University.</p>
+
+<h3 class="text2"><i><a name="Urmson">IAAI-08 Invited Talk</a></i><br />Boss, the Urban Challenge, and the Promise of Autonomous Driving</h3>
+<p><b>Chris Urmson (Carnegie Mellon University)</b></p>
+
+
+<p>The DARPA Urban Grand Challenge was a 60-mile race through an urban roadway where vehicles had to follow the same rules of the road that human drivers are expected to respect. This challenge differed from the two previous Grand Challenges in that the robots not only had to navigate the course, but they were required to drive safely in the presence of other human-driven cars as well as the other robot competitors. This talk will describe the details of the DARPA Urban Challenge and describe Carnegie Mellon&rsquo;s entry Boss, the autonomous vehicle that won the challenge. I will describe the overall system architecture and highlight the many component technologies that made up Boss. </p>
+
+<p>Chris Urmson researches and develops autonomous navigation algorithms, architectures and systems. He is the director of technology for the Urban Challenge at Carnegie Mellon University and was a principal architect of the Red Team and Red Team Too Grand Challenge entries. He has been part of developing numerous field robots and has tested them in places as exotic as the arctic circle, the Atacama Desert and Pittsburgh, Pennsylvania. He earned his Ph.D. in 2005 from Carnegie Mellon University and his B.Sc. in computer engineering from the University of Manitoba in 1998.</p>
+
+
+
+
+		</div>
+	</div>
+	<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1"><a href="../aaai08.php">AAAI-08</a></span></h2>
+<!--
+<h2 class="backgrnd5"><span class="text1"><a href="https://www.aaai.org/Forms/aaai-registration-form.php">Registration</a></span></h2>
+<h2 class="backgrnd5"><span class="text1"><a href="aaai08hotel.php">Hotel / Transportation</a></span></h2>
+-->
+<h2 class="backgrnd5"><span class="text1">AAAI-08 Information</span></h2>
+<div class="content">
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08aiweb.php">AI and the Web Track</a></h3>
+<!--
+<h3 class="text2"><a href="../../../Publications/Author/author.php">Author Instructions</a></h3>
+-->
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08committee.php">Conference Organizers</a></h3>
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08poker.php">Computer Poker Competition</a></h3>
+<!--
+<h3 class="text2"><a href="aaai08poster.pdf">Conference Poster</a></h3>
+<h3 class="text2"><a href="aaai08sponsor.php">Conference Sponsorship</a></h3>
+-->
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08dc.php">Doctoral Consortium</a></h3>
+<!--
+<h3 class="text2"><a href="aaai08exhibits.php">Exhibits</a></h3>
+-->
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08generalgame.php">General Game Playing Competition</a></h3>
+<h3 class="text2"><a href="../../IAAI/iaai08.php">Innovative AI Applications</a></h3>
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08ii.php">Integrated Intelligence Track</a></h3>
+
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08demos.php">Intelligent Systems Demonstrations</a></h3>
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08robot.php">Mobile Robots</a></h3>
+
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08nectar.php">Nectar Papers</a></h3>
+
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08pgai.php">Physically Grounded AI Special Track</a></h3>
+<!--
+<h3 class="text2"><a href="https://www.aaai.org/Forms/aaai-submission-form.php">Paper Submission Site</a></h3>
+-->
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08senior.php">Senior Member Papers</a></h3>
+
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08student.php">Student Programs</a></h3>
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08technical.php">Technical Program</a></h3>
+
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08teaching.php">Teaching Forum</a></h3>
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08trading.php">Trading Agents Competition</a></h3>
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08tutorials.php">Tutorial Forum</a></h3>
+<!--
+<h3 class="text2"><a href="http://www.tourismvancouver.com">Chicago</a></h3>-->
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08videos.php">Video Competition</a></h3>
+<h3 class="text2"><a href="../../../Workshops/ws08.php">Workshops</a></h3>
+
+</div>
+</div>
+<div id="box5">
+<h2 class="backgrnd5"><span class="text1">Calls for Papers</span></h2>
+<div class="content">
+<p class="text4">
+<b><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08call.pdf">Call for Papers</a></b><br />
+<b><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08aiwebcall.pdf">AI on the Web Call</a></b><br />
+<b><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08dccall.pdf">DC Participation Call</a></b><br />
+<!--
+<b><a href="aaai08iicall.pdf">Integrated Intelligence Call</a></b><br />
+<b><a href="aaai08isdemoscall.pdf">IS Demos Call</a></b><br />
+<b><a href="aaai08robotcall.pdf">Mobile Robot Call</a></b><br />
+-->
+<b><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08nectarcall.pdf">Nectar Papers Call</a></b><br />
+<!--
+<b><a href="aaai08seniorcall.pdf">Senior Member Call </a></b><br />
+<b><a href="aaai08studentcall.pdf">Student Abstracts Call</a></b><br />
+<b><a href="aaai08call.pdf">Technical Program Call</a></b><br />
+-->
+<b><a href="http://www.aaai.org/Conferences/AAAI/2008/aaai08tutorialcall.pdf">Tutorial Proposals Call</a></b><br />
+<!--
+<b><a href="aaai08videocall.pdf">Video Competition Call</a></b><br /> -->
+<b><a href="http://www.aaai.org/Workshops/2008/ws08call.pdf">Workshop Proposals Call</a></b></p>
+
+</div>
+</div>
+	</div>
+	<div style="clear: both;"></div>
+</div>
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="../../../../.platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

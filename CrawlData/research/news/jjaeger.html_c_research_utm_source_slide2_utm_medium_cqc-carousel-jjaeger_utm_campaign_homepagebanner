@@ -1,0 +1,972 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+    
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="keywords" content="Concordia, research, roadkill, fauna, wildlife, transportation, sustainability">
+    <meta http-equiv="description" content="Traffic on the expanded Highway 175 from Quebec City to the Saguenay has been a cause of death for thousands of small and medium-sized mammals.">
+    <title>A new study looks at ways to cut roadkill numbers for small and medium-sized mammals</title>
+    	<link rel="canonical" href="https://www.concordia.ca/cunews/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html" />
+
+	<link rel="shortcut icon" href="http://www.concordia.ca/etc/designs/concordia/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/android-chrome-192x192.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/apple-touch-icon.png">
+    <link rel="manifest" crossorigin="use-credentials" href="http://www.concordia.ca/content/concordia/manifest.json">
+    <link rel="mask-icon" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/safari-pinned-tab.svg" color="#932439">
+    <meta name="msapplication-TileColor" content="#932439">
+    <meta name="theme-color" content="#932439">
+
+	
+<meta property="og:title" content="A new study looks at ways to cut roadkill numbers for small and medium-sized mammals" />
+<meta property="og:description" content="Traffic on the expanded Highway 175 from Quebec City to the Saguenay has been a cause of death for thousands of small and medium-sized mammals." />
+<meta property="og:url" content="https://www.concordia.ca/content/shared/en/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.concordia.ca/content/shared/en/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.img.png/1550244037391.jpg" />
+<meta property="og:image:alt" content="" />
+<meta property="twitter:image:src" content="https://www.concordia.ca/content/shared/en/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.img.png/1550244037391.jpg" />
+	
+    <meta name="categories" content="concordia-news-categories:research" />
+    <meta name="category" content="Research" />
+	<meta name="date" content="2019-02-12 09:46:00" />
+
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index,follow">
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/clientlibs/foundation/main.min.css" type="text/css" />
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/clientlibs/foundation/main.min.js"></script>
+
+
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/bootstrap.min.css" type="text/css" />
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/bootstrap.min.js"></script>
+
+    
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.css" type="text/css" />
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/concordia-master-components.min.css" type="text/css" />
+
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/concordia-master-templates.min.css" type="text/css" />
+
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/main.min.js"></script>
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/quick-links.min.js"></script>
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/rolebased-nav.min.js"></script>
+
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+    <!--[if lt IE 9]>
+    <script src="/etc/designs/concordia/js/html5shiv.js"></script>
+    <script src="/etc/designs/concordia/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+    
+
+
+<body class="news-story news-events shared page ">
+     
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-57BSZT"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-57BSZT');</script>
+		<!-- End Google Tag Manager -->
+    
+    <div id="boot" >
+        
+    <div class="visible-print">
+        <h1 class="top-title">Concordia University</h1>
+        <p>https://www.concordia.ca/content/shared/en/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html</p>
+    </div>
+
+    <div class="parbase emergency-alert">
+        <div class="emergency-alert alert parbase"></div>
+
+    </div>
+
+    
+        
+
+
+
+
+<div class="quick-links link-list">
+
+
+
+
+<div class="c-quicklinks collapse" >
+    <div class="quicklinks-top">
+        
+        <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/next_gen_now.png" alt="Next-Gen. Now." width="242" height="25" />
+        
+    </div>
+
+    <div class="container">
+        <!-- Group of links -->
+        <div class="quicklinks-list">
+<ul><li><strong>Study resources</strong></li>
+                    	<li><a href="../../academics/graduate/calendar/current.htmlate</a></li>
+                    	<li><a href="../../academics/un../../academics/undergraduate/calendar.html                    	<li><a href="https://campus.concordia.ca/psc/pscshttps://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL           	<li><a href="../../events/cancelled-classes.html"../../events/cancelled-classes.htmli><a href="../../students/registration.html">Course registration<../../students/registration.htmli><a href="../../events/academic-dates.html">Important academic d../../events/academic-dates.html/../students/academic-resources.html">More academic resources</a></li>../../students/academic-resources.htmlstrong></li>
+                    	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+                https://stores.concordia.ca/tml">IT services</a></li>
+                    	<li><a href="..../../it.htmlpenings.html">Job opportunities</a></li>
+                ../../hr/jobs/openings.htmlhtml">Security</a></li>
+                    	<li><a href="../..../../campus-life/security.html                	<li><a href="../../students/birks.htm../../maps/shuttle-bus.htmlBirks)</a></li>
+                    	<li><a href="../../s../../students/birks.htmltml">All campus services</a></li></ul><ul><li><strong>What's new</strong></l../../students/campus-services.html="../../events.html">Calendar of events</a></li>
+                    	<li><a href="../../news/stories.html">La../../events.html>
+                    	<li><a href="../../news/media-relations.h../../news/stories.html></li></ul><ul><li><strong>Faculties, Schools & Colleges<../../news/media-relations.html   	<li><a href="../../artsci.html">Arts and Science</a></li>
+                    	<li><a href="../../ginacody.html">Gina Cod../../artsci.htmlgineering and Computer Science</a></li>
+                    	<../../ginacody.htmlinearts.html">Fine Arts</a></li>
+                    	<li><a href="../../jmsb.html">John Molson Schoo../../finearts.htmlli>
+                    	<li><a href="../../sgs.html">S../../jmsb.htmlte Studies</a></li>
+                    	<li><a href="../../academics/units.../../sgs.htmlols, Colleges & Departments</a></li></ul>		
+        </div>
+    </div>
+</../../academics/units.html-- Group of links -->
+	<div class="container">
+        <a class="open-mobile-quick-links" data-toggle="collapse" data-target=".mobile-quicklinks-list">Quick links &nbsp;<span class="arrow concordia-icon concordia-arrow-black-down-icon small"></span></a>
+        <div class="mobile-quicklinks-list collapse">
+            <div class="mobile-main-buttons">
+                <a href="https://owa.concordia.ca/" class="main-nav-btn">Webmail</a>
+                <a href="../../../aaalibrary.concordia.ca/" class=https://owa.concordia.ca/>
+                <a href="https://cspace.concordia.ca/" cla../../../aaalibrary.concordia.ca/        </div>
+
+        	<ul>
+<li class='dropdown'><a data-thttps://cspace.concordia.ca/='.ul1'><strong>Study resources</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul1 collapse'><ul>
+		            	<li><a href="../../academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+		            	<li><a href="../../academics/under../../academics/graduate/calendar/current.html        	<li><a href="https://campus.concordia.ca/psc/pscsp../../academics/undergraduate/calendar.html/a></li>
+		            	<li><a href="../../events/cancelled-clashttps://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBLs/registration.html">Course registration</a></li>
+		   ../../events/cancelled-classes.htmlml">Important academic dates</a></li>
+		            	<li><a../../students/registration.htmlesources.html">More academic resources</a></li></ul><li cla../../events/academic-dates.htmlt='.ul2'><strong>Campus services</strong> &nbsp;<span class='con../../students/academic-resources.html-icon small'></span></a><div class='ul2 collapse'><ul>
+		            	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+		            	<li><a href="../../it.html">IT services</a></li>
+		            	<li><a href="../../hr/jobs/openings.html">Job opportunities</a>https://stores.concordia.ca/href="../../campus-life/security.html">Security</a></li>../../it.html  	<li><a href="../../maps/shuttle-bus.html">Shuttl../../hr/jobs/openings.html/../students/birks.html">Student Service Centre (Birks)</../../campus-life/security.htmls/campus-services.html">All campus services</a><../../maps/shuttle-bus.htmln'><a data-toggle='collapse' data-target='.ul3'><st../../students/birks.html&nbsp;<span class='concordia-icon concordia-arrow-black-down-icon smal../../students/campus-services.htmlpse'><ul>
+		            	<li><a href="../../events.html">Calendar of events</a></li>
+		            	<li><a href="../../news/stories.html">Latest news</a></li>
+		            	<li><a href="../../news/media-relations.html">Media Relations</a></li></ul><li class='dropdown'><a../../events.htmllapse' data-target='.ul4'><strong>Faculties, Schools & Col../../news/stories.htmlpan class='concordia-icon concordia-arrow-black-dow../../news/media-relations.htmllass='ul4 collapse'><ul>
+		            	<li><a href="../../artsci.html">Arts and Science</a></li>
+		            	<li><a href="../../ginacody.html">Gina Cody School of<br>Engineering and Computer Science</a></li>
+		            	<li><a href="../../finearts.html">Fine Arts</a></li>
+		     ../../artsci.htmlef="../../jmsb.html">John Molson School of Business</a><../../ginacody.html	<li><a href="../../sgs.html">School of Graduate Studies</a></li>
+		            	<li><a href=".../../finearts.htmls.html">All Schools, Colleges & Departments</a></../../jmsb.html/li>	
+    		</ul>
+        </div>
+    </div>
+</div></div>
+
+
+<div class=../../sgs.htmllinks">
+    <div class="container">
+        <a class="open-quick-l../../academics/units.html-quicklinks">Quick links <span class="arrow concordia-icon concordia-arrow-white-down-icon small"></span></a>
+        <a class="campaign-link" href="../../campaign.html">The Campaign for Concordia</a>
+
+        <ul class="paranav ">
+        	
+            	<li id="link-myconcordia"><a href="https://my.concordia.ca/">MyConcordia</a></li>
+                <li id="link-cspace"><a href="https://cspace.con../../campaign.html/a></li>
+                <li id="link-webmail"><a href="https://owa.concordia.ca/">Webmail</a></li>
+                <li idhttps://my.concordia.ca/f="../../../aaalibrary.concordia.ca/">Library</a></li>
+            	<https://cspace.concordia.ca/href="../../directories.html">Directories</a></li>
+              https://owa.concordia.ca/f="../../web/a-z.html">A-Z</a></li>
+                <li id="link-map../../../aaalibrary.concordia.ca/</a></li>
+        	
+    	</ul>
+	</div>
+</div>
+        
+
+
+
+
+
+<div ../../directories.htmlinks subsite '>
+    <div class="container">
+        <ul class="pa../../web/a-z.html../admissions.html">Future students</a></li>
+            <l../../maps.html./students.html">Student hub</a></li>
+            <li><a href="../../alumni-friends.html">Alumni &amp; friends</a></li>
+            <li><a href="../../parents.html">Parents</a></li>
+           ../../admissions.htmlaculty-staff.html">Faculty &amp; staff</a></li>
+    ../../students.html="../../news/media-relations.html">Media</a></li../../alumni-friends.html>
+</div>
+    
+    
+    <header class="header subsite ">
+ ../../parents.html"" style="z-index:10;">
+
+            <div cl../../faculty-staff.htmlrow">
+                
+
+
+
+<div id="concordia-logo" c../../news/media-relations.htmlref="../../" class="logo-concordia" title="Back to home">Concordia University</a>
+</div>
+    
+                <div class="row">
+                    <a class="header-btn visible-phone search concordia-icon concordia-search-icon" data-toggle="collapse" data-target="#site-sear../../ta-parent=".main"></a>
+                    <span class="divition"></span>
+    
+                    
+                                    <a class="header-btn visible-phone concordia-icon concordia-fr-icon" href="http://www.concordia.ca/fr/actualites/nouvelles/2019/02/12/nouvelle-etude-sur-des-facons-de-reduire-le-nombre-de-mammiferes-de-petite-et-de-moyenne-taille-tues-sur-la-route.html"></a>
+                    <span class="divition"></span>
+                    <a class="headehttp://www.concordia.ca/fr/actualites/nouvelles/2019/02/12/nouvelle-etude-sur-des-facons-de-reduire-le-nombre-de-mammiferes-de-petite-et-de-moyenne-taille-tues-sur-la-route.html     <div class="hidden-phone">
+                    
+
+
+
+
+<div id="concordia-logo" class='hidden-phone  '>
+    <a href="../../" class="sprites-logo-concordia" title="Back to home">Concordia University</a>
+</div>
+                </div>
+            </div>
+        </div>
+            <div class="hidden-phone">
+                
+
+
+<div class="container row-fluid">
+        <div class="span12"../../="z-index:10;">
+            <h2 class="category-title page-full-window  ">
+                <a href="../../news.html" alt="News">News</a>
+            </h2>
+        </div>
+</div>
+            </div>
+
+        
+
+
+
+
+
+    
+
+    
+
+
+<div id="navigation-wrapper">
+    <div class="navigation">
+        <div id="main-navbar" class="navbar navbar-static container">
+
+ ../../news.html class="nav-collapse collapse">
+                    <ul class='nav subnav ' role="navigation">
+            
+                            <li class="dropdown active">                             
+                                    <a href="../../news/stories.html" role="button">Latest news</a>
+                            </li>
+            
+                            <li class="dropdown ">
+                                    <a href="../../news/archive.html" role="button" class="dropdown-toggle">All s../../news/stories.html                         <div>
+                                        
+                                                <div class="dropdown-menu">
+                            ../../news/archive.html <ul>
+                                                            <li>
+                                                                <a href="../../news/archive.html_cat_concordia-news-categories_arts-culture">
+                                                                    Arts &amp; culture
+                                                                </a>
+                                          ../../news/archive.html_cat_concordia-news-categories_arts-culture                   <li>
+                                                                <a href="../../news/archive.html_cat_concordia-news-categories_in-the-community">
+                                                                    In the community
+                                                                </a>
+                                        ../../news/archive.html_cat_concordia-news-categories_in-the-community                 <li>
+                                                                <a href="../../news/archive.html_cat_concordia-news-categories_research">
+                                                                    Research
+                                                                </a>
+                                                        ../../news/archive.html_cat_concordia-news-categories_research         <li>
+                                                                <a href="../../news/archive.html_cat_concordia-news-categories_sports-wellness">
+                                                                    Sports &amp; wellness
+                                                                </a>
+                                    ../../news/archive.html_cat_concordia-news-categories_sports-wellness                      <li>
+                                                                <a href="../../news/archive.html_cat_concordia-news-categories_student-life">
+                                                                    Student life
+                                                                </a>
+                                                ../../news/archive.html_cat_concordia-news-categories_student-life             <li>
+                                                                <a href="../../news/archive.html_cat_concordia-news-categories_teaching">
+                                                                    Teaching
+                                                                </a>
+                                                        ../../news/archive.html_cat_concordia-news-categories_teaching         <li>
+                                                                <a href="../../news/archive.html_cat_concordia-news-categories_university-affairs">
+                                                                    University affairs
+                                                                </a>
+                                    ../../news/archive.html_cat_concordia-news-categories_university-affairs           </ul>
+                                                </div>
+                                    </div>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="../../news/events.html" role="button">Events</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="../../news/publications-reports.html" role="b../../news/events.htmlmp; reports</a>
+                            </li>
+            
+                            <li class="dropdown ">
+                                    <a href="../../news/media-relations.html" role="b../../news/publications-reports.html Relations</a>
+                                    <button class="open-btn"><span class="concordia-icon concordia-arrow-white-down-icon small"></span></button>
+                                ../../news/media-relations.html                          <div class="dropdown-menu">
+                                                <ul>
+                                                        <li class="">
+                                                            <a tabindex="-1" href="http://www.concordia.ca/news/media-relations/team.html">
+                                                                Our team
+                                                            </a>
+                                                        </li>
+         ../../news/media-relations/team.htmlss="">
+                                                            <a tabindex="-1" href="http://www.concordia.ca/news/media-relations/experts.html">
+                                                                Find an expert
+                                                            </a>
+                                                        </li>
+../../news/media-relations/experts.htmlli class="">
+                                                            <a tabindex="-1" href="http://www.concordia.ca/news/media-relations/filmshoots.html">
+                                                                Filming on campus
+                                                            </a>
+                                                        <../../news/media-relations/filmshoots.html
+                                            </div>
+                                    </div>
+                            </li>
+                    </ul>
+
+                    <a class="search hidden-phone concordia-icon concordia-search-icon" data-toggle="collapse" data-target="#site-search" data-parent=".main"></a>
+                    
+
+        	<a href="http://www.concordia.ca/fr/actualites/nouvelles/2019/02/12/nouvelle-etude-sur-des-facons-de-reduire-le-nombre-de-mammiferes-de-petite-et-de-moyenne-taille-tues-sur-la-route.html" class="lang-toggle hidden-phone">fr</a>
+
+                <div class="campaign-link-div">http://www.concordia.ca/fr/actualites/nouvelles/2019/02/12/nouvelle-etude-sur-des-facons-de-reduire-le-nombre-de-mammiferes-de-petite-et-de-moyenne-taille-tues-sur-la-route.html-list">
+
+
+
+
+<div class="c-quicklinks collapse" >
+    <div class="quicklinks-top">
+        
+        <img src="http://www.concordia.ca/etc/designs/../../campaign.htmls/img/next_gen_now.png" alt="Next-Gen. Now." width="242" height="25" />
+        
+    </div>
+
+    <div class="container">
+        <!-- Group of links -->
+        <div class="quicklinks-list">
+<ul><li><strong>Study rehttp://www.concordia.ca/etc/designs/concordia/clientlibs/img/next_gen_now.pngate/calendar/current.html">Calendar - Graduate</a></li>
+                    	<li><a href="../../academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+                    	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOY../../academics/graduate/calendar/current.html                 	<li><a href="../../events/cancelled-classes.htm../../academics/undergraduate/calendar.htmlref="../../students/registration.html">Course registration</a></li>
+  https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBLemic dates</a></li>
+                    	<li><a href="../../s../../events/cancelled-classes.htmlces</a></li></ul><ul><li><strong>Campus services</strong></li>
+  ../../students/registration.htmlhttps://stores.concordia.ca/">Concordia Stores</a></li>
+         ../../events/academic-dates.htmls</a></li>
+                    	<li><a href="../../hr/jobs/openings.ht../../students/academic-resources.html             	<li><a href="../../campus-life/security.html">Security</a></li>
+                    	<li><a href="../../mhttps://stores.concordia.ca/e bus</a></li>
+                    	<li><a href="../../student../../it.html>Student Service Centre (Birks)</a></li>
+                ../../hr/jobs/openings.htmlces.html">All campus services</a></li></ul><ul><li><strong>What../../campus-life/security.htmlhref="../../events.html">Calendar of events</a></li>
+ ../../maps/shuttle-bus.htmlhref="../../news/stories.html">Latest news</a></li>
+     ../../students/birks.htmlef="../../news/media-relations.html">Media Relations</a></li></ul><ul><li><s../../students/campus-services.html</strong></li>
+                    	<li><a href="../../artsci.html">Arts and Science</a></li>
+                ../../events.html"../../ginacody.html">Gina Cody School of<br>Engineering and Com../../news/stories.html                    	<li><a href="../../finearts.html">Fi../../news/media-relations.html      	<li><a href="../../jmsb.html">John Molson School of Business</a></li>
+                    	<li><a href="../../sgs.html../../artsci.htmlate Studies</a></li>
+                    	<li><a href="../../a../../ginacody.html">All Schools, Colleges & Departments</a></li></ul>		
+        </div>
+    </div>
+</div>
+
+
+
+<div class=../../finearts.html >
+	<!-- Group of links -->
+	<div class="container">
+  ../../jmsb.html"open-mobile-quick-links" data-toggle="collapse" data-target=".mobile-quickl../../sgs.htmlck links &nbsp;<span class="arrow concordia-icon concordia-arrow-black-d../../academics/units.htmlss="mobile-quicklinks-list collapse">
+            <div class="mobile-main-buttons">
+                <a href="https://owa.concordia.ca/" class="main-nav-btn">Webmail</a>
+                <a href="../../../aaalibrary.concordia.ca/" class="main-nav-btn">Library</a>
+                <a href="https://cspace.concordia.ca/" class="main-nav-btn">Cspace</a>
+            </div>
+
+        	<ul>
+<li class='dropdown'><a data-toggle='collapse' data-target='.ul1'><strong>Study resources</strong> &nbsp;<span class='conchttps://owa.concordia.ca/w-black-down-icon small'></span></a><div class='ul1 collapse../../../aaalibrary.concordia.ca/="../../academics/graduate/calendar/current.html">Calendar -https://cspace.concordia.ca/     	<li><a href="../../academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+		            	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+		            	<li><a href="../../events/cancelled-classes.html">Class cancel../../academics/graduate/calendar/current.htmlstration.html">Course registration</a></li>
+		            	../../academics/undergraduate/calendar.htmlemic dates</a></li>
+		            	<li><a href="../../students/ahttps://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL'><a data-toggle='collapse' data-target='.ul2'><strong>../../events/cancelled-classes.html-icon concordia-arrow-black-down-icon small'></span></a><di../../students/registration.html          	<li><a href="https://stores.concordia.ca/">Conco../../events/academic-dates.html./../it.html">IT services</a></li>
+		            	<li><a href=".../../students/academic-resources.htmlunities</a></li>
+		            	<li><a href="../../campus-life/security.html">Security</a></li>
+		            	<li><a href="../../maps/shuttle-bus.html">Shuttle bus</a></li>
+		            	<li><a href="../../students/birks.html">Student Service Centre (Birks)</a></li>
+		          https://stores.concordia.ca/ts/campus-services.html">All campus services</a></li></u../../it.htmldropdown'><a data-toggle='collapse' data-target='.u../../hr/jobs/openings.htmllass='concordia-icon concordia-arrow-black-down-icon smal../../campus-life/security.html          	<li><a href="../../events.html">Calen../../maps/shuttle-bus.html          	<li><a href="../../news/stories.html">La../../students/birks.html        	<li><a href="../../news/media-relations.html">Media Relations../../students/campus-services.html<a data-toggle='collapse' data-target='.ul4'><strong>Faculties, Schools & Colleges</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul4 collapse'><ul>
+		            	<li><a href="../../artsci.html">Arts and Science</../../events.html     	<li><a href="../../ginacody.html">Gina Cody School o../../news/stories.htmlmputer Science</a></li>
+		            	<li><a href=../../news/media-relations.html</a></li>
+		            	<li><a href="../../jmsb.html">John Molson School of Business</a></li>
+		            	<li><a href="../../sgs.html">School of Graduate Studies</a></li>
+		            	<li><a href="../../academics/units.html">All Schools, Colleges & Departments</a></li></ul></div><../../artsci.html
+        </div>
+    </div>
+</div></div>
+
+              ../../ginacody.htmlole-links-mobile">
+                        <a class="open-links" data-toggle="collapse" data-t../../finearts.htmllist">Information for... <span class="arrow conco../../jmsb.htmlrdia-arrow-black-down-icon small"></span></a>
+                       ../../sgs.htmlle-links-list collapse">
+                            <li><a href=../../academics/units.html/li>
+                            <li><a href="../../students.html">Student hub</a></li>
+                            <li><a href="../../alumni-friends.html">Alumni &amp; friends</a></li>
+                            <li><a href="../../parents.html">Parents</a></li>
+                            <li><a href="../../faculty-staff.html">Faculty &amp; staff</a></li>
+                            <li><a href="../../news/media-relations.html">Media</a></li>
+                        ../../admissions.html      </div>
+        
+                    <script>
+               ../../students.htmlinks-mobile .open-links").on('click', function() {
+             ../../alumni-friends.htmlthis);
+                            $this.find('.arrow').toggleClass('conc../../parents.htmldown-icon');
+                            $this.find('.arrow'../../faculty-staff.html-arrow-black-up-icon');
+                        });
+                   ../../news/media-relations.html 
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        var $dropdowns = $('.nav li.dropdown');
+        var delay = 300;
+    
+        $dropdowns
+            .on('mouseover', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+
+                    // Make sure the autocomplete is not showing
+                    $(".ui-autocomplete").css("display","none");
+    
+                    var $this = $(this);
+                    $this.siblings('.open').removeClass('open');
+    
+                    if ($this.prop('hoverTimeout')) {
+                        $this.prop('hoverTimeout', clearTimeout($this.prop('hoverTimeout')));
+                    }
+        
+                    $this.prop('hoverIntent', setTimeout(function() {
+                        $this.addClass('open');
+                    }, 0));
+                }
+            })
+            .on('mouseleave', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+                    var $this = $(this);
+                    $this.siblings('.open').removeClass('open');
+        
+                    if ($this.prop('hoverIntent')) {
+                        $this.prop('hoverIntent', clearTimeout($this.prop('hoverIntent')));
+                    }
+        
+                    // If the dropdown doesn't have any children, set delay to 0
+                    delay = ($this.find('.dropdown-toggle').length != 0) ? 300 : 0;
+        
+                    $this.prop('hoverTimeout', setTimeout(function() {
+                        $this.removeClass('open');
+                    }, delay));
+                }
+            })
+            .on('click', '.open-btn', function() {
+                $this = $(this);
+                $dropdown = $this.closest('.dropdown');
+                $icon = $this.find('span');
+    
+                $(this).closest('.dropdown').find('.dropdown-menu').slideToggle();
+                $dropdown.toggleClass('open');
+    
+                $icon.toggleClass('concordia-arrow-white-down-icon');
+                $icon.toggleClass('concordia-arrow-white-up-icon');
+            });
+
+
+        // On mobile, make sure search is not showing when menu is opened
+        $(".concordia-hamburger-icon").on("click", function() {
+            if ($("#site-search").hasClass("in")) {
+                $("#site-search").collapse("hide");
+            }
+        });
+    
+        // On mobile, make sure navigation is not showing when search is opened
+        $(".concordia-search-icon.visible-phone").on("click", function() {
+            if ($(".nav-collapse").hasClass("in")) {
+                $(".nav-collapse").collapse("hide");
+            }
+        });
+    });
+</script>
+
+        <div class="site-search parbase">
+
+
+
+
+    		
+
+
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.css" type="text/css" />
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.js"></script>
+
+
+<div class="container">
+    <form id="site-search" class="concordia form-horizontal form-collapse collapse" action="http://www.concordia.ca/search.html" method="get"> 
+       http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.css.html" />
+        <input type="hidden" id="directory_urlhttp://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.js"hidden" id="site_search_first_name" value="" />http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.js    <input type="hidden" id="is_subsite" value="true" />
+
+        <div class="control-group" id="select-search-mode">
+            http://www.concordia.ca/search.html     <label class="radio inline" for="concordia-search">
+                    <input type="radio" id="concordia-search" value="concordia-search" name="search-mode" checked />
+                    <div class="radio-input">
+                        <div class="checked"></div>
+                    </div>
+                    Concordia
+                </label>
+                <label class="radio inline" for="directory-search">
+                    <input type="radio" id="directory-search" value="directory-search" name="search-mode" /> 
+                    <div class="radio-input">
+                        <div class="checked"></div>
+                    </div>
+                    Directories
+                </label>
+            </div>
+        </div>
+    
+        <div class="input-append control-group">        
+            <div class="controls">
+                <input class="input-large" type="text" placeholder="Search Concordia" id="input-search" name="q" />
+                <button type="submit" style='' class="btn"><span class="concordia-icon concordia-search-icon"></span><span class="icon-search icon-white hidden-phone"></span></button>
+            </div>
+            <label id="label-search" class="control-label hidden" for="input-search">Search</label>
+        </div>
+    </form>
+</div></div>
+
+    
+        <div class="visible-phone">
+            
+
+
+
+
+<div id="concordia-logo" class='hidden-phone  '>
+    <a href="../../" class="sprites-logo-concordia" title="Back to home">Concordia University</a>
+</div>
+                
+
+
+<div class="container row-fluid">
+        <div class="span12" style="z-index:10;">
+            <h2 class="category-title page-full-window  ">
+                <a href="../../news.html" alt="News">News</a>
+            </h2>
+        </div>
+</div>
+        </div>
+	</header>
+        
+<section id="content-main" class="lang-en">
+    
+
+    <div class="container-full-width">
+        <div class="post story compliant"../../           <div class="section grid-container">
+				<div class="container grid top-section">
+                    <h1 class="article-title">A new study looks at ways to cut roadkill numbers for small and medium-sized mammals</h1>
+                    	<div class="subtitle">Tr../../news.htmlpanded Highway 175 from Quebec City to the Saguenay has been a cause of death for thousands of small and medium-sized mammals </div>
+
+                    <div class="clearfix"></div>
+
+                    <div class="infos">
+                        <div class="row-fluid stack-tablet-1 stack-mobile-1">
+                            <div class="parsys_column span8">
+                                    <div class="date">February 12, 2019</div>
+                                    	<div class="separator">|</div>
+                                    <div class="author">By 
+    
+                                        		<a href="http://www.concordia.ca/news/authors/patrick-lejtenyi.html">Patrick Lejtenyi</a>
+                                	</div>
+                            </div>
+                            
+                                <div class="parsys_column span4">
+                                    <div class="social-media">
+                                        
+
+
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbhttp://www.concordia.ca/news/authors/patrick-lejtenyi.html="https://www.concordia.ca/content/dam/common/icons/social-media/facebook-round.png" alt="Share on Facebook" title="Share on Facebook" height="40" width="40">
+</a>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbershttps://www.facebook.com/sharer/sharer.php?u=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmler" height="40" whttps://www.concordia.ca/content/dam/common/icons/social-media/facebook-round.pngni=true&url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numhttps://twitter.com/intent/tweet?url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmlShare on LinkedInhttps://www.concordia.ca/content/dam/common/icons/social-media/twitter-round.pngs to cut roadkill numbers for small and medium-sized mammals&body=Traffic on the expanded Highway 175 frhttps://www.linkedin.com/shareArticle?mini=true&url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmlstudy-looks-at-wahttps://www.concordia.ca/content/dam/common/icons/social-media/linkedin-round.pngDemail%26utm_medium%3Dshare">
+    <img src="https://www.concordia.ca/content/dam/common/icmailto:?subject=A new study looks at ways to cut roadkill numbers for small and medium-sized mammals&body=Traffic on the expanded Highway 175 from Quebec City to the Saguenay has been a cause of death for thousands of small and medium-sized mammals %0D%0A%0D%0Ahttps%3A%2F%2Fwww.concordia.ca%2Fnews%2Fstories%2F2019%2F02%2F12%2Fa-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html%3Futm_source%3Demail%26utm_medium%3Dshare     <div data-pihttps://www.concordia.ca/content/dam/common/icons/social-media/email-round.png is important, but we first should think about ways to reduce the number of animals getting killed on the road.â¬ý | Photo by Erik Mclean on Unsplash' class="cq-dd-image">
+            <div data-src='/content/shared/en/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals/jcr:content/top-image.img.768.medium.jpg/1550156385097.jpg'      data-media="(max-width: 768px)"></div>
+            <div data-src='/content/shared/en/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals/jcr:content/top-image.img.full.medium.jpg/1550156385097.jpg'     data-media="(min-width: 769px)"></div>
+    
+            
+            <noscript>
+                <img src="http://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals/_jcr_content/top-image.img.768.medium.jpg/1550156385097.jpg" alt="Jochen Jaeger: â¬SHaving connections across or under a highway is important, but we first should think about ways to reduce the number of animals getting killed on the road.â¬ý | Photo by Erik Mclean on Unsplash">
+            </noscript>
+		</div>
+            <div class="caption">
+                Jochen Jaeger: â¬SHaving chttp://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals/_jcr_content/top-image.img.768.medium.jpg/1550156385097.jpg@introspectivedsgn" target="_blank">Erik Mclean</a>, Unsplash
+            </div></div>
+
+                    </div>
+                </div>
+
+            	<div class="container grid-narrow">
+                    <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Most motorists pay little attention to the amount of roadkill they drive over or past on the highway, except when swerving to avoid it.</p>
+<p>But odds are the number of dead animals they encounter is far highehttps://unsplash.com/@introspectivedsgnise globally due to increasing road construction and traffic volumes if humans donâ¬"t install measures to prevent woodland animals from wandering onto busy roads in the first place.</p>
+<p><a href="https://www.concordia.ca/content/concordia/en/faculty.html?fpid=jochen-a-g-jaeger" adhocenable="false">Jochen Jaeger</a> is an associate professor in the <a href="http://www.concordia.ca/artsci/geography-planning-environment.html" adhocenable="false">Department of Geography, Planning and Environment</a> at Concordia.&nbsp;He recently oversaw a study that measured the effectiveness of underground passageways that would let fauna cross the highway safely, and if road mortality levels are lower in road sections with fenhttps://www.concordia.ca/content/concordia/en/faculty.html?fpid=jochen-a-g-jaegersures exist.</p>
+<p>The paper, published in the <a href="https://www.sciencedirect../../artsci/geography-planning-environment.htmlnable="false"><i>Journal of Environmental Management</i></a>, was co-authored with Judith Plante (MA 16) and AndrÃ© Desrochers from the UniversitÃ© Laval (Quebec City). It examined a stretch of the widened Highway 175 between Quebec City and the Saguenay region, much of it in the RÃ©serve faunique des Laurentides and alongside the Parc national de la Jacques-Cartier. Between 2006 and 2012, the Ministry of Transport broadened thhttps://www.sciencedirect.com/science/article/pii/S0301479718312337 between the road surfaces.</p>
+<p>The expanded highway presented a risky landscape for the wildlife living alongside and travelling over it. In order to mitigate animal mortality and the barrier effect of the road, the ministry built 33 wildlife underpasses over a 68-km section. Alongside each underpass opening were 200-metre-long fences.</p>
+<p>The hope was that the underpasses, coupled with the fences, would induce small and medium-sized animals to cross underneath the highway rather than over it. Other jurisdictions have used fences and underpasses for this group of animals, but Jaeger says the Highway 175 project was basically the first to use them in Quebec, which he thinks is a laudable step in the right direction.</p>
+
+</div></div>
+
+
+<div class="image parbase section">
+
+
+<div class="   " id="cq-image-jsp-/content/shared/en/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals/jcr:content/parsys/image"  style="width:auto;">
+    	<img src="http://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals/_jcr_content/parsys/image.img.jpg/1549983544505.jpg" alt="Jochen Jaeger, associate professor in the Department of Geography, Planning and Environment." title="Jochen Jaeger, associate professor in the Department of Geography, Planning and Environment." class="cq-dd-image" />
+    <script type="text/javascript">
+        $(document).ready(function() {
+			$("#33c9e0d3-9296-4df6-a78f-737ebc0http://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals/_jcr_content/parsys/image.img.jpg/1549983544505.jpgiv>
+
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<h4><b>Counting carcasses</b></h4>
+<p>To find out how effective these fences and underpasses were in preventing the deaths of small and medium-sized animals, Jaegerâ¬"s team of students had to first see how many carcasses they would count on the road.</p>
+<p>Over the course of four summers, from 2012 to 2015, they would drive nearly daily along the 68-km stretch of highway (in both directions) and count the number of dead animals they saw. They found a lot, Jaeger says, especially porcupines, but also raccoons, red foxes, skunks, snowshoe hares, squirrels, woodchucks, a few beavers, even two lynx, and many more small mammals like mice and shrews.</p>
+<p>They counted close to 900 bodies in all, though Jaeger believes the actual number of dead animals is significantly higher.</p>
+<p>To find out how many animals go undetected, Plante estimated detection probability by comparing the results of two search teams that worked the road independently for several months. She found that the spotter teams counted only 82 per cent of medium-sized animals. For smaller critters, the detection probability was much lower. The data showed that the observers counted only 17 per cent of the total small mammals dead. In addition, an unknown number of injured animals are thought to have wandered off the highway to die along the side of the road.</p>
+<p>According to Plante, the studyâ¬"s lead author who now works for a Montreal-based environmental consulting firm, â¬SMost people donâ¬"t notice how much roadkill there is on the road. My eyes are so used to counting them now that I can spot bodies easily. Most drivers miss so much they donâ¬"t realize how big the problem is.â¬ý</p>
+<p>But as striking as those numbers were, Jaeger says he was even more interested in where the bodies were found.</p>
+<p>â¬SWe looked at road mortality within the sections that were completely fenced, those that were in the vicinity of the fence ends and those that were far away from the fences,â¬ý he explains.</p>
+<p>â¬SWe found that road mortality was highest at the fence ends, which indicates that some of the animals walked away from the underpass and along the fence to look for an opening. When they found one at the end of the fence, they would attempt to cross the highway and some of them would be killed.&nbsp;This indicates that the fences would need to be longer to discourage animals from moving along them and to meet the target of reduced road mortality.â¬ý</p>
+<p>Plante says that another possible factor affecting the choices of animals in where to make an attempt to cross is the vegetation growing between the roads, which gives animals an illusion of safety. They will run the risk of crossing the first two busy lanes of road to reach the green patches only to find themselves in the same predicament of having to cross another two lanes.</p>
+<h4><b>More fencing, underpasses and overpasses</b></h4>
+<p>Jaeger notes that this is not the first study to look at the effect exclusion fences have on the road mortality of mammals. It is, however, the first to look at the â¬Sfence-endâ¬ý effect for medium-sized mammals and smaller.</p>
+<p>â¬STransport ministries mainly care about larger animals like moose and bears because they cause accidents, while small and medium-sized animals usually donâ¬"t, unless a driver swerves to avoid them,â¬ý he says.</p>
+<p>Animals are going to cross highways one way or another, Jaeger adds. It is in their nature to move across the landscape in search for food, for a mate or for a new territory. The responsibility for humans is to reduce the impacts of roads and traffic on wildlife populations by making those crossings safer.&nbsp;So many porcupines have been killed along the new Highway 175, for instance, that he fears the population in the proximity of the highway could be permanently affected. Porcupines have a very low reproductive rate, much lower than other mammal species of this size: A couple has only one offspring â¬ called a porcupette â¬ per year.</p>
+<p>In order to ensure stable and healthy wildlife populations, future highway designers should integrate measures like fences with underpasses, and sometimes overpasses as well.&nbsp;The identification of roadkill hotspots can help determine where to put the fences and wildlife passages most effectively.</p>
+<p>â¬SHaving connections across or under a highway is important, but we first and more urgently should think about ways to reduce the numbers of animals getting killed on the road,â¬ý Jaeger says. The number of roads on the planet is rapidly increasing. Quite a few of the new roads will affect biodiversity hotspots.</p>
+<p>With&nbsp;<a></a><a adhocenable="false" href="https://www.pnas.org/content/114/30/E6089">the incipient sixth mass extinction event caused by human activities</a>&nbsp;under way, the task of proper road mitigation is crucial in order to preserve biodiversity, and particularly so in the remaining biodiversity hotspots. The results of the study can help improve the design and placement of mitigation measures and therefore are relevant far beyond Quebec. &nbsp;&nbsp;</p>
+<p>The study was supported by the MinistÃ¨re des transports, de la mobilitÃ© durable et de lâ¬"Ãhttps://www.pnas.org/content/114/30/E6089, recently renamed to the <a adhocenable="false" href="https://www.transports.gouv.qc.ca/fr/Pages/default.aspx">MinistÃ¨re des transports du QuÃ©bec</a>, and the <a adhocenable="false" href="https://qcbs.ca/" target="_blank">Quebec Centre for Biodiversity Science</a>.</p>
+<p><i><br>
+Read the cited paper: <a adhocenable="false" href="https://www.sciencedirect.com/science/article/pii/S0301479718312337" target="_blank">How do landscape context and fences influence roadkill locations of small&nbsp;and medium-sized mammals?</a></i></p>
+
+</div></div>
+
+
+<div class="title sectihttps://www.transports.gouv.qc.ca/fr/Pages/default.aspx</h3>
+</div></div>
+
+
+<div class="picker parbase section">
+
+
+
+			<div class="row-fhttps://qcbs.ca/    	<div class="span12">
+						<strong><a href="http://www.concordia.ca/news/media-relations/team/patrick-lejtenyi.html">Patrichttps://www.sciencedirect.com/science/article/pii/S0301479718312337s<br>
+                        514-848-2424, ext. 5068<br>
+                        
+                        
+                        <a href="mailto:patrick.lejtenyi@concordia.ca">patrick.lejtenyi@concordia.ca</a><br>
+                        <a href="https://twitter.com/@ConcordiaUnews">@ConcordiaUnews</a><br>
+                   	</div>
+			</div>
+</div>
+</div>
+
+
+            http://www.concordia.ca/news/media-relations/team/patrick-lejtenyi.htmlt-1 stack-mobile-1">
+                        <div class="parsys_column span6">
+                            <div class="related-topics">
+
+    <div class="c-sidebar-relatedtopics bloc">
+        <h2 class="section-heademailto:patrick.lejtenyi@concordia.ca        <a href="http://www.concordia.ca/news/topic.html?topic=topics:acahttps://twitter.com/@ConcordiaUnews"btn btn-tag btn-small">
+	            geography            
+	        </a>
+	    
+	        <a href="http://www.concordia.ca/news/topic.html?topic=topics:general_interest/research" class="btn btn-tag btn-small">
+	            research            
+	        </a>
+	    
+    </div>
+    <hr>
+</div>
+
+                        </div>
+                        
+                            <div class="parsys_column span6">
+                      http://www.concordia.ca/news/topic.html?topic=topics:academic_disciplines/geographyet="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.concordia.ca/news/stories/2019/http://www.concordia.ca/news/topic.html?topic=topics:general_interest/researchized-mammals.html">
+    <img src="https://www.concordia.ca/content/dam/common/icons/social-media/facebook-round.png" alt="Share on Facebook" title="Share on Facebook" height="40" width="40">
+</a>
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbershttps://www.facebook.com/sharer/sharer.php?u=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmler" height="40" whttps://www.concordia.ca/content/dam/common/icons/social-media/facebook-round.pngni=true&url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numhttps://twitter.com/intent/tweet?url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmlShare on LinkedInhttps://www.concordia.ca/content/dam/common/icons/social-media/twitter-round.pngs to cut roadkill numbers for small and medium-sized mammals&body=Traffic on the expanded Highway 175 frhttps://www.linkedin.com/shareArticle?mini=true&url=https://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmlstudy-looks-at-wahttps://www.concordia.ca/content/dam/common/icons/social-media/linkedin-round.pngDemail%26utm_medium%3Dshare">
+    <img src="https://www.concordia.ca/content/dam/common/icmailto:?subject=A new study looks at ways to cut roadkill numbers for small and medium-sized mammals&body=Traffic on the expanded Highway 175 from Quebec City to the Saguenay has been a cause of death for thousands of small and medium-sized mammals %0D%0A%0D%0Ahttps%3A%2F%2Fwww.concordia.ca%2Fnews%2Fstories%2F2019%2F02%2F12%2Fa-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html%3Futm_source%3Demail%26utm_medium%3Dshare  <div class="txthttps://www.concordia.ca/content/dam/common/icons/social-media/email-round.png-research-how-to-reduce-roadkill-jochen-jaeger.html?rootnav=news/stories">
+            NEW RESEARCH: How to reduce roadkill 
+        </a>
+    </div>
+</li>
+
+
+ 
+<li class="item last">
+    <div class="txt">
+        <a href="http://www.concordia.ca/cunews/main/stories/2016/01/26/zachary-patterson-uses-smart-phone-apps-to-help-solve-public-transport-issues.html?rootnav=news/stories">
+            The smart(phone) solution for urban mobility
+        </a>
+    </div>
+<http://www.concordia.ca/cunews/main/stories/2017/04/04/new-research-how-to-reduce-roadkill-jochen-jaeger.html?rootnav=news/stories
+            <div class="container grid-wide">
+                <div class="post compliant bottom">
+                    <h2>Trending</h2><div class="rhttp://www.concordia.ca/cunews/main/stories/2016/01/26/zachary-patterson-uses-smart-phone-apps-to-help-solve-public-transport-issues.html?rootnav=news/storiesigns/concordia/clientlibs/news/news-list.min.css" type="text/css" />
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/news/news-list.min.js"></script>
+
+
+<div class="clearfix"></div>
+		
+
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-resizecrop.min.js"></script>
+
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/news/news-grid.min.css" type="text/css" />
+<shttp://www.concordia.ca/etc/designs/concordia/clientlibs/news/news-list.min.css/clientlibs/news/news-grid.min.js"></script>
+
+
+<div classhttp://www.concordia.ca/etc/designs/concordia/clientlibs/news/news-list.min.jsclass="parbase section card-deck">
+        <div class="card-rows cols-3 stack-mobilhttp://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-resizecrop.min.js      <div class="parbase section card">
+ http://www.concordia.ca/etc/designs/concordia/clientlibs/news/news-grid.min.csscolor: #fff;" >
+                        <a class="no-iconhttp://www.concordia.ca/etc/designs/concordia/clientlibs/news/news-grid.min.jsney-6-great-concordia-grads-share-what-theyve-learned.html">
+                            <img class="media-object" src="http://www.concordia.ca/cunews/main/stories/2019/11/08/enjoy-the-journey-6-great-concordia-grads-share-what-theyve-learned.img.png/1573234937935.jpg" alt="â¬ÜEnjoy the journeyâ¬": 6 great Concordia grads share what theyâ¬"ve learned">
+                            <div class="card-block">
+                                <h3 class="cahttp://www.concordia.ca/cunews/main/stories/2019/11/08/enjoy-the-journey-6-great-concordia-grads-share-what-theyve-learned.html                      		<div class="card-date card-date-black"http://www.concordia.ca/cunews/main/stories/2019/11/08/enjoy-the-journey-6-great-concordia-grads-share-what-theyve-learned.img.png/1573234937935.jpg    
+
+
+                <div class="parbase section card">
+                    <div class="card-container left link-div" style="background-color: #fff;" >
+                        <a class="no-icon " href="http://www.concordia.ca/news/stories/2019/11/13/25-concordia-students-join-ericssons-global-artificial-intelligence-accelerator.html">
+                            <img class="media-object" src="http://www.concordia.ca/news/stories/2019/11/13/25-concordia-students-join-ericssons-global-artificial-intelligence-accelerator.img.png/1574201592002.jpg" alt="25 Concordia students join Ericssonâ¬"s Global Artificial Intelligence Accelerator">
+                            <div class="card-block">
+                              http://www.concordia.ca/news/stories/2019/11/13/25-concordia-students-join-ericssons-global-artificial-intelligence-accelerator.html</h3>
+                               		<div class="card-date chttp://www.concordia.ca/news/stories/2019/11/13/25-concordia-students-join-ericssons-global-artificial-intelligence-accelerator.img.png/1574201592002.jpg
+
+
+            
+
+
+                <div class="parbase section card">
+                    <div class="card-container left link-div" style="background-color: #fff;" >
+                        <a class="no-icon " href="http://www.concordia.ca/news/stories/2019/11/15/the-irish-government-honours-two-concordia-researchers-for-their-groundbreaking-work-at-the-university.html">
+                            <img class="media-object" src="http://www.concordia.ca/news/stories/2019/11/15/the-irish-government-honours-two-concordia-researchers-for-their-groundbreaking-work-at-the-university.img.png/1573833739924.jpg" alt="The Irish government honours two Concordia professors for their groundbreaking work at the university">
+                  ../../news/stories/2019/11/15/the-irish-government-honours-two-concordia-researchers-for-their-groundbreaking-work-at-the-university.htmlia professors for their groundbreaking work at the university<http://www.concordia.ca/news/stories/2019/11/15/the-irish-government-honours-two-concordia-researchers-for-their-groundbreaking-work-at-the-university.img.png/1573833739924.jpg         </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    </ul>
+</div>
+<div class="clearfix"></div>
+
+</div>
+</div>
+</div>
+
+                </div>
+            </div>
+            <div class="c-back-to-top">
+                <span>Back to top</span>
+                <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/sprites/icon-back-to-top.jpg">
+            </div>
+        </div>
+
+
+        
+
+<!--[if lte IE 8]>
+    <style>#boot .c-back-to-top span { display: none !important; } </style>
+<![endif]-->
+
+
+
+
+<p class="visible-print pull-right">&copy; Concordia University</p>
+
+
+<footer class="c-footer ">
+    <div class="main">
+        <div class="wrap">
+            <h5><span class='text-uppercase'>Concordia University</span> - Call us at 514-848-2424</h5>
+            <div clashttp://www.concordia.ca/etc/designs/concordia/clientlibs/img/sprites/icon-back-to-top.jpgiv class="row-fluid">
+                            <div class="span6 col">
+                                    <div class="link_list link-list">
+
+
+    <div class="c-bloc-links ">
+
+        <ul class="">
+                            <li class=""><a href="../../about.html">About</a></li>
+                            <li class=""><a href="../../academics.html">Academics</a></li>
+                            <li class=""><a href="../../admissions.html">Admissions</a></li>
+                            <li class=""><a href="../../campus-life.html">Campus life</a></li>
+                            <li class=""><a href="../../research.html">Research</a></li>
+                            <li class=""><a href="../../international.html">International</a></li></ul> 
+</div></di../../about.html                </div>
+    
+                            <div class="../../academics.html                            <div class="link_list link-list">
+
+
+    <../../admissions.htmlks ">
+
+        <ul class="unstyled">
+                            <li c../../campus-life.html/admissions.html">Future students</a></li>
+                            <l../../research.html"../../students.html">Current students</a></li>
+                      ../../international.htmlef="../../alumni-friends.html">Alumni & friends</a></li>
+                            <li class=""><a href="../../parents.html">Parents </a></li>
+                            <li class=""><a href="../../faculty-staff.html">Faculty & staff</a></li>
+                            <li class=""><a href="../../news/media-relations.htm../../admissions.html> 
+</div></div>
+
+                            </div>
+                        <../../students.html       </div>	
+                    <div class="span6 col contact">
+            ../../alumni-friends.htmls="wysiwyg parbase">
+<div class="rte">
+<div class="row-fluid"><div class="spa../../parents.htmlr"><div class="org">Sir George Williams Campus</div>
+<div class="street../../faculty-staff.htmlneuve Blvd. W.</div>
+<div><span class="locality">Montreal</span>, <span class=../../news/media-relations.htmllass="country-name">Canada</span></div>
+<div class="postal-code">H3G 1M8</div>
+</div>
+<div class="link"><a href="../../maps/sgw-campus.html" adhocenable="false">See SGW Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+<div class="span6"><div class="adr"><div class="org">Loyola Campus</div>
+<div class="street-address">7141 Sherbrooke Street W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H4B 1R6</div>
+</div>
+<div class="link"><a href="../../maps/loyola-campus.html" adhocenable="false">See Loyola Campus ma../../maps/sgw-campus.htmlap"></i></a></div>
+</div>
+</div>
+</div></div>
+
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">       
+        <div class="wrap">    
+            <div class="row-fluid">
+                <div class="social">
+                    <div class="social-media-icons social-media-list">
+
+
+<div class="social">
+    
+            <ul>
+            
+                            <li c../../maps/loyola-campus.htmlite" href="https://facebook.com/ConcordiaUniversity" target="_blank">facebook</a></li>
+                            
+                            <li class=""><a class="twitter-white" href="https://twitter.com/Concordia" target="_blank">twitter</a></li>
+                            
+                            <li class=""><a class="youtube-white" href="http://youtube.com/user/ConcordiaUni" target="_blank">youtube</a></li>
+                            
+                            <li class=""><a class="linkedin-white" href="hhttps://facebook.com/ConcordiaUniversityversity" target="_blank">linkedin</a></li>
+                            
+                            <li class=""><a class="instagram-whithttps://twitter.com/Concordia/concordiauniversity" target="_blank">instagram</a></li>
+                            
+                            <li class=""><a class=http://youtube.com/user/ConcordiaUnikr.com/photos/concordiauniversity/" target="_blank">flickr</a></li>
+                            
+            </ul> 
+
+    <div class="lbhttp://linkedin.com/company/concordia-university.html">Concordia social</a>
+        
+    </div>
+</div></div>
+ 
+                </div>
+
+                <div class="c-bloc-links">
+        http://instagram.com/concordiauniversity             <li>&copy; Concordia University</li> 
+                        <li class=""><a href="http://www.concordia.ca/web/terms.html">Tehttp://www.flickr.com/photos/concordiauniversity/><a href="http://www.concordia.ca/web/privacy.html">Privacy</a></li>
+                        <li class=""><a href="http://www.concordia.ca/we../../social.htmltml">Accessibility</a></li>
+                            <li class=" feedback"><a href="http://www.concordia.ca/web/feedback-forms.html">Website feedback</a></li>
+                    </ul>
+                </div>
+           </div>
+        </div>
+    </div>
+
+    
+</footer>
+
+
+../../web/terms.html <div class="main-buttons-div">
+            <a href="../../" cl../../web/privacy.htmliv class="icon-white icon-home"></div>
+                <div>Conco../../web/accessibility.htmlhref="tel://514-848-2424" class="main-link call-us">
+                <div>Call us at../../web/feedback-forms.html            </a>
+            <div style="clear: both;"></div>
+        </div>
+    
+        <div class="wysiwyg parbase">
+<div class="rte">
+<div class="row-fluid"><div class="span6"><div class="adr"><div class="org">Sir George Wil../../Campus</div>
+<div class="street-address">1455 De Maisonneuve Blvd. W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H3G 1M8</div>
+</div>
+<div class="link"><a href="../../maps/sgw-campus.html" adhocenable="false">See SGW Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+<div class="span6"><div class="adr"><div class="org">Loyola Campus</div>
+<div class="street-address">7141 Sherbrooke Street W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H4B 1R6</div>
+</div>
+<div class="link"><a href="../../maps/loyola-campus.html" adhocenable="false">See Loyola Campus ma../../maps/sgw-campus.htmlap"></i></a></div>
+</div>
+</div>
+</div></div>
+
+
+    <div class="share-div">
+        <div class="title">Share this page</div>
+        <div class="social">
+            <a href="http://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html" target="_blank">
+                <div class="facebook-white"></div>
+            </a>
+        </div>
+        <d../../maps/loyola-campus.html  <a href="http://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html" target="_blank">
+                <div class="twitter-white"></div>
+            </a>
+        </http://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmloadkill-numbers-for-small-and-medium-sized-mammals.html" target="_blank">
+                <div class="linkedin-white"></div>
+            </a>
+        </http://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.html-forms.html">Website feedback</a>
+
+        <div class="web-links">
+            <div class="web-link"><a href="http://www.concordia.ca/web/terms.html">Thttp://www.concordia.ca/news/stories/2019/02/12/a-new-study-looks-at-ways-to-cut-roadkill-numbers-for-small-and-medium-sized-mammals.htmlass="web-link"><a href="http://www.concordia.ca/web/accessibility.html">Accessibility</a></div>
+            <div style="clear: both;"></div>
+        </div>
+    </div>
+
+    <div class="copy-div">    ../../web/feedback-forms.html                                                                                                   ../../web/terms.html                                                             ../../web/privacy.html                                                               ../../web/accessibility.html                                                                                                                                                                                                                                                                                                                                                                                                                                              

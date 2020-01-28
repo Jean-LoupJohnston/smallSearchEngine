@@ -1,0 +1,580 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2019Fall Symposium Series</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2019 Fall Symposium Series</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="fss16.php"><img src="http://www.aaai.org/Symposia/Fall/Photos/dc.jpg" alt="White House" width="639" height="143" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2019 Fall Symposium Series</span></h2>
+<div class="content">
+<p>Sponsored by the Association for the Advancement of Artificial Intelligence<br />
+Washington, DC, November 7&ndash;9, 2019 </p>
+<h5>Important Deadlines</h5>
+<ul>
+	<li> Submissions due to organizers (please see individual descriptions for extensions): July 26</li>
+	<li>Organizers send notifications to authors: August 16</li>
+	<li>FSS final papers due to organizers: September 13 (recommended)</li>
+	<li>Registration deadline: September 20</li>
+</ul>
+
+<h5>AAAI Fall Symposium Submission Site</h5>
+<p>Authors should submit their work via the <a href="https://easychair.org/conferences/?conf=fss19" rel="nofollow">AAAI Fall Symposium EasyChair</a> site. Please be sure to select the appropriate symposium when submitting your work.
+</p>
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs01">
+Artificial Intelligence and Human-Robot Interaction for Service Robots in Human Environments</a></h3>
+
+<p>
+The past few years have seen rapid progress in the development of service robots. Universities and companies alike have launched major research efforts toward the deployment of ambitious systems designed to aid human operators performing a variety of tasks. These robots will make those who may otherwise need to live in assisted care facilities more independent, to help workers perform their jobs, or simply to make life more convenient. Service robots provide a powerful platform on which to study artificial intelligence (AI) and human-robot interaction (HRI) in the real world. Research sitting at the intersection of AI and HRI is crucial to the success of service robots.
+</p>
+
+<p>
+This symposium seeks to highlight research enabling robots to effectively interact with people autonomously while modeling, planning, and reasoning about the environment that the robot operates in and the tasks that it must perform. AI-HRI deals with the challenge of interacting with humans in environments that are relatively unstructured or which are structured around people rather than machines, as well as the possibility that the robot may need to interact naturally with people rather than through teach pendants, programming, or similar interfaces.
+</p>
+
+<h5>Topics</h5>
+<ul>
+	<li>Architectures and systems supporting autonomous HRI</li>
+	<li>Interactive learning</li>
+	<li>Interactive dialog systems and natural language</li>
+	<li>Field studies, experimental, and empirical HRI</li>
+	<li>Tools for autonomous HRI</li>
+	<li>Design ethnography for service robots</li>
+	<li>Development, fielding, and experimentation for service robots</li>
+	<li>Physical human-robot interaction</li>
+	<li>Knowledge representation and reasoning to support human-robot interaction and robot tasking</li>
+	<li>Applications of autonomous service robots</li>
+</ul>
+
+<h5>Submissions</h5>
+<ul>
+	<li>Full papers (6&ndash;8 pages) highlighting state of the art research or design in AI-HRI for service robots.</li>
+	<li>Short papers (2&ndash;4 pages) including position papers, late-breaking reports, or work-in-progress reports.</li>
+</ul>
+<p>
+Papers are to be submitted through the AAAI Easychair site. Proceedings will be published through Arxiv. 
+</p>
+
+<p>
+Accepted full papers will be presented as oral presentations, and short papers will be presented as posters. There will be panel discussions by the authors, position talks, keynote presentations, and general discussion sessions and networking.
+</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Justin W. Hart (University of Texas Austin), Nick DePalma (Samsung Research of America), Richard G. Freedman (Smart Information Flow Technologies and University of  Massachusetts Amhers), Luca Iocchi (Sapienza University of Rome), Matteo Leonetti (University of Leeds), Katrin Lohan (Heriot-Watt University), Ross Mead (Semio), Emmanuel Senft (Plymouth University), Jivko Sinapov (Tufts University), Elin A. Topp (Lund University) 
+</p>
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="https://ai-hri.github.io" rel="nofollow">supplemental symposium website. </a>
+</p>
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs02">
+Artificial Intelligence and Work</a></h3>
+
+<p>
+This symposium will discuss and plan how AAAI researchers can contribute to research on human work with artificial intelligence. AI technologies are characterized by their autonomy and their ability to learn from and interact with both humans and other systems. As such, AI-enabled systems are increasingly capable of performing tasks that have traditionally been the sole purview of humans. These abilities enable them to perform useful work, sometimes more accurately than humans, with greater speed and at less cost. At the same time, these systems fall short in ways that illuminate humans�" unique capabilities. Whether positive or negative, the potential impacts of AI-enabled systems on human work and employment will be immense, demanding a coordinated research response. How should we design organizations, design education and build systems to accommodate and augment these shifts in society? Questions such as these will anchor the agenda of this symposium.
+</p>
+
+<h5>Topics</h5>
+<p>
+Possible topics for discussion include the following:
+</p>
+
+
+<ul>
+	<li>How are contemporary AI systems being deployed and what effects on human work are being observed?</li>
+
+	<li>How can AI be effectively designed and deployed while at the same time improving the knowledge and satisfaction of human workers?</li>
+
+	<li>What are some of the untapped opportunities or open challenges for AI-based systems given known insights about the nature of work?</li>
+
+	<li>How will technologies currently on the horizon affect work and what are reasonable anticipatory strategies, for design and related to training and education?</li>
+
+	<li>What are possible second- and third-order effects of AI on work, both current and on the horizon, and how might these be anticipated and mitigated?</li>
+
+	<li>How do the impacts of AI-enabled systems differ across settings, industries, socio-economic status and geography?</li>
+</ul>
+
+<p>
+While the symposium will include panel presentations and a poster session, at its heart will be small group discussions in which attendees can identify salient research gaps and deliberate plans for future research.
+</p>
+
+<h5>Submissions</h5>
+<p>
+Those interested in being on a panel or presenting a poster should submit a 2&ndash;4 page position statements to the AAAI Fall Symposium EasyChair site.
+</p>
+
+<h5>Organizing Committee</h5>
+<p>Kevin  Crowston, Chair (Syracuse University School of Information Studies, Hinds Hall, Syracuse, NY 13244, +1-315-443&ndash;5806, crowston@syr.edu); Ingrid Erickson (Syracuse University, Syracuse, NY 13244, imericks@syr.edu); Jeffrey Nickerson (Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, jnickerson@stevens.edu)</p>
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="https://waim.network/fs19" rel="nofollow">supplemental symposium website. </a> or direct questions to fs19@waim.network.</p>
+
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs03">AI for Social Good</a></h3>
+
+<p>
+This symposium solicits paper submissions from participants (2-6 pages) in either of the three disciplines described in the following:
+</p>
+
+<p>
+<i>Humanitarian Relief and Development:</i> Detecting and predicting how a crisis or conflict could develop, analyzing the impact of catastrophes in a cyber-physical society, and assisting in disaster response as well as resource allocation are of utmost importance, and the advances in AI can be utilized in many such tasks. This track will focus on all aspects of humanitarian relief operations supported by the novel use of AI ranging from enabling missing persons to be located, leveraging crowdsourced data to provide early warning for rapid response to emergencies, increasing situational awareness, to logistics and supply chain management.
+</p>
+
+<p>
+<i>Planetary Intelligence from Spaceborne Imagery:</i> We receive petabytes of image data from satellites every day that observes atmospheric processes, vegetation, and water bodies. Due to limited data assimilation techniques in practice, only a small fraction of these are used for extracting useful, actionable insights about our planet. This track will focus on computer vision and machine learning techniques applied on different types of imagery (satellite, drone, still and video capture, RGB, multispectral, hyperspectral, combination of imaging with other modalities) to address practical applications in the environmental and social sciences such as climate and weather prediction, urban planning, transportation systems, agricultural monitoring, and socio-economic development analysis.
+</p>
+
+<p>
+<i>Responsible AI in Healthcare: </i>Healthcare data, in general, is characterized by several data problems such as missing data, lack of standardization, incompleteness, etc. which hinders the deployment of solutions which are relevant to real-world use cases. Moreover, many AI solutions in healthcare have the "last mile problem," where delivering a practical solution. These have broader implications in the context of fairness, explainability, and transparency. This track will focus on a broad range of AI healthcare applications and challenges encountered including but not limited to: automation bias, prescriptive AI models, explainability, privacy and security, transparency, decision rights, and so on, especially in the context of deployment of AI in healthcare.
+</p>
+
+<p>
+Abstracts of the following flavors are sought:
+</p>
+
+<ol>
+	<li>Research ideas</li>
+	<li>Case studies (or deployed projects)</li>
+	<li>Review papers</li>
+	<li>Best practice papers</li>
+	<li>Lessons learned</li>
+</ol>
+
+<h5>Submissions</h5>
+<p>This symposium solicits paper submissions from participants (2-6 pages) in either of the three disciplines. Abstracts of the following flavors are sought: (1) Research ideas, (2) Case studies (or deployed projects), (3) Review papers, (4) Best practice papers, and (5) Lessons learned. The format is the standard double-column AAAI proceedings style. Submissions should be made through the AAAI Fall Symposium EasyChair site. All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.</p>
+
+<h5>Organizing Committee</h5>
+<ol>
+	<li><i>Track 1: </i>Humanitarian Relief and Development</li>
+
+<ul>
+	<li>Hemant Purohit, George Mason University (chair)</li>
+	<li>James Hendler, Rensselaer Polytechnic Institute</li>
+	<li>Mayank Kejriwal, University of Southern California</li>
+	<li>Oshani Seneviratne, Rensselaer Polytechnic Institute</li>
+</ul>
+	<li><i>Track 2: </i>Planetary Intelligence from Spaceborne Imagery</li>
+<ul>
+	<li>Kalai Ramea, Palo Alto Research Center (chair)</li>
+	<li>Raja Bala, Palo Alto Research Center</li>
+	<li>Imme Ebert-Uphoff, Colorado State University </li>
+	<li>Stefano Ermon, Stanford University</li>
+</ul>
+	<li><i>Track 3: </i> Responsible AI in Healthcare</li>
+<ul>
+	<li>Muhammad Aurangzeb Ahmad, University of Washington and KenSci Inc. (chair) </li>
+	<li>Carly Eckert, University of Washington and KenSci Inc. </li>
+	<li>Tae Hyun Hwang, Cleveland Clinic</li>
+	<li>Ankur Teredesai, University of Washington and KenSci Inc.</li>
+</ul></ol>
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="https://ai-for-socialgood.github.io" rel="nofollow">supplemental symposium website. </a>
+</p>
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs04">Artificial Intelligence for Synthetic Biology</a></h3>
+
+<p>
+We held a very successful version of this symposium at the 2018 AAAI Fall Symposium Series. Our primary goal remains the same &mdash; to connect and build mutually beneficial collaborations between the AI and the synthetic biology communities. This year we want to include some working groups with particular foci to foster hands-on interaction and discussion of research challenges at the intersection of synthetic biology and AI.
+</p>
+
+<p>
+Synthetic biology is the systematic design and engineering of biological systems. Synthetic biology holds the potential for revolutionary advances in medicine, materials, environmental remediation, and many more. For example, some synthetic biologists are developing cellular programs to identify and kill cancer cells, while others are trying to design plants that will extract harmful pollutants like arsenic from the ground.
+</p>
+
+<p>
+Often the design of synthetic organisms occurs at a low level (for example, DNA level) in a manual process that becomes unmanageable as the size and complexity of a design grows. This is analogous to writing a computer program in assembly language, which also becomes difficult quickly as the size of the program grows. Additionally, many of the emerging techniques and tools in synthetic biology produce large amounts of data. Understanding and processing this data provides more avenues for AI techniques to make a big impact.
+</p>
+
+<p>
+Data driven modeling of biological systems also presents opportunities to apply AI techniques. Work is needed to help predict the outcome of genetic modifications, identify root causes of failure in circuits, and predict the effect of a circuit on a host organism.
+</p>
+
+<p>
+Currently most organism engineering workflows have little automation and rely heavily on domain expertise, only some of which is shared in publications. Tools that support or carry out information integration and informed decision making can improve the efficiency and speed of organism engineering, and enable better results.
+</p>
+
+<p>
+A broad set of AI techniques can advance the progress of synthetic biology, and help realize these goals.
+</p>
+
+<p>
+Topics of interest include (but are not limited to) the following:
+</p>
+
+
+<ul>
+	<li>Machine-assisted gene circuit design</li>
+	<li>Flexible protocol automation</li>
+	<li>Assay interpretation and modeling</li>
+	<li>Representation and exchange of designs</li>
+	<li>Representation and exchange of protocols</li>
+	<li>Data driven modeling of biological systems</li>
+</ul>
+<p>
+The symposium will include brief introductions to each domain to ensure it is accessible to attendees with both backgrounds; focus groups looking at some of the open problems and challenges in the intersection of AI and synthetic biology; contributed talks; and panel discussions.
+</p>
+
+<h5>Submissions</h5>
+<p>
+Full papers (up to 7 pages) presenting a problem in the synthetic biology space that AI techniques might address, and optionally a description of the technique that addresses it. Alternatively, presenting a technique from AI that is relevant for synthetic biology problems.
+</p>
+
+<p>
+Abstract (300 words) outlining new or controversial views of the intersection of AI and synthetic biology research or describing ongoing AI and synthetic biology research.
+</p>
+
+<p>
+Submissions should be made through the AAAI Fall Symposium EasyChair site.
+</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Aaron Adler (BBN Technologies), Mohammed Ali Eslami (Netrias, LLC), Jesse Tordoff (Massachusetts Institute of Technology), and Rajmonda Caceres (MIT Lincoln Laboratory)
+</p>
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="https://www.ai4synbio.org" rel="nofollow">supplemental symposium website</a>. </a>
+</p>
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs05">Artificial Intelligence in Government and Public Sector</a></h3>
+
+<p>
+AI in government and the public sector faces unique challenges and opportunities. These systems will be held to a higher standard since they are supposed to operate for the public good. They face increased scrutiny for transparency, fairness, explainability, and operation without unintended consequences. Governments provide critical services and are expected to be the provider of last resort, sometimes backstopping the commercial sector. How can the development, deployment, and use of these systems be managed to ensure they meet these requirements by design and in practice? 
+</p>
+
+<h5>Topics</h5><p>
+We invite contributions addressing topics in the relationship of AI to government and public sector applications including the following:
+</p>
+ 
+<ul>
+	<li>Early areas for adoption of AI </li>
+	<li>Using ai to encourage public service innovation </li>
+	<li>Trust and transparency  </li>
+	<li>Robust and resilient </li>
+	<li>Bias </li>
+	<li>Role of public-private partnerships </li>
+	<li>Verification and validation for deep learning </li>
+	<li>Translating from .Com best practices to .Gov </li>
+	<li>Interaction paradigms (intelligent augmentation/human-machine collaboration⬦.)</li>
+	<li>Systematic approach for the use of AI in government </li>
+	<li>Privacy </li>
+	<li>Leveraging ai innovations from open source </li>
+	<li>Cultivating AI literacy with public, government officials </li>
+	<li>AI engineering best practices </li>
+	<li>Incentivizing AI engineering best practices </li>
+	<li>Facilitators and inhibitors to the use of AI in government and public sector such as standards and best practices</li>
+</ul>
+
+<h5>Submissions</h5>
+<p>
+The symposium will include presentations of accepted papers in both oral and panel discussion formats, together with invited speakers and software demonstrations. Potential symposium participants are invited to submit either a full-length technical paper or a short position paper for discussion. Full-length papers must be no longer than eight (8) pages, including references and figures. Short submissions can be up to four (4) pages in length and describe speculative work, work in progress, system demonstrations, or panel discussions.
+</p>
+
+<p>
+Please submit via the AAAI EasyChair.org site choosing the AAAI/FSS-19 Artificial Intelligence in Government and Public Sector track. Please submit by July 20. 
+</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Frank Stein (chair) (IBM), Mihai Boicu (GMU), Lashon Booker (Mitre), Michael Garris (NIST), Mark Greaves (PNNL), Ibrahim Haddad (Linux Foundation), Anupam Joshi (UMBC), Zach Kurtz (SEI), Shali Mohleji (IBM), Tien Pham (CCDC ARL), Greg Porpora (IBM), Alun Preece (Cardiff University), Jim Spohrer (IBM)</p>
+
+<h5>For More Information</h5>
+<p>Contact Frank Stein (fstein@us.ibm.com) with any questions. </p>
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs06">Cognitive Systems for Anticipatory Thinking</a></h3>
+
+<h4>Vision and Scope</h4>
+<p>
+Anticipatory thinking, the deliberate and divergent exploration of relevant possible futures, is a key concept in several contexts. From formal definitions of intelligence analysis to the exploration of relevant possible futures in the presence of exogenous events of our everyday lives, we rely on anticipatory thinking (AT) to evaluate the current and possible future states of the world to prepare ourselves, avoid erroneous expectations, and mitigate risk. This symposium focuses on understanding, quantifying, and improving anticipatory thinking capabilities across humans and machines. 
+</p>
+
+<p>
+We invite the community to present work in the following four topic areas, accompanied by related (but not definitive) research questions:
+</p>
+
+<ol>
+	<li><i>Measurement</i> &mdash; The assessment and evaluation of AT</li>
+
+<ul>
+	<li>How are prospective cognition modality measurements related to AT?</li>
+	<li>How can we assess and evaluate individual traits relevant to AT?</li>
+	<li>How can we assess and evaluate for group collaboration?</li>
+</ul>
+<li><i>Support</i> &mdash; Systems that augment and aid AT related tasks</li>
+<ul>
+	<li>How can we define successful AT across tasks?</li>
+	<li>How do different methodologies affect AT?</li>
+	<li>How can technology platforms augment prospective cognition modalities?</li>
+</ul>
+<li><i>Training</i> &mdash; Improving an individual's AT skills</li>
+<ul>
+	<li>How can adaptive training affect AT?</li>
+	<li>How does game-based learning affect the cognitive consequences needed for AT?</li>
+	<li>How does proficiency in methodology interact with domain expertise to affect AT?</li>
+</ul>
+<li><i>Applications and Case Studies </i>&mdash; Domain-specific contexts for AT</li>
+<ul>
+	<li><i>Insurance</i> &mdash; Premiums are affected most by named perils, unnamed ones have little effect</li>
+	<li><i>Strategic foresight</i> &mdash; Identifies trends, events and change that will impact future operations of government and business to create strategic plans</li>
+	<li><i> Emergency management</i> &mdash; Mitigates impacts of hazards by investing in disaster infrastructure such as floodways</li>
+	<li><i>Intelligence analysis</i> &mdash; Uncover intentions to hypothesize future actions and respond to them</li>
+	<li><i>Military planning</i> &mdash; Identify courses of actions providing fast response once an engagement begins</li>
+</ul>
+</ol>
+<p>
+We expect this symposium to draw on prior work from existing AI fields including but not limited to: mixed-initiative planning, goal reasoning, case-based reasoning, analogical reasoning, computational narrative, intentionality, theory-of-mind, cognitive architectures, games, intelligent tutoring systems. In particular, we are excited to provide a convergence point between the cognitive systems and prospective cognition communities. This focus on collaboration and strong application contexts, offers several ways to engage. Our symposium will include the following:
+</p>
+<ul>
+	<li>Shorter talks (15-30 minutes) for papers accepted for presentation</li>
+	<li>Invited talks (45-60 minutes) for guest speakers</li>
+	<li>Breakout sessions (60 minutes) that result in panel discussions</li>
+	<li>Poster sessions (90 minutes) for preliminary work, case studies, and collaboration opportunities.</li>
+</ul>
+
+<h5>Submissions</h5>
+<p>We invite contributions in a variety of forms on topics within the scope of this call. For more detailed submission information, please visit the URL that follows.</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Adam Amos-Binks (chair) (chief AI scientist, Applied Research Associates, Inc., aamosbinks@ara); Dustin Dannenhauer (Scientist, Navatek LLC, ddannenhauer@navatekltd.com); Rogelio Cardona-Rivera (assistant professor, University of Utah, rogelio@eae.utah.edu); Gene Brewer (associate professor, Arizona State University, gene.brewer@asu.edu)
+</p>
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="https://www.anticipatorythinking.ai" rel="nofollow">supplemental symposium website. </a>
+</p>
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs07">Human-Centered AI: Trustworthiness of AI Models and Data</a></h3>
+ 
+<p>
+To facilitate the widespread acceptance of AI systems guiding decision-making in real-world applications, it is key that solutions comprise trustworthy, integrated human-AI systems. Not only in safety-critical applications such as autonomous driving or medicine, but also in dynamic open world systems in industry and government it is crucial for predictive models to be uncertainty-aware and yield well-calibrated (and thus trustworthy) predictions for both in-domain samples (known unknowns) as well as out-of-domain samples (unknown unknowns).  Another key requirement for deployment of AI at enterprise scale is to realize the importance of integrating human-centered design into AI systems such that humans are able to use systems effectively, understand results and output, and explain findings to oversight committees.
+</p>
+
+<p>
+While the focus of this symposium is on AI systems to improve data quality and technical robustness and safety, we welcome submissions from broadly defined areas also discussing approaches addressing requirements such as explainable models, privacy, fairness, transparency and accountability. 
+</p>
+
+<h5>Topics</h5>
+<p>
+Topics of interest include the following: 
+</p>
+
+<ul>
+	<li>Human-Centered AI</li>
+	<li>Data Quality</li>
+	<li>Trustworthy AI</li>
+	<li>Ethical AI</li>
+	<li>Explainable AI</li>
+	<li>Bayesian Deep Learning</li>
+	<li>Uncertainty Quantification</li>
+	<li>Probabilistic Machine Learning</li>
+	<li>Testing approaches to neural networks</li>
+	<li>Continuous monitoring of AI systems</li>
+	<li>Causal Explainability</li>
+	<li>Cause and Effect Relationships</li>
+</ul>
+
+<h5>Format</h5>
+<p>
+The symposium will include invited talks, presentations of work in progress and completed work, a demo/poster section with showcases for new advances and an open panel discussion focusing on key issues at the end. Authors of accepted papers are encouraged to also provide a poster or a demo in order to facilitate a more interactive presentation of their work.
+</p>
+
+<h5>Submissions</h5>
+<p>
+Both regular papers (6-8 pages not including references) and short papers (2-4 pages) will be considered. All papers have to be submitted in PDF format; camera-ready versions must be formatted according to the AAAI guidelines. Submission and reviewing will be via <a href="https://easychair.org/conferences/?conf=fss19" rel="nofollow">EasyChair.</a>
+</p>
+ 
+<h5>Organizing Committee</h5>
+<p>
+Florian Buettner, chair (Siemens AI, Germany, buettner.florian@siemens.com); John Piorkowski, chair (Whiting School of Engineering, USA, jpiorko2@jhu.edu); Ian McCulloh, chair (Accenture Federal Services, USA ian.mcculloh@accenturefederal.com); Ulli Waltinger, chair (Siemens AI, Germany, ulli.waltinger@siemens.com); Tarek R. Besold (Alpha Health AI Lab, Spain, tarek.besold@telefonica.com); Christian Guttmann (Tieto AI, Sweden, guttmann.public@gmail.com); Melih Kandemir (Bosch Center for AI, Germany, Melih.Kandemir@de.bosch.com); Carl Henrik Ek (University of Bristol, UK and Royal Institute of Technology, UK/Sweden, carlhenrik.ek@bristol.ac.uk)
+</p>
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="https://sites.google.com/view/hai19/home" rel="nofollow">supplemental symposium website. </a>
+</p>
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs08">Teaching AI in K-12</a></h3>
+
+<p>
+Since last year�"s AI for K-12 fall symposium there has been an explosion of activity in K-12 AI education. As the AI4K12 Initiative (ai4k12.org) works to develop national guidelines for teaching AI in US schools, similar efforts have begun in China, the U.K., and elsewhere. New curricula are being piloted, new tools developed, and new AI electives launched in middle schools and high schools. In addition, there have been national and international workshops and ongoing discussions online about teaching AI in K-12. This symposium will bring together the growing community of AI educators, researchers, curriculum designers, and tool developers to discuss the current state of AI education in K-12 and the directions we want to pursue in the coming year. 
+</p>
+
+<h5>Topics</h5>
+<p>
+Topics of interest include, but are not limited to the following:
+</p>
+<ul>
+	<li>The evolving AI for K-12 Guidelines</li>
+	<li>International and US-based initiatives and policies</li>
+	<li>K-12 partnerships with industry, nonprofit organizations, and universities</li>
+	<li>AI curriculum design</li>
+	<li>Tools/resources for teaching AI in K-12</li>
+	<li>AI competitions, maker spaces, summer camps, and after school programs</li>
+	<li>Experiences of AI teaching and learning in both formal and informal spaces</li>
+	<li>Applying pedagogical insights from the Learning Sciences and CS Education communities to teaching AI</li>
+	<li>Teacher professional development</li>
+</ul>
+
+<h5>Format</h5>
+<p>
+This two-day symposium will be a mixture of invited talks, panel discussions, and breakout sessions, plus contributed presentations on K-12 AI curricula, teaching resources, and teacher experiences. There will also be opportunities for lightning talks and an �SAI Playground�� session with hands-on demos.
+</p>
+
+<h5>Submissions</h5>
+<p>
+Authors are invited to submit full papers (6&ndash;8 pages) or extended abstracts (2 pages) for position papers, curriculum descriptions, resource descriptions, or experience reports. For five-minute lightning talk proposals, a one-page summary is required.
+</p>
+
+<p>
+All submissions will be via <a href="https://easychair.org/conferences/?conf=fss19" rel="nofollow">Easychair</a> and will be peer-reviewed.   Submissions are due Friday, August 2, 2019. The symposium proceedings will be published online via Arxiv.
+</p>
+
+<h5>Symposium Chair and Main Contact</h5>
+<p>
+David S. Touretzky<br />
+Computer Science Department<br />
+Carnegie Mellon University<br />
+Pittsburgh, PA 15213-3891<br />
+Email: dst@cs.cmu.edu<br />
+Voice: 412-268-7561
+</p>
+
+<h5>Organizing Committee</h5>
+<p>
+David S. Touretzky (Carnegie Mellon University, dst@cs.cmu.edu), Christina Gardner-McCune (University of Florida, gmccune@ufl.edu), Fred Martin (University of Massachusetts, Lowell, fred.martin@uml.edu), Deborah Seehorn (Computer Science Teachers Association, deborah.seehorn@outlook.com)
+</p>
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="http://symposium2019.ai4k12.org" rel="nofollow">supplemental symposium website. </a>
+</p>
+
+<div class="hr1">
+<hr />
+</div>
+
+</div>
+</div>
+</div>
+
+<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1">AAAI Symposia</span></h2>
+<div class="content">
+<h3 class="text2"><a href="https://aaai.org/Symposia/Fall/fall-symposia.php" title="AAAI fall symposia pages">AAAI Fall Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/Spring/spring-symposia.php" title="AAAI spring symposia pages">AAAI Spring Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/EAAI/eaai-symposia.php" title="AAAI Educational Advances in AI Symposia">AAAI Educational Advances in AI Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Press/Reports/reports.php" title="aaai technical reports">Technical Reports</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Publications/Author/author.php" title="forms and instructions for accepted authors">For Accepted Authors</a></h3> 
+</div>
+
+<h4 class="backgrnd5"><span class="text1">Other Links</span></h4>
+<div class="content">
+<h3 class="text2"><a href="../../../.aaai.org/home.php" title="AAAI Home Page">AAAI Home Page</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">AAAI Press</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops">AAAI Workshops</a></h3>
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</div>
+
+
+
+
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

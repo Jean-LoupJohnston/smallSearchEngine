@@ -1,0 +1,2778 @@
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+    
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="keywords" content="Email, E-mail, E mail, faculty, staff, microsoft exchange, outlook, thunderbird, macmail, smtp, pop, imap, configure, mail, exchange, client, archive, mailbox, quota ">
+    <meta http-equiv="description" content="University employees have access to a Microsoft Exchange email account.">
+    <title>Email - faculty &amp; staff</title>
+
+	<link rel="shortcut icon" href="http://www.concordia.ca/etc/designs/concordia/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/android-chrome-192x192.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/apple-touch-icon.png">
+    <link rel="manifest" crossorigin="use-credentials" href="http://www.concordia.ca/content/concordia/manifest.json">
+    <link rel="mask-icon" href="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/favicons/safari-pinned-tab.svg" color="#932439">
+    <meta name="msapplication-TileColor" content="#932439">
+    <meta name="theme-color" content="#932439">
+
+	
+<meta property="og:title" content="Email - faculty &amp; staff" />
+<meta property="og:description" content="University employees have access to a Microsoft Exchange email account." />
+<meta property="og:url" content="https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/news-default.jpg" />
+<meta property="og:image:alt" content="" />
+<meta property="twitter:image:src" content="https://www.concordia.ca/etc/designs/concordia/clientlibs/img/news-default.jpg" />
+	
+    <meta name="categories" content="Email, Collaboration & Storage" />
+    <meta name="category" content="" />
+
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index,follow">
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/clientlibs/foundation/main.min.css" type="text/css">
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/clientlibs/foundation/main.min.js"></script>
+
+
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/bootstrap.min.css" type="text/css">
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/bootstrap.min.js"></script>
+
+    
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/concordia-master-components.min.css" type="text/css">
+
+    <link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/concordia-master-templates.min.css" type="text/css">
+
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/main.min.js"></script>
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/quick-links.min.js"></script>
+
+    <script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/rolebased-nav.min.js"></script>
+
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+    <!--[if lt IE 9]>
+    <script src="/etc/designs/concordia/js/html5shiv.js"></script>
+    <script src="/etc/designs/concordia/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+    
+
+
+<body class="it-service concordia page ">
+    
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-57BSZT"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-57BSZT');</script>
+		<!-- End Google Tag Manager -->
+    
+    <div id="boot">
+        
+    <div class="visible-print">
+        <h1 class="top-title">Concordia University</h1>
+        <p>https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html</p>
+    </div>
+
+    <div class="parbase emergency-alert">
+        <div class="emergency-alert alert parbase"></div>
+
+    </div>
+
+    
+        
+
+
+<div class="quick-links link-list">
+
+
+
+
+<div class="c-quicklinks collapse" >
+    <div class="quicklinks-top">
+        
+        <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/next_gen_now.png" alt="Next-Gen. Now." width="242" height="25" />
+        
+    </div>
+
+    <div class="container">
+        <!-- Group of links -->
+        <div class="quicklinks-list">
+<ul><li><strong>Study resources</strong></li>
+                    	<li><a href="../../../../../academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+                    	<li><a href="../../../../../academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+                    	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+                    	<li><a href="../../../../../events/cancelled-classes.html">Class cancellations</a></li>
+                    	<li><a href="../../../../../students/registration.html">Course registration</a></li>
+                    	<li><a href="../../../../../events/academic-dates.html">Important academic dates</a></li>
+                    	<li><a href="../../../../../students/academic-resources.html">More academic resources</a></li></ul><ul><li><strong>Campus services</strong></li>
+                    	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+                    	<li><a href="../../../../../it.html">IT services</a></li>
+                    	<li><a href="../../../../../hr/jobs/openings.html">Job opportunities</a></li>
+                    	<li><a href="../../../../../campus-life/security.html">Security</a></li>
+                    	<li><a href="../../../../../maps/shuttle-bus.html">Shuttle bus</a></li>
+                    	<li><a href="../../../../../students/birks.html">Student Service Centre (Birks)</a></li>
+                    	<li><a href="../../../../../students/campus-services.html">All campus services</a></li></ul><ul><li><strong>What's new</strong></li>
+                    	<li><a href="../../../../../events.html">Calendar of events</a></li>
+                    	<li><a href="../../../../../news/stories.html">Latest news</a></li>
+                    	<li><a href="../../../../../news/media-relations.html">Media Relations</a></li></ul><ul><li><strong>Faculties, Schools & Colleges</strong></li>
+                    	<li><a href="../../../../../artsci.html">Arts and Science</a></li>
+                    	<li><a href="../../../../../ginacody.html">Gina Cody School of<br>Engineering and Computer Science</a></li>
+                    	<li><a href="../../../../../finearts.html">Fine Arts</a></li>
+                    	<li><a href="../../../../../jmsb.html">John Molson School of Business</a></li>
+                    	<li><a href="../../../../../sgs.html">School of Graduate Studies</a></li>
+                    	<li><a href="../../../../../academics/units.html">All Schools, Colleges & Departments</a></li></ul>		
+        </div>
+    </div>
+</div>
+
+
+
+<div class="mobile-quicklinks" >
+	<!-- Group of links -->
+	<div class="container">
+        <a class="open-mobile-quick-links" data-toggle="collapse" data-target=".mobile-quicklinks-list">Quick links &nbsp;<span class="arrow concordia-icon concordia-arrow-black-down-icon small"></span></a>
+        <div class="mobile-quicklinks-list collapse">
+            <div class="mobile-main-buttons">
+                <a href="https://owa.concordia.ca/" class="main-nav-btn">Webmail</a>
+                <a href="../../../../../../aaalibrary.concordia.ca/" class="main-nav-btn">Library</a>
+                <a href="https://cspace.concordia.ca/" class="main-nav-btn">Cspace</a>
+            </div>
+
+        	<ul>
+<li class='dropdown'><a data-toggle='collapse' data-target='.ul1'><strong>Study resources</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul1 collapse'><ul>
+		            	<li><a href="../../../../../academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+		            	<li><a href="../../../../../academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+		            	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+		            	<li><a href="../../../../../events/cancelled-classes.html">Class cancellations</a></li>
+		            	<li><a href="../../../../../students/registration.html">Course registration</a></li>
+		            	<li><a href="../../../../../events/academic-dates.html">Important academic dates</a></li>
+		            	<li><a href="../../../../../students/academic-resources.html">More academic resources</a></li></ul><li class='dropdown'><a data-toggle='collapse' data-target='.ul2'><strong>Campus services</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul2 collapse'><ul>
+		            	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+		            	<li><a href="../../../../../it.html">IT services</a></li>
+		            	<li><a href="../../../../../hr/jobs/openings.html">Job opportunities</a></li>
+		            	<li><a href="../../../../../campus-life/security.html">Security</a></li>
+		            	<li><a href="../../../../../maps/shuttle-bus.html">Shuttle bus</a></li>
+		            	<li><a href="../../../../../students/birks.html">Student Service Centre (Birks)</a></li>
+		            	<li><a href="../../../../../students/campus-services.html">All campus services</a></li></ul><li class='dropdown'><a data-toggle='collapse' data-target='.ul3'><strong>What's new</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul3 collapse'><ul>
+		            	<li><a href="../../../../../events.html">Calendar of events</a></li>
+		            	<li><a href="../../../../../news/stories.html">Latest news</a></li>
+		            	<li><a href="../../../../../news/media-relations.html">Media Relations</a></li></ul><li class='dropdown'><a data-toggle='collapse' data-target='.ul4'><strong>Faculties, Schools & Colleges</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul4 collapse'><ul>
+		            	<li><a href="../../../../../artsci.html">Arts and Science</a></li>
+		            	<li><a href="../../../../../ginacody.html">Gina Cody School of<br>Engineering and Computer Science</a></li>
+		            	<li><a href="../../../../../finearts.html">Fine Arts</a></li>
+		            	<li><a href="../../../../../jmsb.html">John Molson School of Business</a></li>
+		            	<li><a href="../../../../../sgs.html">School of Graduate Studies</a></li>
+		            	<li><a href="../../../../../academics/units.html">All Schools, Colleges & Departments</a></li></ul></div></li>	
+    		</ul>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="c-topnav top-links">
+    <div class="container">
+        <a class="open-quick-links" data-toggle="collapse" data-target=".c-quicklinks">Quick links <span class="arrow concordia-icon concordia-arrow-white-down-icon small"></span></a>
+        <a class="campaign-link" href="../../../../../campaign.html">The Campaign for Concordia</a>
+
+        <ul class="paranav ">
+        	
+            	<li id="link-myconcordia"><a href="https://my.concordia.ca/">MyConcordia</a></li>
+                <li id="link-cspace"><a href="https://cspace.concordia.ca/">Cspace</a></li>
+                <li id="link-webmail"><a href="https://owa.concordia.ca/">Webmail</a></li>
+                <li id="link-libraries"><a href="../../../../../../aaalibrary.concordia.ca/">Library</a></li>
+            	<li id="link-directories"><a href="../../../../../directories.html">Directories</a></li>
+                <li id="link-az"><a href="../../../../../web/a-z.html">A-Z</a></li>
+                <li id="link-maps"><a href="../../../../../maps.html">Maps</a></li>
+        	
+    	</ul>
+	</div>
+</div>
+        
+
+
+
+<div class='c-topnav role-links subsite '>
+    <div class="container">
+        <ul class="paranav">
+            <li><a href="../../../../../admissions.html">Future students</a></li>
+            <li><a href="../../../../../students.html">Student hub</a></li>
+            <li><a href="../../../../../alumni-friends.html">Alumni &amp; friends</a></li>
+            <li><a href="../../../../../parents.html">Parents</a></li>
+            <li><a href="../../../../../faculty-staff.html">Faculty &amp; staff</a></li>
+            <li><a href="../../../../../news/media-relations.html">Media</a></li>
+        </ul>
+    </div>
+</div>
+    
+    
+    <header class="header subsite ">
+        <div class="" style="z-index:10;">
+
+            <div class="container" id="top-row">
+                
+
+<div id="concordia-logo" class="visible-phone">
+    <a href="../../../../../" class="logo-concordia" title="Back to home">Concordia University</a>
+</div>
+    
+                <div class="row">
+                    <a class="header-btn visible-phone search concordia-icon concordia-search-icon" data-toggle="collapse" data-target="#site-search" data-parent=".main"></a>
+                    <span class="divition"></span>
+    
+                    
+                                <a class="header-btn visible-phone no-lang-toggle" href="javascript:void(0)"></a>
+                    <span class="divition"></span>
+                    <a class="header-btn visible-phone menu concordia-icon concordia-hamburger-icon" data-toggle="collapse" data-target=".nav-collapse" data-parent=".main"></a>
+                </div>
+
+                <div class="hidden-phone">
+                    
+
+
+<div id="concordia-logo" class='hidden-phone  '>
+    <a href="../../../../../" class="sprites-logo-concordia" title="Back to home">Concordia University</a>
+</div>
+                </div>
+            </div>
+        </div>
+            <div class="hidden-phone">
+                
+
+<div class="container row-fluid">
+        <div class="span12" style="z-index:10;">
+            <h2 class="category-title   ">
+                <a href="../../../../../it.html" alt="IT Services">IT Services</a>
+            </h2>
+        </div>
+</div>
+            </div>
+
+        
+
+
+
+
+
+    
+
+    
+
+
+<div id="navigation-wrapper">
+    <div class="navigation">
+        <div id="main-navbar" class="navbar navbar-static container">
+
+            <div class="nav-collapse collapse">
+                    <ul class='nav subnav ' role="navigation">
+            
+                            <li class="dropdown active">                             
+                                    <a href="../../../../../it/services.html" role="button">Services</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="../../../../../it/support.html" role="button">Get help</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="../../../../../it/get-started.html" role="button">Get started</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="../../../../../it/research.html" role="button">IT research support</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="../../../../../it/security.html" role="button">IT security</a>
+                            </li>
+            
+                            <li class="dropdown ">                             
+                                    <a href="../../../../../it/groups.html" role="button">IT groups</a>
+                            </li>
+                    </ul>
+
+                    <a class="search hidden-phone concordia-icon concordia-search-icon" data-toggle="collapse" data-target="#site-search" data-parent=".main"></a>
+                    
+
+
+                <div class="campaign-link-div">
+                    <a class="campaign-link" href="../../../../../campaign.html">The Campaign for Concordia</a>
+                </div>
+                    <div class="quick-links link-list">
+
+
+
+
+<div class="c-quicklinks collapse" >
+    <div class="quicklinks-top">
+        
+        <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/next_gen_now.png" alt="Next-Gen. Now." width="242" height="25" />
+        
+    </div>
+
+    <div class="container">
+        <!-- Group of links -->
+        <div class="quicklinks-list">
+<ul><li><strong>Study resources</strong></li>
+                    	<li><a href="../../../../../academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+                    	<li><a href="../../../../../academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+                    	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+                    	<li><a href="../../../../../events/cancelled-classes.html">Class cancellations</a></li>
+                    	<li><a href="../../../../../students/registration.html">Course registration</a></li>
+                    	<li><a href="../../../../../events/academic-dates.html">Important academic dates</a></li>
+                    	<li><a href="../../../../../students/academic-resources.html">More academic resources</a></li></ul><ul><li><strong>Campus services</strong></li>
+                    	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+                    	<li><a href="../../../../../it.html">IT services</a></li>
+                    	<li><a href="../../../../../hr/jobs/openings.html">Job opportunities</a></li>
+                    	<li><a href="../../../../../campus-life/security.html">Security</a></li>
+                    	<li><a href="../../../../../maps/shuttle-bus.html">Shuttle bus</a></li>
+                    	<li><a href="../../../../../students/birks.html">Student Service Centre (Birks)</a></li>
+                    	<li><a href="../../../../../students/campus-services.html">All campus services</a></li></ul><ul><li><strong>What's new</strong></li>
+                    	<li><a href="../../../../../events.html">Calendar of events</a></li>
+                    	<li><a href="../../../../../news/stories.html">Latest news</a></li>
+                    	<li><a href="../../../../../news/media-relations.html">Media Relations</a></li></ul><ul><li><strong>Faculties, Schools & Colleges</strong></li>
+                    	<li><a href="../../../../../artsci.html">Arts and Science</a></li>
+                    	<li><a href="../../../../../ginacody.html">Gina Cody School of<br>Engineering and Computer Science</a></li>
+                    	<li><a href="../../../../../finearts.html">Fine Arts</a></li>
+                    	<li><a href="../../../../../jmsb.html">John Molson School of Business</a></li>
+                    	<li><a href="../../../../../sgs.html">School of Graduate Studies</a></li>
+                    	<li><a href="../../../../../academics/units.html">All Schools, Colleges & Departments</a></li></ul>		
+        </div>
+    </div>
+</div>
+
+
+
+<div class="mobile-quicklinks" >
+	<!-- Group of links -->
+	<div class="container">
+        <a class="open-mobile-quick-links" data-toggle="collapse" data-target=".mobile-quicklinks-list">Quick links &nbsp;<span class="arrow concordia-icon concordia-arrow-black-down-icon small"></span></a>
+        <div class="mobile-quicklinks-list collapse">
+            <div class="mobile-main-buttons">
+                <a href="https://owa.concordia.ca/" class="main-nav-btn">Webmail</a>
+                <a href="../../../../../../aaalibrary.concordia.ca/" class="main-nav-btn">Library</a>
+                <a href="https://cspace.concordia.ca/" class="main-nav-btn">Cspace</a>
+            </div>
+
+        	<ul>
+<li class='dropdown'><a data-toggle='collapse' data-target='.ul1'><strong>Study resources</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul1 collapse'><ul>
+		            	<li><a href="../../../../../academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+		            	<li><a href="../../../../../academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+		            	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/SA/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+		            	<li><a href="../../../../../events/cancelled-classes.html">Class cancellations</a></li>
+		            	<li><a href="../../../../../students/registration.html">Course registration</a></li>
+		            	<li><a href="../../../../../events/academic-dates.html">Important academic dates</a></li>
+		            	<li><a href="../../../../../students/academic-resources.html">More academic resources</a></li></ul><li class='dropdown'><a data-toggle='collapse' data-target='.ul2'><strong>Campus services</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul2 collapse'><ul>
+		            	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+		            	<li><a href="../../../../../it.html">IT services</a></li>
+		            	<li><a href="../../../../../hr/jobs/openings.html">Job opportunities</a></li>
+		            	<li><a href="../../../../../campus-life/security.html">Security</a></li>
+		            	<li><a href="../../../../../maps/shuttle-bus.html">Shuttle bus</a></li>
+		            	<li><a href="../../../../../students/birks.html">Student Service Centre (Birks)</a></li>
+		            	<li><a href="../../../../../students/campus-services.html">All campus services</a></li></ul><li class='dropdown'><a data-toggle='collapse' data-target='.ul3'><strong>What's new</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul3 collapse'><ul>
+		            	<li><a href="../../../../../events.html">Calendar of events</a></li>
+		            	<li><a href="../../../../../news/stories.html">Latest news</a></li>
+		            	<li><a href="../../../../../news/media-relations.html">Media Relations</a></li></ul><li class='dropdown'><a data-toggle='collapse' data-target='.ul4'><strong>Faculties, Schools & Colleges</strong> &nbsp;<span class='concordia-icon concordia-arrow-black-down-icon small'></span></a><div class='ul4 collapse'><ul>
+		            	<li><a href="../../../../../artsci.html">Arts and Science</a></li>
+		            	<li><a href="../../../../../ginacody.html">Gina Cody School of<br>Engineering and Computer Science</a></li>
+		            	<li><a href="../../../../../finearts.html">Fine Arts</a></li>
+		            	<li><a href="../../../../../jmsb.html">John Molson School of Business</a></li>
+		            	<li><a href="../../../../../sgs.html">School of Graduate Studies</a></li>
+		            	<li><a href="../../../../../academics/units.html">All Schools, Colleges & Departments</a></li></ul></div></li>	
+    		</ul>
+        </div>
+    </div>
+</div></div>
+
+                    <div class="role-links-mobile">
+                        <a class="open-links" data-toggle="collapse" data-target=".role-links-list">Information for... <span class="arrow concordia-icon concordia-arrow-black-down-icon small"></span></a>
+                        <ul class="role-links-list collapse">
+                            <li><a href="../../../../../admissions.html">Future students</a></li>
+                            <li><a href="../../../../../students.html">Student hub</a></li>
+                            <li><a href="../../../../../alumni-friends.html">Alumni &amp; friends</a></li>
+                            <li><a href="../../../../../parents.html">Parents</a></li>
+                            <li><a href="../../../../../faculty-staff.html">Faculty &amp; staff</a></li>
+                            <li><a href="../../../../../news/media-relations.html">Media</a></li>
+                        </ul>
+                    </div>
+        
+                    <script>
+                        $(".role-links-mobile .open-links").on('click', function() {
+                            $this = $(this);
+                            $this.find('.arrow').toggleClass('concordia-arrow-black-down-icon');
+                            $this.find('.arrow').toggleClass('concordia-arrow-black-up-icon');
+                        });
+                    </script>
+                    
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        var $dropdowns = $('.nav li.dropdown');
+        var delay = 300;
+    
+        $dropdowns
+            .on('mouseover', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+
+                    // Make sure the autocomplete is not showing
+                    $(".ui-autocomplete").css("display","none");
+    
+                    var $this = $(this);
+                    $this.siblings('.open').removeClass('open');
+    
+                    if ($this.prop('hoverTimeout')) {
+                        $this.prop('hoverTimeout', clearTimeout($this.prop('hoverTimeout')));
+                    }
+        
+                    $this.prop('hoverIntent', setTimeout(function() {
+                        $this.addClass('open');
+                    }, 0));
+                }
+            })
+            .on('mouseleave', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+                    var $this = $(this);
+                    $this.siblings('.open').removeClass('open');
+        
+                    if ($this.prop('hoverIntent')) {
+                        $this.prop('hoverIntent', clearTimeout($this.prop('hoverIntent')));
+                    }
+        
+                    // If the dropdown doesn't have any children, set delay to 0
+                    delay = ($this.find('.dropdown-toggle').length != 0) ? 300 : 0;
+        
+                    $this.prop('hoverTimeout', setTimeout(function() {
+                        $this.removeClass('open');
+                    }, delay));
+                }
+            })
+            .on('click', '.open-btn', function() {
+                $this = $(this);
+                $dropdown = $this.closest('.dropdown');
+                $icon = $this.find('span');
+    
+                $(this).closest('.dropdown').find('.dropdown-menu').slideToggle();
+                $dropdown.toggleClass('open');
+    
+                $icon.toggleClass('concordia-arrow-white-down-icon');
+                $icon.toggleClass('concordia-arrow-white-up-icon');
+            });
+
+
+        // On mobile, make sure search is not showing when menu is opened
+        $(".concordia-hamburger-icon").on("click", function() {
+            if ($("#site-search").hasClass("in")) {
+                $("#site-search").collapse("hide");
+            }
+        });
+    
+        // On mobile, make sure navigation is not showing when search is opened
+        $(".concordia-search-icon.visible-phone").on("click", function() {
+            if ($(".nav-collapse").hasClass("in")) {
+                $(".nav-collapse").collapse("hide");
+            }
+        });
+    });
+</script>
+
+        <div class="site-search parbase">
+
+
+
+
+    		
+
+
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.css" type="text/css">
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/site-search.min.js"></script>
+
+
+<div class="container">
+    <form id="site-search" class="concordia form-horizontal form-collapse collapse" action="http://www.concordia.ca/search.html" method="get"> 
+        <input type="hidden" id="concordia_url" value="/content/concordia/en/search.html" />
+        <input type="hidden" id="directory_url" value="/content/concordia/en/directories.html" />
+        <input type="hidden" id="site_search_first_name" value="" />
+        <input type="hidden" id="site_search_last_name" value="" />
+        <input type="hidden" id="is_subsite" value="true" />
+
+        <div class="control-group" id="select-search-mode">
+            <div class="controls">
+                <label class="radio inline" for="concordia-search">
+                    <input type="radio" id="concordia-search" value="concordia-search" name="search-mode" checked />
+                    <div class="radio-input">
+                        <div class="checked"></div>
+                    </div>
+                    Concordia
+                </label>
+                <label class="radio inline" for="directory-search">
+                    <input type="radio" id="directory-search" value="directory-search" name="search-mode" /> 
+                    <div class="radio-input">
+                        <div class="checked"></div>
+                    </div>
+                    Directories
+                </label>
+            </div>
+        </div>
+    
+        <div class="input-append control-group">        
+            <div class="controls">
+                <input class="input-large" type="text" placeholder="Search Concordia" id="input-search" name="q" />
+                <button type="submit" style='' class="btn"><span class="concordia-icon concordia-search-icon"></span><span class="icon-search icon-white hidden-phone"></span></button>
+            </div>
+            <label id="label-search" class="control-label hidden" for="input-search">Search</label>
+        </div>
+    </form>
+</div></div>
+
+    
+        <div class="visible-phone">
+            
+
+
+<div id="concordia-logo" class='hidden-phone  '>
+    <a href="../../../../../" class="sprites-logo-concordia" title="Back to home">Concordia University</a>
+</div>
+                
+
+<div class="container row-fluid">
+        <div class="span12" style="z-index:10;">
+            <h2 class="category-title   ">
+                <a href="../../../../../it.html" alt="IT Services">IT Services</a>
+            </h2>
+        </div>
+</div>
+        </div>
+            <div class="container" style="z-index:2;">
+                
+
+
+<div class="breadcrumbs breadcrumb">
+<ul class="c-breadcrumb breadcrumb">
+	        <li>
+                
+                <a href="../../../../../" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/concordia/en' },collect: false,options: { obj: this },componentPath: 'concordia/components/breadcrumb'})">
+                    
+                    Concordia.ca
+                    
+                </a>
+                
+	        </li>
+	        Â /Â 
+	        <li>
+                
+                <a href="../../../../../it.html" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/concordia/en/it' },collect: false,options: { obj: this },componentPath: 'concordia/components/breadcrumb'})">
+                    
+                    IT services
+                    
+                </a>
+                
+	        </li>
+	        Â /Â 
+	        <li>
+                
+                <a href="../../../../../it/services.html" onclick="CQ_Analytics.record({event:'followBreadcrumb',values: { breadcrumbPath: '/content/concordia/en/it/services' },collect: false,options: { obj: this },componentPath: 'concordia/components/breadcrumb'})">
+                    
+                    Services
+                    
+                </a>
+                
+	        </li>
+	        Â /Â 
+	        <li>
+                
+                    Email - faculty & staff
+                    
+                </a>
+                
+	        </li>
+	        
+</ul></div>
+
+            </div>
+	</header>
+        
+
+
+<style>
+#it-service-blocks .span8 {
+    margin-left:0px;
+}
+</Style>
+<section id="content-main">
+    <div class="container">    
+        <div class="row with_socialbar">
+            <div class="share-this">
+
+
+
+
+
+
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/share-this.min.css" type="text/css">
+
+
+
+
+        <div class="c-socialbar-cta">
+            <ul>
+                <li>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html" target="_blank" title="Facebook" class="st_facebook_custom">
+                    	<span class="sprites-icon-social-1d" displayText="Facebook" st_image='https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.img.png/1539185110360.png'>Facebook</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/intent/tweet?url=https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html" target="_blank" title="Twitter" class="st_twitter_custom">
+                    	<span class="sprites-icon-social-2" displayText="Twitter" st_image='https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.img.png/1539185110360.png'>Twitter</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html" target="_blank" title="LinkedIn" class="st_linkedin_custom">
+                        <span class="sprites-icon-social-3d" displayText="LinkedIn" st_image='https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.img.png/1539185110360.png'>LinkedIn</span>
+                    </a>
+                </li>
+            </ul>   
+        </div>
+
+
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                "use strict";
+                $ =  jQuery;
+
+                var decal = $('.c-socialbar-cta:not(.horizontal)').parent().width();
+                $('.c-socialbar-cta:not(.horizontal)').css({'margin-left':decal+5});
+                $('.c-socialbar-cta:not(.horizontal)').fadeIn();
+
+
+                $(window).scroll(function() {
+                    socialbar.scroll();
+                });
+            });
+
+            var socialbar = (function(jQuery) {
+                var timeOutId = 0;
+                var jitterBuffer = 20;
+
+                return {
+                    scroll:function() {
+                        var offset = $('.c-socialbar-cta:not(.horizontal)').parent().offset();
+                        var top = offset.top -150;
+
+                        if ($(window).scrollTop() > top) {
+                            $('.c-socialbar-cta:not(.horizontal)').addClass('fixed');
+                        }
+                        else {
+                            $('.c-socialbar-cta:not(.horizontal)').removeClass('fixed');
+                        }
+                    }
+                };
+            })();
+        </script></div>
+
+
+            <div class="span8">
+                <div class="title_main title">
+
+
+<div class="section-header-wrapper">
+<h1>Email - faculty &amp; staff</h1>
+</div></div>
+
+                    
+                <div class="overview wysiwyg parbase">
+<div class="rte">
+<p>University employees have access to a Microsoft Exchange personal email. Microsoft Exchange is a collaborative tool developed by Microsoft. The major features consist of electronic mail, calendaring, contacts, tasks, and online archiving. In addition to desktop access, Microsoft Exchange supports mobile and web-based access. This service allows for email data recovery, archiving services, and features built-in support for enhanced mobile connectivity, high reliability, and larger mailboxes.</p>
+
+</div></div>
+
+                <div class="top_separator separator">
+
+
+<div class="separator  " >
+    <hr />
+</div></div>
+
+                <div id="it-service-blocks">
+                    
+                    <div class="blocks wysiwyg parbase">
+<div class="rte">
+<h4>Who can use it?</h4>
+<p>Faculty &amp; staff</p>
+<h4>How much does it cost?</h4>
+<p>There is no cost associated with this service.<br>
+</p>
+<h4>How to get it</h4>
+<ul>
+<li>To activate your email account for the first time, visit the <a target="_blank" href="https://my.concordia.ca/psp/upprpr9/EMPLOYEE/EMPL/s/WEBLIB_CONCORD.CU_FACULTY_INFO.FieldFormula.IScript_ExchangeEmail?FolderPath=PORTAL_ROOT_OBJECT.CU_ACCOUNTS_AND_SETTINGS.CU_EXCHANGE_EMAIL&IsFolder=false&IgnoreParamTempl=FolderPath%2cIsFolder" adhocenable="false">Concordia Email</a> page.</li>
+<li>To access your email messages, you can use Microsoft Outlook, Mac Mail or another email client installed on your computer.&nbsp;<br>
+</li>
+<li>To sign into your email account online, visit <a target="_blank" href="https://owa.concordia.ca/owa/auth/logon.aspx?replaceCurrent=1&url=http%3a%2f%2fowa.concordia.ca%2fowa%2f" adhocenable="false">owa.concordia.ca</a></li>
+<li>To change the way your name appears in the global address list, make a request on the <a adhocenable="false" target="_blank" href="https://my.concordia.ca/psp/upprpr9/EMPLOYEE/EMPL/s/WEBLIB_CONCORD.CU_FACULTY_INFO.FieldFormula.IScript_ExchangeEmail?FolderPath=PORTAL_ROOT_OBJECT.CU_ACCOUNTS_AND_SETTINGS.CU_EXCHANGE_EMAIL&IsFolder=false&IgnoreParamTempl=FolderPath%2cIsFolder&languageCd=ENG">Concordia Email</a> page.</li>
+<li>To learn how to archive mail using the online archive mailbox, contact the <a adhocenable="false" href="../../../../../it/support.html" target="_blank">Service Desk</a> or consult the <a adhocenable="false" href="http://www.concordia.ca/it/services/faculty-staff-email.html#archive-faq">online archive FAQ</a>.</li>
+<li>To retrieve an email that you believe has been blocked by Concordia's spam filters, contact the <a adhocenable="false" href="../../../../../it/support.html" target="_blank">Service Desk</a> and provide the sender's email address along with the approximate date/time the email was sent.<br>
+</li>
+</ul>
+<h4>Service availability</h4>
+<p>24/7</p>
+<h4>Documentation</h4>
+
+</div></div>
+
+                </div>
+                
+                <div class="doc_parsys parsys">
+
+<div class="accordion-panel section">
+
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/accordion.min.js"></script>
+
+
+	<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/accordion.min.css" type="text/css">
+
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open General settings">
+					
+                    General settings
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p><b>Term</b>: Username<br>
+<b>Definition</b>: The username you must use to log into your email account.<br>
+<b>Specifics</b>: Concordia faculty and staff must use their netname to log into their Exchange email account.</p>
+<p><b>Term</b>:&nbsp; Password<br>
+<b>Definition</b>: The password you must use to log into your email account.<br>
+<b>Specifics</b>: Concordia faculty and staff must use their netname password to log into their Exchange email account.</p>
+<p><b>Term</b>: Incoming server<br>
+<b>Definition</b>: The Concordia server from which you receive your mail.<br>
+<b>Specifics</b>: imap.concordia.ca or&nbsp;pop.concordia.ca</p>
+<p><b>Term</b>: Outgoing SMTP server<br>
+<b>Definition</b>: The Concordia server through which you send mail. This applies to on-campus service only. If you are off-campus, you must use your internet service provider's (ISP) outgoing mail server or connect via the VPN server.<br>
+<b>Specifics</b>:<br>
+Server name: smtp.concordia.ca<br>
+Port: 25<br>
+Encryption Method: None<br>
+Authentication Methed: None</p>
+<p><b>Term</b>: Ports<br>
+<b>Definition</b>: A computer port is a type of electronic docking point through which information flows from a program on your computer to the internet.<br>
+<b>Specifics</b>:<br>
+<u>POP setting</u> server name: pop.concordia.ca<br>
+Port: 995<br>
+Encryption method: SSL<br>
+<u>IMAP setting</u> server name: imap.concordia.ca<br>
+Port: 993<br>
+Encryption method: SSL<br>
+</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Outlook 2016 (Windows)">
+					
+                    Outlook 2016 (Windows)
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_0" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>If you already use Outlook 2016 as your email client, skip to <b>Step 5</b></p>
+<p>Step 1<br>
+Launch Outlook 2016 for the first time.</p>
+<p>Step 2<br>
+The Outlook 2016 startup wizard will appear. Click <b>Next</b> to continue.</p>
+<p>Step 3<br>
+The pop-up box will ask: &quot;Would you like to configure an E-mail account?<br>
+Select <b>Yes</b> and click <b>Next</b></p>
+<p>Step 4<br>
+First time Outlook 2016 users must skip to <b>Step 7</b>. Steps 5 &amp; 6 are for those already using Outlook 2016.</p>
+<p>Step 5<br>
+Launch Outlook 2016</p>
+<p>Step 6<br>
+Click on the <b>File</b> tab and <b>Add account </b>in the centre panel of your screen.<br>
+</p>
+<p>Step 7<br>
+Users who are connected to the Concordia domain will be asked for the following information:<br>
+<b>Your name</b>: Enter your first and last names.<br>
+<b>E-mail address</b>: netname@algol.concordia.ca (MyConcordia portal netname)<br>
+<b>Password:</b> Enter your MyConcordia portal password<br>
+<b>Retype password:</b> Enter your MyConcordia portal password once again<br>
+Ignore the 'Manually configure server settings or additional server types' option.</p>
+<p>Step 8<br>
+Users NOT on the Concordia domain will be asked for the following information:<br>
+<b>Your name</b>: Enter your first and last name<br>
+<b>E-mail address</b>: netname@algol.concordia.ca (MyConcordia portal netname)<br>
+<b>Password</b>: Enter your MyConcordia portal password<br>
+<b>Retype password:</b> Enter your MyConcordia portal password once again<br>
+Ignore the 'Manually configure server settings or additional server types' option.</p>
+<p>Step 9<br>
+Click <b>Next</b> to continue</p>
+<p>Step 10<br>
+A new screen will appear. It might take several minutes to configure your new email server settings. When the email server configuration is complete, green checkmarks will appear (for users on the Concordia domain).</p>
+<p>Step 11<br>
+Users NOT on the Concordia domain will be prompted to login several times with their username and password during the email server settings configuration.</p>
+<p>Step 12<br>
+Delete whatever is automatically written for the username field. Manually enter the following information:<br>
+<b>Username</b>: CONCORDIA\netname<br>
+<b>Password</b>: Your MyConcordia portal password</p>
+<p>Step 13<br>
+Once the three green checkmarks appear, click <b>Allow</b> on the dialig box that appears (Allow this website to configure netname@algol.concordia.ca server settings?) and then click <b>Finish</b>.</p>
+<p>Step 14<br>
+You may be prompted to restart Outlook. Click <b>OK.</b></p>
+<p>Step 15<br>
+Users not on the Concordia domain will be prompted to login each time they launch Outlook.<br>
+&nbsp;</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Outlook 2011 (Mac)">
+					
+                    Outlook 2011 (Mac)
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The following instructions are to be used to set up your Concordia Microsoft Exchange email account on Microsoft Outlook 2011.<br>
+If you already use Outlook Mac 2011 as your email client, skip to <b>Step 4</b>.</p>
+<p>Step 1<br>
+Launch Outlook Mac 2011</p>
+<p>Step 2<br>
+The Outlook Mac 2011 splash screen will appear. Click <b>Add account</b>.</p>
+<p>Step 3<br>
+For those using Outlook Mac 2011 for the first time, skip to <b>Step 5</b> to continue.</p>
+<p>Step 4<br>
+Launch Outlook Mac 2011 and click on <b>Tools</b> at the top of your screen, and then <b>Accounts</b></p>
+<p>Step 5<br>
+Click on the button next to <b>Exchange account</b></p>
+<p>Step 6<br>
+Enter the following information:<br>
+<b>Email address:</b> netname@algol.concordia.ca (MyConcordia portal netname)<br>
+<b>Method</b>: USername and password<br>
+<b>Username</b>: MyConcordia portal netname<br>
+<b>Password</b>: enter your MyConcordia portal password<br>
+Users NOT on the Concordia domain must enter their username in this format: concordia\netname</p>
+<p>Step 7<br>
+Click <b>Add account</b> to continue with the configuration.</p>
+<p>Step 8<br>
+A window will appear with your exchange account summary<br>
+Users NOT on the Concordia domain will see the username field like this: concordia\netname<br>
+</p>
+<p>&nbsp;</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Outlook 2016 (Mac)">
+					
+                    Outlook 2016 (Mac)
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1084372306" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The following instructions are to be used to set up your Concordia Microsoft Exchange email account on Microsoft Outlook 2016.<br>
+If you already use Outlook Mac 2016 as your email client, skip to <b>Step 4</b>.</p>
+<p>Step 1<br>
+Launch Outlook Mac 2016</p>
+<p>Step 2<br>
+The Outlook Mac 2016 screen will appear. Click <b>Add account</b>.</p>
+<p>Step 3<br>
+For those using Outlook Mac 2016 for the first time, skip to <b>Step 5</b> to continue.</p>
+<p>Step 4<br>
+Launch Outlook Mac 2016 and click on <b>Tools</b> at the top of your screen, and then <b>Accounts</b></p>
+<p>Step 5<br>
+Click on the + button at the bottom of the screen and choose <b>Exchange.<br>
+</b></p>
+<p>Step 6<br>
+Enter the following information:<br>
+<b>Email address:</b> netname@algol.concordia.ca (MyConcordia portal netname)<br>
+<b>Method</b>: Username and password<br>
+<b>Username</b>: Netname (MyConcordia portal netname)<br>
+Note: Users not on the Concordia domain must enter their username in this format: concordia\netname<br>
+<b>Password</b>: Enter your MyConcordia portal password<br>
+</p>
+<p>Step 7<br>
+Click <b>Add account</b> to continue with the configuration.</p>
+<p>Step 8<br>
+A window will appear with your exchange account summary<br>
+Users NOT on the Concordia domain will see the username field like this: concordia\netname</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="imap"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open IMAP settings">
+					
+                    IMAP settings
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1641464504" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p><b>Thunderbird</b></p>
+<p>- Open your Thunderbird client<br>
+- Right click on the account name and choose <i>Settings<br>
+ </i>- Select the <i>Server Settings </i>tab<br>
+- Under connection security, select<i> SSL/TLS<br>
+ </i>- Make sure the port is 993</p>
+
+</div></div>
+
+
+<div class="image parbase section">
+
+
+<div class="   " id="cq-image-jsp-/content/concordia/en/it/services/faculty-staff-email/jcr:content/doc_parsys/accordion_panel_1641464504/parsys-accordion/image"  style="width:auto;">
+    	<img src="http://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email/_jcr_content/doc_parsys/accordion_panel_1641464504/parsys-accordion/image.img.png/1553700786597.png" alt="thunderbird" title="thunderbird" class="cq-dd-image">
+    <script type="text/javascript">
+        $(document).ready(function() {
+			$("#1d51457b-a943-4452-9f95-553acad626e8doc_parsysaccordion_panel_1641464504parsys-accordionimage").attr("href", "");
+        });
+    </script>
+    
+</div></div>
+
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p><b>Windows mail</b></p>
+<p>- Open your Windows mail client<br>
+- Select<i> Settings<br>
+ </i>- Click <i>Manage Accounts</i>&nbsp;and select your account<br>
+- Click change <i>mailbox sync settings<br>
+ </i>- Click <i>advanced mailbox settings<br>
+ </i>- Select<i> require SSL for incoming email</i></p>
+
+</div></div>
+
+
+<div class="image parbase section">
+
+
+<div class="   " id="cq-image-jsp-/content/concordia/en/it/services/faculty-staff-email/jcr:content/doc_parsys/accordion_panel_1641464504/parsys-accordion/image_921767834"  style="width:auto;">
+    	<img src="http://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email/_jcr_content/doc_parsys/accordion_panel_1641464504/parsys-accordion/image_921767834.img.png/1554387246764.png" alt="windows-mail" title="windows-mail" class="cq-dd-image">
+    <script type="text/javascript">
+        $(document).ready(function() {
+			$("#1d51457b-a943-4452-9f95-553acad626e8doc_parsysaccordion_panel_1641464504parsys-accordionimage_921767834").attr("href", "");
+        });
+    </script>
+    
+</div></div>
+
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p><b>MacMail</b></p>
+<p>- From the&nbsp;main&nbsp;menu, select<i>&nbsp;Mail/Preferences<br>
+</i>- Select the <i>Accounts</i> tab<br>
+- If <i>Automatically Manage Connection Settings </i>is selected, you may already have the right configuration. Unselect <i>AMCS</i> and make sure <i>TLS/SSL</i> is selected. The port should be<i> 993.</i></p>
+
+</div></div>
+
+
+<div class="image parbase section">
+
+
+<div class="   " id="cq-image-jsp-/content/concordia/en/it/services/faculty-staff-email/jcr:content/doc_parsys/accordion_panel_1641464504/parsys-accordion/image_33194822"  style="width:auto;">
+    	<img src="http://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email/_jcr_content/doc_parsys/accordion_panel_1641464504/parsys-accordion/image_33194822.img.png/1553701301380.png" alt="macmail" title="macmail" class="cq-dd-image">
+    <script type="text/javascript">
+        $(document).ready(function() {
+			$("#1d51457b-a943-4452-9f95-553acad626e8doc_parsysaccordion_panel_1641464504parsys-accordionimage_33194822").attr("href", "");
+        });
+    </script>
+    
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="mobile-devices"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Mobile devices (ActiveSync)">
+					
+                    Mobile devices (ActiveSync)
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_2" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="android"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Android">
+					
+                    Android
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>To configure your Concordia email account on your Android device, follow these steps:</p>
+<p><b>Step 1:</b></p>
+<p>Select the default mail application and select the <b>Add new account</b> button.</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-android/Android_Step_1.jpg" height="106" width="247"></p>
+<p><b>Step 2:</b></p>
+<p>Enter your Concordia email address and password in the appropriate fields and select <b>Sign in </b>as shown in the image below.<br>
+</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-android/Android_Step_2.jpg" height="255" width="227"></p>
+<p>&nbsp;</p>
+<p><b>Step 3:</b></p>
+<p>Select <b>Microsoft Exchange ActiveSync</b> as the account type.</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-android/Android_Step_3.jpg" height="176" width="254"></p>
+<p>&nbsp;</p>
+<p><b>Step 4:</b></p>
+<p>Enter your email address, domain, password, and exchange server as shown in the image below. Replace the word 'netname' with your Concordia netname.</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-android/Android_Step_4.jpg" height="459" width="276"></p>
+<p>&nbsp;</p>
+<p><b>Step 5:</b></p>
+<p>Accept the <b>Remote security administration</b> notice by choosing <b>OK</b>.</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-android/Android_Step_5.jpg" height="166" width="249"></p>
+<p>&nbsp;</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="ios"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open iOS">
+					
+                    iOS
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_194366137" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>To configure your Concordia email account on your Apple device, follow these steps:</p>
+<p><b>Step 1:</b></p>
+<p>Open the default mail application and choose <b>Exchange</b> as the account type.</p>
+<p><b>Step 2:</b></p>
+<p>Enter your Concordia email address and password as shown in the image below and select <b>Next</b>.</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-ios/iOS_Step_1.jpg" height="400" width="226"><br>
+<br>
+</p>
+<p><b>Step 3:</b></p>
+<p>Enter the server, domain, username, and password as shown in the image below and select <b>Save</b>. Replace the word 'Netname' with your Concordia netname. &nbsp;</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-ios/iOS_Step_2.PNG" height="434" width="244"></p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Other (general settings)">
+					
+                    Other (general settings)
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_213933309" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The general configuration settings for an ActiveSync device are as follows:<br>
+</p>
+<p>If given the option, always choose Microsoft Exchange as the account type.</p>
+<p><b>Email:</b> firstname.lastname@concordia.ca<br>
+<b>Domain</b>: CONCORDIA<br>
+<b>Username</b>: your netname<br>
+<b>Password:</b> MyConcordia password<br>
+<b>Description</b>: Concordia Exchange</p>
+<p>Your device should automatically populate the server field. Should it not automatically populate, you may enter <b>mobile.concordia.ca </b></p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+</div>
+
+                
+                <div class="faq_parsys parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<h4>FAQ</h4>
+
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="primary-mailbox-faq"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open General FAQ (primary mailbox)">
+					
+                    General FAQ (primary mailbox)
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1595773014" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What username and password do I use to access my email account?">
+					
+                    What username and password do I use to access my email account?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Your email username is the same as your MyConcordia netname, and your password is the same as your MyConcordia password. For more information, visit the <a adhocenable="false" href="http://www.concordia.ca/it/services/netname-account-management.html">Netname account management</a> page.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="emailonline"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Where do I go to check my email online?">
+					
+                    Where do I go to check my email online?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_127982303" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Mail can be checked through the Outlook Web App (OWA) at <a target="_blank" href="https://owa.concordia.ca/owa/auth/logon.aspx?replaceCurrent=1&url=http%3a%2f%2fowa.concordia.ca%2fowa%2f" adhocenable="false">owa.concordia.ca</a>&nbsp;. The Outlook Web App makes it easy to manage your emails, calendars, and contacts by providing access to your content from virtually anywhere.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is my email address?">
+					
+                    What is my email address?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_2033953459" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Concordia's standard email address format for employees is firstname.lastname@concordia.ca.<br>
+The standard format applies to all addresses, unless a request has been made for the address to be customized.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is the OWA light version?">
+					
+                    What is the OWA light version?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1403641601" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The light version of OWA includes fewer features and a different layout. This should be used if you are on a slow internet connection or using a computer with unusually strict browser security settings. The light version can be selected on the login page. </p>
+<p>NOTE: If you are accessing OWA from an internet browser that does not meet the minimum browser requirements, you will be logged into OWA light by default.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is the Global Address List (GAL)?">
+					
+                    What is the Global Address List (GAL)?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_768376468" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The global address list is a directory feature for Microsoft Exchange. All Concordia email addresses will be published in the GAL. The GAL can be seen in the 'contacts'section within OWA and Microsoft Outlook email clients.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open How do I set a vacation message?">
+					
+                    How do I set a vacation message?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1971513762" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>To set a vacation message using OWA, click on 'Options' and then 'Set automatic replies'. If you wish to set an end date for your vacation message, simply check the box next to 'Send replies only during this time period' and enter the applicable dates. Type your vacation message in the box provided. To send your vacation message to people outside of Concordia University, check the box next to 'Send automatic reply messages to senders outside my organization' and include your vacation message in the box provided.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is the difference between a 'Public or shared computer' and a 'Private computer' on OWA?">
+					
+                    What is the difference between a 'Public or shared computer' and a 'Private computer' on OWA?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1840040502" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The first option is recommended for a work computer, as the system will automatically log out of your account after a period of time. Selecting the second option means that the system will allow you to stay logged in indefinitely. To learn more about the security settings before logging in, click on 'show explanation' nect to 'security'.&nbsp;</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open How can I get a larger email quota?">
+					
+                    How can I get a larger email quota?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_2101046746" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Faculty and staff are given a quota of 2GB in the primary mailbox.<br>
+If you would like to archive mail on your own to free up space in your primary mailbox, consult the <a adhocenable="false" href="http://www.concordia.ca/it/services/faculty-staff-email.html#archive-mailbox-faq">online archive mailbox FAQ</a>.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is my email quota and how can I manage my emails within the quota?">
+					
+                    What is my email quota and how can I manage my emails within the quota?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_2011998136" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Faculty and staff are given a quota of 2GB. If you want to free space in your inbox, here are some suggestions. If you would like more information, explanations, or help managing your email, contact the <a adhocenable="false" href="../../../../../it/support.html" target="_blank">Service Desk</a>.<b><br>
+ <br>
+ 1.&nbsp;&nbsp;&nbsp; Determine which folders are using the most space.</b><br>
+It is important to know which folders are using up more or less of your quota on the server.&nbsp; Once you determine this, it will help in choosing the appropriate resolution.&nbsp; To do so,</p>
+<p>1.&nbsp;&nbsp;&nbsp; Open Microsoft Outlook.<br>
+2.&nbsp;&nbsp;&nbsp; Go to Tools &gt; Mailbox Cleanup &gt; View Mailbox Size.<br>
+3.&nbsp;&nbsp;&nbsp; In this window you can view the total size of your mailbox in KB.&nbsp; Please note that there are 1024KB in 1MB, so the user in the screenshot has used approximately 38MB of his/her quota.<br>
+4.&nbsp;&nbsp;&nbsp; Below the total size of the mailbox, the individual sizes of the userâ¬"s various folders are listed.&nbsp; In this example, we can tell that the userâ¬"s largest, and therefore most problematic, folders are â¬ÜDeleted Itemsâ¬" and â¬ÜNew Employeesâ¬".</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/Folder-size.png"></p>
+<p><b>2.&nbsp;&nbsp;&nbsp; Locate large mail items</b><br>
+By default, folders are sorted by date, with the newest e-mail at the top.&nbsp; You can sort any folder by size, name, or even the subject, by clicking on the title for that column.&nbsp; Choose a folder that is using a large portion of your quota and click on it to view its contents.</p>
+<p>1.&nbsp;&nbsp;&nbsp; Click on the Size column to sort by size (see example below) and scroll to the top to see which e-mail messages are using the most space. Delete or move the largest ones.</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/size-column.png"></p>
+<p><b>3.&nbsp;&nbsp;&nbsp; Save large attachments elsewhere</b><br>
+For the most part, e-mail with attachments takes up the largest amount of space.&nbsp; Since there is much more space to store attachments in your â¬ÜMy Documentsâ¬" folder, consider saving attachments there and then delete the e-mail.&nbsp; Hereâ¬"s how:</p>
+<p>1.&nbsp;&nbsp;&nbsp; Click on e-mail with attachment to highlight it.<br>
+2.&nbsp;&nbsp;&nbsp; Click on File &gt; Save Attachment to save the file to the local disk.<br>
+3.&nbsp;&nbsp;&nbsp; Choose a location (<i>i.e.,</i> My Documents folder), then click Save.<br>
+4.&nbsp;&nbsp;&nbsp; Delete the e-mail.<br>
+Remember that the e-mail will only be removed from your Exchange mailbox once you empty your â¬ÜDeleted Itemsâ¬" folder.</p>
+<p><b>4.&nbsp;&nbsp;&nbsp; Move mail from your primary mailbox into the online archive mailbox</b></p>
+<p>1.<b> </b>Select the mail (in bulk or individually) you wish to move from your primary mailbox.<br>
+2. Drag the mail into your archive folder. In Outlook, the folder will be named: Archive Mailbox. In OWA, the folder will be named: In-Place Archive.<b></b></p>
+<p>For more information about the archive mailbox or how to have mail moved automatically, consult the<b> </b><a adhocenable="false" href="http://www.concordia.ca/it/services/faculty-staff-email.html#archive-mailbox-faq">online archive mailbox FAQ</a><b>.<br>
+</b></p>
+<p><b>5.&nbsp;&nbsp;&nbsp; Delete emails</b><i><br>
+ a.Deleting e-mail â¬ Your â¬ÜDeleted Itemsâ¬" Folder</i><br>
+Deleted e-mail messages are moved to the â¬ÜDeleted Itemsâ¬" folder where they can take up a lot of space.<b>&nbsp; </b>The most efficient way to clean up the â¬ÜDeleted Itemsâ¬" folder is to empty it.&nbsp; This is done by right-clicking on the Deleted Items folder in the mail folder view and choosing Empty â¬SDeletedâ¬ý Folder.&nbsp;</p>
+<p>You can also choose to delete your â¬ÜDeleted Itemsâ¬" automatically when you exit Outlook.&nbsp; Hereâ¬"s how:<br>
+1. &nbsp; In Outlook, click on the Tools menu and select Options.<br>
+2.&nbsp;&nbsp; Click on the Other tab.<br>
+3.&nbsp;&nbsp; Place checkmark beside â¬ÜEmpty the Deleted Items folder upon exiting.â¬"<br>
+Once you enable this option you will be asked to confirm the delete.</p>
+<p><i>b.Deleting e-mail â¬ Your â¬ÜSent Itemsâ¬" Folder</i><br>
+One effective way to clean up your exchange mailbox is to delete unwanted e-mail. Outlook automatically saves a copy of every e-mail message you send in the â¬ÜSent Itemsâ¬" folder, which can consequently grow very large.&nbsp; If you want, you can delete these messages to free up space.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Will my email address be published in Concordia's directory?">
+					
+                    Will my email address be published in Concordia's directory?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1972089340" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Yes, by default your email address will be published in the University directory. In addition, your email address will be published in the Global Address List found within OWA and the Microsoft Outlook email client.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is Microsoft Exchange and why is it being used at Concordia?">
+					
+                    What is Microsoft Exchange and why is it being used at Concordia?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_78888101" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Microsoft Exchange is a collaborative tool developed by Microsoft. The main features include electronic mail, calendaring, contacts, and tasks. In addition to desktop access, Microsoft Exchange offers support for mobile and web-based access.<br>
+Microsoft software is already being used extensively at Concordia as a result of the University establishing a site license agreement for Microsoft products. Microsoft Exchange's collaborative features are beneficial to Concordia faculty and staff.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What are Concordia's recommended mobile apps for email?">
+					
+                    What are Concordia's recommended mobile apps for email?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_7939700" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>For security reasons, Concordia discourages the use of non-native mobile mail (Example: Microsoft Outlook for iOS and Android) apps to access the Universityâ¬"s mail service. To configure your device using the native mail applications, consult the <a adhocenable="false" href="http://www.concordia.ca/it/services/faculty-staff-email.html#mobile-devices">ActiveSync configuration instructions</a> on this page.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What does it mean when the email account is 'controlling my device'?">
+					
+                    What does it mean when the email account is 'controlling my device'?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_862121281" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>This message appears when you have used your Microsoft Exchange email on an ActiveSync mobile device. The feature simply allows the phone to be wiped of all personal information if it is somehow lost or stolen.<br>
+</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Does Microsoft Exchange work on Windows and Mac operating systems?">
+					
+                    Does Microsoft Exchange work on Windows and Mac operating systems?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_874729228" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Microsoft Exchange can be accessed via the web on any operating system and can be configured on email clients for both Windows and Macintosh operating systems.<br>
+</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Where can I find Microsoft Exchange documentation?">
+					
+                    Where can I find Microsoft Exchange documentation?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_634827750" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>To learn more, visit the <a adhocenable="false" href="https://products.office.com/en-us/exchange/email" target="_blank">Microsoft Exchange</a> page.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="share-calendar-owa"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open How do I share my calendar with a co-worker? ">
+					
+                    How do I share my calendar with a co-worker? 
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_167259343" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>1. Log into the Outlook Web App (OWA) using your netname and password.<br>
+2. Select the calendar tab on the right-hand side of your screen.&nbsp;</p>
+<p><br>
+<img src="http://www.concordia.ca/content/dam/concordia/images/IITS/OWA/owa-calendar.png"></p>
+<p>3. Verify that you can see the appropriate calendar, then choose the &quot;Share&quot; option at the top of your screen and select &quot;Share This Calendar&quot; from the drop-down list.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/OWA/owa-share-calendar.png"><br>
+4. An invitation to share your calendar will open, allowing you to choose the recipient, level of information to be shared, and the message that will accompany your invitation.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="http://www.concordia.ca/content/dam/concordia/images/IITS/OWA/owa-invite-calendar.png"><br>
+5. Send the invitation as you would an email. The recipient will be prompted to accept the invitation once it has been sent.&nbsp;</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="manage-email-spam"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open How can I manage emails and control spam in Outlook?">
+					
+                    How can I manage emails and control spam in Outlook?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1447134037" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The security of IT systems is a high priority for Concordia's IT department. Spam is a serious security concern as it can be used to deliver Trojan horses, viruses, worms, spyware, and targeted phishing attacks. Filtering systems have been implemented to block spam, and while these filters are highly efficient, you may still receive spam emails.</p>
+<p>Important: Always keep your computer up to date with the latest updates and security patches for the operating system, the antivirus software, and any other applications you use. (If your computer is managed by IITS the <a href="http://www.concordia.ca/content/dam/concordia/docs/IITS/windows-updates-software-center.pdf" adhocenable="false">Windows updates</a> are automatically installed).</p>
+<p>Outlook has some features to help you control spam and manage your emails:</p>
+<ol>
+<li><b>Block sender</b><br>
+Use this option to block the sender of a particular email you received. This feature is useful when you receive recurrent emails from the same sender. If you block a sender, all future emails from that sender are considered spam.<br>
+<br>
+Select the spam email, under <i>Home</i> tab select <i>Junk</i> and then <i>Block Sender.<br>
+ <br>
+ <img width="530" height="244" src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-spam-faq/%231.png"><br>
+ <br>
+ </i></li>
+<li>&nbsp;<b>Blocked sender list</b><br>
+Use this option to create a list of senders that are automatically blocked by mentioning the sendersâ¬" email address or domain name. All emails received from the domains and senders on the list are sent directly to your Junk folder. This feature is useful when you receive spam emails from multiple senders using similar email addresses (like the same domain name) or if the list of spam email senders is relatively small. Use this option with caution as it may cause legitimate emails to be identified as spam. For example, if you block a domain, all the emails coming from addresses using that domain name will be considered spam.<br>
+<br>
+Select <i>Home </i>&gt; <i>Junk</i> &gt;<i> Junk Email Options </i>and click the <i>Blocked Senders</i> tab. Click the <i>Add</i> button and enter an email address or a group domain.<br>
+<br>
+<img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-spam-faq/%232.png"><br>
+<br>
+<img width="387" height="459" src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-spam-faq/%233.png"><br>
+<br>
+</li>
+<li><b>Junk email filter</b><br>
+Use this option to keep junk email messages, also known as spam, from cluttering your Inbox. By default, the Junk Email Filter is turned on, and the protection level is set to Low - the setting designed to catch only the most obvious spam. If you receive lots of junk messages from different senders, you can adjust the sensitivity of the Junk Email Filter to High so Outlook catches most of the spam emails. You should review messages moved to the Junk Email folder periodically, as some legitimate messages might also be moved.<br>
+<br>
+Select <i>Home</i> &gt; <i>Junk</i> &gt; <i>Junk Email Options</i> and click the <i>Options</i> tab. Select <i>High</i> for the level of junk e-mail protection.<br>
+<br>
+<img src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-spam-faq/%234.png"><br>
+<br>
+<img width="363" height="427" src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-spam-faq/%235.png"><br>
+<br>
+</li>
+<li><b>Create rules to manage your emails</b><br>
+A rule is an action that Outlook runs automatically on incoming or outgoing messages, based on conditions that you have specified. They help reduce manually filing or deleting when similar messages arrive. Rules are always turned on and run automatically. For example, when a message is received from someone you've specified in a rule, itâ¬"s automatically moved to the folder you designated.<br>
+<br>
+<img width="504" height="130" src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-spam-faq/%236.png"><br>
+<br>
+Here you can create a rule using the Rules Wizard by mentioning an action and the conditions that trigger that action.<br>
+<br>
+<img width="421" height="491" src="http://www.concordia.ca/content/dam/concordia/images/IITS/email-spam-faq/%237.png"><br>
+For more information, consult the <a adhocenable="false" target="_blank" href="https://support.office.com/en-us/article/Manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59">MS Outlook support page.</a></li>
+</ol>
+<p><b><br>
+Use with caution and check your spam folders often.<br>
+ </b><br>
+All the methods mentioned above are very useful but you must use them with caution. Depending on the senders you block, the rules you set up, or the protection level that you set for the Junk Email Filter, some legitimate email messages might be moved to the Junk E-mail folder. You should review the messages in the Junk E-mail folder periodically so that you arenâ¬"t missing any messages that you want to see. Check your spam folders often at every level, especially if you're expecting a communication that never shows up.<br>
+<br>
+If important messages that you believe should be in your Inbox often end up in your Junk folder, then you may want to review the settings and remove some of the blocked senders or lower the level of junk email protection you previously set.<br>
+<br>
+Concordia provides IT training to faculty, staff, and students and training for Outlook is available. For more information, consult <a adhocenable="false" target="_blank" href="http://www.concordia.ca/it/services/it-training.html">IITS Training.</a></p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="archive-faq"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Online archive mailbox FAQ">
+					
+                    Online archive mailbox FAQ
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="archivemailbox"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is an online archive mailbox and how is it used?">
+					
+                    What is an online archive mailbox and how is it used?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The online archive mailbox is a specialized mailbox that works in conjunction with your primary mailbox, allowing messages to be quickly and easily archived to a location that is accessible from anywhere.</p>
+<p>The online archive can help to free up space in your primary mailbox, which will lead to increased Outlook performance and will reduce complications associated with a mailbox approaching quota.</p>
+<p>To move mail into the archive mailbox, select the mail (in bulk or individually) from your primary mailbox and drag it into the archive folder. In Outlook, the folder will be named &quot;Archive Mailbox&quot; and in OWA, the folder will be named &quot;In-Place Archive&quot;.</p>
+<p><b>Email clients that support the online archive feature include:</b></p>
+<ul>
+<li>Microsoft Outlook 2016, 2013, 2010, and 2007 (with the most recent update applied)<br>
+</li>
+<li>Outlook for Mac 2016 (functionality may be limited)</li>
+<li>Exchange OWA (owa.concordia.ca)<br>
+</li>
+</ul>
+<p>If you would like more information on how to move mail to the online archive mailbox automatically, visit the <a adhocenable="false" href="http://www.concordia.ca/it/services/faculty-staff-email.html#archive-policy">archive policy FAQ</a>.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="archive-policy"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Will mail be moved to my online archive mailbox automatically?">
+					
+                    Will mail be moved to my online archive mailbox automatically?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_376779084" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>By default there will be no archiving or retention (deletion) policy applied to the online archive mailbox, which means mail will not automatically be moved.</p>
+<p>There are 2 scenarios in which mail will be moved automatically:</p>
+<ol>
+<li>As your primary mailbox approaches quota, you will receive warning messages. If you do not reduce the size of your primary mailbox manually, the <a adhocenable="false" href="http://www.concordia.ca/it/services/faculty-staff-email.html#default-policy">default archiving and retention policy</a> will be applied just before the mailbox reaches quota so as to ensure you do not miss any new incoming mail. &nbsp;Once the policy has been applied to your account, it cannot be reversed.<br>
+<br>
+</li>
+<li>You may choose to opt-in and have the <a adhocenable="false" href="http://www.concordia.ca/it/services/faculty-staff-email.html#default-policy">default policy</a> applied to your account by contacting the <a adhocenable="false" href="../../../../../it/support.html" target="_blank">Service Desk</a>. Once you have chosen to opt-in, it cannot be reversed.<br>
+</li>
+</ol>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        <a name="default-policy"></a>
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is the default policy?">
+					
+                    What is the default policy?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1679737564" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The default policy that will be applied when you opt-in or your primary mailbox reaches quota is as follows:</p>
+<ul>
+<li>All mail 2 years or older will be moved from the primary mailbox to the online archive mailbox.</li>
+<li>No mail within the online archive mailbox will be automatically deleted.</li>
+<li>All mail within the 'Deleted items' and 'Junk mail' folders will be permenantly deleted after a period of 90 days.</li>
+</ul>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open How do I manually move mail from my primary mailbox to the online archive mailbox?">
+					
+                    How do I manually move mail from my primary mailbox to the online archive mailbox?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_979783825" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open OWA">
+					
+                    OWA
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Select mail from the primary mailbox (in bulk or individually) and drag it into the onliine archive mailbox.</p>
+<p><b>Tutorial video:</b></p>
+
+</div></div>
+
+
+<div class="youtube section"><link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/youtube.min.css" type="text/css">
+
+<div class="video-container">
+	<iframe height="169" width="300" src="//www.youtube.com/embed/AXtiD0QXGfM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Outlook 2016">
+					
+                    Outlook 2016
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_610302642" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Select mail from the primary mailbox (in bulk or individually) and drag it into the onliine archive mailbox.</p>
+<p><b>Tutorial video:</b></p>
+
+</div></div>
+
+
+<div class="youtube section">
+<div class="video-container">
+	<iframe height="169" width="300" src="//www.youtube.com/embed/73jsp0Tkgxg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Outlook for Mac 2016">
+					
+                    Outlook for Mac 2016
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1180232888" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Select mail from the primary mailbox (in bulk or individually) and drag it into the onliine archive mailbox.</p>
+<p><b>Tutorial video:</b></p>
+
+</div></div>
+
+
+<div class="youtube section">
+<div class="video-container">
+	<iframe height="169" width="300" src="//www.youtube.com/embed/GBt9sjii-1E?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open What is the quota for the online archive mailbox?">
+					
+                    What is the quota for the online archive mailbox?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1973269108" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>The quota for the online archive mailbox is 18GB.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open Which email clients support the use of an online archive mailbox?">
+					
+                    Which email clients support the use of an online archive mailbox?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1568558115" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Clients that support the online archive mailbox include:<br>
+</p>
+<ul>
+<li>Microsoft Outlook 2016</li>
+<li>Microsoft Outlook 2013</li>
+<li>Microsoft Outlook 2010</li>
+<li>Microsoft Outlook 2007 (with most recent update applied)</li>
+<li>Outlook for Mac 2016 (users can access the online archive, but canâ¬"t move multiple messages. Users must move individual messages or use OWA to move multiple messages).</li>
+<li>Exchange OWA</li>
+</ul>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open How do I search for messages that are in my online archive mailbox?">
+					
+                    How do I search for messages that are in my online archive mailbox?
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_435562521" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>To search for mail that may have been moved to the online archive mailbox using the Outlook client, choose 'Search all mailboxes'. This search will find mail located in either your primary or online archive mailbox.<br>
+</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="accordion-panel section">
+
+
+
+	
+
+<div class="c-accordion toggable">
+    <div class="item ">
+        
+        <div class="group panel default">
+            <h3 class="title">
+                <a name="legend-expand" title="Open If I delete a folder in my primary mailbox, will it be deleted from the online archive mailbox as well? ">
+					
+                    If I delete a folder in my primary mailbox, will it be deleted from the online archive mailbox as well? 
+                </a>
+            </h3> 
+            <div class="arrow"></div>
+        </div>
+        <div class="content row-fluid accordion_accordion_panel_1821216578" style="display: none;">
+            <div class="span12">
+                <div class="parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<p>Yes - once the archive policy is enabled, any folder deleted in the primary mailbox will also be deleted from the online archive mailbox.<br>
+<br>
+For example, if there is a folder called &quot;Events&quot; in the primary mailbox, a copy will be automatically created in the online archive mailbox. If the folder called &quot;Events&quot; is then deleted from the primary mailbox, it will also cause the folder with the same name to be deleted in the online archive mailbox.&nbsp;&nbsp;</p>
+<p>To avoid this, rename the &quot;Events&quot; folder in the online archive mailbox before deleting it from the primary mailbox.</p>
+
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+</div>
+
+                
+                <div class="additional_content parsys"></div>
+
+            </div>
+
+            <div class="span4">
+                <div class="contact_service_desk reference parbase">
+</div>
+
+                
+                <div class="sidebar_parsys parsys">
+
+<div class="wysiwyg parbase section">
+<div class="rte">
+<h4>See also</h4>
+
+</div></div>
+
+
+<div class="link-list section">
+
+
+    <div class="c-bloc-links ">
+
+        <ul class="">
+                            <li class=""><a href="http://www.concordia.ca/it/services/netname-account-management.html">Netname account management</a></li>
+                            <li class=""><a href="http://www.concordia.ca/it/services/mailing-lists-majordomo.html">Mailing lists (Majordomo)</a></li></ul> 
+</div></div>
+
+
+<div class="separator section">
+
+
+<div class="separator  " >
+    <hr />
+</div></div>
+
+
+<div class="page-feedback parbase section">
+
+
+<link rel="stylesheet" href="http://www.concordia.ca/etc/designs/concordia/clientlibs/page-feedback.min.css" type="text/css">
+<script type="text/javascript" src="http://www.concordia.ca/etc/designs/concordia/clientlibs/page-feedback.min.js"></script>
+
+
+
+
+<div class="c-page-feedback">
+<h6>Was this page useful to you?</h6>
+    <form action="http://www.concordia.ca/it/services/faculty-staff-email/_jcr_content/sidebar_parsys/page_feedback.html" class="form-inline" id="page-feedback-form" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="submitted" value="true">
+        <input type="hidden" name="page-url" value="https://www.concordia.ca:80/content/concordia/en/it/services/faculty-staff-email.html">
+        <span class="stars-label">Rate</span>
+        <div class="rating">
+			<input type="radio" id="rating-input-1-5" class="rating-input" name="rating-input" value="5" required>
+			<label for="rating-input-1-5" class="rating-star"></label>
+			<input type="radio" id="rating-input-1-4" class="rating-input" name="rating-input" value="4">
+			<label for="rating-input-1-4" class="rating-star"></label>
+            <input type="radio" id="rating-input-1-3" class="rating-input" name="rating-input" value="3">
+			<label for="rating-input-1-3" class="rating-star"></label>
+            <input type="radio" id="rating-input-1-2" class="rating-input" name="rating-input" value="2">
+			<label for="rating-input-1-2" class="rating-star"></label>
+            <input type="radio" id="rating-input-1-1" class="rating-input" name="rating-input" value="1">
+			<label for="rating-input-1-1" class="rating-star"></label>
+        </div>
+        <div class="details">
+            <label for="details"><b>This form is for feedback only.</b> Technical support requests should be submitted by email to <a href="mailto:help@concordia.ca">help@concordia.ca</a> </b> or phone 514-848-2424, ext. <b> 7613. </b> <p> </p> <p> Page suggestions:</label></br>
+            <textarea id="details" name="details" rows=3 data-rule-required="true"></textarea>
+        </div>
+        <div>
+            <button id="page-feedback-submit" type="submit" class="btn">Submit</button>
+        </div>
+    </form>
+    <div id="statusResponse"></div>
+</div>
+<div style="clear:both"></div></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</section> 
+        
+
+<!--[if lte IE 8]>
+    <style>#boot .c-back-to-top span { display: none !important; } </style>
+<![endif]-->
+
+
+        <div class="c-back-to-top">
+            <span>Back to top</span>
+            <img src="http://www.concordia.ca/etc/designs/concordia/clientlibs/img/sprites/icon-back-to-top.jpg">
+        </div>
+
+
+<p class="visible-print pull-right">&copy; Concordia University</p>
+
+
+<footer class="c-footer ">
+    <div class="main">
+        <div class="wrap">
+            <h5><span class='text-uppercase'>Concordia University</span> - Call us at 514-848-2424</h5>
+            <div class="row-fluid">
+                    <div class="span6">        
+                        <div class="row-fluid">
+                            <div class="span6 col">
+                                    <div class="generic iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="generic iparsys parsys"><div class="link-list section">
+
+
+    <div class="c-bloc-links ">
+
+        <ul class="">
+                            <li class=""><a href="../../../../../about.html">About</a></li>
+                            <li class=""><a href="../../../../../academics.html">Academics</a></li>
+                            <li class=""><a href="../../../../../admissions.html">Admissions</a></li>
+                            <li class=""><a href="../../../../../campus-life.html">Campus life</a></li>
+                            <li class=""><a href="../../../../../research.html">Research</a></li>
+                            <li class=""><a href="../../../../../international.html">International</a></li></ul> 
+</div></div>
+</div>
+</div>
+</div>
+
+                            </div>
+    
+                            <div class="span6 col">
+                                    <div class="specific iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="specific iparsys parsys"><div class="link-list section">
+
+
+    <div class="c-bloc-links ">
+
+        <ul class="unstyled">
+                            <li class=""><a href="../../../../../admissions.html">Future students</a></li>
+                            <li class=""><a href="../../../../../students.html">Current students</a></li>
+                            <li class=""><a href="../../../../../alumni-friends.html">Alumni & friends</a></li>
+                            <li class=""><a href="../../../../../parents.html">Parents </a></li>
+                            <li class=""><a href="../../../../../faculty-staff.html">Faculty & staff</a></li>
+                            <li class=""><a href="../../../../../news/media-relations.html">Media</a></li></ul> 
+</div></div>
+</div>
+</div>
+</div>
+
+                            </div>
+                        </div>
+                    </div>	
+                    <div class="span6 col contact">
+                            <div class="footer-maps iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-maps iparsys parsys"><div class="wysiwyg parbase section">
+<div class="rte">
+<div class="row-fluid"><div class="span6"><div class="adr"><div class="org">Sir George Williams Campus</div>
+<div class="street-address">1455 De Maisonneuve Blvd. W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H3G 1M8</div>
+</div>
+<div class="link"><a href="../../../../../maps/sgw-campus.html" adhocenable="false">See SGW Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+<div class="span6"><div class="adr"><div class="org">Loyola Campus</div>
+<div class="street-address">7141 Sherbrooke Street W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H4B 1R6</div>
+</div>
+<div class="link"><a href="../../../../../maps/loyola-campus.html" adhocenable="false">See Loyola Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">       
+        <div class="wrap">    
+            <div class="row-fluid">
+                <div class="social">
+                    <div class="social-media-icons social-media-list">
+
+
+<div class="social">
+    
+            <ul>
+            
+                            <li class=""><a class="facebook-white" href="https://facebook.com/ConcordiaUniversity" target="_blank">facebook</a></li>
+                            
+                            <li class=""><a class="twitter-white" href="https://twitter.com/Concordia" target="_blank">twitter</a></li>
+                            
+                            <li class=""><a class="youtube-white" href="http://youtube.com/user/ConcordiaUni" target="_blank">youtube</a></li>
+                            
+                            <li class=""><a class="linkedin-white" href="http://linkedin.com/company/concordia-university" target="_blank">linkedin</a></li>
+                            
+                            <li class=""><a class="instagram-white" href="http://instagram.com/concordiauniversity" target="_blank">instagram</a></li>
+                            
+                            <li class=""><a class="flickr-white" href="http://www.flickr.com/photos/concordiauniversity/" target="_blank">flickr</a></li>
+                            
+            </ul> 
+
+    <div class="lbl">
+        
+            <a href="../../../../../social.html">Concordia social</a>
+        
+    </div>
+</div></div>
+ 
+                </div>
+
+                <div class="c-bloc-links">
+                    <ul class="nav">
+                        <li>&copy; Concordia University</li> 
+                        <li class=""><a href="../../../../../web/terms.html">Terms</a></li>
+                        <li class=""><a href="../../../../../web/privacy.html">Privacy</a></li>
+                        <li class=""><a href="../../../../../web/accessibility.html">Accessibility</a></li>
+                            <li class=" feedback"><a href="../../../../../web/feedback-forms.html">Website feedback</a></li>
+                    </ul>
+                </div>
+           </div>
+        </div>
+    </div>
+
+    
+</footer>
+
+
+<footer class="mobile-footer">
+        <div class="main-buttons-div">
+            <a href="../../../../../" class="main-link home">
+                <div class="icon-white icon-home"></div>
+                <div>Concordia.ca</div>
+            </a>
+            <a href="tel://514-848-2424" class="main-link call-us">
+                <div>Call us at</div>
+                <div>514-848-2424</div>
+            </a>
+            <div style="clear: both;"></div>
+        </div>
+    
+        <div class="wysiwyg parbase">
+<div class="rte">
+<div class="row-fluid"><div class="span6"><div class="adr"><div class="org">Sir George Williams Campus</div>
+<div class="street-address">1455 De Maisonneuve Blvd. W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H3G 1M8</div>
+</div>
+<div class="link"><a href="../../../../../maps/sgw-campus.html" adhocenable="false">See SGW Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+<div class="span6"><div class="adr"><div class="org">Loyola Campus</div>
+<div class="street-address">7141 Sherbrooke Street W.</div>
+<div><span class="locality">Montreal</span>, <span class="region">Quebec</span>, <span class="country-name">Canada</span></div>
+<div class="postal-code">H4B 1R6</div>
+</div>
+<div class="link"><a href="../../../../../maps/loyola-campus.html" adhocenable="false">See Loyola Campus map <i class="sprites-icon-map"></i></a></div>
+</div>
+</div>
+</div></div>
+
+
+    <div class="share-div">
+        <div class="title">Share this page</div>
+        <div class="social">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html" target="_blank">
+                <div class="facebook-white"></div>
+            </a>
+        </div>
+        <div class="social">
+            <a href="https://twitter.com/intent/tweet?url=https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html" target="_blank">
+                <div class="twitter-white"></div>
+            </a>
+        </div>
+        <div class="social">
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.concordia.ca/content/concordia/en/it/services/faculty-staff-email.html" target="_blank">
+                <div class="linkedin-white"></div>
+            </a>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+
+    <div class="feedback-div">
+			<a href="../../../../../web/feedback-forms.html">Website feedback</a>
+
+        <div class="web-links">
+            <div class="web-link"><a href="../../../../../web/terms.html">Terms</a></div>
+            <div class="web-link"><a href="../../../../../web/privacy.html">Privacy</a></div>
+            <div class="web-link"><a href="../../../../../web/accessibility.html">Accessibility</a></div>
+            <div style="clear: both;"></div>
+        </div>
+    </div>
+
+    <div class="copy-div">&copy; Concordia University</div>
+</footer>        
+    </div>
+</body>
+</html>

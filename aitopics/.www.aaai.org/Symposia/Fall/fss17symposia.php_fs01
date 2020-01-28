@@ -1,0 +1,470 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2017 Fall Symposium Series</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2017 Fall Symposium Series</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="fss17.php"><img src="http://www.aaai.org/Symposia/Fall/Photos/dc.jpg" alt="White House" width="639" height="143" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2017 Fall Symposium Series</span></h2>
+<div class="content">
+
+<p><i>Sponsored by the Association for the Advancement of Artificial Intelligence</i><br />November 9&ndash;11, 2017 &nbsp; &nbsp; The Westin Arlington Gateway, 
+Arlington, Virginia</p>
+<div class="hr1"><hr /></div>
+<h3>Important Deadlines</h3>
+<ul>
+	<li>July 21, 2017: Submissions due to organizers</li>
+	<li>August 4, 2017: Notifications of acceptance sent by organizers</li>
+	<li>August 25, 2017: Accepted camera-ready copy due to AAAI</li>
+</ul>
+
+<div class="hr1"><hr /></div>
+
+<p>
+The Association for the Advancement of Artificial Intelligence is pleased to present the 2017 Fall Symposium Series, to be held Thursday through Saturday, November 9-11, at the Westin Arlington Gateway in Arlington, Virginia.  The titles of the six symposia are as follows:
+
+<ul>
+<li><a href="fss17symposia.php_fs01">Artificial Intelligence for Human-Robot Interaction</a></li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss17symposia.php#fs02">Cognitive Assistance in Government and Public Sector Applications</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss17symposia.php#fs03">Deep Models and Artificial Intelligence for Military Applications: Potentials, Theories, Practices, Tools and Risks</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss17symposia.php#fs04">Human-Agent Groups: Studies, Algorithms and Challenges</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss17symposia.php#fs05">Natural Communication for Human-Robot Collaboration</a></li>
+	<li><a href="http://www.aaai.org/Symposia/Fall/fss17symposia.php#fs06">A Standard Model of the Mind</a></li>
+</ul>
+
+
+
+<h4>Submission Requirements</h4>
+<p>
+Interested individuals should submit a paper or abstract by the deadline listed above. For AAAI formatting guidelines, please see the <a href="http://www.aaai.org/Publications/Templates/AuthorKit17.zip">AAAI Author kit.</a> Please submit your submissions directly to the individual symposium according to their directions. Do not mail submissions to AAAI. 
+</p>
+
+
+<p>
+See the appropriate section in each symposium description for specific submission requirements.
+</p>
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="fs01">Artificial Intelligence for Human-Robot Interaction</a></h3>
+
+<p>
+The goal of the Artificial Intelligence for Human-Robot Interaction symposium is to bring together the large community of researchers working on artificial intelligence (AI) challenges inherent to human-robot interaction (HRI). While most current, traditional HRI research involves investigating ways for robots to effectively interact with people, HRI's overarching goal is to develop robots that are intelligent, autonomous, and capable of interacting with, modeling, and learning from humans. These goals greatly overlap with some central goals of AI; however, much AI research takes place without consideration of humans, and thus does not consider the inherent uncertainty in dynamics, structure and interaction that humans and human-populated environments bring with them. We thus believe that HRI is an extremely interesting problem domain for AI and robotics research, as humans and human-populated environments bring with them inherent uncertainty in dynamics, structure, and interaction.
+</p>
+
+<p>
+Our symposium will focus on the larger intellectual picture to address the statements "HRI is an AI problem" and "AI is an HRI problem". The symposium will include current research talks and discussions both to share work in this intersectional area, guidance for how to best frame AI-centric HRI work within AI venues, and invited speaker panels to give different perspectives on AI-for-HRI.
+</p>
+
+
+<h5>Submissions</h5>
+<p>
+Authors may submit under one of three paper categories:
+</p>
+
+<p>
+<i>Full papers </i>(6-8 pages) highlighting state-of-the-art HRI-oriented AI research, HRI research focusing on the use of autonomous AI systems, or the implementation of AI systems in commercial HRI products.
+</p>
+
+<p>
+<i>Short position papers</i> (3-4 pages) outlining new or controversial views on AI-HRI research or describing ongoing AI-oriented HRI research.
+</p>
+
+<p>
+<i>Tool papers</i> (1&ndash;2 pages) describing novel software, hardware, or datasets of interest to the AI-HRI community.
+</p>
+
+<p>
+In addition, philosophy and social science researchers are encouraged to submit short papers suggesting AI advances that would facilitate the design, implementation, or analysis of HRI studies.
+</p>
+
+<p>
+Industry professionals are encouraged to submit short papers suggesting AI advances that would facilitate the development, enhancement, or deployment of HRI technologies in the real world.
+</p>
+
+
+<h5>Format</h5>
+<p>
+In addition to oral and poster presentations of accepted papers, this year's symposium will include panel discussions, position talks, keynote presentations, and a hack session with ample time for networking.
+</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Elin A. Topp (Lund University), Laura M. Hiatt (Naval Research Laboratory), Luca Iocchi (Sapienza University of Rome), Kalesha Bullard (George Institute of Technology), Emmanuel Senft (Plymouth University), Tian Zhou (Purdue University), Marc Hanheide (University of Lincoln), Frank Broz (Heriott-Watt University), Dan Grollman (Sphero, Inc), Katrin Lohan (Heriot-Watt University), Ross Mead (Semio), Tom Williams (Tufts University/Colorado School of Mines)
+</p>
+
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="http://ai-hri.github.io/">supplemental symposium website.</a>
+</p>
+
+
+
+<div class="hr1"><hr /></div>
+
+
+<h3 class="text1"><a name="fs02">Cognitive Assistance in Government and Public Sector Applications</a></h3>
+
+<p>
+Cognitive assistance is an important focus area for AI. While it has several facets and still lacks a precise definition (one of the reasons for this symposium!), it has been called Augmented Intelligence, the automation of knowledge work, intelligence amplification, cognitive prostheses, and cognitive analytics in the past. It is generally agreed (it's been noted that "Humans will likely be needed to actively engage with AI technologies throughout the process of completing tasks ["Artificial Intelligence, Automation, and the Economy," &ndash; Executive Office of the President, December 2016]). that even while fully automated AI is still being developed, there are many aspects in which people can (and do already) benefit from automated support, when it is appropriate and intelligently provided.
+</p>
+
+<p>*</p>
+
+<p>
+This symposium solicits innovative contributions to the research, development, and application of cognitive assistance technology for use in Government (executive agencies, legislative, and judicial branches), education, and healthcare. These areas differ considerably, but they all share characteristics that make them prime candidate application areas for cognitive assistance: complex knowledge interdependencies that take years to master, the situation where human experts provide support to less-informed clients with urgent needs, legal and social requirements for accurate and timely help.
+</p>
+
+
+<p>
+This year we will expand the dialog between the user, academic, and industry communities to discuss the following topics:
+</p>
+
+<ul>
+	<li>Public sector problems where cognitive assistance may be desirable due to the potential for human-machine synergy, and where the human-machine team may be uniquely suited to the problem space.  Identify how human and machine complement one another and how this co-dependency will evolve over time.</li>
+	<li>Reports from the field on the adoption of cognitive assistance, including best practices, lessons learned, costs/benefits, productivity results, barriers to adoption and issues that require further study.</li>
+	<li>Policies, regulations, and practices necessary to accelerate the opportunities and mitigate the risks of cognitive assistance</li>
+	<li>Skills and education necessary to obtain benefits from cognitive assistance and mitigate the impacts on displaced workers</li>
+	<li>Fairness, safety, dependability, ethics, transparency, trust, risk management and other cross-cutting issues around the use of cognitive assistance in the public sector</li>
+	<li>Standards and open source technologies for cognitive assistance</li>
+	<li>Implications of cognitive assistance for all facets of government (for example, economy, security, demographics)</li>
+	<li>Highlight advancements and results that have occurred since FSS-16.</li></ul>
+	<p>
+We solicit ideas for and participation in panel discussions among public sector
+representatives to articulate their needs for and concerns about the use of cognitive assistance in their domains.   We hope to also have panels with users and technologists exploring common problems faced by users, the opportunities for the cognitive assistant to assist, what information is available, and what would be measures of success for a solution.   
+We also invite students and researchers to propose demonstrations of state-of-the-art approaches to cognitive assistance technology and ideas relevant to the public sector.
+</p>
+
+
+<h5>Submissions</h5>
+<p>
+The symposium will include presentations of accepted papers in both oral and panel discussion formats. Potential symposium participants are invited to submit either a full-length technical paper or a short position paper for discussion. Full-length papers must be no longer than eight (8) pages, including references and figures. Short submissions can be up to four (4) pages in length and describe speculative work, work in progress, system demonstrations, or panel discussions. 
+</p>
+
+<p>
+Please submit directly to&#32;&#102;&#115;&#116;&#101;&#105;&#110;&#64;&#117;&#115;&#46;&#105;&#98;&#109;&#46;&#99;&#111;&#109; with FSS-17 in the subject line. Please submit by July 21. 
+</p>
+
+<h5>Organizing Committee</h5>
+
+<p>
+Frank Stein, IBM (Chair), Lashon Booker, MITRE, Chris Codella, IBM, Eduard Hovy, CMU, Chuck Howell, MITRE, Anupam Joshi, UMBC, Andrew Lacher, MITRE, Jim Spohrer, IBM, John Tyler, IBM
+</p>
+
+
+
+<div class="hr1"><hr /></div>
+
+
+<h3 class="text1"><a name="fs03">Deep Models and Artificial Intelligence for Military Applications: Potentials, Theories, Practices, Tools and Risks</a></h3>
+
+<p>
+With advancements in computer storage capacity and parallel processing, big data has become omnipresent. Related to big data is deep analytics, which includes machine learning (ML) and artificial intelligence (AI).  These methods and tools are abundant in the commercial world. However, they may not be appropriate to solve military problems. Military applications require data sources that are distributed, disparate, multisourced and real-time and are of extremely high rates, high volumes and high varieties. The needs for information sharing and agility as well as strict security make the problem more complex, and these problems often require new mathematical approaches to optimization.
+</p>
+
+<p>
+Traditional ML and AI have adapted into deep analytics.  How can these algorithms be modified so they can be executed in parallel in thousands of clusters for big data? These challenges are not only for military applications, but also for all big data applications.
+</p>
+
+<p>
+For military applications, many deep analytics ideas have been researched for years, for example, data fusion models. There are many deep analytics and AI challenges for military applications that have not been adequately addressed in industrial applications. Evidence also shows that some AI capabilities that already or gradually surpass the corresponding human intelligence and capabilities which leads to issues of benefits and risks of human-in-the-loop AI.
+</p>
+
+<p>
+The objective of the workshop is to foster collaborations and form communities for the theories and practices of deep models to military applications.  We solicit unclassified research, papers, collaborations and innovative ideas for military applications.
+</p>
+
+<h5>Topics</h5>
+<p>
+What are the potentials, theories, practices, tools and risks using the following deep models (that is, models with large number of parameters that can be trained by big data)?
+</p>
+<ul>
+	<li>Deep data fusion models</li>
+	<li>Various types of machine learning models (for example, supervised learning, reinforcement learning, and unsupervised learning).</li>
+	<li>Deep learning models such as deep machine vision and image processing models</li>
+	<li>Pattern recognition and anomaly detection algorithms</li>
+	<li>Advanced optimization algorithms </li>
+	<li>Network models</li>
+	<li>Graph models</li>
+	<li>Game theory models</li>
+	<li>Link analysis models</li>
+	<li>Parallel and distributed computing models</li>
+	<li>Smart data outputs from deep analytics</li>
+	<li>Visualizations and depictions of smart data outputs</li>
+	<li>Decision making models </li>
+	<li>Cognitive models </li>
+	<li>Using AI and human capabilities fused and optimized together, or is there optimized human-in-the-loop AI?</li>
+	<li>Advanced optimization algorithms and online learning</li>
+	<li>Cyber security, ethical/open AI</li>
+</ul>
+<h5>Format</h5> 
+<p>
+The symposium will consist of keynote talks, invited talks, tutorials, oral presentations, poster/demo presentation, and panel discussions.
+</p>
+
+<h5>Submissions</h5>
+<p>
+Regular papers should be 8 pages. Position papers should be 2 pages; submit to <a href="https://easychair.org/conferences/?conf=fss17dmai4ma">EasyChair.</a>
+</p>
+
+<h5>Chair</h5>
+<p>Ying Zhao, Ph.D.<br />
+Research Professor<br />
+Information Sciences Department<br />
+Naval Postgraduate School<br />
+Monterey, CA 93943<br />
+&#121;&#122;&#104;&#97;&#111;&#64;&#110;&#112;&#115;&#46;&#101;&#100;&#117;</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Arjuna Flenner (Navy-NAVAIR, China Lake), Nate Derbinsky (Wentworth Institute of Technology), David A. Bader (Georgia Institute of Technology), Bonnie Johnson (Naval Postgraduate School), Charles Zhou (Quantum Intelligence, Inc.)</p>
+
+<h5>For More Information</h5>
+<p>
+For more information, please see the <a href="http://faculty.nps.edu/yzhao/fss17-dmai4ma">supplemental symposium site.</a>
+</p>
+
+<div class="hr1"><hr /></div>
+
+
+<h3 class="text1"><a name="fs04">Human-Agent Groups: Studies, Algorithms and Challenges</a></h3>
+
+<p>
+As robots and artificial agents become more prominent in human lives, they also increasingly become parts of groups and teams. Group interaction of humans and agents include applications as diverse as: a digital assistant for the home, a social robot operating in a mall, a group of robots and artificial agents supporting first responders. However, most research on human-agent interaction still focuses on one human interacting with one agent. Research on group interactions between multiple humans, artificial agents and robots is important, and poses novel challenges as compared to studying dyadic interaction. It requires gathering groups (of humans and/or of artificial agents), coordinating groups of agents, and addressing additional factors that contribute to successful group interaction (for example, intragroup dynamics).
+</p>
+
+<p>
+The AAAI Fall Symposium on Human-Agent Groups: Studies, Algorithms and Challenges aims to bring scholars together to discuss groups in human-agent and human-robot interaction. We seek participation from scholars of multi-agent systems, human groups and human-robot interaction to (a) help inform research in human-agent groups, and (b) to spur interesting research directions in respective parent fields. For more details and topics, please visit the supplemental symposium website.
+</p>
+
+<h5>Format</h5>
+<p>
+The symposium (2.5 days) will create a forum for participants to (a) share and discuss solutions to challenges of human-agent groups, (b) brainstorm how best to advance research on human-agent groups, and (c) network and seed collaboration with scholars in related fields. The symposium will achieve these goals through talks from keynote speakers, poster sessions, discussion groups, and panel-style sessions on submitted papers (similar to the WeRobot conference presentation format).
+</p>
+
+<h5>Perspectives of Interest</h5>
+<p>
+We invite researchers, designers, and practitioners with varied perspectives and research interests including but not limited to the following: 
+</p>
+<ul>
+	<li>multiagent systems, robotics, autonomous agents</li>
+	<li>cognitive science, psychology, human factors engineering</li>
+	<li>human-robot interaction, human-computer interaction</li>
+	<li>technology design, and applications involving human-agent groups</li>
+</ul>
+
+<h5>Submissions</h5>
+
+<p>
+We solicit full papers (6 to 8 pages) and short papers (2 to 4 pages). Submissions are invited from all perspectives of interest (see list above), and can include recent or ongoing research, position papers, and surveys relevant to human-agent groups. All papers will be presented via breakout and poster sessions; additionally, full papers will also be considered for panel style discussions.
+</p>
+
+<p>
+Papers and abstracts should be submitted through <a href="https://easychair.org/conferences/?conf=humanagentgroups2017">EasyChair.</a> Page length includes figures and references. Please use the  AAAI template.
+</p>
+
+<h5>Contact</h5>
+<p>
+Please send questions or comments to the organizing committee at &#104;&#117;&#109;&#97;&#110;&#46;&#97;&#103;&#101;&#110;&#116;&#46;&#103;&#114;&#111;&#117;&#112;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Marlena Fraune (IU), Vaibhav V Unhelkar (MIT), Bradley Hayes (MIT), Selma Sabanovic (IU), Julie Shah (MIT), Friederike Eyssel (Bielefeld University), Malte Jung (Cornell University)
+</p>
+
+<h5>For More Information</h5>
+For more information, please see the <a href="https://people.csail.mit.edu/unhelkar/workshops/human-agent-groups-2017">supplemental symposium website.</a></p>
+<p>
+<a href="https://easychair.org/conferences/?conf=humanagentgroups2017">Submission link</a>
+</p>
+
+
+
+<div class="hr1"><hr /></div>
+
+
+
+
+<h3 class="text1"><a name="fs05">Natural Communication for Human-Robot Collaboration</a></h3>
+<p>
+As robots become more and more integrated into various work and living environments including our homes, manufacturing and logistics centers, educational institutes, and healthcare centers, there is a growing need to develop intuitive, natural ways for humans and robots to communicate for effective collaboration. The topic of natural human-robot communication has been studied by researchers from a diverse set of communities including natural language processing, computer vision, robotics, and human-computer interaction. However, these communities tend to focus on specific challenges that are unique in their own disciplines, and there is relatively little collaboration across fields. This symposium aims to bring together researchers from different disciplines to brainstorm and discuss experimental ideas toward the common goal of natural human-robot interaction.
+</p>
+
+
+<h5>Topics</h5>
+<p>
+We welcome exploratory ideas and cross-disciplinary work. We target a broad set of topics related to natural communication between humans and robots including, but not limited to, the following:
+</p>
+
+<ul>
+	<li>Natural language grounding for robotics</li>
+	<li>Direction following for robots</li>
+	<li>Human-robot dialogue</li>
+	<li>Natural language generation</li>
+	<li>Vision-language fusion</li>
+	<li>Visual question answering ad grounding</li>
+	<li>Physical human robot interaction (pHRI)</li>
+	<li>Nonverbal communication, for example, gestures, eye gaze and facial effects</li>
+</ul>
+
+<h5>Submissions</h5>
+<p>
+Prospect participants are invited to submit either full-length technical papers (6 pages) or extended abstracts (2 pages) in the AAAI format. One extra page is allowed to include references only. 
+</p>
+
+<h5>Organizing Committee</h5>
+<p>
+Jean Oh (Carnegie Mellon University), Matthew Walter (Toyota Technological Institute at Chicago), Zhou Yu (University of California, Davis
+</p>
+
+ 
+<h5>For More Information</h5>
+<p>For more information, please see the <a href="http://www.ttic.edu/nchrc/" rel="nofollow">supplemental symposium site</a> or 
+contact&#32;&#110;&#97;&#116;&#117;&#114;&#97;&#108;&#49;&#55;&#111;&#114;&#103;&#97;&#110;&#105;&#122;&#101;&#114;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109; 
+</p>
+
+<div class="hr1"><hr /></div>
+
+
+<h3 class="text1"><a name="fs06">A Standard Model of the Mind</a></h3>
+
+<p>
+The purpose of this symposium is to engage the international research community in developing a standard model of the mind, with a focus specifically on human-like minds, which include human minds but also artificial minds that are either inspired by human ones or are similar because of common functional goals. The notion of a standard model has its roots in particle physics, where it is assumed to be internally consistent, yet still have major gaps; and serves as a cumulative reference point for the field while driving efforts to both extend and revise it. A standard model of the mind could yield similar benefits while also guiding experimentation, application, extension, interpretation, evaluation, and comparison.
+</p>
+
+<p>
+The intent is not to develop a single implementation, model or theory that everyone would abide by and agree is correct. What is sought is a statement of the best consensus given the community's current understanding of the mind, plus a sound basis for further refinement as more is learned. A beginning was made at the 2013 AAAI Fall Symposium on Integrated Cognition, followed by an effort to capture and extend that initial consensus. Truly creating a standard model requires participation by researchers from across the community; hence this symposium.
+</p>
+
+<h5>Format</h5>
+<p>
+Working sessions will focus on the concept, framework, major components, and initial draft of a standard model; on mapping of existing architectures onto the model; and on summarizing the results and looking to the future. Each session will consist of an introduction, brief statements by 3-4 panelists on their position papers, and a moderated panel discussion. The focus will be on interactions that lead to a written summary document.
+</p>
+
+<h5>Submissions</h5>
+<p>
+Position papers (up to 6 pages) can be submitted to &#115;&#109;&#64;&#105;&#99;&#116;&#46;&#117;&#115;&#99;&#46;&#101;&#100;&#117;. They should address fundamental issues with the concept of a standard model, outline proposals for such a model, or suggest specific contents. While contributions from all perspectives will be considered, those arising from a cognitive architecture approach &mdash; and yielding implications for the computational structure and function of the mind and its parts &mdash; are expected to be most directly relevant.
+</p>
+
+
+<h5>Organizing Committee</h5>
+<p>
+John Laird (University of Michigan, &#108;&#97;&#105;&#114;&#100;&#64;&#117;&#109;&#105;&#99;&#104;&#46;&#101;&#100;&#117;), Christian Lebiere (Carnegie Mellon University, &#99;&#108;&#64;&#99;&#109;&#117;&#46;&#101;&#100;&#117;), Paul S. Rosenbloom (University of Southern California, &#114;&#111;&#115;&#101;&#110;&#98;&#108;&#111;&#111;&#109;&#64;&#117;&#115;&#99;&#46;&#101;&#100;&#117;)
+</p>
+
+<h5>For More Information</h5>
+<p>
+See the <a href="http://sm.ict.usc.edu">symposium website</a> or contact any member of the organizing committee.
+</p>
+
+<div class="hr1"><hr /></div>
+
+
+
+</div>
+</div>
+</div>
+
+<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1">AAAI Symposia</span></h2>
+<div class="content">
+<h3 class="text2"><a href="https://aaai.org/Symposia/Fall/fall-symposia.php" title="AAAI fall symposia pages">AAAI Fall Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/Spring/spring-symposia.php" title="AAAI spring symposia pages">AAAI Spring Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/EAAI/eaai-symposia.php" title="AAAI Educational Advances in AI Symposia">AAAI Educational Advances in AI Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Press/Reports/reports.php" title="aaai technical reports">Technical Reports</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Publications/Author/author.php" title="forms and instructions for accepted authors">For Accepted Authors</a></h3> 
+</div>
+
+<h4 class="backgrnd5"><span class="text1">Other Links</span></h4>
+<div class="content">
+<h3 class="text2"><a href="../../../.aaai.org/home.php" title="AAAI Home Page">AAAI Home Page</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">AAAI Press</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops">AAAI Workshops</a></h3>
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</div>
+
+
+
+
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

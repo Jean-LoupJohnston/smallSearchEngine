@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>IAAI-10: Schedule</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>IAAI-10: Schedule</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="bg4"><div id="right"><div id="box6"><h2 class="bg12"><span class="text1">IAAI-10 Preliminary Schedule</span></h2><div class="hr1"><hr /></div><p><b>This Preliminary Schedule Is Subject to Change without Notice</b></p><div class="hr1"><hr /></div><h2 class="bg12"><span class="text2">Monday, July 12</span></h2><p><b>6:00 &ndash; 7:00 PM</b><br /><i>AAAI-10 / IAAI-10 Opening Reception</i><br />Westin Peachtree Hotel</p><h2 class="bg12"><span class="text2">Tuesday, July 13</span></h2><p><b>9:00 &ndash; 10:00 AM</b><br /><i>AAAI-10 Keynote Address</i><br />Intelligent Interaction with the Real World<br /><i>Leslie Pack Kaelbling (Massachusetts Institute of Technology)</i></p><p><b>10:00 &ndash; 10:20 AM</b><br /><i>Coffee Break</i></p><p><b>10:20 &ndash; 11:20 AM</b><br /><i>Invited Talk &mdash; Robert S. Engelmore Memorial Award Lecture</i><br />Cancer: A Computational Disease that AI Can Cure<br /><i>Jay M. Tenenbaum (CollabRx Inc.)</i></p><p><b>11:30 AM &ndash; 12:30 PM</b><br /><i>Session: Scheduling &amp; Planning</i></p><p>Optimizing Limousine Service with AI (Deployed)<br /><i>Andy Hon Wai Chun</i></p><p>Towards Applying Interactive POMDPs to Real-World Adversary Modeling<br /><i>Brenda Ng, Carol Meyers, Kofi Boakye, John Nitao</i></p><p><b>12:30 &ndash; 1:50 PM</b><br /><i>Lunch Break</i></p><p><b>1:50 &ndash; 2:50 PM</b><br /><i>Session: Health &amp; Medicine</i></p><p>Estimation of Human Internal Temperature from Wearable Physiological Sensors<br /><i>Mark. J. Buller, William J. Tharion, Reed W. Hoyt, Odest Chadwicke Jenkins</i></p><p>Ambulatory Energy Expenditure Estimation: A Machine Learning Approach<br /><i>Junaith Ahemed Shahabdeen, Amit Baxi, Lama Nachman</i></p><p><b>3:00 &ndash; 4:00 PM</b><br /><i>Session: Knowledge-Based Systems I</i></p><p>Reinforcement Learning for Closed-Loop Propofol Anesthesia: A Human Volunteer Study<br /><i>Brett L Moore, Periklis Panousis, Vivek Kulkarni, Larry D Pyeatt, Anthony G Doufas</i></p><p>Sentiment Extraction: Integrating Statistical Parsing, Semantic Analysis, and CommonSense Reasoning<br /><i>Lokendra Shastri, Anju G. Parvathy, Abhishek Kumar, John Wesley, Rajesh Balakrishnan</i></p><p><b>4:00 &ndash; 4:20 PM</b><br /><i>Coffee Break</i></p><p><b>4:20 &ndash; 5:50 PM</b><br /><i>Session: Agents</i></p><p>A Centralized Multi-Agent Negotiation Approach To Collaborative Air TrafficResource Management Planning<br /><i>Peter A. Jarvis, Shawn Wolfe, Francis Enomoto, Robert Nado, Maarten Sierhuis</i></p><p>A Testbed for Investigating Task Allocation Strategies between Air Traffic Controllers and Automated Agents (Deployed)<br /><i>Nathan Schurr, Richard Good, Amy Alexander, Paul Picciano, Gabriel Ganberg, Michael Therrien, Bettina L. Beard, Jon Holbrook</i></p><p>Agent-based Decision Support: A Case-Study on DSL Access Networks<br /><i>Karsten Bsufka, Rainer Bye, Jo&euml;l Chinnow, Stephan Schmidt, Leonid Batyuk</i></p><div class="hr1"><hr /></div><h2 class="bg12"><span class="text2">Wednesday, July 14</span></h2><p><b>9:00 &ndash; 10:00 AM</b><br /><i>Session: Sensor Networks &amp; Distributed AI</i></p><p>Fast, Accurate, and Practical Identity Inference Using TV Remote Controls<br /><i>Mariano Phielipp, Magdiel Galan, Richard Lee, Branislav Kveton, Jeffrey Hightower</i></p><p>A Wiki with Multiagent Tracking, Modeling, and Coalition Formation<br /><i>Nobel Khandaker, Leen-Kiat Soh</i></p><p><b>10:00 &ndash; 10:20 AM</b><br /><i>Coffee Break</i></p><p><b>10:20 &ndash; 11:20 AM</b><br /><i>IAAI-10 Invited Talk:</i><br />A New Paradigm of Geriatric Care Empowered by Applied AI<br /><i>Majd Alwan (Center for Aging Services Technologies)</i></p><p><b>11:30 AM &ndash; 12:30 PM</b><br /><i>Session: Machine Learning I</i></p><p>Surveillance of Parimutuel Wagering Integrity Using Expert Systems and Machine Learning (Deployed)<br /><i>Roy S. Freedman, Isidore Sobkowski</i></p><p>Predicting Falls of a Humanoid Robot through Machine Learning<br /><i>Shivaram Kalyanakrishnan, Ambarish Goswami</i></p><p><b>12:30 &ndash; 1:50 PM</b><br /><i>Lunch Break</i></p><p><b>1:50 &ndash; 2:50 PM</b><br /><i>Session: Knowledge-Based Systems II</i></p><p>Learning from Sensors and Past Experience in an Autonomous Oceanographic Probe<br /><i>Albert Vilamala, Enric Plaza, Josep Lluis Arcos</i></p><p>Providing Decision Support for Cosmogenic Isotope Dating<br /><i>Laura Rassbach, Elizabeth Bradley, Ken Anderson</i></p><p><b>3:00 &ndash; 4:00 PM</b><br /><i>Session: Virtual Humans</i></p><p>Design Privacy with Analogia Graph<br /><i>Yang Cai, Joseph Laws, Nathaniel Bauernfeind</i></p><p>Practical Language Processing for Virtual Humans<br /><i>Anton Leuski, David Traum</i></p><p><b>4:00 &ndash; 4:20 PM</b><br /><i>Coffee Break</i></p><p><b>4:20 &ndash; 5:20 PM</b><br /><i>Session: Sketching</i></p><p>Sketch Worksheets: A Sketch-based Educational Software System<br /><i>Panrong Yin, Kenneth D. Forbus, Jeffrey Usher, Brad Sageman, Benjamin D. Jee</i></p><p>A Sketch Recognition System for Recognizing Free-Hand Course of Action Diagrams<br /><i>T. Hammond, D. Logsdon, B. Paulson, J. Johnston, J. Peschel, A. Wolin, and P. Taele</i></p><p><b>6:00 &ndash; 10:00 PM</b><br /><i>AAAI-10 Poster/Demo Session</i><br />Westin Peachtree Plaza Hotel</p><div class="hr1"><hr /></div><h2 class="bg12"><span class="text2">Thursday, July 15</span></h2><p><b>9:00 &ndash; 10:00 AM</b><br /><i>Session: Knowledge-Based Systems III</i></p><p>Natural Language Aided Visual Query Building for Complex Data Access<br /><i>Shimei Pan, Michelle Zhou, Keith Houck, Peter Kissa</i></p><p>Gaudii: An Automated Graphic Design Expert System<br /><i>C. Gonzalez-Morcillo, V. J. Martin-Ramirez, D. Vallejo, J. J. Castro-Sanchez, J. Albusac-Jimenez</i></p><p><b>10:00 &ndash; 10:20 AM</b><br /><i>Coffee Break</i></p><p><b>10:20 &ndash; 11:20 AM</b><br /><i>IAAI-10 Invited Talk:</i><br />Species of the Mind<br /><i>Vernor Vinge (San Diego State University)</i></p><p><b>11:30 AM &ndash; 12:30 PM</b><br /><i>Session: Machine Learning II</i></p><p>AI-Based Software Defect Predictors: Applications and Benefits in a Case Study (Deployed)<br /><i>Ayse Tosun, Ayse Bener, Resat Kale</i></p><p>A Machine Learning Approach to the Detection of Fetal Hypoxia during Labor andDelivery<br /><i>Philip A. Warrick, Emily F. Hamilton, Robert E. Kearney, Doina Precup</i></p></div></div><div id="box10"><h2 class="backgrnd5"><span class="text1">Conference Documents</span></h2><div class="content"><p class="text4"><b><a href="../iaai10.php">IAAI-10</a></b></p> <p class="text4"><b><a href="iaai10call.pdf">Call for Papers</a></b></p> <!--<p class="text4"><b><a href="http://www.aaai.org/Conferences/IAAI/2010/iaai10papers.php">Accepted Papers</a></b></p> --><p class="text4"><b><a href="iaai10schedule.php">Preliminary Schedule</a></b></p> </div></div><!--<div id="left"> --></div><div style="clear: both;"></div></div><div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="../../../../.platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

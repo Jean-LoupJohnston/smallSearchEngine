@@ -1,0 +1,1041 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Concordia University Library</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="icon" href="http://library.concordia.ca/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://library.concordia.ca/m/images/touch.png" /> 
+<link rel="apple-touch-icon-precomposed" href="http://library.concordia.ca/m/images/touch.png" /> 
+	<link rel="shortcut icon" href="http://library.concordia.ca/favicon.ico" type="image/x-icon" />
+	  <script src="http://library.concordia.ca/includes/scripts/dom.js"></script>
+  <!--  <script src="https://code.jquery.com/jquery-3.0.0.js"></script>-->
+    <script src="http://library.concordia.ca/includes/scripts/jquery/jquery-1.8.3.min.js"></script>
+ 
+    <!--standard css links -->
+    <!--<link rel="stylesheet" href="/includes/stylesheets/default.css" type="text/css"  media="all" />-->
+   
+		<!--additional css link on home page -->
+		<link rel="stylesheet" href="http://library.concordia.ca/includes/stylesheets/subjectlist-simple-newtemplate.css" type="text/css" media="all" />	
+	   
+    <!--javascripts-->
+    <script src="http://library.concordia.ca/includes/scripts/quicksearch.js"></script>
+    <script src="https://www.google.com/jsapi"></script>
+<link rel="stylesheet" href="http://library.concordia.ca/includes/stylesheets/print-withTOC-newtemplate.css" type="text/css" media="print" /><link rel="stylesheet" href="http://library.concordia.ca/includes/stylesheets/newtemplate.css" type="text/css" media="screen" />
+	 		<link media="all" type="text/css" href="http://library.concordia.ca/includes/stylesheets/main-newtemplate.css" rel="stylesheet" />
+     <script src="http://library.concordia.ca/includes/scripts/home-browse-new.js">
+	  </script> 
+ <!--bootstrap-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<script src="https://feedapi.library.concordia.ca/lib/feed.js"></script>    
+	
+	<link href="http://library.concordia.ca/includes/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="http://library.concordia.ca/includes/font-awesome/css/font-awesome.min.css" rel="stylesheet" media="all" />
+		<script src="http://library.concordia.ca/includes/scripts/bootstrap-related.js"></script>
+	  <script src="http://library.concordia.ca/../../includes/scripts/socialbar.js"></script>
+	  <link rel="stylesheet" href="http://library.concordia.ca/includes/stylesheets/concordia-master-components.min.css" type="text/css">
+		<link rel="stylesheet" href="http://library.concordia.ca/includes/stylesheets/concordia-master-templates.min.css" type="text/css">
+	  <link href="http://library.concordia.ca/includes/stylesheets/bootstrap-related.css" rel="stylesheet">
+		<link href="http://library.concordia.ca/includes/stylesheets/header.css" rel="stylesheet">
+		<script src="http://library.concordia.ca/includes/scripts/site-search.js"></script>
+		<script>
+		<!--tracking outbound links-->
+		/**
+		* Function that tracks a click on an outbound link in Google Analytics.
+		* This function takes a valid URL string as an argument, and uses that URL string
+		* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+		* using 'navigator.sendBeacon' in browser that support it.
+		* Added February 24 2016 by PC
+		*/
+		var trackOutboundLink = function(url) {
+		   ga('send', 'event', 'outbound', 'click', url, {
+		     'transport': 'beacon',
+		     'hitCallback': function(){document.location = url;}
+		   });
+		}
+		</script>
+    <script>
+	//modify this date whenever new hours are added to the calendar
+	//this is global variable, used in getHours.js below
+	var newMaxDate = new Date('2019-01-05');
+</script>
+<script src="http://library.concordia.ca/includes/scripts/getHours.js"></script>
+<script src="http://library.concordia.ca/includes/scripts/customcluessearch.js"></script>
+	
+<style>
+	.calendar {margin-bottom:10px; border:1px solid #e5e5e5;}
+	.event {width:100%;}
+	.event .body {padding:10px;}
+	#boot .c-eventbar .event .calendar {width:100px;margin-right:5px;}	
+</style>
+</head>
+
+<body>  	
+<span id="top"></span>
+<div id="boot">
+<div class="link-list quick-links hidden-xs">
+	<div class="c-quicklinks">
+		<div class="quicklinks-top">
+			<img src="http://library.concordia.ca/images/concordia/next_gen_now.png" alt="Next generation now" />
+		</div>
+		<div class="container">
+<ul>
+					<li><b>Study resources</b></li>
+        	<li><a href="http://concordia.ca/academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+        	<li><a href="http://concordia.ca/academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+        	<li><a href="http://concordia.ca/events/cancelled-classes.html">Class cancellations</a></li>
+        	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+        	<li><a href="students/registration.html">Course registration</a></li>
+        	<li><a href="http://concordia.ca/events/academic-dates.html">Important academic dates</a></li>
+        	<li><a href="students/academic-resources.html">More academic resources</a></li>
+        </ul>
+        <ul>
+        	<li><b>Campus services</b></li>
+        	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+        	<li><a href="http://concordia.ca/it.html">IT services</a></li>
+        	<li><a href="http://concordia.ca/hr/jobs/openings.html">Job opportunities</a></li>
+        	<li><a href="http://concordia.ca/campus-life/security.html">Security</a></li>
+        	<li><a href="http://concordia.ca/maps/shuttle-bus.html">Shuttle bus</a></li>
+        	<li><a href="http://concordia.ca/students/birks.html">Student Service Centre (Birks)</a></li>
+        	<li><a href="students/campus-services.html">All campus services</a></li>
+        </ul>
+        <ul>
+        	<li><b>What's New</b></li>
+        	<li><a href="events.html">Calendar of events</a></li>
+        	<li><a href="news.html">Latest news</a></li>
+        	<li><a href="news/media-relations.html">Media Relations</a></li>
+        </ul>
+        <ul>
+        	<li><b>Faculties, Schools & Colleges</b></li>
+        	<li><a href="http://concordia.ca/artsci.html">Arts and Science</a></li>
+        	<li><a href="http://concordia.ca/encs.html">Gina Cody School of <br />Engineering and Computer Science</a></li>
+        	<li><a href="http://concordia.ca/finearts.html">Fine Arts</a></li>
+        	<li><a href="http://concordia.ca/jmsb.html">John Molson School of Business</a></li>
+        	<li><a href="http://concordia.ca/offices/sgs.html">School of Graduate Studies</a></li>
+        	<li><a href="http://concordia.ca/academics/units.html">All Schools, Colleges & Departments</a></li>
+        </ul>	
+
+
+
+		</div>
+	</div>
+</div>
+<div class="c-topnav top-links">
+	<div class="container">
+		<div class="concordia-logo">
+			<div class="hidden-xs"><a href="http://concordia.ca" title="Back to home">Concordia University</a></div>
+		</div>	
+		<a href="http://library.concordia.ca#" class="btQuicklinks" title="Open quick links">Quick links <span class="quicklinks-arrow"></span></a>
+		<a class="campaign-link" href="http://concordia.ca/campaign.html">The Campaign for Concordia</a>
+		<ul class="paranav">
+			<li><a href="https://my.concordia.ca/">MyConcordia</a></li>
+			<li><a href="https://cspace.concordia.ca/">Cspace</a></li>
+			<li><a href="https://owa.concordia.ca/">Webmail</a></li>
+			<li><a href="https://www.concordia.ca/directories.html">Directories</a></li>
+			<li><a href="../aaalibrary.concordia.ca/locations/index.php">Hours</a></li>
+			<li><a href="../aaalibrary.concordia.ca/help/a-z.php">A-Z</a></li>
+			<li><a href="https://www.concordia.ca/maps.html">Maps</a></li>
+		</ul>
+	</div>
+</div>
+<header class="header subsite">
+	<div class="navigation">
+		<div class="container">
+			<a href="http://concordia.ca"><img class="visible-xs" src="http://library.concordia.ca/includes/stylesheets/clientlibs/img/logo-concordia-university.png" alt="Concordia logo" title="Back to home" style="margin-left:auto;margin-right:auto;padding:10px;" /></a>
+			<div class="col-sm-4 col-xs-4">
+				<a class="btn btn-block mobile-menu search-icon-mobile visible-xs" data-toggle="collapse" data-target="#collapseExample" data-parent=".big"></a>
+			</div>
+			<div class="col-sm-4 col-xs-4">
+				<a class="btn btn-block visible-xs empty-menu"></a>
+			</div>
+			<div class="col-sm-4 col-xs-4">
+				<a class="btn btn-block visible-xs hamburger-menu collapsed hamburger-icon" data-toggle="collapse" data-target=".navbar-collapse"></a>
+			</div>
+		</div>
+	</div>
+	<div class="container row-fluid hidden-xs">
+		<h2 class="category-title"><a id="libraryhome" href="../aaalibrary.concordia.ca/">Library</a></h2>
+		<div class="new-header-buttons">		 
+		
+			<div class="btn-group">
+				<a class="btn btn-inverse bg-pink" style="margin-right:3px;margin-bottom:2px;" href="../aaalibrary.concordia.ca/learn/index.html">Library Research Skills Tutorial</a>
+			</div><a class="btn lib-blue" href="../aaalibrary.concordia.ca/help/questions/index.html">Live chat &nbsp;<span class="glyphicon glyphicon-comment"></span></a>
+			<div class="btn-group">
+			<button class="btn btn-inverse lib-blue dropdown-toggle" data-toggle="dropdown" style="margin-left:3px;">
+				Log into ...&nbsp;<span class="caret"></span>
+			</button>
+				<ul class="dropdown-menu login-dropdown right" role="menu" >
+					<li class="hidden-xs">
+						<a href="https://encore.concordia.ca/iii/encore/myaccount" accesskey="1">
+						<strong>My Library account</strong>
+						<span class="hidden-xs"><br />Renew books and more</span>
+						</a>
+					</li>
+					<li class="visible-xs">
+						<a href="http://mclues.concordia.ca/patroninfo" accesskey="1"><strong>My Library account (mobile)</strong></a>
+					</li>
+					<li>
+						<a href="https://booked.concordia.ca" accesskey="2">
+						<strong>Book a study room or scanner</strong>
+						<span class="hidden-xs"><br />Reserve a space for your group online</span>
+						</a>
+					</li>
+					<li>
+						<a href="../aaalibrary.concordia.ca/find/interlibrary-loans/index.html" accesskey="3">
+						<strong>Interlibrary loans (Colombo)</strong>
+						<span class="hidden-xs"><br />Request books from external libraries</span>
+						</a>
+					</li>
+					<li>
+						<a href="../aaalibrary.concordia.ca/help/citing/index.html" accesskey="4">
+						<strong>Zotero / RefWorks</strong>
+						<span class="hidden-xs"><br />Manage your citations and create bibliographies</span>
+						</a>
+					</li>
+					<li>
+						<a href="http://library.concordia.ca/services/icd/deliveryreq.php" accesskey="5">
+						<strong>Article delivery</strong>
+						<span class="hidden-xs"><br />Request a PDF of an article we have in our physical collection</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://webprint.concordia.ca/cps/" accesskey="6">
+						<strong>WebPrint</strong>
+						<span class="hidden-xs"><br />Upload documents to print on campus</span>
+						</a>
+					</li>
+					<li>
+						<a href="http://reserves.concordia.ca" accesskey="6">
+						<strong>Course reserves</strong>
+						<span class="hidden-xs"><br />Online course readings</span>
+						</a>
+					</li>
+					<li>
+						<a href="https://spectrum.library.concordia.ca/cgi/users/home" accesskey="6">
+						<strong>Spectrum</strong>
+						<span class="hidden-xs"><br />Deposit a thesis or article</span>
+						</a>
+					</li>
+				</ul>		 
+			</div>
+		</div>
+	</div><!-- container row-fluid hidden-xs -->
+	
+	<div class="subnavigation">
+	    <div>
+	        <div class="container navbar-collapse collapse">
+				<div class="visible-xs header-three-buttons">
+					<div class="container">
+						<div class="col-xs-4"><a href="../aaalibrary.concordia.ca/locations/index.php" class="btn btn-block header-button">Library hours</a></div>
+						<div class="col-xs-4"><a href="../aaalibrary.concordia.ca/help/questions/index.php" class="btn btn-block header-button">Ask a librarian</a></div>
+						<div class="col-xs-4"><a href="../aaalibrary.concordia.ca/help/a-z.php" class="btn btn-block header-button">A-Z</a></div>
+					</div>
+	         	</div>
+				<ul class="nav subnav">
+					<!--  <li class="dropdown logo active" id="homeButton">-->	                	         <!--  </li> -->
+					<li class="dropdown" id="findButton" ><a href="../aaalibrary.concordia.ca/find/" role="button" class="dropdown-toggle" data-toggle="">Find</a>
+						<div>
+							 <div class="dropdown-menu">
+							 <ul>
+								<li class=""><a tabindex="-1" href="https://encore.concordia.ca">Discovery Search</a></li>
+								<li class=""><a tabindex="-1" href="http://clues.concordia.ca">Library Catalogue</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/find/databases/index.html">Databases by subject</a></li>
+								<li class=""><a tabindex="-1" href="http://reserves.concordia.ca">Course Reserves</a></li>
+								<li class=""><a tabindex="-1" href="https://ue8fp8rk9n.search.serialssolutions.com/">E-journals</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/find/interlibrary-loans/index.html">Interlibrary Loans (COLOMBO)</a></li>
+								<li class=""><a tabindex="-1" href="http://library.concordia.ca/services/icd/deliveryreq.php">Article Delivery</a></li>
+								<li class=""><a tabindex="-1" href="https://spectrum.library.concordia.ca/">Spectrum Research Repository</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/find/special-collections/index.html">Special Collections</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/find/index.php">Additional resources & services</a></li>
+							  </ul>
+							 </div>
+							</div>
+					</li>
+					<li class="dropdown"  id="helpButton" ><a href="../aaalibrary.concordia.ca/help/" role="button" class="dropdown-toggle" data-toggle="">Help &amp; how-to</a>
+						<div>
+							<div class="dropdown-menu">
+							  <ul>									
+								<li class=""><a tabindex="-1" href="https://www.concordia.ca/library/guides.html">Subject & course guides</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/help/users/index.html">Borrowing & renewing</a></li>
+								<li class=""><a tabindex="-1" href="http://library.concordia.ca/help/finding/">Finding...</a></li>
+								<li class=""><a tabindex="-1" href="http://library.concordia.ca/help/evaluating/">Evaluating...</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/help/writing/">Writing...</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/help/citing/index.html">Citing...</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/help/using/index.html">Using...</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/help/workshops/index.html">Workshops</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/help/questions/index.html">Ask a librarian</a></li>
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/help/users/index.html">General guides for users</a></li>										
+								<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/learn/index.html">Research Skills Tutorial</a></li>
+							  </ul>
+							</div>
+						</div>
+					</li>
+					<li class="dropdown" id="researchButton" >
+					<a href="../aaalibrary.concordia.ca/research/" role="button" class="dropdown-toggle" data-toggle="">Research support</a>
+						<div>
+							<div class="dropdown-menu">
+								<ul>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/research/bibliometrics">Bibliometrics & research impact guide</a></li>
+									<li class=""><a tabindex="-1" href="https://concordia.ca/press">Concordia University Press</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/research/copyright/index.html">Copyright guide</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/research/copyright/theses.php">Copyright guide for thesis preparation</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/research/open-access/index.html">Open Access</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/research/open-access/author-fund.php">Open Access Author Fund</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/research/orcid/index.html">ORCiD at Concordia</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/research/data/index.html">Research data management guide</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/find/special-collections/index.html">Special Collections</a></li>
+									<li class=""><a tabindex="-1" href="https://spectrum.library.concordia.ca/">Spectrum Research Repository</a></li>							
+								</ul>
+							</div>
+						</div>
+					</li>		
+					<li class="dropdown" id="technologyButton" >
+					<a href="../aaalibrary.concordia.ca/technology/index.html" role="button" class="dropdown-toggle" data-toggle="">Technology</a>
+						<div>
+							<div class="dropdown-menu">
+								<ul>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/technology/borrow/index.html">Borrow (laptops, tablets, equipment)</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/technology/connect/index.html">Connect (netname, Wi-Fi, guest accounts)</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/technology/computers/index.html">Desktop computers, software & availability maps</a></li>	
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/technology/rooms/index.html">Group study, presentation practice & classrooms</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/technology/reproduction/index.html">Printers, copiers & scanners</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/technology/sandbox/index.html">Technology Sandbox</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/technology/visualization/index.html">Visualization Studio</a></li>							
+								</ul>
+							</div>
+						</div>
+					</li>		
+					<li class="dropdown" id="locationsButton" ><a href="../aaalibrary.concordia.ca/locations/" role="button" class="dropdown-toggle" data-toggle="">Locations & hours</a>
+						<div>
+							<div class="dropdown-menu">
+								<ul>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/locations/index.php">Webster Library</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/locations/vanier.php">Vanier Library</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/locations/grey-nuns.php">Grey Nuns Reading Room</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/locations/study-spaces.php">Study spaces</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/locations/floor-plans/index.php">Floor plans</a></li>
+									<li class=""><a tabindex="-1" href="https://booked.concordia.ca">Book a group study room/scanner</a></li>
+									<li class=""><a tabindex="-1" href="http://library.concordia.ca/locations/booking/index.php">Room booking for academic events</a></li>
+								</ul>
+							</div>
+						</div>
+					</li>		
+					<li class="dropdown" id="aboutButton" ><a href="../aaalibrary.concordia.ca/about/" role="button" class="dropdown-toggle" data-toggle="">About the library</a>
+						<div>
+							<div class="dropdown-menu">
+								<ul>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/news/index.html">News, events & exhibitions</a></li>										
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/staff/index.html">Librarians & staff</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/university-librarian/index.html">University Librarian</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/jobs/index.html">Work with us</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/memberships/index.html">Memberships & collaborations</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/wikipedian-in-residence/index.html">Wikipedian in residence</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/researcher-in-residence/index.html">Researcher in residence</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/improvement/index.html">Feedback & improvement</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/statistics/index.html">Annual reports & fast facts</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/plan/index.html">Strategic Plan 2016/21</a></li>										
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/lsf/index.html">Library Services Fund</a></li>
+									<li class=""><a tabindex="-1" href="https://www.concordia.ca/alumni-friends/giving-to-concordia/areas-to-support/library.html">Giving to the Library</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/webster-transformation/index.html">Webster Transformation blog</a></li>
+									<li class=""><a tabindex="-1" href="../aaalibrary.concordia.ca/about/policies/index.html">Policies & Code of Conduct</a></li>
+								</ul>
+						   </div>
+						</div>
+					</li>								
+					<li class="hidden-xs">
+						<a class="search header-search header-search-icon" id="header-search-icon" role="button" data-toggle="collapse" data-target="#collapseExample"></a>
+					</li>
+				</ul>															
+				<div class="mobile-links visible-xs">
+					<div class="panel-group" id="mobile-accordion" role="tablist" aria-multiselectable="true">		
+						<div class="panel panel-default panel-header-mobile">			
+							<div class="panel-heading">
+								<h5 class="panel-title">
+									<a class="collapsed" href="https://www.concordia.ca/campaign.html">The Campaign for Concordia</a>
+								</h5>
+							</div>
+						</div>		
+						<div class="panel panel-default panel-header-mobile">    	
+							<div class="panel-heading">
+								<h5 class="panel-title">
+									<a class="collapsed" href="../aaalibrary.concordia.ca/learn/index.html">Library Research Skills Tutorial</a>
+								</h5>
+							</div>
+						</div>			
+						<div class="panel panel-default panel-header-mobile">			
+							<div class="panel-heading" role="tab" id="mobileOne">
+								<h5 class="panel-title">
+									<a class="collapsed accordion-toggle" data-toggle="collapse" data-target="#mobileCollapseOne" >
+								  Log into...<span class="accordion-arrow"><i class="fa fa-chevron-up"></i></span>
+									</a>
+								</h5>
+							</div>		
+							<div id="mobileCollapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="mobileOne">
+								<div class="panel-body">
+									 <ul>
+										<li><a href="http://mclues.concordia.ca/patroninfo" accesskey="1">My Library account</a></li>
+										<li><a href="https://booked.concordia.ca" accesskey="2">Book a study room or scanner</a></li>
+										<li><a href="../aaalibrary.concordia.ca/find/interlibrary-loans/index.html" accesskey="3">Interlibrary loans</a></li>
+										<li><a href="../aaalibrary.concordia.ca/help/citing/refworks/index.php" accesskey="4">RefWorks</a></li>
+										<li><a href="http://library.concordia.ca/services/icd/deliveryreq.php" accesskey="5">Article delivery</a></li>
+										<li><a href="https://webprint.concordia.ca/cps/" accesskey="6">WebPrint</a></li>
+										<li><a href="https://reserves.concordia.ca" accesskey="6">Course reserves</a></li>
+										<li><a href="https://spectrum.library.concordia.ca/cgi/users/home" accesskey="6">Spectrum</a></li>
+									 </ul>
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default panel-header-mobile">			
+							<div class="panel-heading" role="tab" id="mobileTwo" >
+								<h5 class="panel-title">
+									<a class="collapsed accordion-toggle" data-toggle="collapse" data-target="#mobileCollapseTwo" >
+								  Quick links<span class="accordion-arrow"><i class="fa fa-chevron-up"></i></span>
+									</a>
+								</h5>
+							</div>
+							<div id="mobileCollapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="mobileTwo">
+								<div class="panel-body">
+<ul>
+					<li><b>Study resources</b></li>
+        	<li><a href="http://concordia.ca/academics/graduate/calendar/current.html">Calendar - Graduate</a></li>
+        	<li><a href="http://concordia.ca/academics/undergraduate/calendar.html">Calendar - Undergraduate</a></li>
+        	<li><a href="http://concordia.ca/events/cancelled-classes.html">Class cancellations</a></li>
+        	<li><a href="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL">Class schedules</a></li>
+        	<li><a href="students/registration.html">Course registration</a></li>
+        	<li><a href="http://concordia.ca/events/academic-dates.html">Important academic dates</a></li>
+        	<li><a href="students/academic-resources.html">More academic resources</a></li>
+        </ul>
+        <ul>
+        	<li><b>Campus services</b></li>
+        	<li><a href="https://stores.concordia.ca/">Concordia Stores</a></li>
+        	<li><a href="http://concordia.ca/it.html">IT services</a></li>
+        	<li><a href="http://concordia.ca/hr/jobs/openings.html">Job opportunities</a></li>
+        	<li><a href="http://concordia.ca/campus-life/security.html">Security</a></li>
+        	<li><a href="http://concordia.ca/maps/shuttle-bus.html">Shuttle bus</a></li>
+        	<li><a href="http://concordia.ca/students/birks.html">Student Service Centre (Birks)</a></li>
+        	<li><a href="students/campus-services.html">All campus services</a></li>
+        </ul>
+        <ul>
+        	<li><b>What's New</b></li>
+        	<li><a href="events.html">Calendar of events</a></li>
+        	<li><a href="news.html">Latest news</a></li>
+        	<li><a href="news/media-relations.html">Media Relations</a></li>
+        </ul>
+        <ul>
+        	<li><b>Faculties, Schools & Colleges</b></li>
+        	<li><a href="http://concordia.ca/artsci.html">Arts and Science</a></li>
+        	<li><a href="http://concordia.ca/encs.html">Gina Cody School of <br />Engineering and Computer Science</a></li>
+        	<li><a href="http://concordia.ca/finearts.html">Fine Arts</a></li>
+        	<li><a href="http://concordia.ca/jmsb.html">John Molson School of Business</a></li>
+        	<li><a href="http://concordia.ca/offices/sgs.html">School of Graduate Studies</a></li>
+        	<li><a href="http://concordia.ca/academics/units.html">All Schools, Colleges & Departments</a></li>
+        </ul>	
+
+
+
+								</div>
+							</div>
+						</div>	
+					</div><!-- panel-group -->
+				</div><!-- mobile-links visible-xs -->
+			</div><!-- container navbar-collapse collapse -->		
+			<div class="collapse" id="collapseExample">
+				<div class="container">
+					<form id="site-search" class="" action="http://library.concordia.ca/search/index.php" method="get">
+						<input type="hidden" id="encore_url" value="http://encore.concordia.ca/iii/encore/search/C__S" />
+						<input type="hidden" id="libraries_url" value="/search/index.php" />
+						<input type="hidden" id="concordia_url" value="/search/index-concordia.php" />
+					<div class="control-group" id="select-search-mode">
+						<div class="controls">
+						<label class="radio-inline" for="encore-search" style="width:160px;">
+							<input type="radio" id="encore-search" value="encore-search" name="search-mode" />
+							<span class="radio-input"><span class="checked"></span></span>Discovery Search
+						</label>
+						<label class="radio-inline" for="libraries-search" style="width:100px;">
+							<input type="radio" id="libraries-search" value="libraries-search" name="search-mode" checked />
+							<span class="radio-input"><span class="checked"></span></span>Library
+						</label>
+						<label class="radio-inline" for="concordia-search" style="width:60px;">
+							<input type="radio" id="concordia-search" value="concordia-search" name="search-mode" />
+							<span class="radio-input">
+							<span class="checked"></span></span>Concordia
+						</label>
+						</div>
+					</div>
+					<div class="input-append control-group short" id="input-search-container">
+						<div class="controls">
+							<input type="text" placeholder="Search" id="input-search-input" name="q" />
+							<button type="submit" class="btn"><span class="concordia-icon concordia-search-icon"></span>
+							<span class="icon-search icon-white hidden-phone" ></span></button>
+						</div>
+					<label id="label-search" class="control-label hidden" for="input-search">Search</label>
+					</div><!--input-append-->
+					</form>
+				</div>
+			</div>
+	</div>
+</div>
+</header>
+<script src="http://library.concordia.ca/includes/scripts/quick-links.min.js"></script>
+<div id="maincontent">
+
+<div class="container">
+	
+<div class="main">
+<div class="printsharebuttons"><div class="printOnlyContent">&laquo; <a href="javascript:history.go(-1)"  title="Previous Screen">Back</a>&nbsp;|&nbsp;<a href="javascript:window.print()"  title="Send to Printer">Print</a>&nbsp;</div>
+<div class="row with_socialbar">
+            <div class="share-this">
+<script>
+		var switchTo5x=true;
+    (function() {
+		var stscr = document.createElement('script'); stscr.type = 'text/javascript'; stscr.async = true;
+	    stscr.src ="https://ws.sharethis.com/button/buttons.js";
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(stscr, s);
+		stscr.onload=stCB;
+		stscr.onreadystatechange=function(){if(stscr.readyState=='loaded'){stCB();}};})();
+		function stCB(){
+			stLight.options({
+        publisher: "1b41924c-dbc7-42c7-ba66-45110c12db48",
+        onhover: false,
+        doNotHash: true,
+        doNotCopy: true,
+        hashAddressBar: false,
+    });
+		}
+</script>
+    	  <div class="c-socialbar-cta">
+    	  
+    	  <ul>
+            	<li>
+<script src="http://library.concordia.ca/includes/scripts/parseUri.js"></script>
+<script>
+
+currentURL=window.location.href;
+newURL=currentURL;
+uri = parseUri(currentURL);
+newURL=uri.protocol+"://"+uri.authority+uri.path+"?print=1";
+if (uri.query){
+	newURL=newURL+"&"+uri.query;
+	}
+if (uri.anchor){
+ 	newURL=newURL+"#"+uri.anchor;
+ 	}
+document.write('<div class=\"screenOnlyContent\" id=\"screenOnlyContent\"><a href="http://library.concordia.ca/'+newURL+'" id="myPrintHref" title="Display Print Preview"><i class="fa fa-print"></i></a></div>');
+
+</script>
+
+            
+                <li>
+                    <a href="javascript:window.print();" title="Print" class="st_print_custom">
+                        <span class="sprites-icon-print-white" data-displayText="Print">Print</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://library.concordia.ca#" title="Email" class="st_email_custom">
+                    	<span class="sprites-icon-email-white" data-displayText="Email">Email</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://library.concordia.ca#" title="Facebook" class="st_facebook_custom">
+                    	<span class="sprites-icon-social-1d" data-displayText="Facebook" >Facebook</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://library.concordia.ca#" title="Twitter" class="st_twitter_custom">
+                    	<span class="sprites-icon-social-2" data-displayText="Twitter" >Twitter</span>
+                    </a>
+                </li>                                              
+                
+            </ul>   
+        </div>
+
+        <script>
+        					function refreshSocialBar(){
+                   var decal = $('.c-socialbar-cta:not(.horizontal)').parent().width();
+                   $('.c-socialbar-cta:not(.horizontal)').css({'margin-left':decal+5});
+                 	}
+                 	refreshSocialBar();
+                 	$( window ).resize(refreshSocialBar);
+        </script></div>
+</div></div><div class="crumbs"> <a href="../aaa/index.html">Concordia.ca</a> &nbsp;&nbsp;/&nbsp;&nbsp;  <a href="../aaalibrary.concordia.ca/">Library</a>  </div>	
+<script>
+    HomePageLoad(); 
+</script>
+	
+<div class="landing-page">
+		
+<!--	<div class="alert alert-warning alert-dismissible" role="alert" style="background-color:#ffef74; color:#000; border-radius:0px; margin-bottom:0px;">
+	  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	  Due to a planned power shutdown on the Loyola Campus, the <strong>Vanier Library will be closed</strong> from Friday, October 25, at 10 p.m. to Saturday, October 26, at 10 a.m.
+		</div>-->
+
+<div class="container">
+	<div class="jumbotron" id="home-background" >
+		<div class="bg-transparent">
+			<ul class="nav nav-tabs">    	
+				<li class="active"><a data-toggle="tab" href="http://library.concordia.ca#discovery">Discovery search</a></li>
+				<li class="hidden-xs"><a data-toggle="tab" href="http://library.concordia.ca#catalogue">Library catalogue</a></li>
+			</ul>
+			<div class="tab-content">						
+				<div id="discovery" class="tab-pane active">	
+					<div class="form-container">							  
+						<form class="form-inline" method="get" onsubmit="javascript:searchEncore();return false;" name="jumbotronencore" action="http://library.concordia.ca">
+							<button type="submit" class="btn lib-blue search-submit-button"><i class="fa fa-search"></i></button>
+							<div class="searchtext">
+								<input type="text" class="input-xlarge"  id="encoreSearchInput" 
+								style="border:1px solid #0072a8;" placeholder="Search full-text articles, ebooks, books, images, streaming video/audio..." />
+								<input type="hidden" id="encoreBase" value="https://encore.concordia.ca/iii/encore/plus/" />
+							<div style="padding-top:10px;"><strong><a href="../aaalibrary.concordia.ca/help/using/discovery-search.php">FAQ</a></strong></div>
+							<div class="visible-xs" style="padding-top:10px;"><strong><a href="https://clues.concordia.ca">CLUES Library Catalogue</a></strong></div>
+							</div>
+						</form>            			
+					</div>
+				</div>
+				<div id="catalogue" class="tab-pane ">	
+					<div class="form-container">
+						<form class="form-inline" method="get" action="javascript:void(0)" onsubmit="javascript:tnclues();return false;" name="customclues">
+						<button type="submit" class="btn lib-blue search-submit-button"><i class="fa fa-search"></i></button>
+						<div class="searchtext">
+							<input type="hidden" value="keyword" name="customsearchmode" id="customsearchmode" /> 
+							<input type="text" class="input-xlarge" name="customsearchterms" id="customsearchterms" style="border:1px solid #0072a8;" placeholder="Search the CLUES Library Catalogue" />
+						</div>
+						<div style="padding-top:31px;"></div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			document.getElementById("encoreSearchInput").focus();
+		</script>
+		<script src="http://library.concordia.ca/includes/scripts/backgroundSwitch.js"></script>
+	</div>
+	<!--/jumbotron-->
+
+	<div class="container link-block">
+		<div class="link-block">
+			<div class="col-md-2 col-sm-4 col-xs-12" style="padding-bottom:0px;">
+				<a href="http://booked.concordia.ca"><img src="http://library.concordia.ca/includes/stylesheets/clientlibs/img/icons/group-study-room.svg" alt="group study rooms" style="height:42px;">Book a group study room/scanner</a>
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-12"><a href="../aaalibrary.concordia.ca/find/databases/index.php"><i class="fa fa-list-alt fa-3x"></i>Databases by subject</a></div>	
+			<div class="col-md-2 col-sm-4 col-xs-12"><a href="../aaalibrary.concordia.ca/help/citing/index.php"><i class="fa fa-quote-left fa-3x"></i>Citation guides & Zotero</a></div>
+			<div class="col-md-2 col-sm-4 col-xs-12"><a href="http://ue8fp8rk9n.search.serialssolutions.com/"><i class="fa fa-file-text-o fa-3x"></i>E-journals</a></div>
+			<div class="col-md-2 col-sm-4 col-xs-12"><a href="https://reserves.concordia.ca/ares/" onclick="trackOutboundLink('http://reserves.concordia.ca'); return false;"><i class="fa fa-book fa-3x"></i>Course reserves<br/>&amp; textbooks</a></div>
+			<div class="col-md-2 col-sm-4 col-xs-12"><a href="../aaalibrary.concordia.ca/help/circulation/renewals.php"><i class="fa fa-refresh fa-3x"></i>Renew books, etc.</a></div>
+		</div>
+	</div>
+	<div class="panel-group visible-xs" id="accordion" role="tablist" aria-multiselectable="true">
+		<div class="panel panel-default">
+			<div class="panel-heading" role="tab" id="headingUndergraduate">
+			  <h5 class="panel-title">
+				<a class="collapsed accordion-toggle" data-toggle="collapse" data-target="#collapseUndergraduate" >
+				  Undergraduate students<span class="accordion-arrow"><i class="fa fa-chevron-up"></i></span>
+				</a>
+			  </h5>
+			</div>
+			<div id="collapseUndergraduate" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingUndergraduate">
+				<div class="panel-body">
+					<ul>
+						<li>Find databases & more via the <a href="https://www.concordia.ca/library/guides.html">subject guide</a> for your department</li>	
+						<li>Search for <a href="http://clues.concordia.ca/search/r">textbooks</a> by course code</li>
+						<li>Use the <a href="../aaalibrary.concordia.ca/find/article-finder/index.html">Article Finder</a> to locate a specific article</li>
+						<li><a href="../aaalibrary.concordia.ca/technology/connect/personal-laptop.php">Use my laptop in the library</a> (Wi-Fi & printing)</li>
+						<li><a href="../aaalibrary.concordia.ca/help/users/undergraduates/borrow.php_guid_ill">Borrow from other libraries</a> (interlibrary loans and BCI cards)</li>
+						<li>Write <a href="../aaalibrary.concordia.ca/help/writing/research-paper.php">research papers</a>, <a href="../aaalibrary.concordia.ca/help/writing/annotated-bibliography.php">annotated bibliographies</a>, <a href="../aaalibrary.concordia.ca/help/writing/literature-review.php">literature reviews</a>, etc.</li>
+						<li><strong><a href="../aaalibrary.concordia.ca/help/users/undergraduates/index.php">More...</a></strong></li>
+					</ul>
+				</div>
+			</div>
+		  </div> 
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="headingGraduate">
+		  <h5 class="panel-title">
+			<a class="collapsed accordion-toggle" data-toggle="collapse" data-target="#collapseGraduate" >
+			  Graduate students<span class="accordion-arrow"><i class="fa fa-chevron-up"></i></span>
+			</a>
+		  </h5>
+		</div>
+		<div id="collapseGraduate" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingGraduate">
+		  	<div class="panel-body">
+				<ul>
+					<li>Find databases & more via the <a href="http://concordia.ca/library/guides.html">subject guide</a> for your department</li>
+					<li><a href="../aaalibrary.concordia.ca/locations/study-spaces.php_guid_graduate">Graduate student study spaces</a></li>
+					<li><a href="../aaalibrary.concordia.ca/find/bci-card.php">Borrow books from Quebec libraries</a> (BCI card)</li>
+					<li><a href="http://library.concordia.ca/services/icd/deliveryreq.php">Article Delivery</a> &amp; <a href="../aaalibrary.concordia.ca/find/interlibrary-loans/index.php">Interlibrary loans</a> (COLOMBO)</li>
+					<li><a href="../aaalibrary.concordia.ca/technology/connect/access.php">Connect to Library resources</a></li>
+					<li><a href="../aaalibrary.concordia.ca/research/copyright/theses.php">Copyright</a> information for your thesis</li>
+					<li><a href="https://spectrum.library.concordia.ca">Spectrum</a>: Concordia Research Repository</li>
+					<li><a href="../aaalibrary.concordia.ca/about/staff/index.html">Contact my librarian</a> (research help, book suggestions, ...)</li>
+					<li><strong><a href="../aaalibrary.concordia.ca/help/users/graduates/index.php">More...</a></strong></li>
+				</ul>
+			</div>
+		</div>
+	 </div>
+	 <div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="headingFaculty">
+		  <h5 class="panel-title">
+			<a class="collapsed accordion-toggle" data-toggle="collapse" data-target="#collapseFaculty" >
+			  Faculty<span class="accordion-arrow"><i class="fa fa-chevron-up"></i></span>
+			</a>
+		  </h5>
+		</div>
+		<div id="collapseFaculty" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFaculty">
+			<div class="panel-body">
+				<ul>
+					<li>Find databases & more via the <a href="http://concordia.ca/library/guides.html">subject guide</a> for your department</li>
+					<li><a href="../aaalibrary.concordia.ca/find/bci-card.php">Borrow books from Quebec libraries</a> (BCI card)</li>
+					<li><a href="http://library.concordia.ca/services/icd/deliveryreq.php">Article Delivery</a> &amp; <a href="../aaalibrary.concordia.ca/find/interlibrary-loans/index.php">Interlibrary loans</a> (COLOMBO)</li>
+					<li><a href="../aaalibrary.concordia.ca/technology/connect/index.html">Connect from off-campus</a></li>
+					<li><a href="https://spectrum.library.concordia.ca">Spectrum</a>: Concordia Research Repository</li>
+					<li><a href="../aaalibrary.concordia.ca/research/copyright/index.php">Copyright</a> & <a href="../aaalibrary.concordia.ca/research/open-access/index.php">Open Access</a></li>
+					<li><a href="../aaalibrary.concordia.ca/about/staff/index.html">Contact my librarian</a></li>
+					<li><a href="../aaalibrary.concordia.ca/research/data/index.php">Research data management</a></li>
+					<li><strong><a href="../aaalibrary.concordia.ca/help/users/faculty/index.php">More...</a></strong></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	</div>
+	<div class="col-md-8 col-sm-8 hidden-xs" style="padding-left:0px;">
+			<ul class="nav nav-tabs">
+		<li class="active"><a data-toggle="tab" href="http://library.concordia.ca#undergraduate">Undergraduate students</a></li>
+			<li><a data-toggle="tab" href="http://library.concordia.ca#graduate">Graduate students</a></li>
+			<li><a data-toggle="tab" href="http://library.concordia.ca#faculty">Faculty</a></li>
+		</ul>
+		<div class="tab-content">
+			<div id="undergraduate" class="tab-pane active">
+				<ul>
+					<li>Find databases & more via the <a href="http://concordia.ca/library/guides.html">subject guide</a> for your department</li>				
+					<li>Search for <a href="http://clues.concordia.ca/search/r">textbooks</a> by course code</li>
+					<li>Use the <a href="../aaalibrary.concordia.ca/find/article-finder/index.html">Article Finder</a> to locate a specific article</li>
+					<li><a href="../aaalibrary.concordia.ca/technology/connect/personal-laptop.php">Use my laptop in the library</a> (Wi-Fi & printing)</li>
+					<li><a href="../aaalibrary.concordia.ca/help/users/undergraduates/borrow.php_guid_ill">Borrow from other libraries</a> (interlibrary loans and BCI cards)</li>
+					<li>Write <a href="../aaalibrary.concordia.ca/help/writing/research-paper.php">research papers</a>, <a href="../aaalibrary.concordia.ca/help/writing/annotated-bibliography.php">annotated bibliographies</a>, <a href="../aaalibrary.concordia.ca/help/writing/literature-review.php">literature reviews</a>, etc.</li>
+					<li><strong><a href="../aaalibrary.concordia.ca/help/users/undergraduates/index.php">More...</a></strong></li>
+				</ul>
+			</div>
+			<div id="graduate" class="tab-pane">
+				<ul>
+					<li>Find databases & more via the <a href="http://concordia.ca/library/guides.html">subject guide</a> for your department</li>
+					<li><a href="../aaalibrary.concordia.ca/locations/study-spaces.php_guid_graduate">Graduate student study spaces</a></li>
+					<li><a href="../aaalibrary.concordia.ca/find/bci-card.php">Borrow books from Quebec libraries</a> (BCI card)</li>
+					<li><a href="http://library.concordia.ca/services/icd/deliveryreq.php">Article Delivery</a> &amp; <a href="../aaalibrary.concordia.ca/find/interlibrary-loans/index.php">Interlibrary loans</a> (COLOMBO)</li>
+					<li><a href="../aaalibrary.concordia.ca/technology/connect/index.html">Connect from off-campus</a></li>
+					<li><a href="../aaalibrary.concordia.ca/research/copyright/theses.php">Copyright</a> information for your thesis</li>
+					<li><a href="https://spectrum.library.concordia.ca">Spectrum</a>: Concordia Research Repository</li>
+					<li><a href="../aaalibrary.concordia.ca/about/staff/index.html">Contact my librarian</a> (research help, book suggestions, ...)</li>
+					<li><strong><a href="../aaalibrary.concordia.ca/help/users/graduates/index.php">More...</a></strong></li>
+				</ul>
+			</div>
+			<div id="faculty" class="tab-pane">
+				<ul>
+					<li>Find databases & more via the <a href="http://concordia.ca/library/guides.html">subject guide</a> for your department</li>
+					<li><a href="../aaalibrary.concordia.ca/find/bci-card.php">Borrow books from Quebec libraries</a> (BCI card)</li>
+					<li><a href="http://library.concordia.ca/services/icd/deliveryreq.php">Article Delivery</a> &amp; <a href="../aaalibrary.concordia.ca/find/interlibrary-loans/index.php">Interlibrary loans</a> (COLOMBO)</li>
+					<li><a href="../aaalibrary.concordia.ca/technology/connect/index.html">Connect from off-campus</a></li>
+					<li><a href="https://spectrum.library.concordia.ca">Spectrum</a>: Concordia Research Repository</li>
+					<li><a href="../aaalibrary.concordia.ca/research/copyright/index.php">Copyright</a> & <a href="../aaalibrary.concordia.ca/research/open-access/index.php">Open Access</a></li>
+					<li><a href="../aaalibrary.concordia.ca/about/staff/index.html">Contact my librarian</a></li>
+					<li><a href="../aaalibrary.concordia.ca/research/data/index.php">Research data management</a></li>
+					<li><strong><a href="../aaalibrary.concordia.ca/help/users/faculty/index.php">More...</a></strong></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+		<div class="col-md-4 col-sm-4" style="border-left: 1px solid #e5e5e5;">
+		<h2 class="section-header"><a href="../aaalibrary.concordia.ca/locations/">Today's opening hours</a></h2>
+			<p> Webster Library:
+				<span id="websterHoursID"></span>
+				<script> getHoursHomepage("lib-webteam@concordia.ca", "2019-11-24", "websterHoursID");</script>
+			<br /> Vanier Library: <span id="vanierHoursID"></span>
+				<script> getHoursHomepage("r6ipsfcj9qiiivefnapse560ug@group.calendar.google.com", "2019-11-24", "vanierHoursID");</script>
+			<br />
+			Grey Nuns: <span id="greyNunsHoursID"></span>
+				<script> getHoursHomepage("c43s6171dc2eicj3jeh356f3sk@group.calendar.google.com", "2019-11-24","greyNunsHoursID");</script>
+			</p>
+			<h2 class="section-header"><a href="../aaalibrary.concordia.ca/locations/index.php">Look ahead</a></h2>
+	</div>
+</div><!--/container-->
+<hr />
+<div class="container">			
+	<div style='display:block;'><h2 class='section-header' style='display:inline-block;'><a href="../aaalibrary.concordia.ca/about/news">What's new</a></h2>
+		<span style='float:right;font-family:Arial;margin-top:12px;font-size:14px;background-image:none;'>
+		<a href="https://twitter.com/concordialib" target="_blank"><i class='fa fa-twitter fa-lg'></i></a>&nbsp; 
+		<a href="https://instagram.com/concordialib" target="_blank"><i class='fa fa-instagram fa-lg'></i></a>&nbsp;
+		<a href="https://youtube.com/c/concordialibrary" target="_blank"><i class='fa fa-youtube fa-lg'></i></a>&nbsp;
+		<a href="../aaalibrary.concordia.ca/about/news/news.xml" target="_blank"><i class='fa fa-rss-square fa-lg'></i></a></span></div><div class='col-md-4 col-sm-4 col-xs-12' style='padding-left:0px;'>
+							<div class='c-list c-news-grid'>
+								<a class="vignette c-vignette-2" href="https://library.concordia.ca/about/news/#guid=https://library.concordia.ca/about/news/#i04_Nov_2019_12:43:12_EST">
+								<img class="img-responsive" src="http://library.concordia.ca/images/apa-guide-7-edition.jpg" alt="New APA Style Guide, 7th edition, now available" />
+							<div class='box'><div class='title'>New APA Style Guide, 7th edition, now available</div><div class='date'>November 4, 2019</div></div></a></div></div><div class='col-md-4 col-sm-4 col-xs-12' style='padding-left:0px;'>
+							<div class='c-list c-news-grid'>
+								<a class="vignette c-vignette-2" href="https://library.concordia.ca/about/news/#guid=https://library.concordia.ca/about/news/#i04_Nov_2019_17:38:12_EST">
+								<img class="img-responsive" src="http://library.concordia.ca/images/zine-workshop.jpg" alt="Zine-making workshop" />
+							<div class='box'><div class='title'>Zine-making workshop</div><div class='date'>November 4, 2019</div></div></a></div></div><div class='col-md-4 col-sm-4 col-xs-12' style='padding-left:0px;'>
+							<div class='c-list c-news-grid'>
+								<a class="vignette c-vignette-2" href="https://www.concordia.ca/cunews/main/stories/2019/10/30/concordia-librarian-wins-an-international-award-for-his-innovations-in-digital-stewardship-and-preservation.html?c=/news/archive">
+								<img class="img-responsive" src="http://library.concordia.ca/images/tim-walsh.jpg" alt="Librarian Tim Walsh wins international digital stewardship award" />
+							<div class='box'><div class='title'>Librarian Tim Walsh wins international digital stewardship award</div><div class='date'>November 1, 2019</div></div></a></div></div> 
+</div>
+<hr />
+<div class="container">
+	<div class="col-md-4 col-sm-4 c-eventbar">
+		<h2 class="section-header"><a href="http://library.concordia.ca/about/news/#cat=events">Events</a></h2>
+		<!--<p>There are no events at this time. See <a href="/about/news/#cat=events">past events</a>.</p>-->
+		<div class="eventlisting"><img src="http://library.concordia.ca/images/loading3.gif" alt="loading" /></div>		<a class="btn lib-blue" href="../aaalibrary.concordia.ca/help/workshops/index.html">General library workshops</a>
+		<a class="btn lib-blue" href="https://www.concordia.ca/students/gradproskills/workshops/partners/qlib.html">GradProSkills library workshops</a>
+		<a class="btn lib-blue" href="../aaalibrary.concordia.ca/help/workshops/technology-sandbox.php">Technology Sandbox workshops</a>
+		<a class="btn lib-blue" href="../aaalibrary.concordia.ca/technology/visualization/events-and-workshops.php">Visualization Studio workshops</a>
+	</div>
+	<div class="col-md-4 col-sm-4">
+		<h4>Available now</h4>	  
+		<div class="laptopcount"><img src="http://library.concordia.ca/images/loading3.gif" alt="loading" /></div>	</div>
+	<div class="col-md-4 col-sm-4">
+		<h2 class="section-header"><a href="http://library.concordia.ca/about/news/#cat=notices">Notices</a></h2>
+       <!--p>There are no notices at this time.</p-->
+        	
+		<hr />	
+		<h2 class="newbooks section-header" ><a href="../aaalibrary.concordia.ca/about/news/acquisitions/index.html">New books by subject</a></h2>
+		<hr />	
+		<h2 class="newbooks section-header" ><a href="http://library.concordia.ca/about/news/#cat=new-online-resources">Databases on trial</a></h2>
+	</div>
+</div><!--/container-->
+<hr />
+</div><!--/landing-page-->
+	
+</div>
+</div> <!--maincontent-->  
+
+</div>
+<div class="subpage"><div><div class='lastmodifieddate'>Updated: Tuesday 12 November 2019</div></div></div>
+<!--FOOTER-->
+		<div class="c-back-to-top">
+    <span>Back to top</span>
+    <img src="http://library.concordia.ca/includes/stylesheets/clientlibs/img/sprites/icon-back-to-top.jpg" alt="Back to top">
+		</div>
+<footer class="c-footer">
+	<div class="main">
+		<div class="wrap">
+			<h5>CONCORDIA UNIVERSITY LIBRARY - 
+				<a href="../aaalibrary.concordia.ca/locations/index.php">Locations & phone numbers</a>
+				<!--<a href="http://www.concordia.ca/library/locations.html">Locations & phone numbers</a>-->
+			</h5>
+				<div class="row">
+					<div class="col-md-6 col-sm-6">        
+						<div class="row">
+            	<div class="col-md-6 col-sm-6 col">
+								<div class="link-list section">
+									<div class="c-bloc-links">
+										<ul>
+     									<li><a href="../aaalibrary.concordia.ca/index.php">Home</a></li>
+     									<li><a href="../aaalibrary.concordia.ca/find/index.php">Find</a></li>
+	                    <li><a href="../aaalibrary.concordia.ca/help/index.php">Help & how-to</a></li>
+	                    <li><a href="../aaalibrary.concordia.ca/research/index.php">Research support</a></li>
+	                    <li><a href="../aaalibrary.concordia.ca/technology/index.php">Technology</a></li>
+	                    <li><a href="../aaalibrary.concordia.ca/locations/index.php">Locations & hours</a></li>
+	                    <li><a href="../aaalibrary.concordia.ca/about/index.php">About the Library</a></li>	                  
+                    </ul> 
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 col-sm-6 col">
+								<div class="link-list section">
+									<div class="c-bloc-links">
+										<ul>
+		                   <li><a href="../aaalibrary.concordia.ca/help/users/undergraduates/">Undergraduate students</a></li>
+		                    <li><a href="../aaalibrary.concordia.ca/help/users/graduates/">Graduate students</a></li>
+							<li><a href="../aaalibrary.concordia.ca/help/users/students-with-disabilities/index.html">Students with disabilities</a></li>							
+		                    <li><a href="../aaalibrary.concordia.ca/help/users/faculty/">Faculty</a></li>
+				    <li><a href="../aaalibrary.concordia.ca/help/users/alumni/index.html">Alumni</a></li>
+		                    <li><a href="../aaalibrary.concordia.ca/help/users/administrative-staff/index.html">Administrative staff</a></li>
+		                    <li><a href="../aaalibrary.concordia.ca/help/users/support-staff/index.html">Support staff</a></li>
+	                   		<li><a href="../aaalibrary.concordia.ca/help/users/external/index.html">External community</a></li>	
+
+                    </ul> 
+									</div>
+								</div>
+							</div>
+            </div>
+          </div>  
+          <div class="col-md-6 col-sm-6 col contact">
+						<div class="footer-maps">
+							<div class="rte">
+								<div class="row-fluid">
+									<div class="col-md-6 col-sm-6">
+										<div class="adr">
+											<div class="org">Webster Library</div>
+											<div class="street-address"><i class="fa fa-map-marker"></i> 1400 De Maisonneuve Blvd. W.</div>
+											<div class="street-address"><i class="fa fa-envelope-o"></i> 1455 De Maisonneuve Blvd. W.</div>
+											<div>
+												<span class="locality">Montreal</span>, 
+												<span class="region">Quebec</span>, 
+												<span class="country-name">Canada</span>
+											</div>
+											<div class="postal-code">H3G 1M8</div>
+										</div>
+										<div class="link">
+											<a href="http://concordia.ca/maps/sgw-campus.html">See on map <i class="fa fa-map-marker"></i></a>
+										</div>
+									</div>
+									<div class="col-md-6 col-sm-6">
+										<div class="adr">
+											<div class="org">Vanier Library</div>
+											<div class="street-address">7141 Sherbrooke St. W.</div>
+											<div>
+												<span class="locality">Montreal</span>, 
+												<span class="region">Quebec</span>, 
+												<span class="country-name">Canada</span>
+											</div>
+											<div class="postal-code">H4B 1R6</div>
+										</div>
+										<div class="link">
+											<a href="http://concordia.ca/maps/loyola-campus.html">See on map <i class="fa fa-map-marker"></i></a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+        </div>
+    </div>
+  </div><!--/main-->
+	<div class="footer">       
+		<div class="wrap">    
+    	<div class="row">
+      	<div class="social">
+        	<div class="social-media-list social-media-icons">
+						<div class="social">							
+								<ul>
+									<li><a class="facebook-white" href="https://facebook.com/ConcordiaUniversity" target="_blank">facebook</a></li>
+									<li><a class="twitter-white" href="https://twitter.com/ConcordiaLib" target="_blank">twitter</a></li>
+									<li><a class="youtube-white" href="https://www.youtube.com/c/concordialibrary" target="_blank">youtube</a></li>
+									<li><a class="linkedin-white" href="http://linkedin.com/company/concordia-university" target="_blank">linkedin</a></li>
+									<li><a class="pinterest-white" href="http://pinterest.com/concordia/" target="_blank">pinterest</a></li>
+									<li><a class="instagram-white" href="https://instagram.com/concordialib" target="_blank">instagram</a></li>
+									<li><a class="flickr-white" href="http://www.flickr.com/photos/concordiauniversity/" target="_blank">flickr</a></li>
+								</ul> 
+								<div class="lbl"><a href="http://concordia.ca/social.html">Concordia social</a></div>
+						</div>
+						</div>
+					</div>
+					<div class="link-list copyright">
+						<div class="c-bloc-links">
+							<ul class="nav pull-right">
+								<li>&copy; Concordia University</li> 
+	              <li><a href="http://concordia.ca/web/terms.html">Terms</a></li>
+	              <li><a href="http://concordia.ca/web/privacy.html">Privacy</a></li>
+	              <li><a href="http://concordia.ca/web/accessibility.html">Accessibility</a></li>
+	              <li class="feedback"><a href="../aaalibrary.concordia.ca/about/feedback/index.html">Feedback</a></li>
+	            </ul> 
+						</div>
+					</div>
+				</div>
+    	</div>
+  	</div>
+	<div class="c-feedback">
+    <a href="http://library.concordia.ca" data-toggle="modal" data-target="#myModal"><span>Provide feedback</span></a>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 id="myModalLabel">Feedback forms</h3>
+        <a class="modal-close" data-dismiss="modal" href="http://library.concordia.ca#"></a>
+      </div>
+      <div class="modal-body">
+        <p>Thanks for your time. Please select your area of feedback.</p>
+				<ul>
+    			<li><a href="https://library.concordia.ca/about/feedback/index.php">Give feedback about the Library's spaces, services, and/or collections</a></li>
+    			<li><a href="https://library.concordia.ca/help/questions/index.php">Get help with my research, course work, or report a broken link</a></li>
+    		</ul>
+      </div>
+     </div>
+  </div>
+
+	</div>
+</footer>
+
+<footer class="mobile-footer">
+	<div class="share-div">
+		<div class="title">Concordia social</div>
+		
+		<div class="social">
+    	<a href="https://facebook.com/ConcordiaUniversity" target="_blank"><div class="facebook-white"></div></a>
+    </div>
+    <div class="social">
+			<a href="https://twitter.com/Concordia" target="_blank"><div class="twitter-white"></div></a>
+    </div>
+    <div class="social">
+    	<a href="http://linkedin.com/company/concordia-university" target="_blank"><div class="linkedin-white"></div></a>
+    </div>
+    <div style="clear:both;"></div>
+   </div>
+	<div class="main-buttons-div">
+  	<a href="https://library.concordia.ca" class="main-link home"><i class="fa fa-home fa-lg"></i> Concordia University Library</a>
+    <a href="../aaalibrary.concordia.ca/locations/index.php" class="main-link call-us">Locations & phone numbers</a>
+    <div style="clear: both;"></div>
+  </div>
+	<div class="parbase wysiwyg">
+	<div class="rte">
+		<div class="row-fluid">
+			<div class="col-md-6 ">
+				<div class="adr">
+					<div class="org">Webster Library</div>
+					<div class="street-address"><i class="fa fa-map-marker"></i> 1400 De Maisonneuve Blvd. W.</div>
+					<div class="street-address"><i class="fa fa-envelope-o"></i> 1455 De Maisonneuve Blvd. W.</div>
+					<div>
+						<span class="locality">Montreal</span>, 
+						<span class="region">Quebec</span>, 
+						<span class="country-name">Canada</span>
+					</div>
+					<div class="postal-code">H3G 1M8</div>
+				</div>
+				<div class="link">
+					<a href="maps/sgw-campus.html_building_LB">See on map <i class="fa fa-map-marker"></i></a>
+				</div>
+			</div>
+			<div class="col-md-6 ">
+				<div class="adr">
+					<div class="org">Vanier Library</div>
+					<div class="street-address">7141 Sherbrooke St. W.</div>
+					<div>
+						<span class="locality">Montreal</span>, 
+						<span class="region">Quebec</span>, 
+						<span class="country-name">Canada</span>
+					</div>
+					<div class="postal-code">H4B 1R6</div>
+				</div>
+				<div class="link">
+					<a href="maps/loyola-campus.html_building_VL">See on map <i class="fa fa-map-marker"></i></a>
+				</div>
+			</div>
+		</div>
+	</div></div>
+	<div class="feedback-div">
+  	<a href="../aaalibrary.concordia.ca/about/feedback/index.html">Feedback</a>
+  	<div class="web-links">
+    	<div class="web-link"><a href="http://concordia.ca/web/terms.html">Terms</a></div>
+      <div class="web-link"><a href="http://concordia.ca/web/privacy.html">Privacy</a></div>
+      <div class="web-link"><a href="http://concordia.ca/web/accessibility.html">Accessibility</a></div>
+      <div style="clear: both;"></div>
+    </div>
+  </div>
+	<div class="copy-div">&copy; Concordia University</div>
+</footer><!--/mobile footer-->        
+	<!--/footer-->
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-27398486-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+</div> <!-- boot --><script src="http://library.concordia.ca/includes/bootstrap/js/bootstrap.min.js"></script>	<!--NAGIOS--></body>
+</html>

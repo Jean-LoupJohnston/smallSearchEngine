@@ -1,0 +1,541 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2019 Spring Symposia</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2019 Symposia</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="http://www.aaai.org/Symposia/Spring/spring-symposia.php"><img src="http://www.aaai.org/Symposia/Spring/Photos/symposium.jpg" alt="Spring Symposium" width="638" height="343" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2019 Spring Symposium Series</span></h2>
+<div class="content">
+<p><b>March 25&ndash;27, 2019</b></p>
+<p><i>Sponsored by the Association for the Advancement of Artificial Intelligence<br />
+In cooperation with the Stanford University Computer Science Department</i></p>
+<h3>Call for Participation</h3>
+<div class="hr1">
+<hr />
+</div>
+<p><b>Important Deadlines</b></p>
+<ul>
+<li>November 2, 2018: Submissions due to organizers (unless otherwise noted)</li>
+<li>December 3, 2018: Notifications of acceptance sent by organizers</li>
+</ul>
+<p>(The aforementioned deadlines are suggested by AAAI to ensure timely notification to authors of inclusion in the symposium program. Organizers, however, may elect to extend one or both of these deadlines. Please consult the individual symposium supplementary websites (linked from the symposium descriptions on the AAAI website) for complete information.)</p>
+<div class="hr1">
+<hr />
+</div>
+
+<p>
+The Association for the Advancement of Artificial Intelligence, in cooperation with Stanford University's Department of Computer Science, is pleased to present the 2019 Spring Symposium Series, to be held Monday through Wednesday, March 25-27, 2019 at Stanford University. The topics of the nine symposia are:
+</p>
+
+<ul>
+<li><a href="sss19symposia.php_ss01"><b>Artificial Intelligence (AI), Autonomous Machines and Human Awareness: User Interventions, Intuition and Mutually Constructed Context</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss02"><b>Beyond Curve Fitting &mdash; Causation, Counterfactuals and Imagination-Based AI</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss03"><b>Combining Machine Learning with Knowledge Engineering</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss04"><b>Interpretable AI for Well-Being: Understanding Cognitive Bias and Social Embeddedness</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss05"><b>Privacy-Enhancing Artificial Intelligence and Language Technologies</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss06"><b>Story-Enabled Intelligence</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss07"><b>Towards Artificial Intelligence for Collaborative Open Science</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss08"><b>Towards Conscious AI Systems</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss19symposia.php#ss09"><b>Verification of Neural Networks</b></a></li>
+
+</ul>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss01">Artificial Intelligence (AI), Autonomous Machines and Human Awareness: User Interventions, Intuition and Mutually Constructed Context</a></h3>
+
+<p>
+With the prospect of even larger disruptions to come, the present economic impact of machine learning (ML), a subset of Artificial Intelligence (AI), is estimated in the trillions of dollars. Applications of ML and other AI algorithms are propelling unprecedented economic impacts across industry, the military, medicine, finance and more. But as autonomous machines become ubiquitous, recent problems with ML have surfaced. Early on, Judea Pearl warned AI scientists they must "build machines that make sense of what goes on in their environment", a warning unheeded that may impede their further development. For example, self-driving vehicles often rely on sparse data; self-driving cars have already been involved in three fatalities, including a pedestrian; and yet ML is unable to explain the contexts within which it operates.</p><p> We propose that these three seemingly unrelated problems require an interdisciplinary approach to solve. For example, we prefer papers that address how user interventions may improve the context for autonomous machines operating in unfamiliar environments or when experiencing unanticipated events; how autonomous machines can be taught to explain contexts by reasoning, inferences or causality and decisions to humans relying on intuition; and for mutual context, how these machines may interdependently affect human awareness, teams and society, and how these "machines" may be affected in turn. In short, can context can be mutually constructed and shared between machines and humans? By extension, we are interested in whether shared context follows when machines begin to think, or, like humans, develop subjective states that allow them to monitor and report on their interpretations of reality, forcing scientists to rethink the general model of human social behavior. If dependence on ML continues or grows, we and the public are also interested in what happens to context shared by users, teams of humans and machines, or society when these machines malfunction. As we "think through this change in human terms", our ultimate goal is for AI to advance the performance of autonomous machines and teams of humans and machines for the betterment of society wherever these machines interact with humans or other machines.</p>
+
+<h4>Topics</h4>
+<p>Topics (not inclusive) include autonomy, teams, and machine explanations of context.</p>
+
+<h4>Format</h4>
+<p>Invited talks will be 60 minutes each and paper presentations will be 30 minutes each. </p>
+
+<h4>Submissions</h4>
+<p>We prefer papers by participants who can discuss the meaning, value and interdependent effects on context wherever these AI-driven machines may interact with humans or other autonomous agents. Papers should be single column ms-word or latex, either as an extended abstract (1&ndash;2 pages) or up to 8 pages long (if LaTeX, please submit a pdf file). Please use APA style for citations and references. We plan to publish revised papers in a book after the Symposium. Please send submissions to the co-organizers.</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Ranjeev Mittu and Don Sofge (Naval Research Laboratory, 
+&#123;&#114;&#97;&#110;&#106;&#101;&#101;&#118;&#46;&#109;&#105;&#116;&#116;&#117;&#44;&#100;&#111;&#110;&#46;&#115;&#111;&#102;&#103;&#101;&#125;&#64;&#110;&#114;&#108;&#46;&#110;&#97;&#118;&#121;&#46;&#109;&#105;&#108;&#41;&#59;&#32; W.F. Lawless (Chair) (Paine College, &#119;&#46;&#108;&#97;&#119;&#108;&#101;&#115;&#115;&#64;&#105;&#99;&#108;&#111;&#117;&#100;&#46;&#99;&#111;&#109;)</p>
+
+<h4>For More Information</h4>
+<p><a href="https://sites.google.com/site/aaai19sharedcontext/" rel="nofollow">sites.google.com/site/aaai19sharedcontext</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss02">Beyond Curve Fitting &mdash; Causation, Counterfactuals and Imagination-Based AI</a></h3>
+
+<p>
+AI and machine learning have received enormous attention from the general public in the recent years. Most of this comes from the successful application of deep neural networks in computer vision, natural language, and reinforcement learning. Nevertheless, despite significant progress, the picture is not yet complete. In a recent interview to <i><a href="https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/" rel="nofollow">Quanta Magazine</a>, </i> Professor Judea Pearl from UCLA noted that "All the impressive achievements of deep learning amount to just curve fitting." This observation generated surprise and commotion among practitioners, but it was not rhetorical. Rather, it was a theoretically-grounded observation concerning intrinsic limitations of data-centric systems that are not guided by models of reality. Such systems may excel in constructing highly complex functions, associating an input X with an output Y, but are unable to reason about novel actions and hypothetical counterfactuals in a broad collection of never-seen-before situations. Causality is a critical component in the design of AI systems that has been commonly overlooked, despite its centrality to the ways scientists probe reality, how we perceive the world, how we act upon it, and, ultimately, how we understand ourselves. To meet this challenge, the next generation of intelligent systems must be endowed with causal capabilities, which translate to more explainable, robust, efficient, and generalizable decision-making capabilities.</p>
+
+<p>The central aim of this symposium is to bring together researchers to discuss the integration of causal, counterfactual, and imagination-based reasoning into data science and AI, building a richer framework that will support both research and industrial applications in the coming decade. Our discussion will be based on the Ladder of Causality architecture (as discussed in the new book <i><a href="http://bayes.cs.ucla.edu/WHY/" rel="nofollow">The Book of Why: The Science of Cause and Effect</a>),</i> which provides a general way to integrate current correlation-based data mining approaches (level 1) with causal interventions (level 2), and counterfactual or imagination-based reasoning (level 3). This architecture provides a unifying theme for the symposium. We invite contributions from researchers in all relevant disciplines, including computer science, psychology, cognitive science, neuroscience, bioinformatics, engineering, mathematics, and philosophy.</p>
+
+<h4>Topics</h4>
+<p>
+Topics of interest include but are not limited to the following:</p>
+<ul>
+	<li>Algorithms for causal inference and learning </li>
+	<li>Causal analysis of biases in data science and fairness analysis</li>
+	<li>Causal and counterfactual explanations</li>
+	<li>Causal reinforcement learning, planning, and plan recognition </li>
+	<li>Imagination and creativity </li>
+	<li>Fundamental limits of current learning and inference algorithms</li>
+	<li>Applications of causal inference and connections with the the 3-layer hierarchy</li>
+</ul>
+
+<h4>Format</h4>
+<p>The symposium will include invited talks, presentations of accepted papers, and discussions. More information will appear on the supplementary symposium website.</p>
+
+<h4>Submissions</h4>
+<p>We solicit both long (7 pages including references) and short (3 pages including references) papers on topics related to the above. Position papers, application papers, and challenge tasks will also be considered. Submissions should follow the AAAI conference format.</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Elias Bareinboim (Purdue University), Sridhar Mahadevan (Adobe and and UMass), Prasad Tadepalli (Oregon State), Csaba Szepesvari (DeepMind and University of Alberta), Judea Pearl (University of California, Los Angeles)</p>
+
+<h4>For More Information</h4>
+<p>
+<a href="http://why19.causalai.net" rel="nofollow">why19.causalai.net</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss03">Combining Machine Learning with Knowledge Engineering</a></h3>
+
+<p>
+Significant developments in machine learning methods recently resulted in the rapid adoption of these methods in various applications. Typically, such machine learning methods assist with handling complex situations for which knowledge is not known, or knowledge is tacit.</p>
+
+<p>
+Many business cases and real-life scenarios using machine learning methods demand explanations of results and behavior. This demand is particularly the case where decisions can have serious consequences. Furthermore, application areas such as banking, insurance and medicine, are highly regulated and require compliance with law and regulations. This specific application knowledge cannot be learned but need to be represented, which is the area of knowledge engineering and knowledge representation. Conclusively, recent results indicate that explicitly represented application knowledge could assist data-driven machine-learning approaches to converge faster on sparse data and to be more robust against noise.</p>
+
+<p>
+Knowledge-based systems that make knowledge explicit have been used for decades. Such systems are often based on logic and thus can explain their conclusions. These systems typically require a higher initial effort during development than systems that use unsupervised learning approaches. However, symbolic machine learning and ontology learning approaches are promising for reducing the effort of knowledge engineering.</p>
+
+<p>
+Machine learning is most suitable for building AI systems based on tacit knowledge. It helps to solve complex tasks based on real-world data instead of pure intuition. Knowledge engineering, on the other hand, is appropriate for representing expert knowledge, which people are aware of and that has to be considered for compliance reasons or explanations. Because of these complementary strengths and weaknesses, there is an increasing demand for the integration of knowledge engineering and machine learning. </p>
+
+<p>
+This symposium aims for bringing together researchers and practitioners from various communities of machine learning and knowledge engineering working together on joint AI that is explainable, compliant and grounded in domain knowledge. Participants shall benefit from each other to avoid pitfalls on one hand side and provide the ground for synergetic co-operations with the aim of identifying the most promising areas of quick wins.</p>
+
+<h4>Topics</h4>
+<p>
+Among relevant topics are the following: </p>
+<ul>
+	<li>Knowledge Representation and Reasoning </li>
+	<li>Ontologies</li>
+	<li>Rule-Based Systems</li>
+	<li>Semantic Web</li>
+	<li>Machine Learning</li>
+	<li>Deep Learning</li>
+	<li>Neural Networks</li>
+	<li>Knowledge Engineering and Management</li>
+	<li>Causal Explainability</li>
+	<li>Learning and Cause and Effect Relationships</li>
+	<li>Using Knowledge to Guide Machine Learning</li>
+</ul>
+
+<h4>Format</h4>
+<p>The symposium involves presentations of accepted full and position papers, and posters, (panel) discussions, demonstrations, plenary sessions with breakouts (if required), to foster interaction and contribution among the participants. The schedule will be announced on the symposium website.</p>
+
+<h4>Submissions</h4>
+<p>We solicit full papers, position papers, and poster abstracts on topics related to the above and can include recent or ongoing research, surveys, and business/use cases. Furthermore, proposals for (panel) discussions and demonstrations are very welcome too.</p>
+
+<ul>
+	<li>Full papers (up to 12 pages) and position papers (3 to 5 pages) will be peer-reviewed. </li>
+	<li>Posters can be proposed by submitting an extended abstract (1 to 2 pages). </li>
+	<li>Discussion proposals (1 to 2 pages) should contain a description of the specific topic with a list of questions and a discussion moderator. For a panel discussion, a list of agreed panel-members should be mentioned. </li>
+	<li>Demonstration proposals (1 to 2 pages) should have a focus on research and business related to the symposium excluding undesired product presentation and advertising.</li>
+</ul>
+
+<p>All submissions should reflect the AAAI formatting instructions provided in the <a href="http://www.aaai.org/Publications/Templates/AuthorKit19.zip" rel="nofollow"> AAAI Author Kit.</a> They should be submitted via <a href="http://diid.unipa.it/roboticslab/consciousai/" rel="nofollow">EasyChair,</a>) and will be reviewed by the program committee.</p>
+
+<p>Accepted and camera-ready papers will be published on the established open access proceedings site CEUR-WS (preprints may be published on arXiv and Zenodo). Authors must grant a publication permission prior to the symposium and present the paper at the symposium to get it published.</p>
+
+<h4>Organizing Committee</h4>
+<p>Andreas Martin (cochair and main contact | &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#109;&#97;&#114;&#116;&#105;&#110;&#64;&#102;&#104;&#110;&#119;&#46;&#99;&#104;) and Knut Hinkelmann (cochair | &#107;&#110;&#117;&#116;&#46;&#104;&#105;&#110;&#107;&#101;&#108;&#109;&#97;&#110;&#110;&#64;&#102;&#104;&#110;&#119;&#46;&#99;&#104;)
+FHNW University of Applied Sciences and Arts Northwestern Switzerland, School of Business, Riggenbachstrasse 16, 4600 Olten, Switzerland</p>
+
+<p>For a full list of organizing committee members, please refer to the URL that follows.</p>
+
+<h4>For More Information</h4>
+<p><a href="http://aaai-make.info" rel="nofollow">aaai-make.info</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss04">Interpretable AI for Well-Being: Understanding Cognitive Bias and Social Embeddedness</a></h3>
+
+<p>Interpretable AI is an artificial intelligence (AI) whose actions can be easily understood by humans. Recently, the European Union's new General Data Protection Regulation (GDPR) has raised concerns about the emerging tools for automated individual decision-making. These tools use algorithms to make decisions based on user-level profiles, with the potential to significantly affect users. </p>
+
+<p>
+Especially in the human health and wellness domains, interpretable AI remains a huge challenge. For example, "evidence-based medicine" requires us to show the current best evidence in making decisions about the care of patients. "Why did the system make this prediction?" will be a key question. The important goal of this symposium is to discuss the technical and philosophical challenges of interpretability for well-being AI.</p>
+
+<p>One of the important keywords in this symposium is "cognitive bias." In the recent trend on big data becoming personal, AI technologies to manipulate the cognitive bias inherent in people's mind have evolved in social media (Twitter and Facebook, and commercial recommendation systems,). "Echo chamber effect" is known that makes it easy for people with the same opinion to make community, which makes it felt that everyone has the same opinion. Advances in big data and machine learning should not overlook the new threats to enlightenment thought.</p>
+
+<p>The second important keyword in this symposium is "Social embeddedness." We welcome diverse discussions on the relationships between AI and society. The topics on social embeddedness of AI may include such issues as "AI and future economics (such as basic income, impact of AI on GDP)" or "well-being society (such as happiness of citizen, life quality)."</p>
+
+<p>This symposium is aimed at sharing the latest progress, current challenges and potential applications related to the AI aspects of health and well-being. The evaluation of digital experience and understanding of human health and well-being is also welcome.</p>
+
+<h4>Format</h4>
+<p>The symposium is organized by the invited talks, presentations, and posters and interactive demos.</p>
+
+<h4>Submissions</h4>
+<p>Interested participants should submit either full papers (8 pages maximum) or extended abstracts (2 pages maximum). Extended abstracts should state your presentation type (long paper (6&ndash;8 pages), short paper (1&ndash;2 pages), demonstration, or poster presentation). 
+The electronic version of your paper should be sent to  &#97;&#97;&#97;&#105;&#50;&#48;&#49;&#57;&#45;&#105;&#97;&#119;&#64;&#99;&#97;&#115;&#46;&#108;&#97;&#98;&#46;&#117;&#101;&#99;&#46;&#97;&#99;&#46;&#106;&#112;. </p>
+
+<h4>Organizing Committee</h4>
+<p>
+Takashi Kido, Cochair (Preferred Networks, Inc., Japan) and Keiki Takadama, Cochair (The University of Electro-Communications, Japan). For a full list of organizers and program committee members, please refer to the URL that follows.</p>
+
+<h4>For More Information</h4>
+<p>
+<a href="https://sites.google.com/view/iaw-aaai-2019" rel="nofollow">sites.google.com/view/iaw-aaai-2019</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss05">Privacy-Enhancing Artificial Intelligence and Language Technologies</a></h3>
+
+<p>This symposium will bring together researchers in privacy and researchers in either artificial intelligence (AI) or human language technologies (HLTs), so that we may collectively assess the state of the art in this growing intersection of interests. Privacy remains an evolving and nuanced concern of computer users, as new technologies that use the web, smartphones, and the internet of things (IoT) collect a myriad of personal information. Rather than viewing AI and HLT as problems for privacy, the goal of this symposium is to "flip the script" and explore how AI and HLT can help meet users' desires for privacy when interacting with computers.</p>
+
+<h4>Topics</h4>
+<p>We will focus on two loosely-defined research questions:</p>
+<ul>
+	<li>How can AI and HLT preserve or protect privacy in challenging situations?</li>
+	<li>How can AI and HLT help interested parties (for example, computer users, companies, regulatory agencies) understand privacy in the status quo and what people want?</li>
+</ul>
+
+<p>The symposium will consist of invited speakers, oral presentations of submitted papers, a poster session, and panel discussions. This event is a successor to the 2016 AAAI Fall Symposium on Privacy and Language Technologies.</p>
+
+<h4>Submissions</h4>
+<p>
+The symposium invites 2&ndash;6 page papers (excluding references) describing new contributions, works in progress, and positions on research in the intersection between privacy and AI/HLT. Submissions should be anonymized.</p>
+
+<p>
+Topics of interest include, but are not limited to, the following:</p>
+<ul>
+	<li>AI/HLT-driven personalization of privacy assistance</li>
+	<li>Uses of AI/HLT to enhance privacy-enhancing technologies (PETs)</li>
+	<li>AI/HLT-assisted privacy of online social media users</li>
+	<li>AI/HLT-driven simplification or summarization of privacy policies</li>
+	<li>AI/HLT analysis of privacy regulations</li>
+	<li>Privacy-preserving methods of data mining and text mining</li>
+	<li>Ontologies and knowledge bases for privacy</li>
+	<li>User studies of AI/HLT-driven systems that support privacy</li>
+	<li>Ethical ramifications of AI/HLT in support of privacy</li>
+</ul>
+
+<p>The symposium will welcome submissions from researchers who consider any combination of artificial intelligence, human language technologies, or privacy to be their primary area, recognizing that all are becoming inter-dependent.</p>
+
+<p>Submissions should be in AAAI format. The review process will be double-blind, and accepted papers will be permitted up to one additional page in their final manuscripts. Proceedings will appear on CEUR-WS.org.</p>
+
+<h4>Organizing Committee</h4>
+<p>Shomir Wilson, Lead Organizer (Pennsylvania State University), Sepideh Ghanavati (University of Maine), Kambiz Ghazinour (Kent State University), Norman Sadeh (Carnegie Mellon University)</p>
+
+<h4>For More Information</h4>
+<p><a href="https://sites.google.com/view/pal2019/" rel="nofollow">sites.google.com/view/pal2019</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss06">Story-Enabled Intelligence</a></h3>
+
+<p>Systems that can describe their own behavior exhibit intelligence of a higher order. Storytelling-like capabilities empower systems to explain their decisions, describe their activities, align their present situation against precedent, consider hypothetical alternatives, diagnose their mistakes, learn from stories, and generalize their experiences. A number of research efforts have independently explored aspects of such machine-generated descriptions, but interaction between specialized subareas of AI remains sparse in the literature.</p>
+
+<p>In pursuit of a unified approach, four common challenges emerge: (1) Architecture &mdash; How can we augment existing opaque systems so as to add a layer of explainability? Alternatively, how can we design systems so as to incorporate explainability from the bottom up? (2) Representation &mdash; How can we design systems out of composable, explainable parts? Which representations capture application-specific information and expose constraint? (3) Procedure &mdash; How do we effectively identify and deploy sources of constraint? How do we develop anytime explanations, and how can these explanations integrate new information? What capabilities, such as matching against precedent or reasoning about hypotheticals, are enabled by explainable parts? (4) Cognition &mdash; What kinds of explanations are most effective for human users? How do humans produce and consume stories? How do we tailor explanations for different audiences and purposes?</p>
+
+<h4>Topics</h4>
+<ul>
+	<li>Computational models of human storytelling and understanding</li>
+	<li>Systems that explain when they fail</li>
+	<li>Large-scale architectures built from communicating parts</li>
+	<li>Problem-solving programs that tell their own story</li>
+	<li>Systems that combine information from many sources</li>
+	<li>Tools that summarize and interpret</li>
+	<li>Tools that support planning and exploration of alternative scenarios</li>
+	<li>Self-explaining software engineering tools</li>
+	<li>Systems that provide compositional explanations of what they're doing.</li>
+</ul>
+
+<h4>Format</h4>
+<p>The symposium will include invited talks, presentations of accepted papers, poster sessions and panel discussions.</p>
+
+<h4>Submissions</h4>
+<p>We solicit full papers (6 to 8 pages), short papers (2 to 4 pages), and one-page proposals for panel discussions (as detailed on our symposium homepage). We invite submissions not only from AI but from broadly related fields and perspectives of interest; submissions may include recent or ongoing research, position papers, and surveys. Submissions should be formatted according to the AAAI template and submitted via EasyChair.</p>
+
+<h4>Main Contact</h4>
+<p>
+Dylan Holmes (MIT)
+77 Massachusetts Ave
+Bldg 32-258
+Cambridge, MA 02139
+&#115;&#116;&#111;&#114;&#121;&#45;&#101;&#110;&#97;&#98;&#108;&#101;&#100;&#45;&#105;&#110;&#116;&#101;&#108;&#108;&#105;&#103;&#101;&#110;&#99;&#101;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Leilani H. Gilpin (MIT, l&#103;&#105;&#108;&#112;&#105;&#110;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;), Dylan Holmes (MIT, &#100;&#120;&#104;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;), Jamie C. Macbeth (Smith College,&#32;&#106;&#109;&#97;&#99;&#98;&#101;&#116;&#104;&#64;&#115;&#109;&#105;&#116;&#104;&#46;&#101;&#100;&#117;)</p>
+
+<h4>For More Information</h4>
+<p>
+<a href="http://logical.ai/story-enabled-intelligence" rel="nofollow">logical.ai/story-enabled-intelligence</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss07">Towards  Artificial Intelligence for Collaborative Open Science</a></h3>
+
+<p>
+The Towards AI for Collaborative Open Science will explore how artificial intelligence and computational tools can accelerate the pace of scientific discovery. Of special interest is how machines can assist human collaboration and knowledge sharing in open, networked science. The symposium will bring together researchers in basic science, computer science, statistics, psychology, and economics, among possibly other areas of academia, industrial research, and the nonprofit sector.
+</p>
+
+<p>
+The symposium will highlight research directions in networked, machine-driven science, such as the following:
+</p>
+
+<ul>
+	<li>AI and NLP methods for mining the scientific literature</li>
+	<li>Meta-learning, meta-analysis, and model aggregation for open science</li>
+	<li>Knowledge representation for the scientific process, for example, for datasets or data analysis</li>
+	<li>Knowledge representation for scientific knowledge,  for example, in biomedicine</li>
+	<li>Software tools and formats for disseminating scientific knowledge</li>
+	<li>Online platforms for collaborative basic science or data science</li>
+	<li>Empirical studies of open scientific collaboration and innovation</li>
+	<li>Incentives and rewards in open science</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+Over its two and a half days, the symposium will feature invited talks and paper presentations, as well as discussion sessions to explore future directions for AI in open, networked science.</p>
+
+<h4>Submissions</h4>
+<p>
+We invite submissions of research papers (6 pages, excluding references) and short papers (2 pages), for work-in-progress or position pieces. Papers should be submitted through EasyChair and will be reviewed by the organizing committee. For submission instructions and important deadlines, please visit the symposium website.</p>
+
+<h4>Main Contact </h4>
+<p>
+Evan Patterson (Stanford University, &#101;&#112;&#97;&#116;&#116;&#101;&#114;&#115;&#64;&#115;&#116;&#97;&#110;&#102;&#111;&#114;&#100;&#46;&#101;&#100;&#117;)</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Ioana Baldini (IBM Research AI, &#105;&#111;&#97;&#110;&#97;&#64;&#117;&#115;&#46;&#105;&#98;&#109;&#46;&#99;&#111;&#109;), Peter Bull (DrivenData, peter@drivendata.org)</p>
+
+<h4>For More Information</h4>
+<p>
+<a href="https://www.epatters.org/tacos19/" rel="nofollow">www.epatters.org/tacos19</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss08">Towards Conscious AI Systems</a></h3>
+
+<p>
+The study of consciousness remains a challenge that spans multiple disciplines. Consciousness has a demonstrated, although poorly understood, role in shaping human behavior. The processes underpinning consciousness may be crudely replicated to build better AI systems. Such a "top-down" perspective on AI readily reveals the gaps in current data-driven approaches and highlights the need for "better AI." At the same time, the process of designing AI systems creates an opportunity to better explain biological consciousness and its importance in system behavior.</p>
+
+<p>
+Measuring the components that may lead to consciousness ( for example, modeling and assessing others' behaviors; calculating utility functions for not only an individual agent, but also an interacting society of agents) is increasingly important to address concerns about the surprising capabilities of today's AI systems. </p>
+
+<p>
+The symposium is an excellent opportunity for researchers considering consciousness as a motivation for "better AI" to gather, share their recent research, discuss the fundamental scientific obstacles, and reflect on how it relates to the broader field of artificial intelligence and robotics. </p>
+
+<p>
+Research on consciousness and its realization in AI systems motivates research to account for, with scientific rigor: the motivations of AI systems, the role of sociality with and between machines, and how to implement machine ethics. </p>
+
+<p>
+The meeting will offer a platform to discuss the connection between AI systems and other fields such as psychology, philosophy of mind, ethics, and neuroscience. </p>
+
+<h4>Topics</h4>
+<p>
+Some of the topics that the symposium will cover include the following: 
+</p>
+
+<ul>
+	<li>Recent work on conscious AI systems</li>
+	<li>Embodied conscious AI systems</li>
+	<li>Self-reflective higher-order AI systems</li>
+	<li>Ethical issues involving conscious AI systems</li>
+	<li>Trust in conscious AI systems</li>
+	<li>Social robotics and conscious AI systems </li>
+	<li>Consciousness, the theory of mind and artificial emotions</li>
+	<li>The role of episodic memory in conscious AI systems</li>
+	<li>Design strategies versus developmental approaches</li>
+	<li>Symbolic versus deep neural networks in conscious AI systems</li>
+	<li>Measurement of consciousness in AI systems</li>
+	<li>Physicalist models of consciousness</li>
+	<li>Philosophy of mind and machine consciousness</li>
+	<li>Conscious processes and time</li>
+	<li>Implementing neuroscience of consciousness in AI systems</li>
+	<li>Computational models of consciousness</li>
+</ul>
+
+<h4>Submissions</h4>
+<p>Authors are invited to submit full papers (6 pages) or position and work-in-progress papers (2 pages). Papers should be submitted via the AAAI Spring Symposium Easychair website. Submission deadline is November 2, 2018. All submissions will be peer-reviewed. The symposium proceedings will be published online via CEUR-WS.org. Selected, high-quality papers will be considered for a book.</p>
+
+<h4>Organizing Committee</h4>
+<p>Antonio Chella (University of Palermo and ICAR-CNR, Palermo, Italy), David Gamez (Middlesex University, London, UK), Patrick Lincoln (SRI International), Riccardo Manzotti (IULM University, Milan, Italy), Jonathan Pfautz (DARPA)</p>
+
+<h4>For More Information</h4>
+<p>
+<a href="http://diid.unipa.it/roboticslab/consciousai/" rel="nofollow">diid.unipa.it/roboticslab/consciousai</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text1"><a name="ss09">Verification of Neural Networks</a></h3>
+
+<p>
+Methods based on machine learning are increasingly being deployed for a wide range of problems, including recommender systems, machine vision, and autonomous driving. While machine learning has made significant contributions to such applications, concerns remain about the lack of methods and tools to provide formal guarantees about the behaviours of the resulting systems.</p>
+
+<p>
+In particular, for data-driven methods to be usable in safety-critical applications, including autonomous systems, robotics, cybersecurity, and cyber-physical systems, it is essential that the behaviours generated by neural networks can be predicted and understood at design time. In the case of systems that are learning at run-time, it is desirable that any system changes respect a given safety-envelope for the system.</p>
+
+<p>
+While the literature on verification of traditional systems is extensive, results and efforts in this area have been limited until recently. One challenge is that results are being published in several research communities, including formal verification, security and privacy, systems, and AI. The symposium intends to bring together researchers from all of these communities, working on a range of techniques for the verification of neural networks. The key objectives include: presentation of recent work in the area; discussion of key difficulties; collecting community benchmarks; and fostering collaboration.</p>
+
+<h4>Format</h4>
+<p>The symposium will include invited speakers, contributed papers, demonstrations, breakaway sessions, and panel sessions.</p>
+
+<h4>Topics</h4>
+<p>
+Topics covered by the symposium include but are not limited to the following:</p>
+<ul>
+	<li>Formal specifications for neural networks and systems based on them;</li>
+	<li>SAT-based and SMT-based methods for the verification of machine learning systems;</li>
+	<li>Mixed-integer linear programming methods for the verification of neural networks;</li>
+	<li>Testing approaches to neural networks; </li>
+	<li>Optimisation-based methods for the verification of neural networks; </li>
+	<li>Statistical approaches to the verification of neural networks.</li>
+</ul>
+
+<h4>Submissions</h4>
+<p>We will consider two types of submissions: previously published papers and novel contributions. Each submission must be clearly identified as belonging to one of these categories. Submissions of previously published papers pertaining to the topic above will be lightly reviewed by PC members and the PC chairs. Submissions of novel material will be reviewed following conference standards.</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Clark Barrett (Stanford, USA), Alessio LomuscioI (Imperial College London, UK)</p>
+
+<h4>For More Information</h4>
+<p>
+<a href="https://sites.google.com/view/vnn19" rel="nofollow">sites.google.com/view/vnn19</a></p>
+
+
+
+</div>
+</div>
+</div>
+
+<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1">AAAI Symposia</span></h2>
+<div class="content">
+<h3 class="text2"><a href="https://aaai.org/Symposia/Fall/fall-symposia.php" title="AAAI fall symposia pages">AAAI Fall Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/Spring/spring-symposia.php" title="AAAI spring symposia pages">AAAI Spring Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Symposia/EAAI/eaai-symposia.php" title="AAAI Educational Advances in AI Symposia">AAAI Educational Advances in AI Symposia</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Press/Reports/reports.php" title="aaai technical reports">Technical Reports</a></h3>
+<h3 class="text2"><a href="https://aaai.org/Publications/Author/author.php" title="forms and instructions for accepted authors">For Accepted Authors</a></h3> 
+</div>
+
+<h4 class="backgrnd5"><span class="text1">Other Links</span></h4>
+<div class="content">
+<h3 class="text2"><a href="../../../.aaai.org/home.php" title="AAAI Home Page">AAAI Home Page</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">AAAI Press</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a></h3> 
+<h3 class="text2"><a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops">AAAI Workshops</a></h3>
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</div>
+
+
+
+
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

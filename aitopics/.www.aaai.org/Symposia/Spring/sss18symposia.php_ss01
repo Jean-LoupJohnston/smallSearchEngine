@@ -1,0 +1,516 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2018 Spring Symposium Series</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2018 Spring Symposium Series</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="sss18.php"><img src="http://www.aaai.org/Symposia/Spring/Photos/symposium.jpg" alt="AAAI Spring Symposium" width="638" height="343" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2018 Spring Symposium Series</span></h2>
+<div class="content">
+
+<p><i>Sponsored by the Association for the Advancement of Artificial Intelligence</i><br />
+In cooperation with the Stanford University Computer Science Department<br />
+March 26&ndash;28, 2018 &nbsp; &nbsp; Stanford University, Palo Alto, California USA</p>
+<div class="hr1"><hr /></div>
+
+<h3>Call for Participation</h3>
+
+<div class="hr1"><hr /></div>
+<p><b>Important Deadlines</b></p>
+
+
+<ul>
+	<li>October 27, 2017: Submissions due to organizers</li>
+	<li>November 27, 2017: Notifications of acceptance sent by organizers</li>
+	<li>January 29, 2018: Accepted camera-ready copy due to AAAI.</li>
+</ul>
+
+<div class="hr1"><hr /></div>
+<p>
+The Association for the Advancement of Artificial Intelligence, in cooperation with Stanford University's Department of Computer Science, is pleased to present the 2018 Spring Symposium Series, to be held Monday through Wednesday, March 26-28, 2018 at Stanford University. The titles of the seven symposia are as follows:
+</p>
+
+<ul>
+<li><a href="sss18symposia.php_ss01"><b> AI and Society: Ethics, Safety and Trustworthiness in Intelligent Agents</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss18symposia.php#ss02"><b> Artificial Intelligence for the Internet of Everything</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss18symposia.php#ss03"><b> Beyond Machine Intelligence: Understanding Cognitive Bias and Humanity for Well-Being AI</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss18symposia.php#ss04"><b> Data Efficient Reinforcement Learning</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss18symposia.php#ss05"><b> The Design of the User Experience for Artificial Intelligence (the UX of AI)</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss18symposia.php#ss06"><b> Integrating Representation, Reasoning, Learning, and Execution for Goal Directed Autonomy</b></a></li>
+<li><a href="http://www.aaai.org/Symposia/Spring/sss18symposia.php#ss07"><b> Learning, Inference, and Control of Multi-Agent Systems</b></a></li>
+</ul>
+
+
+<div class="hr1"><hr /></div>
+<h3 class="text1"><a name="ss01">AI and Society: Ethics, Safety and Trustworthiness in Intelligent Agents</a></h3>
+
+<p>
+Artificial intelligence has become a major player in today's society and that has inevitably generated a proliferation of thoughts and sentiments on several of the related issues. Many, for example, have felt the need to voice, in different ways and through different channels, their concerns on possible undesirable outcomes caused by artificial agents, the morality of their use in specific sectors, such as the military, and the impact they will have on the labor market. The goal of this symposium is to gather a diverse group of researchers from many disciplines, such as computer scientists, philosophers, economists and sociologists, and to ignite a scientific discussion on this topic. 
+</p>
+
+
+<p>
+The symposium will welcome contributions on a broad set of topics related to ethics, safety and trustworthiness of AI. Our focus will be to adopt a scientific approach to help understanding and put in perspective the multitude of opinions which have been expressed on these matters. Submissions may focus on specific and technical details or bring a more general point of view on the desiderata for AI in terms of society. We also welcome papers describing both short-term as well as long-term analysis of AI's impact on different aspects of society. 
+</p>
+
+
+<h4>Topics</h4>
+<p>
+Topics of interest include the following:
+</p>
+
+<ul>
+	<li> Architectures for ensuring ethical behavior</li>
+	<li> Value alignment in autonomous systems</li>
+	<li> Safety and trustworthiness in artificial agents' design</li>
+	<li> Moral decision making in autonomous systems </li>
+	<li> The impact of AI on jobs and issues like technological unemployment</li>
+	<li> Autonomous agents in the military</li>
+	<li> Autonomous agents in commerce and other domains</li>
+	<li> The societal impacts of AI</li>
+	<li> Measuring progress in AI</li>
+	<li> The future of AI</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+The symposium will include invited talks, presentations of accepted papers, group work sessions and panels. 
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+We solicit full papers (6 to 8 pages) and short papers (2 to 4 pages). Submissions are invited from all perspectives of interest (see list above), and can include recent or ongoing research, position papers, and surveys. Please submit through <a href="https://easychair.org/conferences/?conf=ss18aisoc" rel="nofollow">Easychair</a> using the AAAI template.
+</p>
+
+
+<h4>Main Contact</h4>
+<p>
+K. Brent Venable<br />
+Tulane University and IHMC<br />
+Department  of Computer Science<br />
+Stanley Thomas Hall, 303c,<br />
+6823 St. Charles Ave. New Orleans, LA 70118<br />
+&#107;&#118;&#101;&#110;&#97;&#98;&#108;&#64;&#116;&#117;&#108;&#97;&#110;&#101;&#46;&#101;&#100;&#117;
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Francesca Rossi (IBM Watson and University of Padova, &#102;&#114;&#111;&#115;&#115;&#105;&#64;&#109;&#97;&#116;&#104;&#46;&#117;&#110;&#105;&#112;&#100;&#46;&#105;&#116;), K. Brent Venable (Tulane University and IHMC, &#107;&#118;&#101;&#110;&#97;&#98;&#108;&#64;&#116;&#117;&#108;&#97;&#110;&#101;&#46;&#101;&#100;&#117;), Toby Walsh (Data61, UNSW and TU Berlin, &#84;&#111;&#98;&#121;&#46;&#87;&#97;&#108;&#115;&#104;&#64;&#110;&#105;&#99;&#116;&#97;&#46;&#99;&#111;&#109;&#46;&#97;&#117;) 
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+<a href="https://sites.google.com/site/aiandsocietyss18/" rel="nofollow">sites.google.com/site/aiandsocietyss18</a></p>
+
+<div class="hr1"><hr /></div>
+
+
+
+<h3 class="text1"><a name="ss02">Artificial Intelligence for the Internet of Everything</a></h3>
+
+<p>
+From the perspective of artificial intelligence (AI), for this AAAI symposium on the Internet of Everything (IoE), we desire participants who can discuss the potential meaning, value and effect that the Internet of Things (IoT) may have on ordinary life, in the business or industrial world, on the battlefield (IoBT), in the medical field (IoMT) or on other intelligent agents (IoIT). We leave the topic open-ended for this AAAI symposium. We will consider all papers with an AI perspective that address how IoE affects sensing, perception, cognition and behavior or causal relations, whether the context is clear or uncertain and whether for mundane decisions; decisions made for business, industry or government; complex decisions on the battlefield; life and death decisions in the medical arena; or decisions affected by other intelligent agents and machines. We are interested in practical, measurement and theoretical issues and research questions about how these "things" may affect individuals, teams and society or each other across different units of analysis; or how existing systems and human interactions may affect these "things." We are especially interested in what may happen when these things begin to reason, communicate and act on their own, whether as autonomous agents or interdependently with other things in autonomous teams. Must IoE systems speak only to humans, to each other, or both? Will each IoE system be an independent system; an interdependent system; or a combination? Regardless, our ultimate goal is to use AI to advance autonomy and autonomic fundamentals to improve the performance of individual agents and hybrid teams of humans, machines, and robots for the betterment of society.
+</p>
+
+
+<p>
+<i>Participants:</i> In 2 to 8 pages submitted to the organizers, we desire participants who can discuss the foundations, metrics or applications of IoE systems (or IoT, IoBT, etc.) and how these systems will affect targeted audiences or society. The topic is open-ended. We will consider all papers that address how IoE systems affect humans or other smart systems. Our ultimate goal is to advance IoE theory and concepts with AI to improve society. We plan a follow-on book with expanded contributions.
+</p>
+ 
+
+<h4>Organizing Committee</h4>
+<p>
+Ranjeev Mittu (&#114;&#97;&#110;&#106;&#101;&#101;&#118;&#46;&#109;&#105;&#116;&#116;&#117;&#64;&#110;&#114;&#108;&#46;&#110;&#97;&#118;&#121;&#46;&#109;&#105;&#108;), Donald Sofge (&#100;&#111;&#110;&#97;&#108;&#100;&#46;&#115;&#111;&#102;&#103;&#101;&#64;&#110;&#114;&#108;&#46;&#110;&#97;&#118;&#121;&#46;&#109;&#105;&#108;), Ira S. Moskowitz (&#105;&#114;&#97;&#46;&#109;&#111;&#115;&#107;&#111;&#119;&#105;&#116;&#122;&#64;&#110;&#114;&#108;&#46;&#110;&#97;&#118;&#121;&#46;&#109;&#105;&#108;), Naval Research Laboratory; Stephen Russell, Army Research Laboratory (&#115;&#116;&#101;&#112;&#104;&#101;&#110;&#46;&#109;&#46;&#114;&#117;&#115;&#115;&#101;&#108;&#108;&#56;&#46;&#99;&#105;&#118;&#64;&#109;&#97;&#105;&#108;&#46;&#109;&#105;&#108;); and W. F. Lawless, Paine College (&#119;&#46;&#108;&#97;&#119;&#108;&#101;&#115;&#115;&#64;&#105;&#99;&#108;&#111;&#117;&#100;&#46;&#99;&#111;&#109;)
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+<a href="https://sites.google.com/site/internetofeverythingioe/" rel="nofollow">sites.google.com/site/internetofeverythingioe</a></p>
+
+<div class="hr1"><hr /></div>
+
+
+
+<h3 class="text1"><a name="ss03">Beyond Machine Intelligence: Understanding Cognitive Bias and Humanity for Well-Being AI</a></h3>
+
+<p>
+Recent AI technologies (such as Deep Learning and other advanced machine learning technology) will definitely change the world. However, excessive expectation for AI (such as  science fiction of general purpose AI) and threat theory (such as AI robs a job) distort the judgement of many people. What we must do first is to understand the possibilities and limitations of the current machine intelligence correctly.
+</p>
+
+<p>
+Especially understanding machine intelligence in human health and wellness domains remains some challenging. Although statistical machine learning predicts the future based on past data, it is difficult to respond to the new event which has never seen in the past. How to create new values which really make people happy is one of the most important challenges in well-being AI. For this purpose, we need to share interdisciplinary scientific findings between human science (brain science, biomedical healthcare, psychology, and others) and AI.
+</p>
+
+<p>
+One of the important keywords in this year's symposium is <i>cognitive bias.</i> In the recent trend on big data becoming personal, AI technologies to manipulate the cognitive bias inherent in people's mind have evolved; For example, social media, such as Twitter and Facebook, and commercial recommendation system. Echo chamber effec" is known that makes it easy for people with the same opinion to make community, which makes it felt that everyone has the same opinion. Recently, there have been a movement to use such cognitive bias also in the political world. Advances in big data and machine learning should not overlook the new threats to enlightenment thought. 
+</p>
+
+<p>
+The second important keyword in this symposium is <i>humanity.</i> One of the purposes of AI is to pursue "what is intelligence?" Early AI researchers focused their efforts to make progress on rational thinking, such as mathematical theorem proving, chess and so on. However, rational thinking is recently and rapidly being replaced by machines. It seems that many people might have begun to believe that irrational thinking is the root of humanity. Empirical and philosophical discussions on AI and humanity are welcomed in this symposium.
+</p>
+ 
+<p>
+This symposium is aimed at sharing latest progress, current challenges and potential applications related with AI health and well-being. The evaluation of digital experience and understanding of human health and well-being is also welcome.
+</p>
+<h4>Format</h4>
+<p>
+The symposium is organized by the invited talks, presentations, and posters and interactive demos.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Interested participants should submit either full papers (8 pages maximum) or extended abstracts (2 pages maximum). Extend abstracts should state your presentation types (long paper (6-8 pages), short paper (1-2 pages), demonstration, or poster presentation). The electronic version of your paper should be sent to &#97;&#97;&#97;&#105;&#50;&#48;&#49;&#56;&#45;&#98;&#109;&#105;&#64;&#99;&#97;&#115;&#46;&#108;&#97;&#98;&#46;&#117;&#101;&#99;&#46;&#97;&#99;&#46;&#106;&#112;.
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Cochairs: Takashi Kido (Preferred Networks, Inc., Japan) and Keiki Takadama (The University of Electro-Communications, Japan). For a full list of organizers and program committee members, please refer to the URL below.
+</p>
+
+
+<h4>For More Information</h4>
+<p>
+<a href="https://sites.google.com/view/bmi-aaai-2018/" rel="nofollow">sites.google.com/view/bmi-aaai-2018</a></p>
+
+<div class="hr1"><hr /></div>
+
+
+
+<h3 class="text1"><a name="ss04">Data Efficient Reinforcement Learning</a></h3>
+
+<p>
+Sequential decision making (SDM) is an essential component for autonomous systems. Although significant progress has been made towards developing algorithms for solving isolated task SDM tasks, these algorithms often require large amount of experience before achieving acceptable performance. This is particularly true in the case of high dimensional tasks, such as robotics control or general game playing environments.
+</p>
+
+<p>
+Aiming at efficient reinforcement learning algorithms that can generalize well to unobserved environments or situations, a multitude of methods have been proposed. These include inverse reinforcement learning, imitation learning, lifelong learning, multitask learning, transfer learning, and model-based reinforcement learning.
+</p>
+
+<p>
+This symposium will give reinforcement learning researchers an opportunity to present their work and to discuss recent developments in each of the above fields. We request submissions that present novel results and algorithms, with an emphasis on approaches that are also theoretically grounded. We are also particularly interested in RL benchmarking and applications in fields including robotics, medicine, game playing, and real-world large-scale applications.
+</p>
+
+
+<h4>Topics</h4>
+<p>
+Topics of interest include but are not limited to the following:
+</p>
+
+<ol>
+	<li> Reinforcement learning</li>
+	<li> Model-based reinforcement learning</li>
+	<li> Inverse reinforcement learning</li>
+	<li> Deep reinforcement learning</li>
+	<li> Transfer learning</li>
+	<li> Multitask reinforcement learning</li>
+	<li> Lifelong reinforcement learning</li>
+	<li> Large-scale application of reinforcement learning</li>
+	<li> Novel applications of reinforcement learning</li>
+	<li> Benchmarking reinforcement learning algorithms</li>
+	<li> Learning from demonstration</li>
+	<li> Imitation learning</li>
+	<li> Multiagent reinforcement learning</li>
+	<li> Deep multiagent reinforcement learning</li>
+	<li> Model-based multiagent reinforcement learning</li>
+	<li> Transfer in multiagent reinforcement learning</li>
+	<li> Multitask multiagent reinforcement learning</li>
+</ol>
+
+<h4>Format</h4>
+<p>
+The symposium will include invited talks, presentations on accepted papers, and discussions. Invited speakers and presentations will be announced after the submissions. More information will appear on the supplementary symposium website.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+We solicit both long (6 pages and an additional page for references) and short (3 pages and an additional page for references) submission on topics related to the above. Field positioning papers and open challenges will also be considered. Submissions should follow the AAAI conference format. Long papers will be scheduled for oral presentations, while short papers for poster demonstrations. Submissions should be forwarded to the main contact.
+</p>
+
+
+<h4>Main Contact</h4>
+<p>
+Haitham Bou Ammar <br />
+&#104;&#97;&#105;&#116;&#104;&#97;&#109;&#64;&#112;&#114;&#111;&#119;&#108;&#101;&#114;&#46;&#105;&#111;<br />
+PROWLER.io., 29 Austin Drive<br />
+Cambridgeshire, CB 2 9BB, United Kingdom <br />
++44-7780562871
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Haitham Bou Ammar (Main Contact), Dongho Kim (&#100;&#111;&#110;&#103;&#104;&#111;&#64;&#112;&#114;&#111;&#119;&#108;&#101;&#114;&#46;&#105;&#111;), Enrique Munoz de Cote (&#101;&#110;&#114;&#105;&#113;&#117;&#101;&#64;&#112;&#114;&#111;&#119;&#108;&#101;&#114;&#46;&#105;&#111;), James Hensman (&#106;&#97;&#109;&#101;&#115;&#64;&#112;&#114;&#111;&#119;&#108;&#101;&#114;&#46;&#105;&#111;), Prowler,io, UK; Matthew E. Taylor (&#116;&#97;&#121;&#108;&#111;&#114;&#109;&#64;&#101;&#101;&#99;&#115;&#46;&#119;&#115;&#117;&#46;&#101;&#100;&#117;), Washington State University, USA
+</p>
+
+
+<h4>For More Information</h4>
+<p><a href="https://www.prowler.io/aaai-symposium" rel="nofollow">www.prowler.io/aaai-symposium</a>
+</p>
+
+<div class="hr1"><hr /></div>
+
+
+
+<h3 class="text1"><a name="ss05">The Design of the User Experience for Artificial Intelligence (the UX of AI)</a></h3>
+
+<p>
+AI is increasingly common in consumer and professional contexts such as voice personal assistants, photo tagging, autonomous vehicles, creative tools, and medical image analysis. But the interaction and user experience design strategies and patterns for these applications are still in their early stages and have many challenges ahead. 
+</p>
+
+<p>
+This symposium will bring together a diverse group of people involved in the design of AI products and services from large scale, deployed commercial applications and advanced research to speculative futures, and from the worlds of HCI, design, TEI, HRI, and AI.
+</p>
+ 
+
+<h4>Topics</h4>
+<ul>
+	<li> Communication and collaboration</li>
+	<li> Automation, agency and control</li>
+	<li> Bias, trust, and power</li>
+	<li> Multidevice, multitouchpoint behavior</li>
+	<li> Service design and AI</li>
+	<li> Design for a world of simultaneous multiple predictive systems</li>
+	<li> The design of products without traditional screen interfaces and interaction modalities. </li>
+	<li> The design of AI collaborators for creative work.</li>
+	<li> AI tools for non-AI specialists.</li>
+	<li> The design of hybrid human-AI collaborations.</li>
+	<li> Communicating AI to end users.</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+The symposium will be a combination of presentations, posters, invited talks, plenary sessions, and breakouts, to maximize participant interaction. All attendees will be required to present a short (20 minute) presentation on their work or a subject of interest. We will alternate between these short presentations and design explorations in breakouts and large group discussions.
+</p>
+
+<h4>Submissions</h4>
+<p>
+Prospective participants are invited to submit one or more of the following: Short position papers (2&ndash;4 pages) in PDF format. Please follow AAAI style guidelines. Your position statement should include a short description motivating your interest in the topic, and a short bio that includes a description of your current area of research or practice.
+</p>
+
+<p>In your proposal, indicate and elaborate on one of the following as your format:</p>
+<ul>
+	<li>A 20 minute presentation</li>
+	<li> A poster in pdf format. The poster should be printable as a 30" x 40"/A0. Initial submissions can include a draft of the poster.</li>
+	<li> A 3 minute or shorter video in a common file format (AVI, MP4, and others.).</li>
+	<li> An interactive demo. Interactive demos should be clear, interactive and focus on research and practice demonstrations illustrating an aspect of artificial intelligence and user experience. No product pitches will be accepted.</li>
+	<li> A panel proposal.  Panel proposals should include a 400-word description of the topic and panel members (potential and agreed).</li>
+</ul>
+
+<p>
+Video and interactive demos should be accompanied by an extended abstract (1-&ndash;2 pages, PDF) of up to 2000 words. Initial submission can include a draft/rough cut/storyboard of the video/interactive with a text description of its contents.</p>
+
+<p>Submissions should not be anonymized. If your proposal is accepted, you will have the option of including an updated paper in the technical report.</p>
+
+
+<h4>Questions</h4>
+<p>
+Mike Kuniavsky<br />
+mikek parc.com<br />
+Palo Alto Research Center<br />
+3333 Coyote Hill Road<br />
+Palo Alto, CA 94304<br />
++1 650 812 4847
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Mike Kuniavsky (PARC), Elizabeth Churchill (Google), Molly Wright Steenson (Carnegie Mellon University), Phil Van Allen (Art Center College of Design)
+</p>
+
+<h4>For More Information</h4>
+<p>
+<a href="https://mikek-parc.github.io/AAAI-UX-AI/" rel="nofollow">mikek-parc.github.io/AAAI-UX-AI</a></p>
+
+<div class="hr1"><hr /></div>
+
+
+
+<h3 class="text1"><a name="ss06">Integrating Representation, Reasoning, Learning, and Execution for Goal Directed Autonomy</a></h3>
+
+<p>
+Recent advances in AI and robotics have led to a resurgence of interest in the objective of producing intelligent agents that help us in our daily lives. Such agents must be able to rapidly adapt to the changing goals of their users, and the changing environments in which they operate.</p>
+
+<p>These requirements lead to a balancing act that most current systems have difficulty contending with: on the one hand, human interaction and computational scalability favor the use of abstracted models of problems and environments domains; on the other hand, generating goal directed behavior in the real world typically requires accurate models that are difficult to obtain and computationally hard to reason with.</p>
+
+<p>This symposium addresses the core research gaps that arise in designing autonomous systems that execute their actions in complex environments using imprecise models. The sources of imprecision may range from computational pragmatism to imperfect knowledge of the actual problem domain. Some of the research directions that this symposium aims to highlight are as follows: </p>
+
+<ul>
+	<li>Hierarchical approaches for goal directed autonomy in physically manifested intelligent systems (for example, robotics)</li>
+	<li>Formalizations for knowledge representation and reasoning under uncertainty for real-world systems and their simulations, including those based on logic as well as on probability theory</li>
+	<li>Tradeoffs between model verisimilitude, scalability, and executability in sequential decision making</li>
+	<li>Bridging the gaps between abstract models and reality in sequential decision making</li>
+	<li>Online model learning and model improvement during execution</li>
+	<li>Identifying modeling errors during plan execution</li>
+	<li>Integrated approaches for learning representations and execution policies</li>
+	<li>Analysis and use of abstractions in autonomous reasoning and execution</li>
+</ul>
+
+
+
+<h4>Topics</h4>
+
+<p>
+We invite paper submissions on relevant topics, which include, but are not limited to
+ the following:
+</p>
+
+<ul>
+	<li>Hierarchical representation, reasoning, and planning</li>
+	<li>Behavior synthesis and execution in robotics</li>
+	<li>Planning and reasoning with abstract models while ensuring executability</li>
+	<li>Abstraction from controls to logic</li>
+	<li>Execution monitoring of autonomous systems</li>
+	<li>Performance evaluation of executable autonomous systems</li>
+	<li>Integrated task and motion planning</li>
+	<li>Reasoning in the presence of abstraction</li>
+	<li>Online model learning and model improvement</li>
+	<li>Detecting model errors during execution</li>
+	<li>Integrated representation and policy learning</li>
+</ul>
+
+
+
+<h4>Submissions</h4>
+<p>
+We invite submissions of full papers (6&ndash;8 pages) and short/position papers (2&ndash;4 pages). We also solicit system demonstrations that highlight how some of the challenges of interest to this symposium were handled
+</p>
+
+<p>
+Papers should be submitted via easychair. Detailed instructions will be made available closer to the deadline.</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Siddharth Srivastava (Arizona State University), Shiqi Zhang (Cleveland State University), Nick Hawes (University of Birmingham), Erez Karpas (Technion &ndash; Israel Institute of Technology), George Konidaris (Brown University), Matteo Leonetti (University of Leeds), Mohan Sridharan (The University of Auckland), Jeremy Wyatt (University of Birmingham)
+</p>
+
+
+<h4>For More Information</h4>
+<p><a href="http://siddharthsrivastava.net/sirle18/" rel="nofollow">siddharthsrivastava.net/sirle18/</a>
+</p>
+
+<div class="hr1"><hr /></div>
+
+
+
+
+
+
+
+<h3 class="text1"><a name="ss07">Learning, Inference, and Control of Multi-Agent Systems</a></h3>
+
+<p>
+We live in a multiagent world. To be successful in that world, intelligent agents need to learn to consider the agency of others. They will compete in marketplaces, cooperate in teams, communicate with others, coordinate their plans, and negotiate outcomes. Examples include self-driving cars interacting in traffic, personal assistants acting on behalf of humans and negotiating with other agents, swarms of unmanned aerial vehicles, financial trading systems, robotic teams, and household robots.
+</p>
+
+
+<p>
+There has been great work on multiagent learning in the past decade, but significant challenges remain, including the difficulty of learning an optimal model/policy from a partial signal, the exploration versus exploitation dilemma, the scalability and effectiveness of learning algorithms, avoiding social dilemmas, learning emergent communication, learning to cooperate/compete in nonstationary environments with distributed simultaneously learning agents, and convergence guarantees.
+</p>
+
+
+<h4>Topics</h4>
+
+<p>
+We are interested in various forms of multiagent learning for this symposium, including the following:
+</p>
+
+<ul>
+	<li> Learning in sequential settings in dynamic environments (such as stochastic games, decentralized POMDPs and their variants)</li>
+	<li> Learning with partial observability</li>
+	<li> Dynamics of multiple learners using (evolutionary) game theory </li>
+	<li> Learning with various communication limitations </li>
+	<li> Learning in ad-hoc teamwork scenarios</li>
+	<li> Scalability through swarms vs. intelligent agents</li>
+	<li> Bayesian nonparametric methods for multiagent learning</li>
+	<li> Deep learning and reinforcement learning methods for multiagent learning</li>
+	<li> Transfer learning in multiagent settings</li>
+	<li> Applications of multiagent learning</li>
+</ul>
+
+<p>
+The purpose of this symposium is to bring together researchers from machine learning, control, neuroscience, robotics, and multiagent communities with the goal of broadening the scope of multiagent learning research and addressing the fundamental issues that hinder the applicability of multiagent learning for complex real-world problems. This symposium will present a mix of invited sessions, contributed talks and a poster session with leading experts and active researchers from relevant fields. Furthermore, the symposium is designed to allow plenty of time for discussions and initiating collaborations.
+</p>
+
+<h4>Submissions</h4>
+<p>
+Authors can submit papers of 2-6 pages that will be reviewed by the organization committee. The papers can present new work or a summary of recent work. Submissions will be handled through EasyChair (url to be announced on the website).
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Christopher Amato (Northeastern University), Thore Graepel (Google DeepMind), Joel Leibo (Google DeepMind), Frans Oliehoek (University of Liverpool), Karl Tuyls (Google DeepMind and University of Liverpool)
+</p>
+
+<h4>For More Information</h4>
+<p><a href="https://sites.google.com/view/malicaaai2018" rel="nofollow">sites.google.com/view/malicaaai2018</a>
+-->
+</p>
+
+
+
+
+

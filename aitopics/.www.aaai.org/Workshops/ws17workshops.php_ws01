@@ -1,0 +1,1090 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI Sponsored Workshops&mdash;AAAI-17</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI Sponsored Workshops&mdash;AAAI-17</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">Workshops at the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)</span></h2>
+<div class="content">
+<h3>February 4&ndash;5, 2017 &nbsp; &nbsp; San Francisco, California USA</h3>
+<p><i>Sponsored by the Association for the Advancement of Artificial Intelligence</i></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<ul>
+<li><a href="ws17workshops.php_ws01">W1: AI and OR for Social Good</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws02">W2: AI, Ethics and Society</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws03">W3: AI for Connected and Automated Vehicles</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws04">W4: Artificial Intelligence for Cyber Security</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws05">W5: AI for Smart Grids and Buildings</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws06">W6: Computer Poker and Imperfect Information Games</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws07">W7: Crowdsourcing, Deep Learning and Artificial Intelligence Agents</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws08">W8: Developing ArtificialÂ Intelligence Startup Companies</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws09">W9: Distributed Machine Learning</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws10">W10: Joint Workshop on Health Intelligence</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws11">W11: Human-Aware Artificial Intelligence</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws12">W12: Human-Machine Collaborative Learning</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws13">W13: Increasing Diversity in AI</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws14">W14: Knowledge-Based Techniques for Problem Solving and Reasoning</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws15">W15: Plan, Activity, and Intent Recognition</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws16">W16: Symbolic Inference and Optimization</a></li>
+<li><a href="http://www.aaai.org/Workshops/ws17workshops.php#ws17">W17: What's Next for AI in Games?Â </a></li>
+</ul>
+
+<div class="hr1">
+<hr /></div>
+
+
+
+<h3><a name="ws01">W01</a> &mdash; AI and  Operations Research for Social Good</h3>
+<p>The purpose of the workshop is to explore and promote the application of artificial intelligence (AI) and operations research (OR) for purposes of social good. There has been strong historical interest from both the AI and OR communities on this topic with a burst of AI activity in recent years in topics such as smart grids and optimized transport systems (both as part of a greater computational sustainability effort) while the OR community has long supported areas such as public sector OR (PSOR) whose stated objective is "doing good with OR."</p>
+
+<p>
+The workshop will place a special emphasis on bringing together members of the AI and OR communities (notably, the organizing committee contains members from both communities) who have been actively involved in addressing challenge problems for social good as well as the AI and OR technologies required to support their solution.
+</p>
+
+<h4>Topics</h4>
+<p>
+Submissions are invited on a variety of topics related to AI and OR for Social Good.Â  Applications areas include but are not limited to sustainable cities, smart government and social services, public service organizations, emergency preparedness, disaster response, public health, humanitarian programs with problems ranging from data-driven predictive and prescriptive analytics through to logistical optimization.Â  Technical topics include all AI and OR techniques applied to these problems including but not limited to machine learning, constraint optimization and constraint programming, planning and scheduling (under uncertainty), and computational economics.
+</p>
+
+<p>
+The format of the workshop will be a combination of invited talks, paper presentations, and panels.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Tentative (please see workshop/submission website for more details): regular novel technical papers (6 pages, AAAI format). Submit to: <a href="https://sites.google.com/site/aiorsocgood17/">sites.google.com/site/aiorsocgood17</a>
+</p>
+
+<h4>Chair</h4>
+<p>
+Scott Sanner (University of Toronto, &#115;&#115;&#97;&#110;&#110;&#101;&#114;&#64;&#109;&#105;&#101;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;)
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Thomas G. Dietterich (Oregon State University, &#116;&#103;&#100;&#64;&#99;&#115;&#46;&#111;&#114;&#115;&#116;&#46;&#101;&#100;&#117;), Stephen F. Smith (Carnegie Mellon University, &#115;&#102;&#115;&#64;&#99;&#115;&#46;&#99;&#109;&#117;&#46;&#101;&#100;&#117;), Pascal Van Hentenryck (University of Michigan, &#112;&#118;&#97;&#110;&#104;&#101;&#110;&#116;&#64;&#117;&#109;&#105;&#99;&#104;&#46;&#101;&#100;&#117;)
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="https://sites.google.com/site/aiorsocgood17/">Workshop URL</a><p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws02">W02</a> &mdash; AI, Ethics, and Society</h3>
+<p>
+There is an increasing appetite within and outside AI for fora to hold such discussions. The workshop will consist of invited talks and tutorials, submitted papers, and one or more panel discussions. Additionally, there will be invited sessions to discuss some related events (for example, the White House initiative on Preparing for the Future of AI, the forthcoming New York University meeting on Ethics of AI). 
+</p>
+
+<p>
+Topics include but are not limited to the following:
+</p>
+
+
+<ul>
+	<li>The societal impacts of AI</li>
+	<li>The impact of AI on jobs and issues like technological unemployment</li>
+	<li>Architectures for ensuring ethical behavior</li>
+	<li>Value alignment in autonomous systems</li>
+	<li>Autonomous agents in the military</li>
+	<li>Autonomous agents in commerce and other domains</li>
+	<li>Measuring progress in AI</li>
+	<li>Safeguards necessary within AI research</li>
+</ul>
+
+<h4>Submissions</h4>
+<p>
+Persons wishing to present should submit a paper in the AAAI workshop style to the workshop submission website:<br />
+<a href="https://easychair.org/conferences/?conf=aiethicssociety2017" rel="nofollow">easychair.org/conferences/?conf=aiethicssociety2017</a>
+</p>
+
+
+<p>
+There are no restrictions on the number of pages. 
+</p>
+
+
+<h4>Chair</h4>
+<p>
+Toby Walsh<br />
+UNSW and Data61<br />
+University of New South Wales, Australia<br />
+&#116;&#111;&#98;&#121;&#46;&#119;&#97;&#108;&#115;&#104;&#64;&#100;&#97;&#116;&#97;&#54;&#49;&#46;&#99;&#115;&#105;&#114;&#111;&#46;&#97;&#117;
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Paula Boddington (Oxford), Miles Brundage (Oxford), Joanna Bryson (Bath), Judy Goldsmith (Kentucky), Ben Kuipers (Michigan)
+</p>
+
+
+<h4>Additional Information</h4>
+<p><a href="http://tinyurl.com/AIandEthics" rel="nofollow">Workshop URL</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+
+<h3><a name="ws03">W03</a> &mdash; Artificial Intelligence for Connected and Automated Vehicles</h3>
+<p>
+The past decade has witnessed the rapid development of connected and automated vehicles (CAV), which could potentially avoid 90 percent or more traffic accidents, tremendously mitigate traffic congestion, considerably reduce vehicle energy consumption, and significantly improve the efficiency of the roadway usage. However, the existing CAV system is inadequate for the challenges of analyzing large-scale heterogeneous traffic data captured with various vehicle-mounted sensorsâ¬cameras, radar, infrared, LIDAR, etc., and making time-critical decisions in complicated driving environments. Solving these two issues goes beyond individual AI techniques, for example, perception, planning, or reasoning, and calls for innovative computing methods that can work in a tightly collaborative manner.
+</p>
+
+<p>
+The mission of this workshop is to create a synergy among AI community &mdash; including computer vision, cognition, reasoning, learning, planning, and CAV. The three goals of this event are (1) to identify key AI challenges in CAV systems; (2) to recognize the promising AI solutions to these challenges; and (3) to foster future research in this interdisciplinary subject.
+</p>
+
+
+<h4>Topics</h4>
+<p>
+The organizing committee is seeking innovative AI research that can potentially address one or more critical issues of the existing CAV systems, including vehicle-to-vehicle (V2V) interaction, vehicle-to-infrastructure (V2I) interaction, and autonomous  driving. The topics of interests include, but being not limited to the following:
+</p>
+
+
+<ul>
+<li>Visual perception</li>
+<li>Vehicle behavior and intention prediction</li>
+<li>Abnormal event detections</li>
+<li>Learning based autonomous driving</li>
+<li>Dynamic data fusion across connected vehicles</li>
+<li>Joint parsing of heterogeneous traffic data</li>
+<li>Intelligent human-vehicle or vehicle-vehicle interactions</li>
+<li>Road-traffic mapping for autonomous driving </li>
+<li>Causal-effect reasoning</li>
+<li>Scalable optimization</li>
+<li>Risk-minimized decision making</li>
+<li>Top-down and bottom-up inferences</li>
+
+</ul>
+
+<h4>Format</h4>
+<p>
+The workshop will consist of keynote talks, short invited talks, tutorials, oral presentations, poster presentation, and panel discussions. 
+</p>
+
+<h4>Attendance</h4>
+<p>
+30-50 participants invited on basis of research concentrations (AI and CAV) and/or submitted papers.
+</p>
+
+<h4>Submissions</h4>
+<p>
+The workshop accepts two types of paper submissions: i) six-page full page in the conference format; ii) two-page short paper or extended abstract. 
+All papers will be peer reviewed. Submit papers through <a href="https://easychair.org/conferences/?conf=aicav2017" rel="nofollow">EasyChair.</a> Detailed submission instructions can be found at <a href="http://cv.sdsu.edu/aicav/" rel="nofollow">cv.sdsu.edu/aicav/</a>. 
+</p>
+
+<h4>Workshop Cohairs</h4>
+<p>
+Xiaobai (Byran) Liu (San Diego State University, &#120;&#105;&#97;&#111;&#98;&#97;&#105;&#46;&#108;&#105;&#117;&#64;&#109;&#97;&#105;&#108;&#46;&#115;&#100;&#115;&#117;&#46;&#101;&#100;&#117;), Xianfeng (Terry) Yang (San Diego State University, &#120;&#121;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#46;&#115;&#100;&#115;&#117;&#46;&#101;&#100;&#117;), Xiaodi Hou (TuSimple LLC, &#120;&#105;&#97;&#111;&#100;&#105;&#46;&#104;&#111;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;), Mahmoud Tarokh (San Diego State University, &#109;&#116;&#97;&#114;&#111;&#107;&#104;&#64;&#109;&#97;&#105;&#108;&#46;&#115;&#100;&#115;&#117;&#46;&#101;&#100;&#117;)
+</p>
+
+<h4>Additional Information</h4>
+<p>
+<a href="http://cv.sdsu.edu/aicav/" rel="nofollow">Workshop URL</a>.
+</p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws04">W04</a> &mdash; Artificial Intelligence for Cyber Security</h3>
+<p>
+The workshop will focus on research into the use of artificial intelligence (AI) for cyber security, including machine learning, game theory, natural language processing, knowledge representation, and automated and assistive reasoning. The workshop will emphasize the application of AI techniques that enable resilience in cyber security systems in operational or mission settings. 
+</p>
+
+<p>
+Recent improvements in AI have resulted in advances in many technological and scientific fields including medicine, transportation, communication and data analysis. In these cases, AI techniques have assisted humans in several ways, including, dealing with large amounts of information (that is, Big Data), recognizing anomalous behavior or trends and making complex decisions. Despite its success in these other areas, AI has yet to have a similar level of impact on cyber security. Cyber security faces many of the same challenges as these other areas, and thus, AI has the potential to have similar impact if applied in appropriate ways.
+</p>
+
+<p>
+One key way in which AI can benefit cyber security is by enabling security analysts to focus on relevant signals in large amounts of situational awareness data. AI techniques that can be trained to remove unwanted data or â¬Ünoiseâ¬" and improve the analystsâ¬" ability to understand their cyber environment and detect anomalous activity. Another way AI can benefit cyber security is through the use of automated techniques to generate cyber courses of action (COAs) in response to cyber threats. Game theoretic reasoning and agent-based modeling techniques can be used to explore potential attacker-defender interactions and their associated outcomes in order to evaluate candidate solutions and to inform decision makers.
+</p>
+
+<p>
+These applications of AI have the potential to impact cyber security in a positive way, bringing automated learning and game theory into the service of improved system resilience. Developing and applying these and other AI capabilities to cyber security problems requires collaboration amongst several different communities including the artificial intelligence, game theory, machine learning and cyber-security communities, as well as the operational and commercial applications communities. This workshop is structured to encourage a lively exchange of ideas between researchers and practitioners in these communities from the academic, public and commercial sectors.
+</p>
+
+<h4>Submissions</h4>
+<p>
+Position papers should be 2 pages; regular submissions should be 8 pages. Authors should submit via EasyChair via the <a href="http://www-personal.umich.edu/~arunesh/AICS2017" rel="nofollow">workshop URL</a>.
+</p>
+
+
+<h4>Chair</h4>
+<p>
+William Streilein (MIT Lincoln Laboratory, USA, &#119;&#119;&#115;&#64;&#108;&#108;&#46;&#109;&#105;&#116;&#46;&#101;&#100;&#117;)
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+William W. Streilein (MIT Lincoln Laboratory, MA, USA), Robert Laddaga (Institute for Software Integrated Systems, Vanderbilt University, TN, USA), David R. Martinez (MIT Lincoln Laboratory, MA, USA), Arunesh Sinha (University of Michigan, MI, USA), Neal Wagner (MIT Lincoln Laboratory, MA, USA)
+</p>
+
+<h4>Program Committee</h4>
+<p>
+George Cybenko (Dartmouth College), Christos Dimitrakakis, (Chalmers University of Technology, Sweden), Robert Goldman (Smart Information Flow Technologies (SIFT)), Christopher Kiekintveld (University of Texas at El Paso, TX, USA), Brian Lindauer (Software Engineering Institute/Carnegie Mellon University, PA, USA), Richard Lippmann (MIT Lincoln Laboratory, MA, USA), Mingyan Liu (University of Michigan), Daniel Lowd (University of Oregon), Ranjeev Mittu (Naval Research Laboratory), Diane Oyen (Los Alamos National Laboratory), Benjamin Rubinstein (University of Melbourne, Australia), Howard Shrobe (MIT/CSAIL, MA, USA), Milind Tambe (University of Southern California, CA, USA), Robert Templeman (Navy Surface Warfare Center, Crane Division).
+</p>
+
+<h4>Additional Information</h4>
+<p>
+<a href="http://www-personal.umich.edu/~arunesh/AICS2017" rel="nofollow">Workshop URL </a>
+</p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws05">W05</a> &mdash; AI for Smart Grids and Smart Buildings</h3>
+<p>
+The availability of advanced sensing and communication infrastructures, electric monitoring facilities, computational intelligence, widespread use and interest in renewable energy sources, and customer-driven electricity usage, storage and generation capabilities, have posed the foundations for a robust and dynamic next generation economic interplay between the demand-side: smart buildings, and the supply-side: smart power grids. Three key aspects distinguish this evolving economy from more traditional market forces: 
+(1) <i>information:</i> energy producers and consumers have access to information; 
+(2) <i>exchange:</i> communication is possible on a continuous basis, thus enabling both individual as well as group decision processes; 
+(3) energy can be produced not only by power plants, but also by customers and stored for later use, and 
+(4) customers can employ advanced tactical measures for improving building operations and reducing energy consumption without sacrificing occupant satisfaction.</p>
+
+<p>
+AI plays a key role in the relationship between the smart grid and smart buildings. New technologies offer infrastructure that provides information to support automated decision making on how to (automatically) adapt production/consumption, optimize costs, waste, and environmental impact, and provide reliability, safety, security, and efficiency. Indeed, several research projects have already developed the view of this ecosystem as a multi-agent system, where agents coordinate and negotiate to achieve smart grid and smart building objectives. 
+</p>
+
+<p>
+The goal of this workshop is to bring together researchers and practitioners from diverse areas of AI to explore both established and novel applications of AI techniques to address problems related to the design, implementation, deployment, and maintenance of both smart buildings and the smart grid &mdash; either as independent topics or together in an overarching multiagent 
+system. 
+</p>
+
+<h4>Submissions</h4>
+<p>Participants should submit a paper (maximum 6 pages + 1 page of references). Accepted papers will be presented during the workshop and will be published as AAAI technical reports, which will be made freely available in AAAI's digital library. Authors are requested to prepare their papers using the <a href="http://www.aaai.org/Publications/Templates/AuthorKit17.zip" rel="nofollow">AAAI style files.</a> </p>
+
+<p>All submissions are conducted via <a href="http://www.easychair.org/conferences/?conf=aisgsb2017" rel="nofollow">EasyChair.</a> </p>
+
+<h4>Organizing Committee</h4>
+<p>Rodney Martin (NASA Ames Research Center), Enrico Pontelli (New Mexico State University), Son Cao Tran (New Mexico State University), Long Tran-Thanh (University of Southampton) 
+</p>
+
+<p>
+<i>Contact Information: </i>&#97;&#105;&#115;&#103;&#115;&#98;&#50;&#48;&#49;&#55;&#64;&#101;&#97;&#115;&#121;&#99;&#104;&#97;&#105;&#114;&#46;&#111;&#114;&#103;
+</p>
+
+
+<h4>Additional Information</h4>
+<p><a href="http://www.cs.nmsu.edu/aisgsb17" rel="nofollow">Workshop URL</a></p>
+ 
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws06">W06</a> &mdash; Computer Poker and Imperfect Information Games</h3>
+<p>
+Recent years brought substantial progress in research on imperfect information games. There is an active community of researchers focusing on computer poker, which recently computed near optimal strategy for the smallest poker variant commonly played by people and achieved human level performance in more complex variants of this game. Game theoretic models with all sorts of uncertainty and imperfect information have been applied in security domains ranging from protecting critical infrastructure through green security (for example, protecting wildlife and fisheries) to cyber security. Computer agents able to play a previously unknown imperfect information games only based on a formal description of its dynamics have been developed.Â 
+</p>
+
+<p>
+In thisÂ AAAI-17Â workshop, we aim to create a forum where researchers studying theoretical and practical aspects of imperfect information games can meet, present their recent results and discuss their new ideas. Moreover, we want to facilitate interaction between distinct communitiesÂ studying various aspect and focusing on various domains in imperfect information games.
+</p>
+
+<h4>Topics</h4>
+<p>
+All topics related to theoretical or practical aspects of imperfect information games are of interest at the workshop. This includes for example descriptions of complete agents or novel components of agents playing specific imperfect information games, such as Poker or Bridge, imperfect information games modelling real world problems, or general game playing agents for imperfect information games. We welcome submissions analyzing formal representations of imperfect information games and their consequences on speed or optimality of game playing. We are also interested in opponent modelling techniques and human behavioural aspects specific for imperfect information games.
+</p>
+
+<h4>Format</h4>
+<p>
+The workshop will last a full day and will consist of both oral and poster presentations, as well as presentation of results and discussion about theÂ Annual Computer Poker Competition.Â Anyone is welcome to attend the workshop; in the event of space constraints, priority will be given to people who submit papers or posters, or who participate in the Computer Poker Competition.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Each submission will be in the form of an up to 8 page paper, using the main AAAI conference format. We leave to the authors if they want to anonymize their submissions or not.Â Papers should be submitted via <a href="https://easychair.org/conferences/?conf=cpw2017" rel="nofollow">EasyChair.</a>
+Oral presentations and poster session participants will be selected from the submissions. Each submission will be reviewed by at least two reviewers with the goal to provide helpful feedback and suggestions for improving the presented research.Â The accepted papers will be published as a AAAI technical report.
+</p>
+
+<h4>Workshop Chairs</h4>
+<p>
+Viliam Lisy (University of Alberta, &#108;&#105;&#115;&#121;&#64;&#117;&#97;&#108;&#98;&#101;&#114;&#116;&#97;&#46;&#99;&#97;), 
+Michael Thielscher (University of NewSouth Wales, &#109;&#105;&#116;&#64;&#99;&#115;&#101;&#46;&#117;&#110;&#115;&#119;&#46;&#101;&#100;&#117;&#46;&#97;&#117;), 
+Thanh NguyenÂ (University of Michigan, &#116;&#104;&#97;&#110;&#104;&#104;&#110;&#103;&#64;&#117;&#109;&#105;&#99;&#104;&#46;&#101;&#100;&#117;)
+</p>
+
+
+<h4>Additional Information</h4>
+<p><a href="https://sites.google.com/a/ualberta.ca/cpw2017/" rel="nofollow">Workshop URL</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+ 
+<h3><a name="ws07">W07</a> &mdash; Crowdsourcing, Deep Learning, and Artificial Intelligence Agents</h3>
+<p>
+Virtual assistants, robots and other artificial intelligent (AI) agents are becoming mainstream in our lives. They manage our calendar; help us navigate to the closest Starbucks or help us when weâ¬"re doing online shopping. Thanks to the power of deep learning and cloud computing, machines have been mimicking our brain learning patterns, mainly by ingesting large amounts of data from which they learn how to execute tasks, provide answers and make decisions. Most of these AI agents are learning to recognize and understand us, even when we talk to them in different dialects and in different languages and are communicating back to us using synthetic voices. Data plays a huge role in the development of these agents and crowdsourcing has been used widely in academia and industry in order to not only help scaling this data needs but also helping developers test the user experience of their virtual assistant apps. 
+</p>
+
+
+<h4>Topics</h4>
+<p>
+We are launching a call for papers around or related with the following topics:
+</p>
+
+<ul>
+	<li>Machine learning techniques applied to AI</li>
+	<li>Crowdsourcing applications in speech and NLP technologies</li>
+	<li>Novel and creative approaches, processes and methodologies using crowdsourcing/human computation;</li>
+	<li>Incentives in crowdsourcing and impact in performance; </li>
+	<li>Data quality control and anti-spam processes, algorithms, techniques;</li>
+	<li>Games with a purpose and gamification techniques applied to speech and dialogue;</li>
+	<li>Usability studies and experiences using crowdsourcing;</li>
+	<li>Mobile crowdsourcing applications;</li>
+	<li>Innovative application paradigms, for example,  mobile crowdsourcing data collections, multimodal, multilingual, multiplatform;</li>
+	<li>Social aspects of crowdsourcing;</li>
+	<li>Crowdsourcing and translation;</li>
+	<li>Crowdsourcing and sentiment analysis;</li>
+	<li>Data privacy challenges and solutions;</li>
+	<li>Big data, business intelligence and crowdsourcing. </li>
+</ul>
+<h4>Submissions</h4>
+<p>
+Acceptable paper submissions formats include long papers and position papers: up to 8 pages; and work in progress, demo papers: up to 4 pages. Submissions must be in AAAI format and submitted as PDF. All papers will be peer-reviewed by at least 2 reviewers. The accepted papers will be published in the AAAI Digital Library. Papers should be submitted to &#100;&#97;&#110;&#105;&#101;&#108;&#97;&#64;&#100;&#101;&#102;&#105;&#110;&#101;&#100;&#99;&#114;&#111;&#119;&#100;&#46;&#99;&#111;&#109;. 
+</p>
+
+<h4>Workshop Chair</h4>
+<p>
+Daniela Braga, CEO and Chief Scientist Officer, DefinedCrowd Corp (&#100;&#97;&#110;&#105;&#101;&#108;&#97;&#64;&#100;&#101;&#102;&#105;&#110;&#101;&#100;&#99;&#114;&#111;&#119;&#100;&#46;&#99;&#111;&#109;)
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Daniela Braga (CEO and Chief Scientist Officer, DefinedCrowd Corp., &#100;&#97;&#110;&#105;&#101;&#108;&#97;&#64;&#100;&#101;&#102;&#105;&#110;&#101;&#100;&#99;&#114;&#111;&#119;&#100;&#46;&#99;&#111;&#109;), Sara Oliveira (UX Designer, DefinedCrowd Corp., &#115;&#97;&#114;&#97;&#64;&#100;&#101;&#102;&#105;&#110;&#101;&#100;&#99;&#114;&#111;&#119;&#100;&#46;&#99;&#111;&#109;), Phil Cohen (Vice President, Advanced Technology, Voicebox, &#112;&#104;&#105;&#108;&#105;&#112;&#99;&#64;&#118;&#111;&#105;&#99;&#101;&#98;&#111;&#120;&#46;&#99;&#111;&#109;), Michael Tjalve (Affiliate Assistant Professor at University of Washington, &#109;&#116;&#106;&#97;&#108;&#118;&#101;&#64;&#117;&#46;&#119;&#97;&#115;&#104;&#105;&#110;&#103;&#116;&#111;&#110;&#46;&#101;&#100;&#117;)
+</p>
+
+<h4>Scientific Committee</h4>
+<p>
+Daniela Braga (CEO and Chief Scientist Officer, DefinedCrowd Corp.), Joao Freitas (Director of Engineering (DefinedCrowd Corp.), Xuchen Yao (CEO of Kitt.ai), Michael Levit (Principal Scientist, Microsoft), Ece Kamar (Researcher, Microsoft Research), Phil Cohen (Vice President, Advanced Technology, Voicebox), Gina Levow (Associate Professor, University of Washington), Maxine Eskenazi (Principal Systems Scientist, Carnegie Mellon University), Michael Tjalve (Affiliate Assistant Professor at University of Washington and Senior Program Manager Lead at Microsoft)
+</p>
+
+
+<h4>Additional Information</h4>
+<p><a href="http://crowdai.azurewebsites.net/" rel="nofollow">Workshop URL</a></p>
+  
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws08">W08</a> &mdash; Developing ArtificialÂ Intelligence Startup Companies</h3>
+<p>
+The objective of this workshop is to bring together members of the AI community with entrepreneurs and those who have been involved in a successful AI startup company, to explore the opportunities and challenges associated with developing successful companies based on artificial intelligence technologies. The workshop will take advantage of AAAI 2017's proximity to Silicon Valley by attracting participants and contributors from that community. Some examples of these companies include Palantir, Tesla, Brighterion, Savioke, Pathover, DeepMind, and Nervana. Some specific domains include, but are by no means limited to, self-driving cars,
+digital agents, robotics, and health. The workshop will consider recent commercial successes in the field and what lessons can be learned.
+</p>
+
+<p>
+The topic of the workshop is extremely topical given the enormous progress that AI has made in recent years, the growing interest in AI from a variety of domains, and, not least, the very impressive news stories around major commercial interest in, and success of, ventures based around AI technology. The AI community should have the opportunity to learn from the commercial experiences of others, as well as understand the challenges and opportunities that our science presents. The workshop will be of interest to many within the AAAI conference community, but will also benefit from the 2017 location in San Francisco, and its proximity to the Silicon Valley community.
+</p>
+
+<p>
+The workshop will be organized in a way that allows ample time for open discussion in order to ensure a workshop-style atmosphere. A series of invited talks will give an overview of recent successes in the commercialization of artificial intelligence, as well as focus on specific aspects of developing successful startups in the area. We encourage the participation of emerging and established startups, focusing on the sharing of experiences among the workshop participants. A set of panel discussions will focus on important aspects of developing a successful startup such as intellectual property protection, licensing and patents, startup acceleration, funding, and so on.
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Barry O'Sullivan (main contact) (Insight Centre for Data Analytics, University College Cork, Ireland, &#98;&#97;&#114;&#114;&#121;&#46;&#111;&#115;&#117;&#108;&#108;&#105;&#118;&#97;&#110;&#64;&#105;&#110;&#115;&#105;&#103;&#104;&#116;&#45;&#99;&#101;&#110;&#116;&#114;&#101;&#46;&#111;&#114;&#103;, ie.linkedin.com/in/barryosullivan); Markus Fromherz (SK Telecom Americas Innopartners, TripSeer, California founder, Sand Hill Angels, Silicon Valley, &#109;&#97;&#114;&#107;&#117;&#115;&#64;&#102;&#114;&#111;&#109;&#104;&#101;&#114;&#122;&#46;&#117;&#115;, www.linkedin.com/markusfromherz); Wayne Murphy (StartPlanet Ltd., Cork Ireland, &#119;&#97;&#121;&#110;&#101;&#64;&#115;&#116;&#97;&#114;&#116;&#112;&#108;&#97;&#110;&#101;&#116;&#46;&#105;&#101;, www.startplanetni.com)
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="http://osullivan.ucc.ie/aaai2017startups.html" rel="nofollow">Workshop URL</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws09">W09</a> &mdash; Distributed Machine Learning</h3>
+<p>
+With the fast development of machine learning (especially deep learning) and cloud computing, it has become a trend to train machine learning models in a distributed manner on a cluster of machines. In recent years, there have been many exciting progresses along this direction, with quite a few papers published, and several open-source projects populated. For example, distributed machine learning tools such as Petuum, TensorFlow, and DMTKÂ have been developed; parallel learning algorithms such as LightLDA, parallel logistic regression, XGBoost, and PV-Tree have been proposed; and convergence theory for both synchronous and asynchronous parallelization have been established. However, there are also many open issues in this field, such as, for example, the following:
+</p>
+
+<ul><li>How to select an appropriate infrastructure (for example, parameter server vs. data flow) and parallelization mechanism (for example, synchronous vs. asynchronous), given the application and system configuration?
+</li><li>Why many papers reported linear speed-ups, but when the accuracy on real-world workloads is required, the practical speed-up is far smaller than that?
+</li><li>Why parallelization mechanisms with similar convergence rates could perform so differently in practice?
+</li><li>How to conduct proper comparison/evaluation for distributed machine learning (for example, benchmark, criteria, system configurations, and baselines)?
+</li></ul>
+<p>
+Without answers to these important questions, people can hardly be confident in wide adoption of distributed machine learning in real applications. This workshop is designed to answer these questions. With this workshop, we hope to provide the community with deep insights and to substantially push the frontier of distributed machine learning.
+The workshop will consist of both invited talks and contributed talks, and a panel discussion. The contributed talks mainly call for blue-sky ideas, but also welcome on-going research works. You are highly encouraged to submit your ideas or works to our workshop, and share with the wide audience of AAAI. The authors are encouraged to focus on (but not limited to) the following topics:
+</p>
+
+<ul>
+	<li>Distributed machine learning systems and infrastructure</li>
+	<li>Parallelization mechanisms for distributed machine learning</li>
+	<li>Parallel machine learning algorithms</li>
+	<li>Theory for distributed machine learning</li>
+	<li>Toolkits for distributed machine learning</li>
+	<li>Applications of distributed machine learning</li>
+</ul>
+
+<h4>Submissions</h4>
+<p>
+For those who want to submit papers to our workshop, please go to <a href="https://easychair.org/conferences/?conf=dml2017" rel="nofollow">EasyChair.</a> Submissions should beÂ 4-6 pages in AAAI format, and need to be anonymized.
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Tie-Yan Liu (Microsoft Research, &#116;&#121;&#108;&#105;&#117;&#64;&#109;&#105;&#99;&#114;&#111;&#115;&#111;&#102;&#116;&#46;&#99;&#111;&#109;), James Kwok (Hong Kong University of Science and Technology, &#106;&#97;&#109;&#101;&#115;&#107;&#64;&#99;&#115;&#101;&#46;&#117;&#115;&#116;&#46;&#104;&#107;), Chih-Jen Lin (National Taiwan University, &#99;&#106;&#108;&#105;&#110;&#64;&#99;&#115;&#105;&#101;&#46;&#110;&#116;&#117;&#46;&#101;&#100;&#117;&#46;&#116;&#119;)
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="https://distributedml2017.wordpress.com/" rel="nofollow">Workshop URL</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws10">W10</a> &mdash; Joint Workshop on Health Intelligence</h3>
+
+<p>
+This two-day workshop will address various aspects of using AI for improving population and personalized healthcare, and is structured in two tracks focusing on population (W3PHI) and personalized health (HIAI). Following the success of earlier AAAI workshops on the World Wide Web and Population Health Intelligence, as well as earlier AAAI workshops on Expanding the Boundaries of Health Informatics Using Artificial Intelligence, this workshop aims to bring together a wide range of computer scientists, clinical and health informaticians, researchers, students, industry professionals, national and international health and public health agencies, and NGOs interested in the theory and practice of computational models of population health intelligence and personalized healthcare to highlight the latest achievements in the field. The workshop promotes open debate and exchange of opinions among participants. 
+</p>
+
+
+<p>
+Public health authorities and researchers collect data from many sources, and analyze these data together to estimate the incidence and prevalence of different health conditions, as well as related risk factors. Modern surveillance systems employ tools and techniques from artificial intelligence and machine learning to monitor direct and indirect signals and indicators of disease activities for early, automatic detection of emerging outbreaks and other health-relevant patterns. To provide proper alerts and timely response public health officials and researchers systematically gather news, and other reports about suspected disease outbreaks, bioterrorism, and other events of potential international public health concern, from a wide range of formal and informal sources. Given the ever increasing role of the World Wide Web as a source of information in many domains including healthcare, accessing, managing, and analyzing its content has brought new opportunities and challenges. This is especially the case for nontraditional online resources such as social networks, blogs, news feed, twitter posts, and online communities with the sheer size and ever-increasing growth and change rate of their data. Web applications along with text processing programs are increasingly being used to harness online data and information to discover meaningful patterns identifying emerging health threats. The advances in web science and technology for data management, integration, mining, classification, filtering and visualization has given rise to variety of applications representing real time data on epidemics.
+</p>
+
+<p>
+Moreover, to tackle and overcome several issues in personalized healthcare, information technology will need to evolve to improve communication, collaboration, and teamwork between patients, their families, healthcare communities, and care teams involving practitioners from different fields and specialties. All of these changes require novel solutions and the AI community is well positioned to provide both theoretical- and application-based methods and frameworks. The goal of this workshop is to focus on creating and refining AI-based approaches that (1) process personalized data, (2) help patients (and families) participate in the care process, (3) improve patient participation, (4) help physicians utilize this participation in order to provide high quality and efficient personalized care, and (5) connect patients with information beyond those available within their care setting. The extraction, representation, and sharing of health data, patient preference elicitation, personalization of â¬Sgenericâ¬ý therapy plans, adaptation to care environments and available health expertise, and making medical information accessible to patients are some of the relevant problems in need of AI-based solutions.
+</p>
+
+
+<h4>Topics</h4>
+<p>
+The workshop will include original contributions on theory, methods, systems, and applications of data mining, machine learning, databases, network theory, natural language processing, knowledge representation, artificial intelligence, semantic web, and big data analytics in web-based healthcare applications, with a focus on applications in population and personalized health. The scope of the workshop includes, but is not limited to, the following areas: 
+</p>
+
+<ul>
+	<li>Knowledge representation and extraction</li>
+	<li>Integrated health information systems</li>
+	<li>Patient education</li>
+	<li>Patient-focused workflows</li>
+	<li>Shared decision making</li>
+	<li>Geographical mapping and visual analytics for health data</li>
+	<li>Social media analytics</li>
+	<li>Epidemic intelligence</li>
+	<li>Predictive modeling and decision support </li>
+	<li>Semantic web and web services</li>
+	<li>Biomedical ontologies, terminologies and standards</li>
+	<li>Bayesian networks and reasoning under uncertainty</li>
+	<li>Temporal and spatial representation and reasoning</li>
+	<li>Case-based reasoning in healthcare</li>
+	<li>Crowdsourcing and collective intelligence</li>
+	<li>Risk assessment, trust, ethics, privacy, and security </li>
+	<li>Sentiment analysis and opinion mining</li>
+	<li>Computational behavioral/cognitive modeling</li>
+	<li>Health intervention design, modeling and evaluation</li>
+	<li>Online health education and e-learning </li>
+	<li>Mobile web interfaces and applications</li>
+	<li>Applications in epidemiology and surveillance (for example,  bioterrorism, participatory surveillance, syndromic surveillance, population screening)</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+The workshop will be two full days consist of welcome session, keynote and invited talks, full/short paper presentations, demos, posters, and one or two panel discussion.
+</p>
+
+<h4>Submissions</h4>
+<p>
+We invite researchers and industrial practitioners to submit their original contributions following the AAAI format through EasyChair. Three categories of contribution are sought: full-research papers up to 8 pages; short paper up to 4 pages; and posters and demos up to 2 pages.
+</p>
+
+<h4>Organizing Committee</h4>
+<p><a href="https://academic.uthsc.edu/faculty/facepage.php?netID=ashabann&personnel_id=343203" rel="nofollow">Arash Shaban-Nejad</a>, Cochair, (The University of Tennessee Health Science Center - Oak-Ridge National Lab (UTHSC-ORNL), USA
+&#97;&#115;&#104;&#97;&#98;&#97;&#110;&#110;&#64;&#117;&#116;&#104;&#115;&#99;&#46;&#101;&#100;&#117;); 
+
+
+<a href="https://www.researchgate.net/profile/Martin_Michalowski/" rel="nofollow">Martin Michalowski</a>, Cochair 
+(&#109;&#97;&#114;&#116;&#105;&#110;&#46;&#109;&#105;&#99;&#104;&#97;&#108;&#111;&#119;&#115;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;); 
+
+David L. Buckeridge, MD, PhD. (McGill University, Canada, 
+&#100;&#97;&#118;&#105;&#100;&#46;&#98;&#117;&#99;&#107;&#101;&#114;&#105;&#100;&#103;&#101;&#64;&#109;&#99;&#103;&#105;&#108;&#108;&#46;&#99;&#97;, surveillance.mcgill.ca);
+
+John S. Brownstein, PhD. (Boston Children's Hospital, Harvard University, USA, 
+&#106;&#111;&#104;&#110;&#95;&#98;&#114;&#111;&#119;&#110;&#115;&#116;&#101;&#105;&#110;&#64;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;, 
+chip.org/john-brownstein);
+
+Byron C. Wallace, PhD (Northeastern University, USA, 
+&#98;&#121;&#114;&#111;&#110;&#64;&#99;&#99;&#115;&#46;&#110;&#101;&#117;&#46;&#101;&#100;&#117;, 
+byronwallace.com); 
+
+Michael J. Paul, Ph.D. (University of Colorado Boulder, USA, 
+&#109;&#112;&#97;&#117;&#108;&#64;&#99;&#111;&#108;&#111;&#114;&#97;&#100;&#111;&#46;&#101;&#100;&#117;, cmci.colorado.edu/~mpaul); 
+
+Szymon Wilk, Ph.D. (Poznan University of Technology, Poland,  
+&#115;&#122;&#121;&#109;&#111;&#110;&#46;&#119;&#105;&#108;&#107;&#64;&#99;&#115;&#46;&#112;&#117;&#116;&#46;&#112;&#111;&#122;&#110;&#97;&#110;&#46;&#112;&#108;) </p>
+
+<h4>Additional Information</h4>
+<p>
+<a href="http://w3phiai2017.w3phi.com/index.html" rel="nofollow">Workshop URL</a>
+</p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws11">W11</a> &mdash; Human-Aware Artificial Intelligence</h3>
+<p>
+As AI techniques and systems come into increasing contact with humans, and into the public consciousness at large, various research issues surrounding such interactions are now coming to the fore. Specifically, a key movement that is underway in the AI community and the world of technology at large concerns the notion of humans and machines (AI systems) teaming up together to understand data and take decisions. The key premise of this workshop is based on the idea that augmented intelligence &mdash; that is, teams and systems that combine the skills of humans and AI techniques  &mdash;  can achieve better performance than either alone. However, in order to create such systems with augmented intelligence, humans must be accommodated as first-class citizens in the decision-making loop of existing AI systems. Far too often, traditional AI systems have tended to exclude humans (and the problems that accompany interaction with them) and have instead focused on producing optimal artifacts that stand no significant chance to working in the real world.
+</p>
+
+<p>
+In order to address this issue and produce truly human-aware artificial intelligence, systems must try to solve the interaction issues that accompany each unique application domain. These interaction issues may broadly be divided into extraction (or interpretation) challenges, and presentation (or steering) challenges. The former deals with understanding human input, whether that be in the form of knowledge, or in the form of specific directives and goals to achieve; the latter deals with questions of how to present the systemâ¬"s outputs to the team and solicit feedback. This workshop proposes problem pillars for human-aware AI and augmented intelligence, and contributions to the workshop (both talks as well as manuscripts) are solicited along the following problem pillars:
+</p>
+
+<ol>
+	<li>Explainability of decisions</li>
+	<li>Interpretability of the decision process</li>
+	<li>Efficient and time-sensitive context transfer</li>
+	<li>Division of labor and skills</li>
+	<li>Legal and ethical issues</li>
+</ol>
+
+<p>
+The aim of this workshop is to bring together the work of researchers who are interested in advancing the state-of-the-art not merely in their specific subfield of AI, but are also willing to engage in technically directed discussions on what is missing currently from their work that is needed to turn it into an augmented intelligence system that can gainfully interact with humans and the world at large. Submissions are expected to address this central question, and make some effort towards addressing one or more of the problem pillars outlined.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Full submission information in available at the <a href="http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=7448" rel="nofollow">workshop URL.</a>
+</p>
+
+<h4>Cochairs</h4>
+<p>Kartik Talamadupula (Primary Contact) (IBM TJ Watson Research Center, USA
+&#107;&#114;&#116;&#97;&#108;&#97;&#109;&#97;&#100;&#64;&#117;&#115;&#46;&#105;&#98;&#109;&#46;&#99;&#111;&#109;);
+
+Shirin Sohrabi (IBM T. J. Watson Research Center, USA
+&#115;&#115;&#111;&#104;&#114;&#97;&#98;&#64;&#117;&#115;&#46;&#105;&#98;&#109;&#46;&#99;&#111;&#109;); 
+
+Loizos Michael (Open University of Cyprus, 
+&#108;&#111;&#105;&#122;&#111;&#115;&#64;&#111;&#117;&#99;&#46;&#97;&#99;&#46;&#99;&#121;); 
+
+Biplav Srivastava (IBM TJ Watson Research Center, USA, 
+&#98;&#105;&#112;&#108;&#97;&#118;&#115;&#64;&#117;&#115;&#46;&#105;&#98;&#109;&#46;&#99;&#111;&#109;)
+
+<h4>Additional Information</h4>
+<p><a href="http://researcher.watson.ibm.com/researcher/view_group.php?id=7446" rel="nofollow">Workshop URL</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws12">W12</a> &mdash; Human-Machine Collaborative Learning</h3>
+<p>
+Early work in artificial intelligence and expert systems demonstrated the potential of high performing systems in complex domains, but required extensive and often impractical amounts of knowledge engineering to achieve that performance. In the past few years, work in deep learning methods have provided another path to high performance, but required vast numbers of training examples that were impractical to collect or develop for most applications. This has triggered exploration across several disciplines (â¬Scogno-socialâ¬ý) to understand leverage points in that exploit combinations of lightweight models with learning, subsymbolic (model-free) and symbolic computational approaches, qualitative modeling, and human-computer interaction approaches that connect human knowledge or feedback with machine learning.
+</p>
+
+<p>
+The workshop will focus on human-machine collaborative learning, an interdisciplinary research direction that integrates machine learning, cognitive modeling, human-computer interaction and social dimensions of learning. The goal of this workshop is to encourage and solicit research in the area of human-machine collaborative learning, that is, development of systems and approaches that enable collaborative ensembles of people and computers to learn and adapt more rapidly, reliably and profoundly. In particular, the workshop is intended to accomplish the following goals:
+</p>
+
+
+<ul>
+	<li>Foster a lively discussion of cognitive, computational, and social limits of learning and foster the growth of a cogno-social and human-machine learning. </li>
+	<li>Encourage interaction and collaboration across the machine learning, cognitive modeling, and social and human-computer interaction communities.</li>
+	<li>Articulate experimental approaches for measuring effectiveness, speed, generality, and limitations of new learning methods.</li>
+	<li>Identify challenges and opportunities for combining models of understanding the human with models of explaining machine understanding and learning.</li>
+	<li>Encourage survey papers that contrast various approaches and challenges.</li>
+</ul>
+
+<h4>Topics</h4>
+<p>
+We are looking forward to submissions focusing on the following questions, challenges and opportunities:
+</p>
+
+
+<ul>
+	<li>What learning factors limit creation, combination and use of knowledge in human groups?</li>
+	<li>How can autonomous learning systems be augmented by explanation systems in order to improve the human comprehension, transparency, trust, and utility of machine learning?</li>
+	<li>How can human capabilities of creating common ground in communication be extended to computer systems in order to foster mutual understanding and collaboration and teaming in tasks requiring discovery and new abstractions?</li>
+	<li>How can human knowledge and experience in â¬Sopen worldsâ¬ý be combined with tireless and systematic work of computers to greatly increase the rate of effective and robust learning in human-machine ensembles?</li>
+	<li>How can use of multiple existing bodies of knowledge, use of analogy, multiple predictive models and reflection be combined with machine learning methods to direct learning in productive directions without catastrophically limiting the systemâ¬"s capacity for original thinking and learning. </li>
+	<li>How can machines learn from context in an environment to guide autonomous learning?</li>
+	<li>How do computational considerations limit the ultimate generality, speed and utility of learning by teams of machines and people?</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+The workshop will run for one full day, including a keynote, presentations, an active discussion session, a panel discussion, and a poster session. The intended audience includes researchers in artificial intelligence (AI), machine learning, deep learning, human-computer interaction, cognitive modeling.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+The workshop accepts two types of papers. Regular research papers must not be longer than 8 pages in the double column A4 format provided at the workshop's website. The second type of accepted papers are short papers (4 pages) on preliminary works presenting position ideas for new problems.
+</p>
+
+
+<p>
+Authors are required to submit their papers electronically to the EasyChair URL listed on the workshop website. All submissions will be peer-reviewed, and accepted papers will be scheduled for either an oral or a poster presentation.
+</p>
+
+
+<h4>Chair</h4>
+<p>
+Hoda Eldardiry (Palo Alto Research Center, &#104;&#111;&#100;&#97;&#46;&#101;&#108;&#100;&#97;&#114;&#100;&#105;&#114;&#121;&#64;&#112;&#97;&#114;&#99;&#46;&#99;&#111;&#109;)
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Hoda Eldardiry (machine learning and human-in-the-loop active learning); Mark Stefik (Palo Alto Research Center, &#115;&#116;&#101;&#102;&#105;&#107;&#64;&#112;&#97;&#114;&#99;&#46;&#99;&#111;&#109; &mdash; artificial intelligence and sensemaking); Kumar Sricharan (Palo Alto Research Center, &#115;&#114;&#105;&#99;&#104;&#97;&#114;&#97;&#110;&#46;&#107;&#117;&#109;&#97;&#114;&#64;&#112;&#97;&#114;&#99;&#46;&#99;&#111;&#109; &mdash; active learning for unstructured data using deep learning); Christian Lebiere (CMU, &#99;&#108;&#64;&#99;&#109;&#117;&#46;&#101;&#100;&#117; &mdash; cognitive modeling and human computer interaction); Ken Forbus (Northwestern University, &#102;&#111;&#114;&#98;&#117;&#115;&#64;&#110;&#111;&#114;&#116;&#104;&#119;&#101;&#115;&#116;&#101;&#114;&#110;&#46;&#101;&#100;&#117; &mdash; learning and analogical and qualitative reasoning in cognition)
+</p>
+
+<h4>Additional Information</h4>
+<p>
+<a href="http://blogs.parc.com/aaai-17/" rel="nofollow">Website URL</a>
+</p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="w13">W13</a> &mdash; Increasing Diversity in AI</h3>
+<p>
+Participation in computer science by groups traditionally under-represented in computer science is a fraction of what is needed to have a workforce that reflects the diversity in the society. The decrease in the number of women in AI is especially worrisome, because AI over the years had enjoyed a larger representation of women compared to other areas of computer science.
+</p>
+
+<p>
+The goal of the workshop is to discuss issues facing members of underrepresented groups in AI, with emphasis on cases studies and best practices to change the situation at all levels, from K-12 to college level and in the work force.
+</p>
+
+<h4>Topics</h4>
+<ul>
+	<li>Studies on the causes of under-representation and how to address them;</li>
+	<li>Case studies and best practices to increase diversity of students; </li>
+	<li>Cases studies and best practices to increase diversity in the work force (academe, industry, government, research labs).</li>
+</ul>
+
+<h4>Format</h4>
+<p>
+The workshop will include: an invited speaker; a collection of presentations selected from peer-reviewed submissions; a panel; small group discussions. Anyone interested in addressing diversity in AI is invited to attend. A limited number of scholarships from is available for students from underrepresented groups who are US citizens/permanent residents. More details will be available on workshop web site.
+</p>
+
+<h4>Submissions</h4>
+<p>
+We invite the submission of regular papers (maximum 6 pages + 1 page of references) and summaries of proposed presentations (maximum 3 pages). Submissions describing best practices and case studies, and those contributing courses of action for concrete solutions are particularly welcome. Submissions should be formatted using the AAAI style files. Submissions are not anonymous. Accepted papers will be presented during the workshop and will be published as AAAI technical reports, which will be freely available in AAAI's digital library. More details will be available on <a href="https://sites.google.com/a/umn.edu/aaai-2017-diversity/home" rel="nofollow">workshop web site.</a>
+</p>
+
+<h4>Chair</h4>
+<p>
+Maria Gini (University of Minnesota, USA, &#103;&#105;&#110;&#105;&#64;&#117;&#109;&#110;&#46;&#101;&#100;&#117;)
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Monica Anderson (University of Alabama, &#65;&#110;&#100;&#101;&#114;&#115;&#111;&#110;&#64;&#99;&#115;&#46;&#117;&#97;&#46;&#101;&#100;&#117;), Amy Greenwald (Brown University, &#97;&#109;&#121;&#95;&#103;&#114;&#101;&#101;&#110;&#119;&#97;&#108;&#100;&#64;&#98;&#114;&#111;&#119;&#110;&#46;&#101;&#100;&#117;), Judy Goldsmith (University of Kentucky, &#103;&#111;&#108;&#100;&#115;&#109;&#105;&#116;&#64;&#99;&#115;&#46;&#117;&#107;&#121;&#46;&#101;&#100;&#117;), Adele Howe (Colorado State University, &#104;&#111;&#119;&#101;&#64;&#99;&#111;&#108;&#111;&#115;&#116;&#97;&#116;&#101;&#46;&#101;&#100;&#117;)
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="https://sites.google.com/a/umn.edu/aaai-2017-diversity/home" rel="nofollow">Workshop URL</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws14">W14</a> &mdash; Knowledge-Based Techniques for Problem Solving and Reasoning</h3>
+<p>
+Despite recent attempts in various subareas of AI to integrate technologies to solve complex problems such as autonomous cars, there are still gaps between research communities that prevent efficient transfer of knowledge. For example, knowledge representation techniques focus on formal semantics and flexibility of modeling frameworks and put less emphasis on actual problem solving that requires efficient tools. Other communities such as planning and search put emphasis on efficiency of problem solving, but less attention is given to how the real problem is modeled, the connection between modeling and efficiency of problem solving, and the capability of the models to support other important features like plan revision and adaptation. This workshop attempts to bridge these particular communities with the goal to exchange information leading to more efficient problem solving starting with the problem requirements and finishing with the solved problem.
+</p>
+
+<h4>Topics</h4>
+<p>
+Formal problem modeling is a critical step during problem solving. A good modeling framework should be flexible enough to describe important properties of problems solved and should allow application of efficient problem solving techniques. This workshop attracts papers at the frontier between formal problem modeling and problem solving. Papers should see the formal models from the perspective of problem solving and vice versa &mdash; problem solving techniques are seen in relation to models of the problem. For example, the paper can discuss the relation between planning domain models and planning algorithms or show how to enhance the domain model by extra information such as control knowledge. Papers discussing methods on how to obtain information that is useful for efficient problem solving are welcome.
+</p>
+
+<h4>Submissions</h4>
+<p>
+Submitted papers must be formatted according to AAAI guidelines and submitted electronically to <a href="https://easychair.org/conferences/?conf=knowpros2017" rel="nofollow">EasyChair.</a> Authors are required to submit their electronic papers in PDF format. Submitted technical papers are expected to have 5-8 pages in total.
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>
+Roman Bart&aacute;k (primary contact) (Charles University, Czech Republic
+&#98;&#97;&#114;&#116;&#97;&#107;&#64;&#107;&#116;&#105;&#109;&#108;&#46;&#109;&#102;&#102;&#46;&#99;&#117;&#110;&#105;&#46;&#99;&#122;, ktiml.mff.cuni.cz/~bartak);  
+</p>
+
+<p>
+Thomas Leo McCluskey (University of Huddersfield, UK
+&#116;&#46;&#108;&#46;&#109;&#99;&#99;&#108;&#117;&#115;&#107;&#101;&#121;&#64;&#104;&#117;&#100;&#46;&#97;&#99;&#46;&#117;&#107;&#32;
+https://helios.hud.ac.uk/scomtlm); 
+</p>
+
+<p>
+Enrico Pontelli (New Mexico State University, USA)
+&#101;&#112;&#111;&#110;&#116;&#101;&#108;&#108;&#64;&#97;&#100;&#46;&#110;&#109;&#115;&#117;&#46;&#101;&#100;&#117;
+www.cs.nmsu.edu/~epontell).
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="http://ktiml.mff.cuni.cz/~bartak/KnowProS2017/" rel="nofollow">Workshop URL</a></p>
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws15">W15</a> &mdash; Plan, Activity, and Intent Recognition</h3>
+<p>
+Plan recognition, activity recognition, and intent recognition all involve making inferences about other actors from observations of their behavior, that is, their interaction with the environment and with each other. The observed actors may be software agents, robots, or humans. This synergistic area of research combines and unifies techniques from user modeling, machine vision, intelligent user interfaces, human/computer interaction, autonomous and multiagent systems, natural language understanding, and machine learning. It plays a crucial role in a wide variety of applications including: personal intelligent assistants, assistive technology in health and smart environments, intelligent human-computer interface, natural language and speech dialogue management, computer and network security, coordination in robots and software agents, and e-commerce and collaborative filtering.
+</p>
+
+<p>
+This workshop seeks to bring together researchers and practitioners from these diverse backgrounds, to share in ideas and recent results. In addition to traditional topics in plan, activity and intent recognition and the modeling of other agents, this year workshop will emphasize the discussion of establishing test suites, benchmarks, and challenge problems in order to better ground and compare our work and its many diverse approaches.
+</p>
+
+<p>
+Contributions are sought in the following areas of research:
+</p>
+
+
+<ul>
+	<li>Algorithms for plan, activity, intent, or behavior recognition</li>
+	<li>Machine learning and uncertain reasoning for plan recognition and user modeling</li>
+	<li>Hybrid probabilistic and logical approach to plan and intent recognition</li>
+	<li>Modeling users and intents on the web and in intelligent user interface</li>
+	<li>Modeling users and intents in speech and natural language dialogue</li>
+	<li>High-level activity and event recognition in video</li>
+	<li>Algorithms for intelligent proactive assistance</li>
+	<li>Modeling multiple agents, modeling teams and collaboration teamwork</li>
+	<li>Modeling social interactions and social network analysis</li>
+	<li>Adversarial planning, opponent modeling</li>
+	<li>Intelligent tutoring systems (ITS)</li>
+	<li>Programming by demonstration</li>
+	<li>Cognitive models of intent recognition</li>
+	<li>Inferring emotional states</li>
+</ul>
+
+<p>
+Related contributions in other fields, are also welcome.
+</p>
+<h4>Submissions</h4>
+<p>
+We welcome submissions describing either relevant work or proposals for discussion topics that will be of interest to the workshop. Submissions are accepted in PDF format only, using the AAAI formatting guidelines. Submissions must be no longer than eight pages in length, including references and figures. Please e-mail submissions to &#100;&#101;&#107;&#101;&#108;&#114;&#64;&#112;&#111;&#115;&#116;&#46;&#98;&#103;&#117;&#46;&#97;&#99;&#46;&#105;&#108;
+</p>
+
+<h4>Cochairs</h4>
+<p>
+Reuth Mirsky, Primary contact (Ben-Gurion University, &#100;&#101;&#107;&#101;&#108;&#114;&#64;&#112;&#111;&#115;&#116;&#46;&#98;&#103;&#117;&#46;&#97;&#99;&#46;&#105;&#108;), Sarah Keren (Technion University, &#115;&#97;&#114;&#97;&#104;&#110;&#64;&#116;&#120;&#46;&#116;&#101;&#99;&#104;&#110;&#105;&#111;&#110;&#46;&#97;&#99;&#46;&#105;&#108;), Christopher Geib (Drexel University, &#99;&#103;&#101;&#105;&#98;&#64;&#100;&#114;&#101;&#120;&#101;&#108;&#46;&#101;&#100;&#117;)
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="http://www.planrec.org/pair" rel="nofollow">Workshop URL</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3><a name="ws16">W16</a> &mdash; Symbolic Inference and Optimization</h3>
+<p>
+The purpose of the workshop is to explore and promote symbolic approaches to probabilistic inference, numerical optimization and machine learning. The workshop will place a special emphasis on techniques for mixed discrete/continuous (hybrid) domains and techniques that can be extended to such domains.
+</p>
+
+<p>
+Symbolic approaches enjoy a long and distinguished history in AI. While the last two decades have seen major advances in probabilistic modeling, data management, data fusion and data-driven learning, much of this work assumes fairly low-level representations that are tailored for a specific application. It is now recognized that formal languages, and their symbolic underpinnings, can enable descriptive clarity, reusability, and interpretability, thereby furthering the applicability and impact of AI technology.
+</p>
+
+<p>
+Recently, there have been significant successes of formal representations and symbolic techniques for inference and optimization. In the area of probabilistic modeling, weighted model counting has emerged as a competitive and general paradigm, providing state-of-the-art inference for graphical models, Markov Logic Networks, and probabilistic programming. In the area of planning, symbolic approaches have been shown to handle large state spaces by leveraging abstractions. In the area of optimization and learning, symbolic approaches ranging from symbolic algebra to SMT to decision diagrams have enabled novel scalable solutions. Â 
+</p>
+
+<p>
+Encouraged by these successes, the workshop aspires to bring together AI researchers from knowledge representation, machine learning, databases, verification and planning to better understand applications of symbolic methods to inference and optimization problems across all fields.Â 
+</p>
+
+<h4>Topics</h4>
+<p>
+Topics include, but are not limited to: symbolic methods for inference, symbolic approaches for handling both discrete and continuous probability spaces, symbolic planning approaches, symbolic approaches to better represent and solve optimization problems, and the use of symbolic and algebraic methods in machine learning.
+</p>
+
+<p>
+Applications are encouraged and symbolic methods for hybrid domains are particularly emphasized.
+</p>
+<h4>Format</h4>
+
+<p>
+The format of the workshop will include invited talks, paper and poster presentations, and panels.
+</p>
+
+
+<h4>Submissions</h4>
+<p>
+Three kinds of papers will be selected for presentation: regular novel technical papers (6 pages, AAAI format), previously published papers (as is, not republished) and position papers (2 pages, AAAI format); poster session for all papers. Please see the workshop/submission website for more details. Submit to the <a href="https://sites.google.com/site/syminfopt17/" rel="nofollow">workshop site.</a> 
+</p>
+
+<h4>Chair</h4>
+<p>
+Scott Sanner, primary contact (University of Toronto, &#115;&#115;&#97;&#110;&#110;&#101;&#114;&#64;&#109;&#105;&#101;&#46;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#46;&#99;&#97;)
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Vaishak Belle (KU Leuven, &#118;&#97;&#105;&#115;&#104;&#97;&#107;&#64;&#99;&#115;&#46;&#107;&#117;&#108;&#101;&#117;&#118;&#101;&#110;&#46;&#98;&#101;), Rodrigo de Salvo Braz (SRI International, &#98;&#114;&#97;&#122;&#64;&#97;&#105;&#46;&#115;&#114;&#105;&#46;&#99;&#111;&#109;), Kristian Kersting (TU Dortmund, &#107;&#114;&#105;&#115;&#116;&#105;&#97;&#110;&#46;&#107;&#101;&#114;&#115;&#116;&#105;&#110;&#103;&#64;&#99;&#115;&#46;&#116;&#117;&#45;&#100;&#111;&#114;&#116;&#109;&#117;&#110;&#100;&#46;&#100;&#101;&#41;
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="https://sites.google.com/site/syminfopt17/" rel="nofollow">Workshop URL</a></p>
+
+
+
+<div class="hr1">
+<hr />
+</div>
+
+
+<h3><a name="ws17">W17</a> &mdash; What's Next for AI in Games?</h3>
+<p>
+With the recent success of AlphaGo, computers now dominate the field of classic board games. While many researchers have already broadened their games-related research beyond the goal of achieving high performance in traditional games, the recent achievement of this milestone result makes it an appropriate time to reflect as a field on what is next in AI in games. With this workshop we seek to bring the broader AI community into this conversation. This workshop will provide a place for AI researchers working in diverse areas such as machine learning, neural networks, human-aware AI, goal planning, robotics, and more to share their techniques and findings with those working in games research and the games industry. In the meantime, it provides a venue for game researchers to share their innovation and reflect on current challenges with the broad AI community. 
+</p>
+
+<p>
+This workshop will consist of three main components: Peer-reviewed paper presentations, invited talks on recent research, and short position talks and a panel discussion on the future of AI in games. We are particularly interested in seeing work that bridges between research communities, applying new approaches or applying work in new or novel domains. Anyone with an interest in AI and Games should consider submitting to or attending this workshop.
+</p>
+
+<h4>Organizing Committee</h4>
+<p>
+Nathan R. Sturtevant (University of Denver, USA), Aaron Isaksen (New York University, USA), Julian Togelius (New York University, USA), Jichen Zhu (Drexel University, USA)
+</p>
+
+<h4>Additional Information</h4>
+<p><a href="http://movingai.com/aigames17/" rel="nofollow">Workshop URL</a></p>
+ 
+
+
+<div class="hr1">
+<hr />
+</div>
+
+
+
+</div>
+
+</div>
+</div>
+<div id="left">
+<div id="box4">
+<!--
+<p><a href="http://www.aaai.org/Conferences/AAAI/aaai16.php"><img src="http://www.aaai.org/Conferences/AAAI/2016/Photos/LOGO" alt="AAAI-14 Logo" width="200" height="149" border="0" /></a></p>
+-->
+<h2 class="backgrnd5"><span class="text1">Links</span></h2>
+<div class="content">
+
+<p class="backgrnd6"><a href="../Conferences/AAAI/2016/aaai16sponsorship.php">Become a Sponsor!</a></p> 
+
+<h3 class="text2">Registration Information</h3>
+<p class="backgrnd6"><a href="../Conferences/AAAI/2016/aaai16registration.php">Registration Information</a><br /><a href="http://www.regonline.com/aaai16" rel="nofollow">Registration Form</a></p> 
+
+<h3 class="text2">Program
+</h3>
+<p class="backgrnd6">
+<a href="../Conferences/AAAI/2016/aaai16program-overview.php">Program Overview</a><br />
+<a href="../Conferences/AAAI/2016/aaai16program-grid.pdf">Program Grid</a><br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf">Accepted Papers</a><br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16program.pdf">Program (PDF)</a><br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16schedule.pdf">AAAI Program Schedule</a><br />
+<a href="../Conferences/AAAI/2016/iaai16schedule.pdf">IAAI Schedule</a><br />
+<a href="../Conferences/AAAI/2016/aaai16speakers.php">Invited Speakers</a><br />
+<a href="http://guidebook.com" rel="nofollow">Guidebook Online Program</a>
+</p>
+<!--
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16socialmedia.php">Social Media</a>
+</h3><p class="backgrnd6"></p>
+-->
+
+<h3 class="text2">Conference Organization</h3>
+<p class="backgrnd6"><a href="../Conferences/AAAI/2016/aaai16committee.php">Conference Committee</a></p> 
+<!--
+<h3 class="text2"><a href="http://www.aaai.org/Conferences/IAAI/iaai15.php">IAAI Conference</a></h3>
+<p class="backgrnd6">
+<a href="http://www.aaai.org/Conferences/AAAI/2016/iaai15accepted-papers.pdf">IAAI-15 Accepted Papers</a><br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/iaai15schedule.pdf">IAAI Schedule</a><br />
+
+<a href="http://www.aaai.org/Conferences/IAAI/2015/iaai15call.php">IAAI-15 Call</a>
+
+</p>
+-->
+
+<h3 class="text2">Student Programs</h3>
+<p class="backgrnd6">
+<a href="../Conferences/AAAI/2016/aaai16student.php">Student Programs</a><br />
+<a href="../Conferences/AAAI/2016/aaai16studentcall.php">Student Poster Program</a><br />
+<a href="../Conferences/AAAI/2016/aaai16dccall.php">DC Call for Applications</a><br />
+<a href="../Conferences/AAAI/2016/aaai16scholarship.php">Student Volunteer Program</a><br />
+</p>
+
+<h3 class="text2">Robotics Programs</h3>
+<p class="backgrnd6">
+<!-- <a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16robotics.php">Robotics Activities</a><br />-->
+<a href="../Conferences/AAAI/2016/aaai16robotics-fellowships.php">Robotics-Fellowships</a><br />
+<a href="../Conferences/AAAI/2016/aaai16robot-exhibit.php">Robotics Exhibition</a><!--
+<br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16robot-fellowships.php">Robotics Fellowships</a>-->
+</p>
+
+
+
+<h3 class="text2">Other Programs</h3>
+<p class="backgrnd6">
+<!--
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16seniorcall.php">Senior Member Presentation Track</a><br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/eaai16call.php">EAAI Symposium</a><br />-->
+<a href="../Conferences/AAAI/2016/aaai16exhibits.php">Exhibit Program</a><br /> 
+<a href="../Conferences/AAAI/2016/aaai16tutorials.php">Tutorial Forum</a><br />
+<a href="../Conferences/AAAI/2016/aaai16openhouse.php">AAAI-16 Open House</a><br />
+<a href="../Conferences/AAAI/2016/aaai16hottalks.php">What's Hot Track</a><br />
+<a href="ws16.php">Workshop Program</a>
+</p>
+
+<h3 class="text2">Competitions</h3>
+
+<p class="backgrnd6"><a href="../Conferences/AAAI/2016/aaai16videos.php">Video Competition Call</a><br />
+<!--<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16games.php">General Game Playing </a><br /> 
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16poker.php">Game of Hidden Information</a><br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16trading.php">Trading Agent Competition </a>-->
+</p>
+
+
+
+<h3 class="text2"><a href="../Conferences/AAAI/2016/aaai16venue.php">The Venue</a></h3>
+<p class="backgrnd6"><a href="../Conferences/AAAI/2016/aaai16hotel.php">Conference Hotel</a><br />
+
+<!--<a href="http://www.austintexas.org/visit/plan-your-trip/" rel="nofollow">Austin Tourism site</a>-->
+
+</p>
+
+<h3 class="text2">Calls</h3>
+<p class="backgrnd6"><a href="../Conferences/AAAI/2016/aaai16call.php">AAAI-16 Call for Papers</a><br />
+<a href="../Conferences/AAAI/2016/aaai16cognitive.php"><i>Special Track</i> on Cognitive Systems</a><br />
+<a href="../Conferences/AAAI/2016/aaai16computational.php"><i>Special Track</i> on Computational Sustainability</a><br />
+<a href="../Conferences/AAAI/2016/aaai16integrated.php"><i>Special Track</i> on Integrated AI Capabilities</a><br />
+<a href="../Conferences/IAAI/2016/iaai16call.php">IAAI-16 Call for Papers</a><br />
+<a href="../Conferences/AAAI/2016/eaai16call.php">EAAI Symposium Call</a><br />
+<a href="../Conferences/AAAI/2016/aaai16studentcall.php">Student Abstract Call</a><br />
+
+<a href="../Conferences/AAAI/2016/aaai16tutorialcall.php">Tutorial Forum Call</a><br />
+
+<a href="../Conferences/AAAI/2016/aaai16dccall.php">DC Call for Applications</a><br />
+
+<a href="../Conferences/AAAI/2016/aaai16seniorcall.php">Senior Member Track Call</a><br />
+<a href="ws16workshops.php">Workshop Calls</a>
+<br />
+<a href="../Conferences/AAAI/2016/aaai16demos.php">Demonstration Program </a>
+
+<!--
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16seniorcall.php">Senior Member Presentations</a><br />
+
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16demos.php">Demonstration Program Call</a>
+-->
+</p>
+
+<!--
+
+
+
+<h3 class="text2">Cooperations</h3>
+
+<p class="backgrnd6"><a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16ieee-cooperation.php">IEEE Robotics and Automation Society</a><br />
+<a href="http://www.aaai.org/Conferences/AAAI/2016/aaai16robocup-cooperation.php">RoboCup Federation</a>
+
+-->
+<h3 class="text2"><a href="../Conferences/AAAI/aaai16.php">AAAI-16 HOME</a></h3>
+<h3 class="text2"><a href="../Conferences/IAAI/iaai16.php">IAAI-16 HOME</a></h3>
+<p class="backgrnd6"><a href="../Conferences/AAAI/aaai.php">Past AAAI Conferences</a></p>
+
+</div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div id="footer" class="backgrnd11">
+<p class="text3"><a href="https://twitter.com/RealAAAI" class="twitter-follow-button" data-show-count="false">Follow @RealAAAI</a><script async src="../../.platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="../../.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2019 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="../../.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="../../.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="../../.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="https://aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="../../.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="../../.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aitopics.org" title="Information about AI (geared especially for students) and AI in the news" rel="nofollow">AITopics</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="../../.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops,">Workshops</a></p>
+</div>
+<!-- <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.aaai.org&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br />
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>-->
+</body>
+</html>

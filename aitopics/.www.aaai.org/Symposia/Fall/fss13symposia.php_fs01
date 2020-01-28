@@ -1,0 +1,296 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://www.aaai.org/styles/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="https://www.aaai.org/styles/layout.css" type="text/css" media="screen" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence" />
+<link rel="stylesheet" type="text/css" media="print" href="https://www.aaai.org/styles/printstyles.css" />
+<script src="https://www.aaai.org/scripts/popupwindow.js" type="text/javascript"></script>
+<title>AAAI 2013 Fall Symposium Descriptions</title>
+<link href="https://www.aaai.org/styles/aaai.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/layout.css") screen;
+-->
+</style>
+<style type="text/css">
+<!--
+	@import url("https://www.aaai.org/styles/print.css") print;
+-->
+</style>
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>AAAI 2013 Fall Symposia Descriptions</h1>
+</div>
+<!-- begin search -->
+<div id="search">
+<form action="https://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+</div>
+<!-- end search -->
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+<li class="first"><a href="../../../.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="../../../.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" rel="nofollow" title="Information about AI (geared especially for students) and AI in the news" class="link1">AITopics</a></li>
+<li><a href="../../../.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="../../../.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="../../../.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="../../../.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="../../../.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="../../../.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="../../../.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1"><a href="fall-symposia.php"><img src="http://www.aaai.org/Symposia/Fall/Photos/dc.jpg" alt="White House" width="639" height="143" border="0" /></a></div>
+<div id="box6">
+<h2 class="backgrnd12"><span class="text1">AAAI 2013 Fall Symposium Descriptions</span></h2>
+<div class="content">
+
+<p>The Association for the Advancement of Artificial Intelligence is pleased to present the 2013 Fall Symposium Series, to be held Friday through Sunday, November 15&ndash;17, at the Westin Arlington Gateway in Arlington, Virginia. The titles of the five symposia are as follows:
+</p>
+
+<ul>
+<li><a href="fss13symposia.php_fs01">Discovery Informatics: AI Takes a Science-Centered View on Big Data</a></li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss13symposia.php#fs02">How Should Intelligence be Abstracted in AI Research: MDPs, Symbolic Representations, Artificial Neural Networks, or &mdash; ?</a></li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss13symposia.php#fs03">Integrated Cognition</a></li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss13symposia.php#fs04">Semantics for Big Data</a></li>
+<li><a href="http://www.aaai.org/Symposia/Fall/fss13symposia.php#fs05">Social Networks and Social Contagion: Web Analytics and Computational Social Science</a></li>
+</ul>
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs01">Discovery Informatics: AI Takes a Science-Centered View on Big Data</a></h3>
+
+<p>Discovery informatics focuses on intelligent systems aimed at accelerating discovery, particularly in science but also from any data-rich domain. It is a generalization of scientific informatics work (for example, medical-, bio-, eco-, or geoinformatics) that seeks to apply principles of intelligent computing and information systems in order to understand, automate, improve, and innovate any aspects of discovery processes. A range of AI research is directly relevant including process representation and workflows; intelligent interfaces; causal reasoning; machine learning; knowledge representation and engineering; semantic web; advanced visualization toolkits and social computing.</p>
+
+<p>
+The application of AI approaches to assist in scientific discovery is an open ended knowledge-driven challenge with a very high potential impact. This is especially true in this era of big data, which provides the theme of this symposium.
+</p>
+
+<h4>Topics</h4>
+<p>
+This symposium will provide a forum for researchers interested in understanding the role of AI techniques in improving or innovating scientific processes. Specific topics of discussion include, but are not limited to the following:
+</p>
+
+<ul>
+<li>What are the broad AI challenges in scientific discovery?</li>
+<li>How can we support the way scientists approach big data?</li>
+<li>How do we get to big data from smaller (or "darker") data sets through automated or assisted integration and aggregation?</li>
+<li>What integrated AI capabilities are needed to tackle big data in science?</li>
+<li>How can we improve our understanding of science and discovery processes and the role of AI in the context of those processes?</li>
+<li>How can we capture science processes and open them to scientists in other disciplines and the broader public?</li>
+<li>Can AI be effective in facilitating insights and looking for knowledge gaps using big data?</li>
+</ul>
+
+</p>
+
+<h4>Format</h4>
+<p>The symposium will be organized around thematic sessions. Each session will include paper presentations and in some cases invited speakers, followed by panel-driven discussions.</p>
+
+<p>Main Contact<br />
+Gully APC Burns, University of Southern California, &#103;&#117;&#108;&#108;&#121;&#64;&#117;&#115;&#99;&#46;&#101;&#100;&#117;, +1 (310) 448-8712.</p>
+
+<p>Cochairs<br />
+Gully APC Burns (University of Southern California, &#98;&#117;&#114;&#110;&#115;&#64;&#105;&#115;&#105;&#46;&#101;&#100;&#117;); Yolanda Gil (University of Southern California, &#103;&#105;&#108;&#64;&#105;&#115;&#105;&#46;&#101;&#100;&#117;); Yan Liu (University of Southern California, &#121;&#97;&#110;&#108;&#105;&#117;&#46;&#99;&#115;&#64;&#117;&#115;&#99;&#46;&#101;&#100;u); Natalia Villanueva-Rosales (University of Texas at El Paso, &#110;&#118;&#105;&#108;&#108;&#97;&#110;&#117;&#101;&#118;&#97;&#114;&#111;&#115;&#97;&#108;&#101;&#115;&#64;&#117;&#116;&#101;&#112;&#46;&#101;&#100;&#117;)</p>
+
+<h4>For More Information</h4>
+<p>For more information, please see the <a href="http://www.discoveryinformaticsinitiative.org/dis2013" rel="nofollow"> supplemental symposium website.</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs02">How Should Intelligence be Abstracted in AI Research: MDPs, Symbolic Representations, Artificial Neural Networks, or &mdash; ?</a></h3>
+
+<p>Artificial intelligence consists of many smaller communities with diverse approaches towards the common goal of creating computational intelligence. While they are unified by this common goal, and most take inspiration from human or biological intelligence, these separate communities are driven by different abstractions of intelligence (for example, symbolic manipulation, connectionist networks, or embodiment) and the processes that might produce it (such as reinforcement learning, evolutionary computation, or statistical machine learning). Because the particular choice of abstraction profoundly impacts how a problem is framed, reaching the ambitious goals of AI may be aided by carefully examining the promise, drawbacks, and motivations of popular abstractions.</p>
+
+<p>Subfields of artificial intelligence often diversify from a core idea. For example, deep learning networks, models in computational neuroscience, and neuroevolution all take inspiration from biological neural networks as a potential pathway to AI. Most researchers choose to pursue the subfield (and by extension, abstraction) they see as most promising for leading to AI, which naturally results in significant debate and disagreement among researchers as to what abstraction is best. A better understanding and less polarized debate may be facilitated by a clear presentation and discussion of abstractions by their most knowledgeable proponents.</p>
+
+<p>Thus bringing together researchers from fields that abstract AI at different levels or in different ways may disperse knowledge and aid critically examining the value and promise of different abstractions. Following this motivation, the symposium aims to bring together a diverse and multi-disciplinary group of AI researchers interested in discussing and comparing different abstractions of both intelligence and processes that might create it. The hope is to provide a common ground for these diverse perspectives, resulting in cross-pollination of ideas between levels and types of abstraction, and new ideas for revising and creating abstractions of intelligence and intelligence-generating processes.
+</p>
+
+<h4>Topics</h4>
+<p>Areas of interest include but are not limited to the following:</p>
+
+<p><ul>
+<li>Different levels and types of knowledge representation and reasoning</li>
+<li>Abstractions of the following:</li>
+<li>Neural networks (for example, deep learning networks, spiking ANNs, and plastic ANNs)</li>
+<li>Learning (for example, machine learning and reinforcement learning)</li>
+<li>Biological development (for example, generative and developmental systems, and developmental robotics)</li>
+<li>Evolutionary search (for example, digital evolution and evolutionary algorithms)</li>
+<li>Biologically-inspired computation</li>
+<li>Evolutionary robotics</li>
+<li>Swarm intelligence</li>
+<li>Artificial life</li>
+<li>Philosophical arguments on characteristics of appropriate abstractions for AI</li>
+</ul>
+</p>
+
+
+<h4>Organizing Committee</h4>
+<p>Sebastian Risi (Cornell University), Joel Lehman (University of Texas at Austin), Jeff Clune (University of Wyoming)</p>
+
+<h4>For More Information</h4>
+<p>For more information, please see the  <a href="http://www.cs.ucf.edu/~risi/AAAISymposium2013/" rel="nofollow">supplemental symposium website</a>.</p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="left"><a name="fs03">Integrated Cognition</a></h3>
+
+<p>Integrated cognition is concerned with consolidating the functionality and phenomena implicated in natural minds/brains and/or artificial cognitive systems (virtual humans, intelligent agents or intelligent robots). The aim of this symposium is to bring together researchers from across the spectrum of approaches and perspectives to exchange research results and discuss how best to create an ongoing forum for such exchanges. The focus is on how the mind arises from the interaction of its constituent parts, and includes everything implicated in human-level performance in complex environments. This includes not only traditional cognitive aspects &mdash; such as planning and problem solving, knowledge representation and reasoning, language and interaction, reflection and learning &mdash; but also perception and control, personality and emotion, and motivation. It also includes not only integration across cognitive mechanisms, as is typical in work on cognitive architectures, but also across more abstract constraints on cognition. It furthermore includes work on across-level integration, including combining cognitive capabilities with aspects of lower levels, whether computational or neural; as well as integrating in aspects of higher levels, whether cognitive applications or the social band from Newellâ¬"s time scales.</p>
+
+<h4>Topics</h4>
+<p>Topics of interest include the integration of mechanisms, capabilities, constraints, models, applications and levels; and may involve the creation, enhancement, evaluation and/or analysis of such combinations</p>
+
+<h4>Program</h4>
+<p>Half of the program will consist of themed sessions structured around oral presentations of accepted papers plus discussions of the associated themes. The other half will consist of panels, discussions, and invited talks.</p>
+
+<h4>Organizing Committee</h4>
+<p><i>Cochairs:</i> Christian Lebiere (Carnegie Mellon University) and Paul S. Rosenbloom (University of Southern California)</p>
+
+<p>Joscha Bach (Humboldt University of Berlin), Paul Bello (Office of Naval Research and Rensselaer Polytechnic Institute), Antonio Chella (University of Palermo), Kevin Gluck (Air Force Research Laboratory), Ben Goertzel (Aidyia Holdings and Novamente LLC and Biomind LLC and Xiamen University), Jonathan Gratch (University of Southern California), Glenn Gunzelmann (Air Force Research Laboratory), Ion Juvina (Wright State University), Troy Kelley (Army Research Laboratory), William Kennedy (George Mason University), Unmesh Kurup (Carnegie Mellon University), John Laird (University of Michigan), Stacy Marsella (University of Southern California), David Reitter (Pennsylvania State University), Frank Ritter (Pennsylvania State University), Alexei Samsonovich (George Mason University), Matthias Scheutz (Tufts University), Zhongzhi Shi (Chinese Academy of Sciences), Terrence C. Stewart (University of Waterloo), Ron Sun (Rensselaer Polytechnic Institute), Niels Taatgen (University of Groningen), Greg Trafton (Naval Research Laboratory), Michael van Lent (Soar Technology)</p>
+
+<h4>For More Information</h4>
+<p>For more information, please see the <a href="http://intcog.ict.usc.edu" rel="nofollow">supplementary symposium web site.</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+
+
+<h3 class="left"><a name="fs04">Semantics for Big Data</a></h3>
+
+<p>One of the key challenges in making use of big data lies in finding ways of dealing with heterogeneity, diversity, and complexity of the data, while its volume and velocity forbid solutions available for smaller datasets as based, for example, on manual curation or manual integration of data.</p>
+
+<p>Semantic web technologies are meant to deal with these issues, and indeed since the advent of linked data a few years ago, they have become central to mainstream semantic web research and development. We can easily understand linked data as being a part of the greater big data landscape, as many of the challenges are the same. The linking component of linked data, however, puts an additional focus on the integration and conflation of data across multiple sources.</p>
+
+<h4>Topics</h4>
+<p>In this symposium, we will explore the many opportunities and challenges arising from transferring and adapting semantic web technologies to the big data quest. Topics of interest focus explicitly on the interplay of semantics and big data, and include the following:</p>
+<ul>
+<li>The use of semantic metadata and ontologies for big data,</li>
+<li>The use of formal and informal semantics,</li>
+<li>The integration and interplay of deductive (semantic) and statistical methods,</li>
+<li>Methods to establish semantic interoperability between data sources</li>
+<li>Ways of dealing with semantic heterogeneity,</li>
+<li>Scalability of semantic web methods and tools, and</li>
+<li>Semantic approaches to the explication of requirements from eScience applications.</li>
+</ul>
+
+
+<h4>Format</h4>
+<p>The symposium will be highly interactive with spotlight presentations and small breakout groups interleaved with plenary sessions for reports on the breakout groups and for consolidation of results.</p>
+
+
+
+<h4>Organizing Committee</h4>
+<p>Frank van Harmelen (Vrije Universiteit Amsterdam, The Netherlands, &#102;&#114;&#97;&#110;&#107;&#46;&#118;&#97;&#110;&#46;&#104;&#97;&#114;&#109;&#101;&#108;&#101;&#110;&#64;&#99;&#115;&#46;&#118;&#117;&#46;&#110;&#108;); James A. Hendler (Rensselaer Polytechnic Institute, USA, &#104;&#101;&#110;&#100;&#108;&#101;&#114;&#64;&#99;&#115;&#46;&#114;&#112;&#105;&#46;&#101;&#100;&#117;); Pascal Hitzler (Kno.e.sis Center, Wright State University, USA, &#112;&#97;&#115;&#99;&#97;&#108;&#46;&#104;&#105;&#116;&#122;&#108;&#101;&#114;&#64;&#119;&#114;&#105;&#103;&#104;&#116;&#46;&#101;&#100;&#117;); Krzysztof Janowicz (University of California, Santa Barbara, USA, &#106;&#97;&#110;&#111;&#64;&#103;&#101;&#111;&#103;&#46;&#117;&#99;&#115;&#98;&#46;&#101;&#100;&#117;</p>
+
+<h4>For More Information</h4>
+<p>For more information, please see the  the <a href="http://stko.geog.ucsb.edu/s4bd2013/" rel="nofollow">supplementary symposium web site.</a></p>
+
+
+<div class="hr1">
+<hr />
+</div>
+<h3 class="left"><a name="fs05">Social Networks and Social Contagion: Web Analytics and Computational Social Science</a></h3>
+
+<p>With the emergence of computational social science as a field of collaboration between computer scientists and social scientists, the study of social networks and processes on these networks (social contagion) has been gaining interest. Many topics of traditional sociological interest (such as the diffusion of innovations, emergence of norms, identification of influencer) can now be studied using detailed computational models and extensive simulation. The advent and popularity of online social media also allows the creation of massive data sets, which can inform models and underlying sociological theory. The ubiquity of "smart devices" (such as smart phones) also provides opportunities to gather extensive data on the behaviors and interactions of humans in "real space". In this context, web analytics aims to understand individual and collective behaviors to further model and support knowledge extraction in applications such as cybersecurity, recommendation systems and human computation systems.</p>
+
+<p>The goal of this symposium is to bring together a community of researchers interested in addressing these issues and to encourage interdisciplinary approaches to these problems. We specifically encourage participation from many communities, including computer science, statistics, mathematics, the social, behavioral and economic sciences, and the medical and health sciences.</p>
+
+<h4>Topics</h4>
+
+<p>
+Social Contagion
+</p>
+<ul>
+<li>The spread of ideas or beliefs</li>
+<li>Emotion contagion</li>
+<li>Diffusion of information</li>
+<li>The spread of changes in language</li>
+<li>Diffusion of innovations</li>
+<li>Emergence of norms</li>
+<li>Interventions to prevent contagion</li>
+<li>Influence maximization</li>
+<li>Complex contagion</li>
+<li>Virtual agents, agent-human contagion</li>
+<li>Disease contagion</li>
+<li>Diffusion of risk behaviors in networks</li>
+<li>Diffusion of health behaviors in networks</li>
+</ul>
+<p>
+Game Theory in Social Networks and Social Contagion
+</p>
+<ul>
+<li>Influence maximization</li>
+<li>Influence blocking maximization game</li>
+<li>Other game-theoretic approaches</li>
+</ul>
+<p>
+Network Modeling
+</p>
+<ul>
+<li>Exponential random graph models</li>
+<li>Stochastic actor models</li>
+<li>Network evolution models, etc.</li>
+</ul>
+<p>
+Network-Based Inference
+</p>
+<ul>
+<li>Label inference</li>
+<li>Network structure inference</li>
+<li>Contagion model inference</li>
+</ul>
+<p>
+Human Data Elicitation
+</p>
+<ul>
+<li>Expression of attitudes/personality from online sources (such as Twitter and Facebook)</li>
+<li>Using social media for tracking social contagion, developing social networks, and others</li>
+<li>Crowdsourcing as a means to learn about humans</li>
+<li>Massively multiplayer online games (MMOG) as virtual laboratories to study social contagion</li>
+<li>Reality mining for social networks</li>
+</ul>
+<p>
+Web Analytics
+</p>
+<ul>
+<li>Modeling online behavior</li>
+<li>Authentication/Identification/Privacy</li>
+<li>Inferring intent from online behavior</li>
+</ul>
+
+<h4>Organizing Committee</h4>
+<p>Samarth Swarup (Virginia Tech), Madhav Marathe (Virginia Tech), Kiran Lakkaraju (Sandia National Laboratory), Milind Tambe (University of Southern California), Cynthia Lakon (University of California, Irvine)</p>
+
+<h4>For More Information</h4>
+<p>For more information, please contact Samarth Swarup at &#115;&#119;&#97;&#114;&#117;&#112;&#64;&#118;&#98;&#105;&#46;&#118;&#116;&#46;&#101;&#100;&#117; or consult the <a href="http://staff.vbi.vt.edu/swarup/snsc2013/index.php" rel="nofollow">supplementary symposium web site.</a></p>
+</p>
+

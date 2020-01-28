@@ -1,0 +1,806 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>27th AAAI Conference on Artificial Intelligence, Washington 2013 - VideoLectures - VideoLectures.NET</title>
+    <!-- <base href="http://videolectures.net/"> !-->
+    <script type="text/javascript">var viipg={cfg:{slug:'aaai2013_washington',type:'Lecture',obj_id:20421,chrome_colors:["FFFFFF","F21F1F"],livepipe:'//videolectures.net',site_slug:'vln',media_url:'http://static.videolectures.net/r.1483388978/',sentry:'//161ef9a5c3a14af1848399909b890522@sentry.viidea.com/6'},ga:function(){var r=function(fn){r._todo.push(Array.prototype.slice.apply(arguments));};r._todo=[];return r;}()};</script>
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    
+  <!-- overide the css here when inheriting base.html -->
+  <link rel="stylesheet" href="http://videolectures.net/site/generate/chrome/styles_compat.less" type="text/css" media="screen" />
+  <link rel="stylesheet" href="http://static.videolectures.net/r.1483388978//custom/vln.css" type="text/css">
+
+    <style type="text/css"> a[lang="en"] img.lang-flag, span.language[lang="en"]{display:none;}</style>
+    
+    
+    
+
+    <link rel="stylesheet" type="text/css" href="http://static.videolectures.net/r.1483388978/static/vl/js/kookiepopup.min.css" />
+
+    
+    
+      <!--[if lt IE 9]>
+        <link rel="subresource" href="https://cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js" />
+      <![endif]-->
+      <link rel="subresource" href="https://cdn.jsdelivr.net/jquery/1.8.3/jquery-1.8.3.min.js" />
+      <link rel="subresource" href="http://static.videolectures.net/r.1483388978//common/js/raven.min.js" />
+      <link rel="subresource" href="http://static.videolectures.net/r.1483388978/static/vl/js/viipg.js" />
+      <link rel="subresource" href="https://cdn.jsdelivr.net/json2/0.1/json2.min.js" />
+      <link rel="subresource" href="http://static.videolectures.net/r.1483388978/static/vl/js/bootstrap-dropdown.js" />
+      <link rel="subresource" href="http://static.videolectures.net/r.1483388978/static/js/socket.io.js" />
+      
+      <link rel="subresource" href="http://static.videolectures.net/r.1483388978/static/vl/js/kookiepopup.min.js" />     
+
+      <script>
+        window.addEventListener("load", function(){
+          window.cookieconsent.initialise({
+           "palette": {
+             "popup": {
+               "background": "#1d8a8a"
+             },
+             "button": {
+               "background": "#62ffaa"
+             }
+           },
+           "position": "top",
+           "static": true,
+           "type": "opt-in",
+           "content": {
+             "message": `This website uses cookies for functional and analytical purposes. In addition,
+              we use cookies to deliver personalized, responsive services and to improve the site.`,
+             "dismiss": "Decline",
+             "allow": "Allow cookies",
+             "link": "Learn more",
+             // link to the X5GON platform privacy policy - describing what are we collecting
+             // through the platform
+             "href": "http://videolectures.net/site/privacy_policy"
+           },
+           onInitialise: function (status) {
+             var type = this.options.type;
+             var didConsent = this.hasConsented();
+             if (type == 'opt-in' && didConsent) {
+               // enable cookies - send user data to the platform
+               // only if the user enabled cookies
+               if (typeof x5gonActivityTracker !== 'undefined') {
+                 x5gonActivityTracker('vjr4n2');
+               }
+             }
+           },
+           onStatusChange: function(status, chosenBefore) {
+             var type = this.options.type;
+             var didConsent = this.hasConsented();
+             if (type == 'opt-in' && didConsent) {
+               // enable cookies - send user data to the platform
+               // only if the user enabled cookies
+               if (typeof x5gonActivityTracker !== 'undefined') {
+                 x5gonActivityTracker('vjr4n2');
+               }
+             }
+           },
+           onRevokeChoice: function() {
+             var type = this.options.type;
+             if (type == 'opt-in') {
+               // disable cookies - set what to do when
+               // the user revokes cookie usage
+             }
+           }
+         })
+       });
+     </script>
+
+      
+  <link rel="subresource" href="http://static.videolectures.net/r.1483388978/static/vl/js/classic.js" />
+
+
+      
+<script type="text/javascript">(function(w,d){w.console||(w.console={log:function(){}});var osc='onreadystatechange',Wait=function(name){var cbs=[],W=function(cb){cbs.push(cb);},release=function(){w.viipg[name]=function(cb){cb();};};W.emit=function(){for(var i=0;i<cbs.length;i+=1){cbs[i]();}
+release();};W.jq=function(){var el=name=='load'?w:d;for(var i=0;i<cbs.length;i+=1){w.jQuery(el)[name](cbs[i]);}
+w.viipg[name]=function(cb){w.jQuery(el)[name](cb);};w.viipg[name](release);};return W;},_addScript=function(src,sync,cb){var script,el;if('async'in d.scripts[0]){script=d.createElement('script');if(sync)script.async=false;if(cb)script.onload=cb;script.src=src;(d.head||d.getElementsByTagName('head')[0]).appendChild(script);}else if(d.scripts[0].readyState){script=d.createElement('script');_scripts.push([script,cb]);script[osc]=_stateChange;script.src=src;}else{if(w.jQuery){w.jQuery.getScript(src,cb);}else{d.write('<s'+'cript src="'+src+'" type="text/javascript" defer></s'+'cript>');if(cb)setTimeout(cb,0);}}},_scripts=[],_stateChange=function(){var s,c;while(_scripts[0]&&_scripts[0][0].readyState=='loaded'){c=null;s=_scripts.shift();if(s.length>1)c=s[1];s=s[0];s[osc]=null;d.scripts[0].parentNode.insertBefore(s,d.scripts[0]);if(c)c();}},_done=function(){w.viipg.ready.jq();w.viipg.load.jq();};w.viipg||(w.viipg={});w.viipg.load=Wait('load');w.viipg.ready=Wait('ready');w.viipg.asap=Wait('asap');w.viipg.lazy=Wait('lazy');w.viipg.addScript=function(src1,src2,cb){var args=Array.prototype.slice.call(arguments),cb=typeof args[args.length-1]=='function'?args.pop():null,i,script;for(i=0;i<args.length;i+=1){_addScript(args[i],args.length>1,i===args.length-1?cb:null);}};var tags=d.getElementsByTagName('link'),links=[];for(var i=0,length=tags.length;i<length;i++){if(tags[i].rel==='subresource'&&tags[i].href)links.push(tags[i]);}
+if(links.length>0){for(var i=0;i<links.length;i+=1)_addScript(links[i].href,true,i==links.length-1?_done:null);}else{setTimeout(_done,0);}}(window,document));</script>
+
+
+      
+      
+    
+
+    
+    
+    
+  <link rel="shortcut icon" href="http://static.videolectures.net/r.1483388978//custom/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" href="http://static.videolectures.net/r.1483388978//custom/vln-touch-icon-precomposed.png">
+
+    
+<meta name="title" content="27th AAAI Conference on Artificial Intelligence, Washington 2013" />
+<meta name="description" content="The Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13) was held July 14â¬18, 2013 in Bellevue, Washington, USA. The purpose of this conference is to promote research in artificial intelligence (AI) and scientific exchange among AI researchers, practitioners, scientists, and engineers in affiliated disciplines." />
+
+
+  <link rel="image_src" href="http://hydro.ijs.si/v00e/c6/y3jt7atjscjmshj6244ivtcqzxdnu5wa.jpg" />
+  <meta property="og:image" content="http://hydro.ijs.si/v00e/c6/y3jt7atjscjmshj6244ivtcqzxdnu5wa.jpg" /> 
+
+
+
+    
+        
+    
+</head>
+
+<body id='browse_page'  >
+
+  <div class="body-wrap">
+
+  
+  <div id="page_header_bg" class="pg_block">
+  <div id="header">
+    <div id='branding'>
+      
+    <a href="../"><div id='site_logo'></div></a>
+    <div id="wsa_logo"></div>
+    <div id="unesco_logo"></div>
+
+    </div>      
+    <div id='user-tools'>
+      
+      <span id="jq_userctl">
+          
+        <span class='login-logout'>
+        <a href="http://videolectures.net/site/accounts/login/?next=/aaai2013_washington/" rel="nofollow">Log in</a>  |
+        <a href="http://videolectures.net/site/accounts/register/" rel="nofollow">Register</a> |
+        </span>
+        
+        
+          <a href="../" rel="nofollow" id="lang_sel" title="Choose your language">
+          
+            <img src="http://static.videolectures.net/r.1483388978//flags/us.gif" alt="English language"><img src="http://static.videolectures.net/r.1483388978//flags/uk.gif" border="0" alt="">
+          
+          </a>
+          &nbsp;
+        
+      </span>
+      
+  
+  <div id="signInRegister">
+  
+    <div id="register"><a href="http://videolectures.net/site/accounts/register/" rel="nofollow">New User<br>Register</a></div>
+    <div id="signIn"><a href="http://videolectures.net/site/accounts/login/?next=/aaai2013_washington/" rel="nofollow">Sign in</a></div>
+  
+  </div>
+
+      
+    </div>
+    <div style='clear:both;'></div>
+  </div>
+  </div>
+  
+  
+  <div id='top_menu_box' class='pg_block'>
+  <div id='top_menu'>
+    <form method="get" action="http://videolectures.net/site/search/">
+      <input class="search" name="q" type="text" value="" size='40'><input class="button" type="submit" value='Search'>
+    </form>
+    
+      
+    
+    <ul>
+      
+  <li id='tm_home' class='tm_leftmost'><a href="../">Home</a></li>
+  <li id='tm_browse'><a href="http://videolectures.net/Top/" class="dd_href">Browse Lectures</a></li>
+  <li id='tm_authors'><a href="http://videolectures.net/site/list/authors/">People</a></li>
+  <li id='tm_conferences'><a href="http://videolectures.net/conferences/">Conferences</a></li>
+  <li id='tm_academia'><a href="http://videolectures.net/academia/">Academic Organisations</a></li>
+  <li id='tm_eu_supported'><a href="http://videolectures.net/eu_supported/">EU Supported</a></li>
+  <li id='tm_blog'><a href="http://blog.videolectures.net/">Blog</a></li>
+  <li id='tm_about'><a href="http://videolectures.net/site/about/">About Us</a></li>
+
+    </ul>
+    <div style='clear:both;'></div>
+  </div>
+  </div>
+  
+  
+  
+    <div style='clear:both;'></div>
+    
+  <div class='drilldown_hmenu_bg pg_block span12'>
+  <div class='drilldown_hmenu'>
+  <div class='drilldown dd_bg' style='margin-right:0px;'>
+    <div class='drilldown_loc'>
+    
+      
+      <span class='drilldown_hmenu_label'> Event: </span>
+      
+      
+        
+         
+          <a href="http://videolectures.net/aaai/">Association for the Advancement of Artificial Intelligence (AAAI)</a>
+        
+      
+        &raquo;
+        
+          
+            <span id='dd_loc_last'>
+            <a href="http://videolectures.net/aaai2013_washington/#" class="dd_if_browsing" onclick="javascript:jump_to_overview();">27th AAAI Conference on Artificial Intelligence, Washington 2013</a>
+            <span class='dd_if_browsing'>27th AAAI Conference on Artificial Intelligence, Washington 2013</span>
+            </span>
+            
+        
+        
+      <br>
+      
+      <div id='drilldown_cat_path'>
+      
+      </div>
+    
+    </div>
+    <div style='clear:both;'></div>
+  </div>
+  </div>
+  </div>
+
+    
+    	
+  
+  
+
+
+  
+  <div id="maincontainer" class="pg_block">
+    
+
+<div class='drilldown_opts drilldown dd_bg span2'>
+<form id="browse_form" name="browse" action="http://videolectures.net/site/browse/" method="get">
+
+<h4>View order</h4>
+<span class='dd_ordering'>
+
+  <input type='radio' name='o' value='' class='dd_ctl' id='dd_overview' checked>
+  <label title="event page"><b>Overview</b></label><br>
+  <input type='radio' name='o' value='hot' class='dd_ctl'>
+  <label title="Show recently popular content">Hot</label><br>
+
+  <input type='radio' name='o' value='top' class='dd_ctl'>
+  <label title="Show lectures with most visits per day">Popular</label><br>
+  <input type='radio' name='o' value='add' class='dd_ctl'>
+  <label title="Show latest additions">Just published</label><br>
+  <input type='radio' name='o' value='rec' class='dd_ctl'>
+  <label title="Show recently recorded lectures">Recent</label><br>
+  <input type='radio' name='o' value='vot' class='dd_ctl'>
+  <label title="Show content that users liked best">Top Voted</label><br>
+</span>
+
+<div class='dd_if_browsing '>
+
+
+
+
+<div id='taxonomy_form' style='display:none;'>
+  <h4>Topic taxonomy</h4>
+  <input type='checkbox' name='c' value='s' class='dd_ctl'>
+  <label title="Focus only on ''. Ignore subtopics.">No subtopics</label>&nbsp;<span id='c_s' class='dd_cnt'></span><br>
+  <input type='checkbox' name='c' value='f' class='dd_ctl'>
+  <label title="Let the system suggest more lectures for this category">Feeling lucky</label>&nbsp;<span id='c_f' class='dd_cnt'></span><br>
+</div>
+
+
+
+
+<h4>Type of content</h4>
+<input type='checkbox' name='t' value='evt' class='dd_ctl'><label title="Courses, conferences, workshops, etc.">Event</label>&nbsp;<span id='t_evt' class='dd_cnt'></span><br>
+<input type='checkbox' name='t' value='vl' class='dd_ctl'><label title="Common lectures">Lecture</label>&nbsp;<span id='t_vl' class='dd_cnt'></span><br>
+<input type='checkbox' name='t' value='vtt' class='dd_ctl'><label title="Tutorials and longer lectures">Tutorial</label>&nbsp;<span id='t_vtt' class='dd_cnt'></span><br>
+<input type='checkbox' name='t' value='vkn' class='dd_ctl'><label title="Special, awarded lectures and keynote speeches">Keynote</label>&nbsp;<span id='t_vkn' class='dd_cnt'></span><br>
+<input type='checkbox' name='t' value='viv' class='dd_ctl'><label title="Interviews">Interview</label>&nbsp;<span id='t_viv' class='dd_cnt'></span><br>
+<input type='checkbox' name='t' value='__' class='dd_ctl'><label title="Other sorts of content">Other...</label>&nbsp;<span id='t___' class='dd_cnt'></span><br>
+
+
+<h4>Language</h4>
+<input type='checkbox' name='l' value='en' class='dd_ctl'><label>English</label>&nbsp;<span id='l_en' class='dd_cnt'></span><br>
+<input type='checkbox' name='l' value='sl' class='dd_ctl'><label>Slovenian</label>&nbsp;<span id='l_sl' class='dd_cnt'></span><br>
+<input type='checkbox' name='l' value='fr' class='dd_ctl'><label>French</label>&nbsp;<span id='l_fr' class='dd_cnt'></span><br>
+<input type='checkbox' name='l' value='de' class='dd_ctl'><label>German</label>&nbsp;<span id='l_de' class='dd_cnt'></span><br>
+<input type='checkbox' name='l' value='nl' class='dd_ctl'><label>Dutch</label>&nbsp;<span id='l_nl' class='dd_cnt'></span><br>
+<input type='checkbox' name='l' value='hr' class='dd_ctl'><label>Croatian</label>&nbsp;<span id='l_hr' class='dd_cnt'></span><br>
+<input type='checkbox' name='l' value='__' class='dd_ctl'><label title="All other languages">Other...</label>&nbsp;<span id='l___' class='dd_cnt'></span><br>
+
+
+<h4>Year</h4>
+<table width='100%' align='right'>
+<tr>
+<td align='right' width='60%'>From:</td>
+<td><select name='y1'>
+<option value='any' class='dd_ctl' selected='selected'>(any)</option>
+<option value='1999' class='dd_ctl'>1999</option>
+<option value='2000' class='dd_ctl'>2000</option>
+<option value='2001' class='dd_ctl'>2001</option>
+<option value='2002' class='dd_ctl'>2002</option>
+<option value='2003' class='dd_ctl'>2003</option>
+<option value='2004' class='dd_ctl'>2004</option>
+<option value='2005' class='dd_ctl'>2005</option>
+<option value='2006' class='dd_ctl'>2006</option>
+<option value='2007' class='dd_ctl'>2007</option>
+<option value='2008' class='dd_ctl'>2008</option>
+<option value='2009' class='dd_ctl'>2009</option>
+<option value='2010' class='dd_ctl'>2010</option>
+<option value='2011' class='dd_ctl'>2011</option>
+<option value='2012' class='dd_ctl'>2012</option>
+<option value='2013' class='dd_ctl'>2013</option>
+<option value='2014' class='dd_ctl'>2014</option>
+</select></td>
+</tr>
+<tr>
+<td align='right'>To:</td>
+<td><select name='y2'>
+<option value='any'  class='dd_ctl' selected='selected'>(any)</option>
+<option value='1999' class='dd_ctl'>1999</option>
+<option value='2000' class='dd_ctl'>2000</option>
+<option value='2001' class='dd_ctl'>2001</option>
+<option value='2002' class='dd_ctl'>2002</option>
+<option value='2003' class='dd_ctl'>2003</option>
+<option value='2004' class='dd_ctl'>2004</option>
+<option value='2005' class='dd_ctl'>2005</option>
+<option value='2006' class='dd_ctl'>2006</option>
+<option value='2007' class='dd_ctl'>2007</option>
+<option value='2008' class='dd_ctl'>2008</option>
+<option value='2009' class='dd_ctl'>2009</option>
+<option value='2010' class='dd_ctl'>2010</option>
+<option value='2011' class='dd_ctl'>2011</option>
+<option value='2012' class='dd_ctl'>2012</option>
+<option value='2013' class='dd_ctl'>2013</option>
+<option value='2014' class='dd_ctl'>2014</option>
+</select></td>
+</tr>
+</table>
+<p>&nbsp;
+<hr style='height:1px; border:0; background:#888;'>
+<p>...Search a Keyword
+<br><div style='height:3px;'>&nbsp;</div>
+<input type='text' name='q' style='width:113px;'>
+<div style='height:5px;'>&nbsp;</div>
+
+</div> 
+
+</form><input type='hidden' name='csrfmiddlewaretoken' value='aSwxDoJeSemisvZTcui2ysuKqQxo5Fcv' />
+
+</div>
+
+
+<div class='dd_form_aux'>
+  <div id='dd_project_logo'>
+  
+  
+	
+	<a href="http://videolectures.net/aaai/"><img src="http://hydro.ijs.si/v014/6f/n6qujvigfhs5szegckvkmkt5sflkwfvh.png"></a>
+	
+  
+  
+
+  </div>
+</div>
+
+
+
+<div id='dd_form_sections'></div>
+
+
+
+<script type="text/javascript">viipg.asap(function(){var dd_hash=null;var dd_query=null;var dd_cntqry=null;var dd_xhr_data=null;var dd_xhr_cnt=null;$('.dd_ctl').click(update_browse);$('.dd_href').click(dd_decorate_href);$('.drilldown_loc a').click(dd_decorate_href);var hash=dd_filter_hash(window.location.hash);var lecid=20421;if(lecid&&hash||!lecid){dd_set_hash(hash);load_browse_form(hash);}
+function jump_to_overview(){$('#dd_overview').attr("checked","checked");update_browse();return false;}
+function dd_filter_hash(hash){if(!hash)return''
+if(hash[0]=='#')hash=hash.substr(1,hash.length);var pair,pairs=hash.split("&");var result=[]
+for(pair in pairs){if(pairs[pair].split("=").length!=2)continue;if(/[^a-zA-Z]/.test(pairs[pair][0][0]))continue;result.push(pairs[pair])}
+return result?result.join('&'):'';}
+function dd_filter_query(query,keys,invert){if(!query||!query.length)return'';if(keys)keys=keys.split(',');else keys=['o','p'];var sel=[],pairs=query.split("&");for(s in pairs){s=pairs[s];var found=false;key=s.split('=')[0];for(var j=0;j<keys.length;j++)found|=(key==keys[j]);if(found==!!invert)sel.push(s);}
+return sel.join('&');}
+function dd_decorate_href(){var query=''+this
+query=query.split('#',2);if(query.length<2){var hash=dd_filter_query(dd_hash,'p');window.location=query[0]+'#'+hash}else{var loc=query[0];query=query[1];var hash=dd_filter_query(dd_hash,'p,cid');if(hash)query=hash+(query?'&'+query:'');var sloc=''+window.location;if(loc&&sloc.substr(0,loc.length)!=loc){window.location=loc+'#'+query;}
+dd_set_hash(query);}
+return false;}
+viipg._dd_decorate_href=dd_decorate_href;function isDigit(c){return((c>="0")&&(c<="9"))}
+function skipInitialAmp(s){return(s.indexOf('&')===0)?s.slice(1):s;}
+function load_browse_form(query){var f=$('#browse_form');var result={};var has_ordering=false;if(query){var pairs=query.split("&");var pair,key,val,vals;for(pair in pairs){pair=pairs[pair].split("=");key=pair[0];val=pair[1];result[key]=val;if(key=='t'||key=='l'||key=='o'||key=='s'){vals=val.split(',');for(var j=0;j<vals.length;j++)$('#browse_form [name='+key+']').filter('[value='+vals[j]+']').each(function(n){this.checked=true;});has_ordering|=(key=='o');}else if(key=='q'){$('#browse_form [name='+key+']').val(decodeURIComponent(val));}else if(key[0]=='y'){$('#browse_form [name='+key+']').filter('[value='+val+']').each(function(n){this.checked=this.selected=true;});}else{$('#browse_form [name='+key+'] > [value='+val+']').each(function(n){this.checked=true;});}}}
+if(has_ordering){$('.dd_if_browsing').addClass('browsing');}else{$('.dd_if_browsing').removeClass('browsing');}};function join_cb_vals(name,xor_mode){var items=$('#browse_form [name='+name+']');if(xor_mode&&items.not(':checked').length==0)return'';var a=new Array();items.filter(':checked').each(function(i){val=$(this).val();if(val)a[a.length]=val;});if(a.length==0)return'';return name+'='+a.join(',');}
+function form2filter(){f=$('#browse_form');var sel=new Array()
+var order=join_cb_vals('o');if(order)sel[sel.length]=order;var scope=join_cb_vals('s');if(scope)sel[sel.length]=scope;var types=join_cb_vals('t',true);if(types)sel[sel.length]=types;var langs=join_cb_vals('l',true);if(langs)sel[sel.length]=langs;var cats=join_cb_vals('c');if(cats)sel[sel.length]=cats;var y1=$('#browse_form [name=y1] > :selected').val();if(isDigit(y1[0]))sel[sel.length]='y1='+y1;var y2=$('#browse_form [name=y2] > :selected').val();if(isDigit(y2[0]))sel[sel.length]='y2='+y2;var search=$('#browse_form [name=q]').val();if(search)sel[sel.length]='q='+encodeURIComponent(search);if(order!=''){$('.dd_if_browsing').addClass('browsing');}else{$('.dd_if_browsing').removeClass('browsing');}
+return sel.join('&')}
+function update_browse(){dd_set_hash(form2filter());return true;}
+$('#browse_form').submit(function(){update_browse();return false;});function dd_set_hash(query){if(query==dd_hash)return;dd_hash=dd_filter_query(dd_hash,'cid',true);if(dd_hash&&!dd_filter_query(query,'cid',true))query+='&'+dd_hash;dd_hash=query;if(window.location.hash.substring(1)!=dd_hash){if(history.replaceState){history.replaceState(null,null,'#'+dd_hash);}else{window.location='#'+dd_hash;}}
+query+='&id=20421';query=skipInitialAmp(query);if(query!=dd_query){dd_query=query;cntqry=dd_filter_query(query);if(cntqry!=dd_cntqry){dd_cntqry=cntqry;if(dd_xhr_cnt)dd_xhr_cnt.abort();dd_xhr_cnt=$.ajax({url:'/site/ajax/drilldown/counts/?'+dd_cntqry,dataType:'html',cache:true,success:function(msg){$('#drilldown_counts').html(msg);},complete:function(){dd_xhr_cnt=null;}});}
+if(dd_xhr_data)dd_xhr_data.abort();$('#drilldown_list').html('');width=5;dd_xhr_data=$.ajax({url:'/site/ajax/drilldown/?'+dd_query+'&w='+width,cache:true,dataType:'html',success:function(msg){$('#drilldown_list').html(msg);$('#drilldown_custom_rss').attr('href','/site/feeds/custom/?'+dd_query);},complete:function(){dd_xhr_data=null;}});}}
+viipg.go_to_page=function(num){var hash=dd_filter_query(dd_hash,'p');if(num>1){if(hash)hash+='&p='+num;else hash='p='+num;}
+dd_set_hash(hash);}
+$(document).on("click","a.dd-set-hash",function(e){var target=e.target.href.split('#',2);target=target[target.length-1];dd_set_hash(target);e.stopPropagation();return false;});window.addEventListener('hashchange',function(e){dd_set_hash(window.location.hash.substring(1));});});</script>
+
+
+
+    
+
+
+
+    <script type="text/javascript">viipg.ready(function(){ $('#tm_browse').addClass('current'); ;});</script>
+    
+   
+    
+      
+      <div id="content" class="drilldown_content">
+        
+
+      
+<div id='drilldown_counts' class='dd_if_browsing '></div>
+<div id='drilldown_list' class='span10'>
+  
+    
+
+<div id='drilldown_counts'></div>
+<div id="innerbox"><div id="drilldown_list" >
+  
+  
+  
+    <div class='evt_banner'>
+      <img src="http://hydro.ijs.si/v00e/7d/pvhretu2wlm5n4qagfqpwz3teegp34ut.jpg" alt="event header image">
+      
+        <h1>AAAI 2013 - Washington&nbsp;&nbsp;&nbsp;</h1>
+      
+    </div>
+    <script type="text/javascript">
+      viipg.asap( function(){ $('.drilldown_opts').addClass('aside_event'); });
+    </script>
+  
+  
+
+  
+  
+    <span id='vl_desc'>
+    
+
+    <h2>27th AAAI Conference on Artificial Intelligence, Washington 2013</h2>
+    <div class='lec_data'>
+    
+
+    
+    
+
+    </div>
+
+    
+    
+      
+      <span id="lec_desc_edit" style='line-height:140%;'>
+        <p><p><strong><a href="../../.www.aaai.org/Conferences/AAAI/aaai13.php">The Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)</a></strong> was held July 14â¬18, 2013 in Bellevue, Washington, USA. The purpose of this conference is to promote research in artificial intelligence (AI) and scientific exchange among AI researchers, practitioners, scientists, and engineers in affiliated disciplines.</p>
+</p>
+      </span>
+    
+
+    
+    
+    
+
+
+  <fieldset id='categories'>
+  <legend>
+    Categories
+    
+  </legend>
+  <ul>
+  
+    <li>
+    <span clase='cat_path'><a href="http://videolectures.net/Top/">Top</a>
+     &raquo; 
+    <a href="http://videolectures.net/Top/Computer_Science/">Computer&nbsp;Science</a>
+     &raquo; 
+    <a href="http://videolectures.net/Top/Computer_Science/Artificial_Intelligence/">Artificial&nbsp;Intelligence</a></span></li>
+  
+    <li>
+    <span clase='cat_path'><a href="http://videolectures.net/Top/">Top</a>
+     &raquo; 
+    <a href="http://videolectures.net/Top/Computer_Science/">Computer&nbsp;Science</a>
+     &raquo; 
+    <a href="http://videolectures.net/Top/Computer_Science/Semantic_Web/">Semantic&nbsp;Web</a></span></li>
+  
+  </ul>
+  </fieldset>
+
+
+
+    
+    </span>
+  
+  
+ 
+
+  
+
+
+ 
+  
+  
+  
+
+  
+    
+       
+        
+
+<table border="0" cellspacing='0px' cellpadding='2px' width="100%"><tr><td width='20%'></td><td width='20%'></td><td width='20%'></td><td width='20%'><td width='20%'></td></tr><tr><td colspan='5'><div style='margin-left:-5px;'><h4>AAAI 2013 Robert S. Engelmore Lecture Award Lecture</h4></div></td></tr><tr valign="top"><td valign="top" align='center'><div class='lec_thumb'><a href="http://videolectures.net/aaai2013_fox_semantically_enabled_applications/" target="_top" id="lec=20435" lang="en"><div><div class='lec_thumb_img' style="background:url('http://hydro.ijs.si/v00e/b4/wratkwm2avwnqu77qzjjxrem4qi3p6a7.jpg') center;"><u>
+        
+        [syn]&nbsp;
+        
+          2644&nbsp;views,&nbsp;55:49
+        &nbsp;
+      </u><b>Robert S. Engelmore Lecture Award</b></div></div><span class='thumb_title'><img src="http://static.videolectures.net/r.1483388978/flags/uk.gif" alt="flag" class="lang-flag"><span class='thumb_ext'>An Open-World Iterative Methodology for the Development and Evaluation of Semantically-Enabled Applications</span><span class='thumb_short' title='An Open-World Iterative Methodology for the Development and Evaluation of Semantically-Enabled Applications'>An Open-World Iterative Methodology for the Development and Evaluation of ...</span></span></a><div style='clear:both;'></div><div class="author"><span class='thumb_short'>
+        Peter Fox
+      </span><span class='thumb_ext'>
+        Peter Fox
+      </span></div><div style='clear:both'></div></div></td></tr><tr><td colspan='5'><div style='margin-left:-5px;'><h4>Keynote Address</h4></div></td></tr><tr valign="top"><td valign="top" align='center'><div class='lec_thumb'><a href="http://videolectures.net/aaai2013_mooney_language_learning/" target="_top" id="lec=20436" lang="en"><div><div class='lec_thumb_img' style="background:url('http://hydro.ijs.si/v00e/c3/ymbel2fe3lhhggbupx5oyl3zt4llh3f5.jpg') center;"><u>
+        
+        [syn]&nbsp;
+        
+          11123&nbsp;views,&nbsp;55:06
+        &nbsp;
+      </u><b>Keynote Address</b></div></div><span class='thumb_title'><img src="http://static.videolectures.net/r.1483388978/flags/uk.gif" alt="flag" class="lang-flag"><span class='thumb_ext'>Grounded Language Learning</span><span class='thumb_short' title='Grounded Language Learning'>Grounded Language Learning</span></span></a><div style='clear:both;'></div><div class="author"><span class='thumb_short'>
+        Raymond J. Mooney
+      </span><span class='thumb_ext'>
+        Raymond J. Mooney
+      </span></div><div style='clear:both'></div></div></td></tr><tr><td colspan='5'><div style='margin-left:-5px;'><h4>Invited Talks</h4></div></td></tr><tr valign="top"><td valign="top" align='center'><div class='lec_thumb'><a href="http://videolectures.net/aaai2013_hunter_building_mind/" target="_top" id="lec=20437" lang="en"><div><div class='lec_thumb_img' style="background:url('http://hydro.ijs.si/v00e/24/eqbdapkaf4pywja3ospmzn5bumgtobnz.jpg') center;"><u>
+        
+        [syn]&nbsp;
+        
+          3189&nbsp;views,&nbsp;42:10
+        &nbsp;
+      </u><b>IAAI-13 Invited Talk</b></div></div><span class='thumb_title'><img src="http://static.videolectures.net/r.1483388978/flags/uk.gif" alt="flag" class="lang-flag"><span class='thumb_ext'>Building a Mind for Life</span><span class='thumb_short' title='Building a Mind for Life'>Building a Mind for Life</span></span></a><div style='clear:both;'></div><div class="author"><span class='thumb_short'>
+        Lawrence Hunter
+      </span><span class='thumb_ext'>
+        Lawrence Hunter
+      </span></div><div style='clear:both'></div></div></td><td valign="top" align='center'><div class='lec_thumb'><a href="http://videolectures.net/aaai2013_birnbaum_telling_stories/" target="_top" id="lec=20438" lang="en"><div><div class='lec_thumb_img' style="background:url('http://hydro.ijs.si/v00e/bd/xv7g5qbq2powi6xy7vakc344hg2eqsmz.jpg') center;"><u>
+        
+        [syn]&nbsp;
+        
+          2303&nbsp;views,&nbsp;51:33
+        &nbsp;
+      </u><b>Joint AAAI/IAAI Invited Talk</b></div></div><span class='thumb_title'><img src="http://static.videolectures.net/r.1483388978/flags/uk.gif" alt="flag" class="lang-flag"><span class='thumb_ext'>Telling Stories at Internet Scale</span><span class='thumb_short' title='Telling Stories at Internet Scale'>Telling Stories at Internet Scale</span></span></a><div style='clear:both;'></div><div class="author"><span class='thumb_short'>
+        Larry Birnbaum
+      </span><span class='thumb_ext'>
+        Larry Birnbaum
+      </span></div><div style='clear:both'></div></div></td><td valign="top" align='center'><div class='lec_thumb'><a href="http://videolectures.net/aaai2013_bennett_fighting_tuberculosis/" target="_top" id="lec=20439" lang="en"><div><div class='lec_thumb_img' style="background:url('http://hydro.ijs.si/v00e/bd/xxug5jo7nrjpcnez5pfkqewecjq6cr5e.jpg') center;"><u>
+        
+        [syn]&nbsp;
+        
+          3016&nbsp;views,&nbsp;53:39
+        &nbsp;
+      </u><b>AAAI-13 Invited Talk</b></div></div><span class='thumb_title'><img src="http://static.videolectures.net/r.1483388978/flags/uk.gif" alt="flag" class="lang-flag"><span class='thumb_ext'>Fighting the Tuberculosis Pandemic Using Machine Learning</span><span class='thumb_short' title='Fighting the Tuberculosis Pandemic Using Machine Learning'>Fighting the Tuberculosis Pandemic Using Machine Learning</span></span></a><div style='clear:both;'></div><div class="author"><span class='thumb_short'>
+        Kristin P. Bennett
+      </span><span class='thumb_ext'>
+        Kristin P. Bennett
+      </span></div><div style='clear:both'></div></div></td><td valign="top" align='center'><div class='lec_thumb'><a href="http://videolectures.net/aaai2013_sandholm_poker_ai/" target="_top" id="lec=20440" lang="en"><div><div class='lec_thumb_img' style="background:url('http://hydro.ijs.si/v00e/d3/2oxs2rhqi3vrilq747d4gtahbzawk5rl.jpg') center;"><u>
+        
+        [syn]&nbsp;
+        
+          3701&nbsp;views,&nbsp;56:41
+        &nbsp;
+      </u><b>AAAI-13 Invited Talk</b></div></div><span class='thumb_title'><img src="http://static.videolectures.net/r.1483388978/flags/uk.gif" alt="flag" class="lang-flag"><span class='thumb_ext'>Poker AI: Algorithms for Creating Game-Theoretic Strategies for Large Incomplete-Information Games</span><span class='thumb_short' title='Poker AI: Algorithms for Creating Game-Theoretic Strategies for Large Incomplete-Information Games'>Poker AI: Algorithms for Creating Game-Theoretic Strategies for Large Incomplete-Information ...</span></span></a><div style='clear:both;'></div><div class="author"><span class='thumb_short'>
+        Tuomas Sandholm
+      </span><span class='thumb_ext'>
+        Tuomas Sandholm
+      </span></div><div style='clear:both'></div></div></td></tr></table>
+      
+    
+  
+
+  
+  <div class='lec_lbox' id='comments'>
+    
+
+
+
+
+  
+  <!--
+    <b>Added on </b> 
+    <a href="/aaai2013_washington/#comments"> Comment</a>
+  -->  
+  
+  
+  <div class='mod_body'>
+    <h1>Write your own review or comment:</h1>
+    
+      
+  
+  <form action="http://videolectures.net/site/comments/post/" method="post" class="comment_form"><input type='hidden' name='csrfmiddlewaretoken' value='aSwxDoJeSemisvZTcui2ysuKqQxo5Fcv' />
+    
+      
+    
+
+    <table>
+    
+      
+        <input id="id_content_type" name="content_type" type="hidden" value="vl.lecture" />
+      
+    
+      
+        <input id="id_object_pk" name="object_pk" type="hidden" value="20421" />
+      
+    
+      
+        <input id="id_timestamp" name="timestamp" type="hidden" value="1574963782" />
+      
+    
+      
+        <input id="id_security_hash" name="security_hash" type="hidden" value="3ed4f98ea504fdcda3f2e23ed017ab42dcac0b0a" />
+      
+    
+      
+      
+        <tr >
+        <th ><label for="id_name">Name:</label></th>
+        
+          <td width='100%'>
+        
+        <input id="id_name" maxlength="50" name="name" type="text" />
+        
+        </td></tr>
+      
+      
+    
+      
+      
+        <tr >
+        <th ><label for="id_email">Email address:</label></th>
+        
+          <td width='100%'>
+        
+        <input id="id_email" name="email" type="email" />
+        
+        </td></tr>
+      
+      
+    
+      
+      
+        <tr >
+        <th ><label for="id_url">URL:</label></th>
+        
+          <td width='100%'>
+        
+        <input id="id_url" name="url" type="url" />
+        
+        </td></tr>
+      
+      
+    
+      
+      
+        <tr >
+        <th ><label for="id_comment">Comment:</label></th>
+        
+          </tr><td colspan='2'>
+        
+        <textarea cols="40" id="id_comment" name="comment" rows="10">
+</textarea>
+        
+        </td></tr>
+      
+      
+    
+      
+      
+        <tr style='display:none;'><td>make sure you have javascript enabled or clear this field:</td><td><input name="honeypot" id="honeypot" value="/site/comments/post/"></td><tr>
+      
+      
+    
+    </table>
+    <script type="text/javascript" defer="DEFER">viipg.ready(function() {$('#hon'+'eypot').val('');});</script>
+
+    <p class="submit">
+    
+    <input type="submit" name="preview" class="submit-preview" value="Preview" />
+    </p>
+  </form>
+
+  </div>
+
+  </div>
+  
+ 
+
+</div></div>
+
+  
+</div>
+<div class='height5'></div>
+
+      <div style='clear:both;'></div>
+      </div>
+    
+    
+  </div> 
+
+
+  
+  
+  <div id="footer">
+  <noscript type='text/template' class='lazyload'>
+    <div id='ftr' class='pg_block'>
+    
+      
+        
+          <div class="footer_wiki"><div class='wrapped_block'><h2>INFO</h2>
+<p>E-mail:<br />
+<a href="mailto:info@videolectures.net">info@videolectures.net</a></p>
+<p>Phone:<br />
++386 1 477 31 48</p>
+<table><tr><td><a href="http://www.facebook.com/pages/Ljubljana-Slovenia/VideoLecturesNET/181913865931?v=info#!/pages/Ljubljana-Slovenia/VideoLecturesNET/181913865931?v=wall/"><img alt="Facebook" title="Facebook" src="http://videolectures.net/site/media/custom/facebook.png" /></a></td><td><a href="http://twitter.com/videolectures/"><img alt="Twitter" title="Twitter" src="http://videolectures.net/site/media/custom/twitter.png" /></a></td><td><a href="http://blog.videolectures.net/"><img alt="Blog" title="Blog" src="http://videolectures.net/site/media/custom/blog.png" /></a></td><td><a href="http://videolectures.net/site/rss/"><img alt="RSS Feed" title="RSS Feed" src="http://videolectures.net/site/media/custom/rss.png" /></a></td><td><a href="http://www.linkedin.com/groups/VideoLectures-4139916"><img alt="LinkedIn" title="LinkedIn" src="http://videolectures.net/site/media/custom/linkedin.png" /></a></td><td><a href="https://plus.google.com/105894483657660300259"><img alt="Google+" title="Google+" src="http://videolectures.net/site/media/custom/google-plus.png" /></a></td></tr>
+</table>
+</div></div>
+        
+      
+    
+    <div style='float:right; margin-top:25px; margin-bottom:10px;'>
+      <a href="http://www.k4all.org/" style="display:block; float:right; margin-left:10px;"><img src="http://static.videolectures.net/r.1483388978//custom/logoK4A.png" /></a>
+      <a href="http://www.ijs.si/" style="display:block; float:right; margin-left:10px"><img src="http://static.videolectures.net/r.1483388978//custom/IJS_logo.png" style="margin-left:-6px;" /></a>
+      <a href="http://ailab.ijs.si/" style="display:block; float:right; margin-left:10px;"><img src="http://static.videolectures.net/r.1483388978//custom/AiLabIcon.png" /></a>
+      <a class="powered_by" href="https://www.viidea.com/">Powered by</a>
+      <br style='clear:right;' />
+    </div>
+    <div id="cc">
+      <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+        <img src="http://static.videolectures.net/r.1483388978//custom/cc.png" width="88" height="31" hspace="5" vspace="5" align="absmiddle" />
+      </a>
+      Copyright &copy; 2014 VideoLectures.Net<br>
+      Unless otherwise noted, all content is released under the<br>
+      Creative Commons Attribution-Noncommercial-No Derivative Works 3.0
+    </div>
+    </div>
+  </noscript>
+  </div>
+  
+
+
+  
+
+  
+
+
+
+<script>
+viipg.lazy( function() {
+
+  $('noscript.lazyload').each( function() {
+    //$(this).replaceWith($(this).text());
+    $(this).replaceWith( this.textContent || this.innerHTML );
+  });
+
+
+
+
+<!-- LiveNetLife BEGIN -->
+  (function() {var lnl = document.createElement('script');lnl.type = 'text/javascript';lnl.async = true;lnl.src = 'http://bin.livenetlife.com/?CodeId=6c8847e6-d31f-6914-78b2-605053acbf82';lnl.id='LiveNetLife';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(lnl, s);})();
+
+
+
+ 
+
+});
+</script>
+
+
+  
+
+  
+    
+<script type="text/javascript">viipg.load(function(){viipg.addScript('http://static.videolectures.net/r.1483388978/static/vl/js/ga.js',function(){var log_url='/lecture/aaai/aaai2013_washington/',track_user='anon';ga_cfg={channels:{viidea:null,site:'ga:UA-353712-6'},dimensions:{1:track_user},variables:{User:[1,track_user,1]},sid:'400cbb30748cd86cf450b7bc93103f35cd67b0be'};var prj_tracker={"mit_ocw":"UA-353712-10","mit_world":"UA-353712-11","yale_oyc":"UA-353712-15","cern":"UA-353712-16","pascal":"UA-353712-17","k4a":"UA-353712-19","planetdata":"UA-353712-20"}["aaai"];if(prj_tracker){ga_cfg.channels.project='ga:'+prj_tracker;viipg.ga('project.send','pageview',log_url);}
+viipg.ga.initialize(ga_cfg);viipg.ga('site.send','pageview',log_url);});});</script>
+  
+
+  
+      
+  
+
+   </div>
+
+</body>
+
+</html>
